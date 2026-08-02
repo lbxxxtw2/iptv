@@ -2,7 +2,7 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 http://e.erw.cc/e.xml.gz
 https://epg.112114.xyz/pp.xml
-https://material.1989.click/epg.xml.gz
+https://epg.yang-1989.eu.org/epg.xml.gz
 https://epg.946985.filegear-sg.me/t.xml.gz
 https://epg.pw/xmltv/epg_TW.xml
 https://epg.pw/xmltv/epg_HK.xml
