@@ -5,13 +5,13 @@
 # Format: Main name (corresponds to channel name in demo.txt template), alias1, alias2, alias3
 # Aliases support regex matching. Aliases starting with re: are recognized as regular expressions, e\.g\. CCTV-1,re:(?i)^\s*CCTV[-\s_]*0?1(?![0-9Kk+])[\s\S]*$
 
-翡翠台,TVB翡翠,TVB翡翠台,翡翠台(粵語),翡翠台(原音),,TVB 翡翠台高清,翡翠台(广电),翡翠台广电,翡翠台[geo-blocked],TVBJADE(HD),翡翠台字幕,翡翠台(字幕),翡翠台(WebVTT字幕)
-翡翠台4K,TVB翡翠台 4K,TVB 翡翠台4K,翡翠台 4K,翡翠台4K(多音轨字幕),翡翠台4K(字幕),翡翠台 4K(字幕),翡翠台4K(WebVTT字幕),翡翠台 4K(WebVTT字幕)
+翡翠台,TVB翡翠,TVB翡翠台,翡翠台(粵語),翡翠台(原音),,TVB 翡翠台高清,翡翠台(广电),翡翠台广电,翡翠台[geo-blocked],TVBJADE(HD),翡翠台字幕,翡翠台(字幕),翡翠台(WebVTT字幕),翡翠台「字幕」,翡翠台「WebVTT字幕」
+翡翠台4K,TVB翡翠台 4K,TVB 翡翠台4K,翡翠台 4K,翡翠台4K(多音轨字幕),翡翠台4K(字幕),翡翠台 4K(字幕),翡翠台4K(WebVTT字幕),翡翠台 4K(WebVTT字幕),翡翠台 4K「字幕」
 明珠台,TVB明珠,TVB明珠台,Pearl,TVB明珠(英),明珠臺(備),明珠,Pearl(原音),明珠台(多音轨字幕),明珠台字幕,明珠台(字幕),明珠台(WebVTT字幕)
-TVB Plus,TVB PLUS,TVB Plus[geo-blocked],TVB Plus,TVB Plus(原音)
+TVB Plus,TVB PLUS,TVB Plus[geo-blocked],TVB Plus,TVB Plus(原音),明珠台「字幕」,明珠台「WebVTT字幕」
 无线新闻台,無綫新聞台,无线新闻,TVB无线新闻,無線新聞,無綫新聞台(tvbanywhere),TVB新聞臺,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
 娛樂新聞台,娱乐新闻台,TVB娱乐新闻,TVB无线娱乐,TVB娛樂新聞台,TVB娱乐新闻台,娛樂新聞台
-TVB Plus,TVBPLUS,TVB_Plus,TVB PLUS(多音轨字幕),TVB Plus(字幕),TVB Plus备
+TVB Plus,TVBPLUS,TVB_Plus,TVB PLUS(多音轨字幕),TVB Plus(字幕),TVB Plus备,TVB Plus「字幕」,TVB Plus「WebVTT字幕」
 华丽翡翠台,TVB无线华丽,无线华丽,华丽翡翠台(硬字幕),华丽翡翠台(多音轨字幕),华丽翡翠台(新加坡)
 生活台,TVB生活台,TVB生活台(tvbanywhere),TVB无线生活,TVB生活
 TVB J1,TVBJ1,TVB1
@@ -19,7 +19,7 @@ TVB J1,TVBJ1,TVB1
 亚洲武侠,TVB亚洲武侠,TVB武侠(粤),TVB武侠(国)
 TVB翡翠剧集台,TVB翡翠剧集,翡翠剧集台
 黃金翡翠台,TVB黄金翡翠,MYTV_SUPER黄金翡翠,黃金翡翠台
-黃金華劇台,黄金华剧台台,TVB黄金华剧,MYTV_SUPER黄金华剧
+黃金華劇台,黄金华剧台台,TVB黄金华剧,MYTV_SUPER黄金华剧,黄金华剧台「WebVTT字幕」
 TVB翡翠剧集台,TVB明珠剧集
 亞洲劇台,TVB亞洲劇台,TVB亚洲剧,MYTV_SUPER亚洲剧,亞洲劇台
 亚洲武侠电视台,亚洲武侠
