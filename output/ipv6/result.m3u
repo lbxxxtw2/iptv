@@ -675,10 +675,19 @@ https://cdn.qd.je/163189/wxty
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://material.1989.click/logo/beIN-Sports-2.png" group-title="体育频道",beIN Sports 2
 https://iptv.1989.click/sprt/8uyemu?token=5520be5dc53443788906150cf6815bfa62cf3445a12bb564
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://epg.112114.xyz/logo/beIN%20Sports%202.png" group-title="体育频道",beIN Sports 2
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://material.1989.click/logo/beIN-Sports-3.png" group-title="体育频道",beIN Sports 3
 https://iptv.1989.click/sprt/fgkra9?token=5520be5dc53443788906150cf6815bfa62cf3445a12bb564
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://epg.112114.xyz/logo/beIN%20Sports%203.png" group-title="体育频道",beIN Sports 3
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://corestream.siteyaptim.live//bein3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://material.1989.click/logo/beIN-Sports-4.png" group-title="体育频道",beIN Sports 4
 https://iptv.1989.click/sprt/jbx7kc?token=5520be5dc53443788906150cf6815bfa62cf3445a12bb564
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg.112114.xyz/logo/beIN%20Sports%204.png" group-title="体育频道",beIN Sports 4
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://material.1989.click/logo/beIN-Sports-5.png" group-title="体育频道",beIN Sports 5
 https://iptv.1989.click/sprt/amwnn5?token=5520be5dc53443788906150cf6815bfa62cf3445a12bb564
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://material.1989.click/logo/Hub-Premier-1.png" group-title="体育频道",Hub Premier 1
@@ -1412,7 +1421,7 @@ https://iptv.1989.click/comp/4pb8r5?token=5520be5dc53443788906150cf6815bfa62cf34
 http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="电影频道",PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="电影频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2068,6 +2077,10 @@ http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 https://live.chinacert.cftest5.cn/zgst/live/xiamen
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/厦门卫视.png" group-title="福建频道",厦门卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226695/1.m3u8
+#EXTINF:-1 tvg-id="福州少儿" tvg-name="福州少儿" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福州少儿.png" group-title="福建频道",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-id="FZTV3" tvg-name="福州生活" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福州生活.png" group-title="福建频道",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
@@ -2206,5 +2219,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-04 01:10:46
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-04 04:13:16
 https://cdn.1989.click/hk/2uhq5f?token=0e8409c02dba6bdeee7145ca3bcec1fa331fc4043579d85f
