@@ -64,6 +64,7 @@ https://cdn.qd.je/163189/wxxw
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="香港频道",无线新闻台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/无线新闻台.png" group-title="香港频道",无线新闻台
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/wxxwt
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/无线新闻台.png" group-title="香港频道",无线新闻台
 https://cdn.qd.je/163189.php?id=wxxw
@@ -82,8 +83,10 @@ https://cdn6.cc.cd/163189/wxxwt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/明珠台.png" group-title="香港频道",明珠台
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/明珠台.png" group-title="香港频道",明珠台
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/mztvtt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/明珠台.png" group-title="香港频道",明珠台
 http://o11.163189.xyz/stream/tvb/mzt/
@@ -150,12 +153,14 @@ https://fast.hidns.vip/163189/hoy
 #EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 77.png" group-title="香港频道",HOY 77
 http://cdn.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOY 76" tvg-name="HOY 76" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 76.png" group-title="香港频道",HOY 76
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/hoy76
 #EXTINF:-1 tvg-id="HOY 76" tvg-name="HOY 76" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 76.png" group-title="香港频道",HOY 76
 https://cdn11.163189.xyz/163189/hoy76
 #EXTINF:-1 tvg-id="HOY 76" tvg-name="HOY 76" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 76.png" group-title="香港频道",HOY 76
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7tad3n
 #EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 78.png" group-title="香港频道",HOY 78
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/hoy78
 #EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 78.png" group-title="香港频道",HOY 78
 https://php.946985.filegear-sg.me/iptv/jacktv.php?id=38q53s
@@ -364,16 +369,19 @@ https://10.fast.hidns.vip/163189/viu6/
 #EXTINF:-1 tvg-id="澳門Macau" tvg-name="澳門Macau" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="香港频道",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳门综艺.png" group-title="香港频道",澳门综艺
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/amzy
 #EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳门综艺.png" group-title="香港频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳门综艺.png" group-title="香港频道",澳门综艺
 https://cdn6.cc.cd/163189/amzy
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳门莲花.png" group-title="香港频道",澳门莲花
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/amlh
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳门莲花.png" group-title="香港频道",澳门莲花
 https://cdn6.cc.cd/163189/amlh
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳视澳门.png" group-title="香港频道",澳视澳门
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/asam
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳视澳门.png" group-title="香港频道",澳视澳门
 https://cdn6.163189.xyz/163189/asam
@@ -384,6 +392,7 @@ http://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳视澳门.png" group-title="香港频道",澳视澳门
 https://cdn6.cc.cd/163189/asam
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳视卫星.png" group-title="香港频道",澳视卫星
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/as
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳视卫星.png" group-title="香港频道",澳视卫星
 https://cdn6.163189.xyz/163189/as
@@ -672,6 +681,7 @@ https://cdn.qd.je/163189/cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-1.png" group-title="央视频道",CCTV-1
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 https://live.chinacert.cftest5.cn/cnmg/live/608807420
@@ -1178,6 +1188,7 @@ http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="Astro iQIYI" tvg-name="Astro iQIYI" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Astro iQIYI.png" group-title="电影频道",Astro iQIYI
 https://cdn3.indevs.in/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Astro AEC.png" group-title="电影频道",Astro AEC
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/aec
 #EXTINF:-1 tvg-id="Astro AEC" tvg-name="Astro AEC" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Astro AEC.png" group-title="电影频道",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
@@ -1926,5 +1937,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/961930269
 https://live.chinacert.cftest5.cn/cnmg/live/626064703
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-03 18:22:58
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-03 21:38:46
 https://cdn.1989.click/hk/2uhq5f?token=0e8409c02dba6bdeee7145ca3bcec1fa331fc4043579d85f

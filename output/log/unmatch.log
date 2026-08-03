@@ -191,6 +191,27 @@ SUPER 單元劇,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 中央電視台 娛樂頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 中央電視台 戲曲頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 CGTN 記錄頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+澳门体育,https://cdn.qd.je/163189/amty
+重温经典,https://cdn.qd.je/163189/cwjd
+CH5,https://cdn.qd.je/163189/ch5
+CH8,https://cdn.qd.je/163189/ch8
+CHU,https://cdn.qd.je/163189/chu
+龙华电影,https://cdn.qd.je/163189/lhdy
+龙华经典,https://cdn.qd.je/163189/lhjd
+龙华洋片,https://cdn.qd.je/163189/lhyp
+Astro QJ,https://cdn.qd.je/163189/qj
+重温经典,https://cdn.qd.je/163189/cwjd2
+广州南国都市,https://cdn.qd.je/163189/ngds
+公视戏剧,https://cdn.qd.je/163189/gsxj
+靖天戏剧台,https://cdn.qd.je/163189/jtxj
+靖洋戏剧台,https://cdn.qd.je/163189/jyxj
+影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
+My Cinema Europe,https://cdn.qd.je/163189/mce
+经典电影台,https://cdn.qd.je/163189/jddyt
+CMusic,https://cdn.qd.je/163189/cmusic
+精选动漫台,https://cdn.qd.je/163189/jxdmt
+咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
+咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 切换EXO解码,1
 小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg∶=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860∶=720p&line=0
@@ -2254,27 +2275,6 @@ CETV-4职业教育,https://live.264788.xyz/channel/cetv4?streamid=b6b18c83a0faf2
 广东卫视4K,https://live.264788.xyz/channel/guangdongweishi4k?streamid=33aeafbb59f2bcb1877c3a8229c0135b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东卫视4K,https://live.264788.xyz/channel/guangdongweishi4k?streamid=8dcdf34f2fa7ccf51c7d93cd359d414c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东卫视4K,https://live.264788.xyz/channel/guangdongweishi4k?streamid=6a50ede91d38c74ee3789122e267fec1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-澳门体育,https://cdn.qd.je/163189/amty
-重温经典,https://cdn.qd.je/163189/cwjd
-CH5,https://cdn.qd.je/163189/ch5
-CH8,https://cdn.qd.je/163189/ch8
-CHU,https://cdn.qd.je/163189/chu
-龙华电影,https://cdn.qd.je/163189/lhdy
-龙华经典,https://cdn.qd.je/163189/lhjd
-龙华洋片,https://cdn.qd.je/163189/lhyp
-Astro QJ,https://cdn.qd.je/163189/qj
-重温经典,https://cdn.qd.je/163189/cwjd2
-广州南国都市,https://cdn.qd.je/163189/ngds
-公视戏剧,https://cdn.qd.je/163189/gsxj
-靖天戏剧台,https://cdn.qd.je/163189/jtxj
-靖洋戏剧台,https://cdn.qd.je/163189/jyxj
-影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
-My Cinema Europe,https://cdn.qd.je/163189/mce
-经典电影台,https://cdn.qd.je/163189/jddyt
-CMusic,https://cdn.qd.je/163189/cmusic
-精选动漫台,https://cdn.qd.je/163189/jxdmt
-咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
-咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 广东卫视4K,https://live.264788.xyz/channel/guangdongweishi4k?streamid=0508c0316aedc9152adcf323fa95c2c0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 广东卫视4K,https://live.264788.xyz/channel/guangdongweishi4k?streamid=277bdd07ffb8e58b78afb1b04ae49cad&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 欢笑剧场4K,https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
