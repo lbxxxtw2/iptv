@@ -4,7 +4,6 @@
 翡翠台,https://cdn.qd.je/163189/fct2
 翡翠台,https://cdn.qd.je/163189/fctvtt
 翡翠台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,https://cdn6.cc.cd/163189/fct
@@ -13,10 +12,10 @@
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 翡翠台,https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
 翡翠台,http://r.jdshipin.com/GeWKr
@@ -44,11 +43,11 @@
 明珠台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 明珠台,https://cdn.qd.je/163189/mzt
 明珠台,https://cdn.qd.je/163189/mztvtt
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://cdn10.163189.xyz/163189/mzt/
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
@@ -60,10 +59,10 @@ TVB Plus,https://cdn.qd.je/163189/tvbp2
 TVB Plus,https://cdn.qd.je/163189/tvbp
 TVB Plus,https://cdn.qd.je/163189/tvbpvtt
 TVB Plus,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
@@ -78,9 +77,7 @@ HOY 77,https://fast.hidns.vip/163189/hoy
 HOY 77,http://cdn.163189.xyz/163189/hoy
 HOY 76,https://cdn.qd.je/163189/hoy76
 HOY 76,https://cdn11.163189.xyz/163189/hoy76
-HOY 76,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7tad3n
 HOY 78,https://cdn.qd.je/163189/hoy78
-HOY 78,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=38q53s
 HOY 78,https://cdn.163189.xyz/163189/hoy78
 HOY 78,https://fast.hidns.vip/163189/hoy78
 MYTVSUPER18台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -161,12 +158,12 @@ myTV SUPER直播足球4台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 星河台,https://cdn.qd.je/163189/tvbxh
 星河台,https://cdn.qd.je/163189/xinghe
 星河台,https://cdn.qd.je/163189/tvbxh2
-星河台,https://o11.163189.xyz/stream/live/tvbxh/
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 星河台,https://cdn6.cc.cd/163189/tvbxh
 星河台,http://o11.163189.xyz/stream/live/tvbxh/
 星河台,https://cdn10.163189.xyz/163189/xinghe/
 星河台,http://r.jdshipin.com/sXuuD
+星河台,https://o11.163189.xyz/stream/live/tvbxh/
 星河台,http://r.jdshipin.com/Voac4
 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 星河台,https://10.fast.hidns.vip/163189/xinghe/
@@ -235,7 +232,6 @@ VIUTVSIX,https://10.fast.hidns.vip/163189/viu6/
 中央綜合台,http://cdn6.163189.xyz/163189/cctv1
 Love Nature,https://iptv.1989.click/4gtv/r33455?token=7104ffadabe3e43c50bbefd9e800fb75518086b6380e8e13
 Love Nature,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 tvN,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -256,18 +252,12 @@ tvN,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 CGTN (中國環球電視網)英語頻道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 CGTN (中國環球電視網)英語頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 NOW 70s,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW ROCK,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 NOW 90s00s,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 TRACE Urban,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
-NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 
 广东频道,#genre#
 广东珠江,https://cdn.qd.je/163189/gdzj
@@ -501,7 +491,6 @@ TVBS新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
 鏡電視新聞台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 东森综合,https://iptv.1989.click/tw/akvxvw?token=7104ffadabe3e43c50bbefd9e800fb75518086b6380e8e13
-东森综合,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 東森財經新聞,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 東森財經新聞,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
 東森戲劇台,https://iptv.1989.click/tw/3r7e6h?token=7104ffadabe3e43c50bbefd9e800fb75518086b6380e8e13
@@ -607,15 +596,13 @@ KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=17826
 人间卫视,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
 
 电影频道,#genre#
-Now爆谷台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=h7kw14
-Now爆谷星影台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
 美亞電影台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 美亞電影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映頻道,https://cdn.qd.je/163189/typd
 天映頻道,https://cdn.qd.je/163189/typd2
-天映頻道,https://o11.163189.xyz/stream/live/typd/
 天映頻道,https://cdn10.163189.xyz/163189/typd/
 天映頻道,http://o11.163189.xyz/stream/live/typd/
+天映頻道,https://o11.163189.xyz/stream/live/typd/
 天映頻道,https://10.fast.hidns.vip/163189/typd/
 天映頻道,https://cdn3.indevs.in/stream/live/typd/
 AMC电影,https://iptv.1989.click/4gtv/jamqfg?token=7104ffadabe3e43c50bbefd9e800fb75518086b6380e8e13
@@ -633,8 +620,8 @@ Astro AEC,https://cdn.qd.je/163189/aec
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro AOD,https://cdn.qd.je/163189/aod
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro 欢喜台,https://cdn.qd.je/163189/hxt
 Astro 欢喜台,http://o11.163189.xyz/stream/live/hxt/
@@ -666,19 +653,19 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 TVB亞洲劇台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 TVB千禧經典台,https://cdn.qd.je/163189/tvbc
 TVB千禧經典台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-TVB千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB千禧經典台,http://o11.163189.xyz/stream/live/tvbc/
+TVB千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB千禧經典台,https://cdn3.indevs.in/stream/live/tvbc/
 TVB星河,https://cdn.qd.je/163189/tvbxh
 TVB星河,https://cdn.qd.je/163189/xinghe
 TVB星河,https://cdn.qd.je/163189/tvbxh2
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://cdn10.163189.xyz/163189/xinghe/
 TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
@@ -770,7 +757,6 @@ KIX,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 KNBC,https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 Love Nature,https://iptv.1989.click/4gtv/r33455?token=7104ffadabe3e43c50bbefd9e800fb75518086b6380e8e13
 Love Nature,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 Nickelodeon,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -904,7 +890,6 @@ BBC Lifestyle,https://iptv.1989.click/comp/4k8367?token=7104ffadabe3e43c50bbefd9
 莲花卫视,http://cdn6.163189.xyz/163189/amlh
 
 浙江频道,#genre#
-浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 
 北京频道,#genre#
 北京卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
@@ -1086,8 +1071,7 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 炫动卡通,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 新动漫,https://live.chinacert.cftest5.cn/cnmg/live/961930269
 优漫卡通,https://live.chinacert.cftest5.cn/cnmg/live/626064703
-浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-08-04 15:15:37,https://cdn.1989.click/hk/vzkmwj?token=c8b440b8f9e42c7d5d16fa4c85a232a31297a496f6585f76
+2026-08-04 19:38:07,https://cdn.1989.click/hk/vzkmwj?token=c8b440b8f9e42c7d5d16fa4c85a232a31297a496f6585f76

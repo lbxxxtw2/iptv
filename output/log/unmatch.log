@@ -191,6 +191,21 @@ SUPER 單元劇,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 中央電視台 娛樂頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 中央電視台 戲曲頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 CGTN 記錄頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+澳门体育,https://cdn.qd.je/163189/amty
+重温经典,https://cdn.qd.je/163189/cwjd
+CH5,https://cdn.qd.je/163189/ch5
+CH8,https://cdn.qd.je/163189/ch8
+CHU,https://cdn.qd.je/163189/chu
+龙华电影,https://cdn.qd.je/163189/lhdy
+龙华经典,https://cdn.qd.je/163189/lhjd
+龙华洋片,https://cdn.qd.je/163189/lhyp
+Astro QJ,https://cdn.qd.je/163189/qj
+重温经典,https://cdn.qd.je/163189/cwjd2
+广州南国都市,https://cdn.qd.je/163189/ngds
+公视戏剧,https://cdn.qd.je/163189/gsxj
+靖天戏剧台,https://cdn.qd.je/163189/jtxj
+靖洋戏剧台,https://cdn.qd.je/163189/jyxj
+影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
 切换EXO解码,1
 小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg∶=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860∶=720p&line=0
@@ -204,6 +219,12 @@ handsome lau/HYPEEZY/冯泳-梦醒,https://www.iesdouyin.com/aweme/v1/playwm/?vi
 王心凌-当你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ciro1jbc77u72t4qmdpg∶=720p&line=0
 陈冠希-战争,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ch5hv2jc77udla7jom10∶=720p&line=0
 蔡依林-日不落,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ch00eijc77u0akslavig∶=720p&line=0
+My Cinema Europe,https://cdn.qd.je/163189/mce
+经典电影台,https://cdn.qd.je/163189/jddyt
+CMusic,https://cdn.qd.je/163189/cmusic
+精选动漫台,https://cdn.qd.je/163189/jxdmt
+咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
+咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 蔡依林/陶喆-今天你要嫁给我,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cj0h9mrc77ubbgnamamg∶=720p&line=0
 钟嘉欣-我结婚了,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2utibbc77u7pgisaep0∶=720p&line=0
 韩安旭-多幸运,https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search∶=720p&video_id=v0300fg10000d0m9etvog65nglhodq2g
@@ -5701,18 +5722,6 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 豆传媒.IDG5496.小曼.下子和兄弟一起3P才刺激,https://t33.cdn2020.com/video/m3u8/2024/09/30/f2da8541/index.m3u8
 豆传媒.IDG5495.小柒.反差婊少前神后,https://t33.cdn2020.com/video/m3u8/2024/10/01/141fc77b/index.m3u8
 豆传媒.IDG5494.小柒.萝莉弟的极品小,https://t33.cdn2020.com/video/m3u8/2024/09/30/563642f5/index.m3u8
-澳门体育,https://cdn.qd.je/163189/amty
-重温经典,https://cdn.qd.je/163189/cwjd
-CH5,https://cdn.qd.je/163189/ch5
-CH8,https://cdn.qd.je/163189/ch8
-CHU,https://cdn.qd.je/163189/chu
-龙华电影,https://cdn.qd.je/163189/lhdy
-龙华经典,https://cdn.qd.je/163189/lhjd
-龙华洋片,https://cdn.qd.je/163189/lhyp
-Astro QJ,https://cdn.qd.je/163189/qj
-重温经典,https://cdn.qd.je/163189/cwjd2
-广州南国都市,https://cdn.qd.je/163189/ngds
-公视戏剧,https://cdn.qd.je/163189/gsxj
 豆传媒.IDG5493.文文.网车司机不良学生,https://t33.cdn2020.com/video/m3u8/2024/09/22/145816d5/index.m3u8
 豆传媒.IDG5492.文文.反差秘书下班兼职做上门服务,https://t33.cdn2020.com/video/m3u8/2024/09/25/bbf4b0d2/index.m3u8
 豆传媒.IDG5491.莹.小偷室强风,https://t33.cdn2020.com/video/m3u8/2024/09/22/db76fd4b/index.m3u8
@@ -5726,15 +5735,6 @@ Astro QJ,https://cdn.qd.je/163189/qj
 豆传媒.IDG5483.如烟.同城到老爸的风小,https://t33.cdn2020.com/video/m3u8/2024/09/04/aa89f5a3/index.m3u8
 豆传媒.IDG5482.如烟.小区保安愤少业主,https://t33.cdn2020.com/video/m3u8/2024/09/04/f7ee8667/index.m3u8
 豆传媒.IDG5481.琴.保镖到火难耐的总裁,https://t33.cdn2020.com/video/m3u8/2024/08/27/37707caf/index.m3u8
-靖天戏剧台,https://cdn.qd.je/163189/jtxj
-靖洋戏剧台,https://cdn.qd.je/163189/jyxj
-影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
-My Cinema Europe,https://cdn.qd.je/163189/mce
-经典电影台,https://cdn.qd.je/163189/jddyt
-CMusic,https://cdn.qd.je/163189/cmusic
-精选动漫台,https://cdn.qd.je/163189/jxdmt
-咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
-咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 豆传媒.IDG5480.琴.科医生下班后患者,https://t33.cdn2020.com/video/m3u8/2024/08/27/12f6ea63/index.m3u8
 豆传媒.IDG5479.佳玲.老公不在公公替我浇灭火,https://t33.cdn2020.com/video/m3u8/2024/08/27/81a73e36/index.m3u8
 豆传媒.IDG5478.佳玲.下垂涎之久的风韵嫂,https://t33.cdn2020.com/video/m3u8/2024/08/27/8033d290/index.m3u8
