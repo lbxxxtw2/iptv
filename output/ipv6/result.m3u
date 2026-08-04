@@ -1421,7 +1421,7 @@ https://iptv.1989.click/comp/qz5d6d?token=7104ffadabe3e43c50bbefd9e800fb75518086
 http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="电影频道",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="电影频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2219,5 +2219,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-04 11:01:33
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-04 15:15:37
 https://cdn.1989.click/hk/vzkmwj?token=c8b440b8f9e42c7d5d16fa4c85a232a31297a496f6585f76
