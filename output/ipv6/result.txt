@@ -955,6 +955,7 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 
@@ -1008,6 +1009,12 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 宁夏频道,#genre#
 
 吉林频道,#genre#
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 
 内蒙古频道,#genre#
 
@@ -1063,4 +1070,4 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-08-06 02:09:07,https://cdn.1989.click/hk/vx8e5t?token=7b2a5cead9b8a550a835ce1f02c38d985ed42e0badb1f062
+2026-08-06 04:07:27,https://cdn.1989.click/hk/vx8e5t?token=7b2a5cead9b8a550a835ce1f02c38d985ed42e0badb1f062
