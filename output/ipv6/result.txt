@@ -4,6 +4,7 @@
 翡翠台,https://cdn.qd.je/163189/fct2
 翡翠台,https://cdn.qd.je/163189/fctvtt
 翡翠台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,https://cdn6.cc.cd/163189/fct
@@ -16,7 +17,6 @@
 翡翠台,https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
 翡翠台,http://r.jdshipin.com/GeWKr
@@ -43,11 +43,11 @@
 明珠台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 明珠台,https://cdn.qd.je/163189/mzt
 明珠台,https://cdn.qd.je/163189/mztvtt
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://cdn10.163189.xyz/163189/mzt/
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
@@ -59,11 +59,11 @@ TVB Plus,https://cdn.qd.je/163189/tvbp2
 TVB Plus,https://cdn.qd.je/163189/tvbp
 TVB Plus,https://cdn.qd.je/163189/tvbpvtt
 TVB Plus,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 TVB Plus,https://10.fast.hidns.vip/163189/tvbp/
@@ -158,13 +158,13 @@ myTV SUPER直播足球4台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 星河台,https://cdn.qd.je/163189/tvbxh
 星河台,https://cdn.qd.je/163189/xinghe
 星河台,https://cdn.qd.je/163189/tvbxh2
+星河台,https://o11.163189.xyz/stream/live/tvbxh/
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 星河台,https://cdn6.cc.cd/163189/tvbxh
 星河台,https://cdn3.indevs.in/stream/live/tvbxh/
 星河台,http://o11.163189.xyz/stream/live/tvbxh/
 星河台,https://cdn10.163189.xyz/163189/xinghe/
 星河台,http://r.jdshipin.com/sXuuD
-星河台,https://o11.163189.xyz/stream/live/tvbxh/
 星河台,http://r.jdshipin.com/Voac4
 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 星河台,https://10.fast.hidns.vip/163189/xinghe/
@@ -232,6 +232,7 @@ VIUTVSIX,https://10.fast.hidns.vip/163189/viu6/
 中央綜合台,http://cdn6.163189.xyz/163189/cctv1
 Love Nature,https://iptv.1989.click/4gtv/dktdrw?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 Love Nature,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 tvN,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -632,10 +633,10 @@ KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=17826
 美亞電影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映頻道,https://cdn.qd.je/163189/typd
 天映頻道,https://cdn.qd.je/163189/typd2
+天映頻道,https://o11.163189.xyz/stream/live/typd/
 天映頻道,https://cdn3.indevs.in/stream/live/typd/
 天映頻道,https://cdn10.163189.xyz/163189/typd/
 天映頻道,http://o11.163189.xyz/stream/live/typd/
-天映頻道,https://o11.163189.xyz/stream/live/typd/
 天映頻道,https://10.fast.hidns.vip/163189/typd/
 AMC电影,https://iptv.1989.click/4gtv/3z5ry2?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 AMC电影,https://cdn.qd.je/163189/amc
@@ -652,8 +653,8 @@ Astro AEC,https://cdn.qd.je/163189/aec
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro AOD,https://cdn.qd.je/163189/aod
-Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro AOD,http://o11.163189.xyz/stream/live/aod/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro 欢喜台,https://cdn.qd.je/163189/hxt
 Astro 欢喜台,http://o11.163189.xyz/stream/live/hxt/
@@ -688,20 +689,20 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 TVB亞洲劇台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 TVB千禧經典台,https://cdn.qd.je/163189/tvbc
 TVB千禧經典台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+TVB千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB千禧經典台,http://o11.163189.xyz/stream/live/tvbc/
-TVB千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB千禧經典台,https://cdn3.indevs.in/stream/live/tvbc/
 TVB星河,https://cdn.qd.je/163189/tvbxh
 TVB星河,https://cdn.qd.je/163189/xinghe
 TVB星河,https://cdn.qd.je/163189/tvbxh2
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://cdn10.163189.xyz/163189/xinghe/
 TVB星河,http://r.jdshipin.com/sXuuD
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
@@ -792,6 +793,7 @@ KIX,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 KNBC,https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 Love Nature,https://iptv.1989.click/4gtv/dktdrw?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 Love Nature,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 Nickelodeon,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -962,6 +964,7 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 莲花卫视,http://cdn6.163189.xyz/163189/amlh
 
 浙江频道,#genre#
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 
 北京频道,#genre#
 北京卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
@@ -1166,7 +1169,8 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 炫动卡通,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8
 新动漫,https://live.chinacert.cftest5.cn/cnmg/live/961930269
 优漫卡通,https://live.chinacert.cftest5.cn/cnmg/live/626064703
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-08-05 15:11:30,https://cdn.1989.click/hk/vx8e5t?token=7b2a5cead9b8a550a835ce1f02c38d985ed42e0badb1f062
+2026-08-05 19:34:31,https://cdn.1989.click/hk/vx8e5t?token=7b2a5cead9b8a550a835ce1f02c38d985ed42e0badb1f062
