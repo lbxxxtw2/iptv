@@ -4,7 +4,6 @@
 翡翠台,https://cdn.qd.je/163189/fct2
 翡翠台,https://cdn.qd.je/163189/fctvtt
 翡翠台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,https://cdn6.cc.cd/163189/fct
@@ -17,6 +16,7 @@
 翡翠台,https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
 翡翠台,http://r.jdshipin.com/GeWKr
@@ -43,11 +43,11 @@
 明珠台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 明珠台,https://cdn.qd.je/163189/mzt
 明珠台,https://cdn.qd.je/163189/mztvtt
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://cdn10.163189.xyz/163189/mzt/
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
@@ -59,11 +59,11 @@ TVB Plus,https://cdn.qd.je/163189/tvbp2
 TVB Plus,https://cdn.qd.je/163189/tvbp
 TVB Plus,https://cdn.qd.je/163189/tvbpvtt
 TVB Plus,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 TVB Plus,https://10.fast.hidns.vip/163189/tvbp/
@@ -158,13 +158,13 @@ myTV SUPER直播足球4台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 星河台,https://cdn.qd.je/163189/tvbxh
 星河台,https://cdn.qd.je/163189/xinghe
 星河台,https://cdn.qd.je/163189/tvbxh2
-星河台,https://o11.163189.xyz/stream/live/tvbxh/
 星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 星河台,https://cdn6.cc.cd/163189/tvbxh
 星河台,https://cdn3.indevs.in/stream/live/tvbxh/
 星河台,http://o11.163189.xyz/stream/live/tvbxh/
 星河台,https://cdn10.163189.xyz/163189/xinghe/
 星河台,http://r.jdshipin.com/sXuuD
+星河台,https://o11.163189.xyz/stream/live/tvbxh/
 星河台,http://r.jdshipin.com/Voac4
 星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 星河台,https://10.fast.hidns.vip/163189/xinghe/
@@ -232,7 +232,6 @@ VIUTVSIX,https://10.fast.hidns.vip/163189/viu6/
 中央綜合台,http://cdn6.163189.xyz/163189/cctv1
 Love Nature,https://iptv.1989.click/4gtv/dktdrw?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 Love Nature,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 tvN,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -275,7 +274,6 @@ NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-new
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
 广东卫视,https://live.chinacert.cftest5.cn/cnmg/live/608831231
-广东卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
 广州综合,https://cdn.qd.je/163189/gzzh
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
@@ -285,7 +283,6 @@ NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-new
 云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
-深圳卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
 
 体育频道,#genre#
@@ -295,7 +292,6 @@ CCTV-5,https://cdn.qd.je/163189/cctv5-2
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
-CCTV-5,http://www.kooca.cn:5140/CCTV/CCTV5
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://cdn2.163189.xyz/163189/gdty
@@ -305,13 +301,11 @@ CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV-5+,https://cdn.qd.je/163189/cctv5p-2
 CCTV-5+,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
-CCTV-5+,http://www.kooca.cn:5140/CCTV/CCTV5%2B
 纬来体育,https://iptv.1989.click/tw/yyws3u?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 纬来体育,https://cdn.qd.je/163189/wlty
 纬来体育,https://smt.1678520.xyz/163189/wlty
 五星体育,https://cdn.qd.je/163189/wxty
 五星体育,https://cdn15.163189.xyz/163189/wxty
-五星体育,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 beIN Sports 2,https://iptv.1989.click/sprt/9m2ays?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 beIN Sports 2,https://corestream.siteyaptim.live//bein2/tracks-v1a1/mono.m3u8
 beIN Sports 3,https://iptv.1989.click/sprt/y8eq4v?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
@@ -338,8 +332,6 @@ CCTV16奧運頻道,https://iptv.1989.click/cn/wga5m3?token=f4bebbdc82a1f5d2c6446
 CCTV16奧運頻道,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV16奧運頻道,https://cdn.qd.je/163189/cctv16-2
 CCTV16奧運頻道,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
-CCTV16奧運頻道,http://www.kooca.cn:5140/CCTV/CCTV16
-CCTV16奧運頻道,http://www.kooca.cn:5140/4K%E9%A2%91%E9%81%93/CCTV16%E3%80%8C4K%E3%80%8D
 Fight Sports,https://iptv.1989.click/sprt/ejk27c?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 Hub Premier 1 HD,https://iptv.1989.click/sprt/m88z53?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 
@@ -351,128 +343,93 @@ CCTV-1,https://cdn.qd.je/163189/rthk33
 CCTV-1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
 CCTV-1,https://cdn6.cc.cd/163189/cctv1
 CCTV-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
-CCTV-1,http://www.kooca.cn:5140/CCTV/CCTV1
 CCTV-2,https://iptv.1989.click/cn/je6764?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
 CCTV-2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
-CCTV-2,http://www.kooca.cn:5140/CCTV/CCTV2
 CCTV-3,https://iptv.1989.click/cn/pydrvt?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-3,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
-CCTV-3,http://www.kooca.cn:5140/CCTV/CCTV3
 CCTV-4,https://iptv.1989.click/cn/apb7pw?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 CCTV-4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
-CCTV-4,http://www.kooca.cn:5140/CCTV/CCTV4
 CCTV-5,https://iptv.1989.click/cn/kteah9?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-5,https://cdn.qd.je/163189/cctv5
 CCTV-5,https://cdn.qd.je/163189/cctv5-2
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
-CCTV-5,http://www.kooca.cn:5140/CCTV/CCTV5
 CCTV-5+,https://iptv.1989.click/cn/g7jb4p?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV-5+,https://cdn.qd.je/163189/cctv5p-2
 CCTV-5+,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
 CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
-CCTV-5+,http://www.kooca.cn:5140/CCTV/CCTV5%2B
 CCTV-6,https://iptv.1989.click/cn/a5b373?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
 CCTV-6,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
-CCTV-6,http://www.kooca.cn:5140/CCTV/CCTV6
 CCTV-7,https://iptv.1989.click/cn/jfrpc5?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
 CCTV-7,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
-CCTV-7,http://www.kooca.cn:5140/CCTV/CCTV7
 CCTV-8,https://iptv.1989.click/cn/3r7cwt?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
 CCTV-8,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
-CCTV-8,http://www.kooca.cn:5140/CCTV/CCTV8
 CCTV-9,https://iptv.1989.click/cn/2k532z?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-9,https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
 CCTV-9,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
 CCTV-9,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
-CCTV-9,http://www.kooca.cn:5140/CCTV/CCTV9
 CCTV-10,https://iptv.1989.click/cn/trb64f?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-10,https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
 CCTV-10,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
-CCTV-10,http://www.kooca.cn:5140/CCTV/CCTV10
 CCTV-11,https://iptv.1989.click/cn/54656z?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
 CCTV-11,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
-CCTV-11,http://www.kooca.cn:5140/CCTV/CCTV11
 CCTV-12,https://iptv.1989.click/cn/4n26xc?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-12,https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV-12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226748/1.m3u8
 CCTV-12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
-CCTV-12,http://www.kooca.cn:5140/CCTV/CCTV12
 CCTV-13,https://iptv.1989.click/cn/39bjhc?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 CCTV-13,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
-CCTV-13,http://www.kooca.cn:5140/CCTV/CCTV13
 CCTV-14,https://iptv.1989.click/cn/qjd4yu?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
 CCTV-14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
 CCTV-14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
-CCTV-14,http://www.kooca.cn:5140/CCTV/CCTV14
 CCTV-15,https://iptv.1989.click/cn/7eke4j?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
 CCTV-15,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
-CCTV-15,http://www.kooca.cn:5140/CCTV/CCTV15
 CCTV-16,https://iptv.1989.click/cn/wga5m3?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV-16,https://cdn.qd.je/163189/cctv16-2
 CCTV-16,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
-CCTV-16,http://www.kooca.cn:5140/CCTV/CCTV16
-CCTV-16,http://www.kooca.cn:5140/4K%E9%A2%91%E9%81%93/CCTV16%E3%80%8C4K%E3%80%8D
 CCTV-17,https://iptv.1989.click/cn/jzr8j6?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 CCTV-17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV-17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 CCTV-17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
-CCTV-17,http://www.kooca.cn:5140/CCTV/CCTV17
 CETV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 CETV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226712/1.m3u8
 CETV1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
-CETV1,http://www.kooca.cn:5140/CCTV/CETV1
 CETV2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226718/1.m3u8
 CETV2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
-CETV2,http://www.kooca.cn:5140/CCTV/CETV2
 CETV4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
 CETV4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
-CETV4,http://www.kooca.cn:5140/CCTV/CETV4
-CCTV4K,http://www.kooca.cn:5140/4K%E9%A2%91%E9%81%93/CCTV4K%E3%80%8C4K%E3%80%8D
-CCTV风云剧场,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA
-文化精品,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81
-央视台球,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83
-风云音乐,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90
-第一剧场,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA
-风云剧场,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA
-怀旧剧场,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA
-女性时尚,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A
-高尔夫网球,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-风云足球,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83
-世界地理,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86
-兵器科技,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80
 
 台湾频道,#genre#
 东森新闻,https://iptv.1989.click/4gtv/2mcwtt?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
@@ -633,10 +590,10 @@ KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=17826
 美亞電影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映頻道,https://cdn.qd.je/163189/typd
 天映頻道,https://cdn.qd.je/163189/typd2
-天映頻道,https://o11.163189.xyz/stream/live/typd/
 天映頻道,https://cdn3.indevs.in/stream/live/typd/
 天映頻道,https://cdn10.163189.xyz/163189/typd/
 天映頻道,http://o11.163189.xyz/stream/live/typd/
+天映頻道,https://o11.163189.xyz/stream/live/typd/
 天映頻道,https://10.fast.hidns.vip/163189/typd/
 AMC电影,https://iptv.1989.click/4gtv/3z5ry2?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 AMC电影,https://cdn.qd.je/163189/amc
@@ -653,18 +610,15 @@ Astro AEC,https://cdn.qd.je/163189/aec
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro AOD,https://cdn.qd.je/163189/aod
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AOD,http://o11.163189.xyz/stream/live/aod/
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro 欢喜台,https://cdn.qd.je/163189/hxt
 Astro 欢喜台,http://o11.163189.xyz/stream/live/hxt/
 Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 CHC动作电影,https://live.chinacert.cftest5.cn/cnmg/live/644368714
-CHC动作电影,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 CHC家庭影院,https://live.chinacert.cftest5.cn/cnmg/live/644368373
-CHC家庭影院,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
 CHC影迷电影,https://live.chinacert.cftest5.cn/cnmg/live/952383261
-CHC影迷电影,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 CinemaWorld,https://cdn.qd.je/163189/cinemaworld
 CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784702901150
 CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
@@ -689,20 +643,20 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 TVB亞洲劇台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 TVB千禧經典台,https://cdn.qd.je/163189/tvbc
 TVB千禧經典台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-TVB千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB千禧經典台,http://o11.163189.xyz/stream/live/tvbc/
+TVB千禧經典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB千禧經典台,https://cdn3.indevs.in/stream/live/tvbc/
 TVB星河,https://cdn.qd.je/163189/tvbxh
 TVB星河,https://cdn.qd.je/163189/xinghe
 TVB星河,https://cdn.qd.je/163189/tvbxh2
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://cdn10.163189.xyz/163189/xinghe/
 TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
@@ -725,7 +679,6 @@ TVB星河,https://10.fast.hidns.vip/163189/xinghe/
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 金光布袋戏,https://cdn3.indevs.in/stream/live/jgbdx/
 金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
-经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 龙华经典台,http://cdn8.163189.xyz/163189/lhjd
 龙华偶像,https://cdn.qd.je/163189/lhox
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
@@ -793,7 +746,6 @@ KIX,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 KNBC,https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 Love Nature,https://iptv.1989.click/4gtv/dktdrw?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 Love Nature,#KODIPROP:inputstream.adaptive.manifest_type=mpd
-Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 Love Nature,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 Nickelodeon,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -821,173 +773,122 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
 广东卫视,https://live.chinacert.cftest5.cn/cnmg/live/608831231
-广东卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 浙江卫视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
 浙江卫视,http://zappl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1761099064-0-0-9b644d437557bcc66b9411e545e45fbc
 浙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
-浙江卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 湖南卫视,https://iptv.1989.click/cn/hbg59t?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan
 湖南卫视,http://jp1.jdiptv.cc/live/hnwshd.m3u8?kdstime=1737444168&kdssign=717ad8ec225289b3d4d0f4784a5cecf9
 湖南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
-湖南卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-湖南卫视,http://www.kooca.cn:5140/4K%E9%A2%91%E9%81%93/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E3%80%8C4K%E3%80%8D
 北京卫视,https://iptv.1989.click/cn/my2zb5?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 北京卫视,https://live.chinacert.cftest5.cn/cnmg/live/630287636
-北京卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-北京卫视,http://www.kooca.cn:5140/4K%E9%A2%91%E9%81%93/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E3%80%8C4K%E3%80%8D
 湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei
 湖北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
 湖北卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472496
-湖北卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 黑龙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
-黑龙江卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
 安徽卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
 安徽卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226664/1.m3u8
-安徽卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
-重庆卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
 东方卫视,https://live.chinacert.cftest5.cn/cnmg/live/651632648
-东方卫视,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226670/1.m3u8
 东南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226675/1.m3u8
 东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
-东南卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu
 甘肃卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226662/1.m3u8
-甘肃卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
 广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi
 广西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226681/1.m3u8
-广西卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
 贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou
 贵州卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226672/1.m3u8
 贵州卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226676/1.m3u8
-贵州卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
 海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan
 海南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 海南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226683/1.m3u8
 海南卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472502
-海南卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
 河北卫视,https://live.chinacert.cftest5.cn/zgst/live/hebei
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
 河北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226665/1.m3u8
 河北卫视,https://live.chinacert.cftest5.cn/cnmg/live/962042070
-河北卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
 河南卫视,https://live.chinacert.cftest5.cn/zgst/live/henan
 河南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
 河南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226687/1.m3u8
 河南卫视,https://live.chinacert.cftest5.cn/cnmg/live/790187291
-河南卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
 吉林卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226671/1.m3u8
 吉林卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472500
-吉林卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
 江苏卫视,https://live.chinacert.cftest5.cn/cnmg/live/623899368
-江苏卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
 江西卫视,http://goo.bkpcp.top/mg/jxws
 江西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226726/1.m3u8
 江西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
 江西卫视,https://live.chinacert.cftest5.cn/cnmg/live/783847495
-江西卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
 辽宁卫视,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226689/1.m3u8
 辽宁卫视,https://live.chinacert.cftest5.cn/cnmg/live/630291707
-辽宁卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu
 内蒙古卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226685/1.m3u8
-内蒙古卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 宁夏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226691/1.m3u8
 宁夏卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910535
-宁夏卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
 青海卫视,https://live.chinacert.cftest5.cn/zgst/live/qinghai
 青海卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226696/1.m3u8
 青海卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472506
-青海卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
 山东卫视,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 山东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
-山东卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226704/1.m3u8
-山西卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
 陕西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 陕西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226707/1.m3u8
 陕西卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910838
-陕西卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
 四川卫视,https://iptv.1989.click/cn/p27yhn?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan
 四川卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
 四川卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226697/1.m3u8
-四川卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
-四川卫视,http://www.kooca.cn:5140/4K%E9%A2%91%E9%81%93/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E3%80%8C4K%E3%80%8D
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
-深圳卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
 三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=b040eb4e1727851324
 三沙卫视,https://live.chinacert.cftest5.cn/cnmg/live/961023778
-三沙卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
-天津卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
 西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang
 西藏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226710/1.m3u8
-西藏卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
 新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang
 新疆卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226700/1.m3u8
-新疆卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
 云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan
 云南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226709/1.m3u8
-云南卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan
 兵团卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226661/1.m3u8
 兵团卫视,https://live.chinacert.cftest5.cn/cnmg/live/956923145
-兵团卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
 山东教育,https://live.chinacert.cftest5.cn/cnmg/live/609154353
 山东教育卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226701/1.m3u8
 莲花卫视,http://cdn6.163189.xyz/163189/amlh
 
 浙江频道,#genre#
-浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 
 北京频道,#genre#
 北京卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
-北京卡酷少儿,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF
 北京科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
 上海频道,#genre#
-上海教育,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2
 上海新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/651632657
-上海新闻综合,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 上海第一财经,https://live.chinacert.cftest5.cn/cnmg/live/608780988
-上海第一财经,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F
-上海都市,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82
-东方影视,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86
-东方财经,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F
-动漫秀场,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
 哈哈炫动,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
-哈哈炫动,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-欢笑剧场,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA
-法治天地,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0
-生活时尚,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A
-都市剧场,http://www.kooca.cn:5140/%E4%B8%8A%E6%B5%B7%E6%96%87%E5%B9%BF/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA
 
 重庆频道,#genre#
 
@@ -1036,7 +937,6 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
 金鹰纪实,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226667/1.m3u8
-金鹰纪实,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E
 
 湖北频道,#genre#
 
@@ -1045,7 +945,6 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 天津频道,#genre#
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
-天津卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
 
 四川频道,#genre#
 广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
@@ -1056,7 +955,6 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 
@@ -1097,7 +995,6 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 新疆频道,#genre#
 新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang
 新疆卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226700/1.m3u8
-新疆卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
 
 山东频道,#genre#
 山东教育,https://live.chinacert.cftest5.cn/cnmg/live/609154353
@@ -1111,7 +1008,6 @@ BBC Lifestyle,https://iptv.1989.click/comp/mxyz9z?token=f4bebbdc82a1f5d2c64469c5
 宁夏频道,#genre#
 
 吉林频道,#genre#
-延边卫视,http://www.kooca.cn:5140/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86
 
 内蒙古频道,#genre#
 
@@ -1137,7 +1033,6 @@ DreamWorks夢工廠動畫,https://cdn12.178.indevs.in/163189/dreamworks
 DreamWorks夢工廠動畫,http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782639885837
 MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
 MOMO親子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
-动漫秀场,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA
 Nick Jr. 儿童频道,https://iptv.1989.click/4gtv/krepqn?token=f4bebbdc82a1f5d2c64469c517a1075f61bd8f58d43d2a1f
 Nick Jr. 儿童频道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1784702901150
@@ -1146,13 +1041,9 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 火影忍者,https://huyazhibo.de5.net/?id=29465866
 火影忍者,https://www.goodiptv.club/huya/29465866
 嘉佳卡通,https://live.chinacert.cftest5.cn/cnmg/live/614952364
-嘉佳卡通,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A
 金鹰卡通,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
-金鹰卡通,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A
 卡酷动画,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
-卡酷动画,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF
 卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
-卡酷少儿,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF
 龙华卡通,https://cdn.qd.je/163189/lhkt
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 蜡笔小新,https://huyazhibo.de5.net/?id=11352970
@@ -1160,17 +1051,16 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 猫和老鼠,https://huyazhibo.de5.net/?id=11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://www.goodiptv.club/huya/11352879
-七龙珠,https://huyazhibo.de5.net/?id=11601966
+七龙珠,https://huyazhibo.de5.net/?id=30273533
 七龙珠,https://live.metshop.top/huya/11601966
 海绵宝宝,https://huyazhibo.de5.net/?id=11352919
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,https://www.goodiptv.club/huya/11352919
 炫动卡通,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
-炫动卡通,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8
 新动漫,https://live.chinacert.cftest5.cn/cnmg/live/961930269
 优漫卡通,https://live.chinacert.cftest5.cn/cnmg/live/626064703
-浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+中华小当家,https://huyazhibo.de5.net/?id=30613314
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-08-05 19:34:31,https://cdn.1989.click/hk/vx8e5t?token=7b2a5cead9b8a550a835ce1f02c38d985ed42e0badb1f062
+2026-08-06 02:09:07,https://cdn.1989.click/hk/vx8e5t?token=7b2a5cead9b8a550a835ce1f02c38d985ed42e0badb1f062
