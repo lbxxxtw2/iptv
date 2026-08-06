@@ -505,7 +505,7 @@ https://iptv.1989.click/4gtv/bs46xa?token=982f82168d0bea305ca52a2bb78a7839e6f381
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Love Nature.png" group-title="香港频道",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",tvN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://material.1989.click/logo/tvN.png" group-title="香港频道",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",亞洲新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1244,7 +1244,7 @@ https://iptv.1989.click/comp/t4hnzm?token=982f82168d0bea305ca52a2bb78a7839e6f381
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CNA.png" group-title="台湾频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="台湾频道",tvN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://material.1989.click/logo/tvN.png" group-title="台湾频道",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://epg.112114.xyz/logo/KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0.png" group-title="台湾频道",KLT-靖天國際台
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -2154,5 +2154,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-06 15:26:01
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-06 19:50:38
 https://cdn.1989.click/hk/m9hpgu?token=9bcaab62152671a2d5f218fb04d81b5138cc7ce2f320dec7
