@@ -588,12 +588,8 @@ https://cdn.qd.je/163189/gzzh
 http://r.jdshipin.com/iR6Gq
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广州综合.png" group-title="广东频道",广州综合
 http://r.jdshipin.com/snhya
-#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广州综合.png" group-title="广东频道",广州综合
-https://168.sryze.cc/163189/gzzh
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广州新闻.png" group-title="广东频道",广州新闻
 https://cdn.qd.je/163189/gzxw
-#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广州新闻.png" group-title="广东频道",广州新闻
-https://168.sryze.cc/163189/gzxw
 #EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/云浮综合.png" group-title="广东频道",云浮综合
 https://livestream.oeeee.com/slive/28283.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/深圳卫视.png" group-title="广东频道",深圳卫视
@@ -2017,8 +2013,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/849119120
 http://r.jdshipin.com/WtYt3
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://10.fast.hidns.vip/163189/hxws/
-#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
-https://168.sryze.cc/163189/hxws
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海南新闻.png" group-title="海南频道",海南新闻
 https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=62bd37b31727851111
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海南自贸.png" group-title="海南频道",海南自贸
@@ -2154,5 +2148,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-06 19:50:38
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-06 22:45:27
 https://cdn.1989.click/hk/m9hpgu?token=9bcaab62152671a2d5f218fb04d81b5138cc7ce2f320dec7
