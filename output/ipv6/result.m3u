@@ -1466,6 +1466,9 @@ https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 https://cdn3.indevs.in/stream/live/jgbdx/
 #EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/金光布袋戏.png" group-title="电影频道",金光布袋戏
 https://cdn12.178.indevs.in/163189/jgbdx
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://epg.112114.xyz/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",经典电影
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://down-hls.qxiu.com/live/453135/index.m3u8
 #EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华经典台.png" group-title="电影频道",龙华经典台
 http://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华偶像.png" group-title="电影频道",龙华偶像
@@ -2151,5 +2154,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-06 07:52:36
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-06 11:16:52
 https://cdn.1989.click/hk/m9hpgu?token=9bcaab62152671a2d5f218fb04d81b5138cc7ce2f320dec7
