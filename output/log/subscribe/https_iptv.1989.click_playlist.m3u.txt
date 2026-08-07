@@ -9,7 +9,7 @@ https://material.1989.click/v/301.mp4
 https://material.1989.click/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://material.1989.click/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-7-1 #佛系維護...
 https://material.1989.click/v/301.mp4
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台
 https://cdn.1989.click/hk/fa3n2m?token=6030e8bb531a7d6f7950f232c6e13a8e60d1b1639f084ccb
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•香港「Relay」",無綫新聞台
 https://cdn.1989.click/hk/mhjbyb?token=6030e8bb531a7d6f7950f232c6e13a8e60d1b1639f084ccb
