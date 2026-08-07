@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260807105146 +0800">
+<tv date="20260807125904 +0800">
 	<channel id="Nick Jr. 儿童频道">
 		<display-name lang="zh">Nick Jr. 儿童频道</display-name>
 	</channel>
@@ -232443,18 +232443,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260731194300 +0800" stop="20260731203100 +0800">
-		<title lang="zh">黄金剧场凭栏一片风云起（35）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260731194300 +0800" stop="20260731203100 +0800">
-		<title lang="zh">黄金剧场凭栏一片风云起（35）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260731203100 +0800" stop="20260731212200 +0800">
-		<title lang="zh">黄金剧场凭栏一片风云起（36）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260731203100 +0800" stop="20260731212200 +0800">
-		<title lang="zh">黄金剧场凭栏一片风云起（36）</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260731212200 +0800" stop="20260731221200 +0800">
 		<title lang="zh">黄金剧场凭栏一片风云起（37）</title>
 	</programme>
@@ -233634,30 +233622,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260731191500 +0800" stop="20260731194200 +0800">
-		<title lang="zh">一起健康吧（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260731191500 +0800" stop="20260731194200 +0800">
-		<title lang="zh">一起健康吧（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260731194200 +0800" stop="20260731200000 +0800">
-		<title lang="zh">潮科技（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260731194200 +0800" stop="20260731200000 +0800">
-		<title lang="zh">潮科技（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260731200000 +0800" stop="20260731203700 +0800">
-		<title lang="zh">经济30分（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260731200000 +0800" stop="20260731203700 +0800">
-		<title lang="zh">经济30分（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260731203700 +0800" stop="20260731210000 +0800">
-		<title lang="zh">经济30分之看天下（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260731203700 +0800" stop="20260731210000 +0800">
-		<title lang="zh">经济30分之看天下（首播）</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260731210000 +0800" stop="20260731213000 +0800">
 		<title lang="zh">山西新闻联播（首播）</title>
 	</programme>
@@ -236067,24 +236031,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260731195300 +0800" stop="20260731201800 +0800">
-		<title lang="zh">调解晋行时(首播)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260731195300 +0800" stop="20260731201800 +0800">
-		<title lang="zh">调解晋行时(首播)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260731201800 +0800" stop="20260731202400 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260731201800 +0800" stop="20260731202400 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260731202400 +0800" stop="20260731211800 +0800">
-		<title lang="zh">伪装者(12)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260731202400 +0800" stop="20260731211800 +0800">
-		<title lang="zh">伪装者(12)</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260731211800 +0800" stop="20260731221400 +0800">
 		<title lang="zh">伪装者(13)</title>
 	</programme>
@@ -237978,18 +237924,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260731195400 +0800" stop="20260731205700 +0800">
-		<title lang="zh">边城（15）</title>
-	</programme>
-	<programme channel="山西影视" start="20260731195400 +0800" stop="20260731205700 +0800">
-		<title lang="zh">边城（15）</title>
-	</programme>
-	<programme channel="山西影视" start="20260731205700 +0800" stop="20260731215500 +0800">
-		<title lang="zh">边城（16）</title>
-	</programme>
-	<programme channel="山西影视" start="20260731205700 +0800" stop="20260731215500 +0800">
-		<title lang="zh">边城（16）</title>
-	</programme>
 	<programme channel="山西影视" start="20260731215500 +0800" stop="20260731224500 +0800">
 		<title lang="zh">边城（17）</title>
 	</programme>
@@ -239427,18 +239361,6 @@
 	<channel id="黄河电视台">
 		<display-name lang="zh">黄河电视台</display-name>
 	</channel>
-	<programme channel="黄河电视台" start="20260731193600 +0800" stop="20260731202500 +0800">
-		<title lang="zh">我的兄弟叫顺溜(1)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260731193600 +0800" stop="20260731202500 +0800">
-		<title lang="zh">我的兄弟叫顺溜(1)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260731202500 +0800" stop="20260731211600 +0800">
-		<title lang="zh">我的兄弟叫顺溜(2)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260731202500 +0800" stop="20260731211600 +0800">
-		<title lang="zh">我的兄弟叫顺溜(2)</title>
-	</programme>
 	<programme channel="黄河电视台" start="20260731211600 +0800" stop="20260731220500 +0800">
 		<title lang="zh">我的兄弟叫顺溜(3)</title>
 	</programme>
