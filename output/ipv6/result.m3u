@@ -1076,9 +1076,10 @@ http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台" tvg-logo="https://epg.112114.xyz/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png" group-title="台湾频道",TVBS精彩台
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS精彩台.png" group-title="台湾频道",TVBS精彩台
 http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
+#EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台" tvg-logo="https://epg.112114.xyz/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png" group-title="台湾频道",TVBS精彩台
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://material.1989.click/logo/中天亞洲台.png" group-title="台湾频道",中天亞洲台
 https://iptv.1989.click/tw/2b57uv?token=d84d07de9414fa5cc9810140f5695271f59de5fe387ad704
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://material.1989.click/logo/中天亞洲台.png" group-title="台湾频道",中天亞洲台
@@ -1090,11 +1091,12 @@ https://iptv.1989.click/tw/fnzayx?token=d84d07de9414fa5cc9810140f5695271f59de5fe
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://material.1989.click/logo/三立綜合台.png" group-title="台湾频道",三立综合
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/tvj67r?token=d84d07de9414fa5cc9810140f5695271f59de5fe387ad704
+#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="台湾频道",三立综合
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0.png" group-title="台湾频道",三立综合
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立综合.png" group-title="台湾频道",三立综合
-http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS.png" group-title="台湾频道",三立iNEWS
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
@@ -1118,11 +1120,12 @@ http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://material.1989.click/logo/中視.png" group-title="台湾频道",中視
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/2ngfbj?token=d84d07de9414fa5cc9810140f5695271f59de5fe387ad704
+#EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A7%86.png" group-title="台湾频道",中視
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A6%96.png" group-title="台湾频道",中視
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中視.png" group-title="台湾频道",中視
-http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="民视" tvg-name="民視" tvg-logo="https://material.1989.click/logo/民視.png" group-title="台湾频道",民視
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/pfkuag?token=d84d07de9414fa5cc9810140f5695271f59de5fe387ad704
@@ -1559,9 +1562,6 @@ https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/靖天映画.png" group-title="电影频道",靖天映画
 https://cdn.qd.je/163189/jtyh
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="电影频道",靖天映画
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="电影频道",靖天映画
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn12.178.indevs.in/163189/jtyh
@@ -2008,9 +2008,6 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://cdn.qd.je/163189/hxws2
-#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="福建频道",福建海峡卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://live.chinacert.cftest5.cn/cnmg/live/849119120
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
@@ -2154,5 +2151,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-07 11:32:04
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-07 14:36:25
 https://cdn.1989.click/hk/fa3n2m?token=6030e8bb531a7d6f7950f232c6e13a8e60d1b1639f084ccb
