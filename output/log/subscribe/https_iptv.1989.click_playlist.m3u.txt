@@ -10,11 +10,11 @@ https://material.1989.click/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://material.1989.click/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-7-1 #佛系維護...
 https://material.1989.click/v/301.mp4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台
-https://cdn.1989.click/hk/fa3n2m?token=6030e8bb531a7d6f7950f232c6e13a8e60d1b1639f084ccb
+https://cdn.1989.click/hk/3nps68?token=3f80cd99f69fca00863eba20531eada75e7b4489950e0a70
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•香港「Relay」",無綫新聞台
-https://cdn.1989.click/hk/mhjbyb?token=6030e8bb531a7d6f7950f232c6e13a8e60d1b1639f084ccb
+https://cdn.1989.click/hk/7mbqm8?token=3f80cd99f69fca00863eba20531eada75e7b4489950e0a70
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•香港「Relay」",TVB Plus
-https://cdn.1989.click/hk/knc7k2?token=6030e8bb531a7d6f7950f232c6e13a8e60d1b1639f084ccb
+https://cdn.1989.click/hk/32fyn7?token=3f80cd99f69fca00863eba20531eada75e7b4489950e0a70
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://material.1989.click/logo/凤凰中文.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·中文「回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/phoenix/wzc2bu?token=d84d07de9414fa5cc9810140f5695271f59de5fe387ad704
