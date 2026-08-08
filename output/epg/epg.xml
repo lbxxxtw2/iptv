@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260808124256 +0800">
+<tv date="20260808143122 +0800">
 	<channel id="8TV">
 		<display-name lang="zh">8TV</display-name>
 	</channel>
@@ -14169,6 +14169,1044 @@
 	<programme channel="Astro Football" start="20260814220000 +0800" stop="20260815000000 +0800">
 		<title lang="zh">Dutch: Breda vs Ajax</title>
 	</programme>
+	<channel id="TBS">
+		<display-name lang="zh">TBS</display-name>
+	</channel>
+	<programme channel="TBS" start="20260808001800 +0800" stop="20260808002300 +0800">
+		<title lang="zh">ジョシとドラゴン★サバンナ高桥</title>
+	</programme>
+	<programme channel="TBS" start="20260808002300 +0800" stop="20260808005300 +0800">
+		<title lang="zh">こちけんリアピのてれび1年生</title>
+	</programme>
+	<programme channel="TBS" start="20260808005300 +0800" stop="20260808012300 +0800">
+		<title lang="zh">コードギアス　夺还のロゼ　#05【アニメイズム】</title>
+	</programme>
+	<programme channel="TBS" start="20260808012300 +0800" stop="20260808013300 +0800">
+		<title lang="zh">With☆ベイスターズ</title>
+	</programme>
+	<programme channel="TBS" start="20260808013300 +0800" stop="20260808014500 +0800">
+		<title lang="zh">イベントGO!プラス「Ice Brave -A TURNING SEASON-」</title>
+	</programme>
+	<programme channel="TBS" start="20260808014500 +0800" stop="20260808030000 +0800">
+		<title lang="zh">カイモノラボ</title>
+	</programme>
+	<programme channel="TBS" start="20260808030000 +0800" stop="20260808034500 +0800">
+		<title lang="zh">TBS　NEWS</title>
+	</programme>
+	<programme channel="TBS" start="20260808034500 +0800" stop="20260808041500 +0800">
+		<title lang="zh">ぜひモノ</title>
+	</programme>
+	<programme channel="TBS" start="20260808041500 +0800" stop="20260808043000 +0800">
+		<title lang="zh">皇室アルバム</title>
+	</programme>
+	<programme channel="TBS" start="20260808043000 +0800" stop="20260808044500 +0800">
+		<title lang="zh">JNNニュース[手][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808044500 +0800" stop="20260808063000 +0800">
+		<title lang="zh">夜明けのラヴィット![字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808063000 +0800" stop="20260808082500 +0800">
+		<title lang="zh">サタプラ[字]试して!夏アイス★东京で云海!?小野花梨が生中継★正门が旬の明石タコ钓り</title>
+	</programme>
+	<programme channel="TBS" start="20260808082500 +0800" stop="20260808083000 +0800">
+		<title lang="zh">アニメ「リラックマ」#19[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808083000 +0800" stop="20260808104500 +0800">
+		<title lang="zh">王様のブランチ[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808104500 +0800" stop="20260808105900 +0800">
+		<title lang="zh">JNNニュース[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808105900 +0800" stop="20260808130000 +0800">
+		<title lang="zh">王様のブランチ[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808130000 +0800" stop="20260808140000 +0800">
+		<title lang="zh">今さらシロー!〜テストに出ないが役に立つ〜[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808140000 +0800" stop="20260808150000 +0800">
+		<title lang="zh">THE鬼タイジ【今夜7时〜真夏2时间SP!VIVANT大物俳优&amp;M!LKが参戦】</title>
+	</programme>
+	<programme channel="TBS" start="20260808150000 +0800" stop="20260808163000 +0800">
+		<title lang="zh">坂上&amp;指原のつぶれない店[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808163000 +0800" stop="20260808175000 +0800">
+		<title lang="zh">报道特集[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808175000 +0800" stop="20260808175100 +0800">
+		<title lang="zh">ウィークエンドウェザー[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808175100 +0800" stop="20260808195400 +0800">
+		<title lang="zh">THE鬼タイジ【东京サマーランド完全占拠】VIVANT超大物俳优&amp;M!LK初参戦</title>
+	</programme>
+	<programme channel="TBS" start="20260808195400 +0800" stop="20260808205600 +0800">
+		<title lang="zh">いくらかわかる金?镰仓グルメ旅で暗记クイズ!寝たら减额・軽井沢リラクゼーション旅</title>
+	</programme>
+	<programme channel="TBS" start="20260808205600 +0800" stop="20260808210000 +0800">
+		<title lang="zh">和心百景〜愿いがこめられた织物　『知花花织/冲縄』〜[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808210000 +0800" stop="20260808222400 +0800">
+		<title lang="zh">情报7daysニュースキャスター[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808222400 +0800" stop="20260808223000 +0800">
+		<title lang="zh">Weatherニュースキャスター[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808223000 +0800" stop="20260808230000 +0800">
+		<title lang="zh">人生最高レストラン[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808230000 +0800" stop="20260808232800 +0800">
+		<title lang="zh">S☆1[字]周末のスポーツ情报番组。世界で活跃するアスリートを热く厚くお届けします!</title>
+	</programme>
+	<programme channel="TBS" start="20260808232800 +0800" stop="20260808235800 +0800">
+		<title lang="zh">IMP.の「できません」は言いません[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260808235800 +0800" stop="20260809002800 +0800">
+		<title lang="zh">バース・デイ[字]　</title>
+	</programme>
+	<programme channel="TBS" start="20260809002800 +0800" stop="20260809005800 +0800">
+		<title lang="zh">カバン持ちさせてください!</title>
+	</programme>
+	<programme channel="TBS" start="20260809005800 +0800" stop="20260809030000 +0800">
+		<title lang="zh">カイモノラボ</title>
+	</programme>
+	<programme channel="TBS" start="20260809030000 +0800" stop="20260809034000 +0800">
+		<title lang="zh">TBS　NEWS</title>
+	</programme>
+	<programme channel="TBS" start="20260809034000 +0800" stop="20260809044000 +0800">
+		<title lang="zh">ぜひモノ</title>
+	</programme>
+	<programme channel="TBS" start="20260809044000 +0800" stop="20260809050000 +0800">
+		<title lang="zh">TBSレビュー[手]</title>
+	</programme>
+	<programme channel="TBS" start="20260809050000 +0800" stop="20260809054500 +0800">
+		<title lang="zh">バナナマンの早起きせっかくグルメ★笑って腹ペコ!最高の朝ごはんを応援します![字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809054500 +0800" stop="20260809060000 +0800">
+		<title lang="zh">JNNニュース[手]</title>
+	</programme>
+	<programme channel="TBS" start="20260809060000 +0800" stop="20260809063000 +0800">
+		<title lang="zh">健康カプセル!ゲンキの时间[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809063000 +0800" stop="20260809070000 +0800">
+		<title lang="zh">がっちりマンデー!!地方ビジネスホテル!アメニティ无し谜宿「マエノリ・アトハク」</title>
+	</programme>
+	<programme channel="TBS" start="20260809070000 +0800" stop="20260809085400 +0800">
+		<title lang="zh">サンデーモーニング[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809085400 +0800" stop="20260809103500 +0800">
+		<title lang="zh">サンデー・ジャポン</title>
+	</programme>
+	<programme channel="TBS" start="20260809103500 +0800" stop="20260809115400 +0800">
+		<title lang="zh">上田晋也のサンデーQ[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809115400 +0800" stop="20260809115700 +0800">
+		<title lang="zh">ゆたかな食の未来をさがして[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809115700 +0800" stop="20260809120000 +0800">
+		<title lang="zh">デジタル一番星+[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809120000 +0800" stop="20260809122700 +0800">
+		<title lang="zh">周刊さんまとマツコ[解][字] 芸能界リアル金銭トラブル被害者の会!実态と対処法を激白</title>
+	</programme>
+	<programme channel="TBS" start="20260809122700 +0800" stop="20260809123000 +0800">
+		<title lang="zh">四季折々の赠り物 〜精霊马〜[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809123000 +0800" stop="20260809133000 +0800">
+		<title lang="zh">世界くらべてみたら[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809133000 +0800" stop="20260809143000 +0800">
+		<title lang="zh">THE神业チャレンジ★11日よる7时!くら寿司!売上対决&amp;MC松尾VS神クレーン[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809143000 +0800" stop="20260809152700 +0800">
+		<title lang="zh">别册!王様のブランチ　夏休み満吃SP★JO1最先端デジタル施设&amp;冷やしグルメ体験</title>
+	</programme>
+	<programme channel="TBS" start="20260809152700 +0800" stop="20260809153000 +0800">
+		<title lang="zh">With☆ベイ サンデー[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809153000 +0800" stop="20260809160000 +0800">
+		<title lang="zh">レッツゴー怪奇组　第六怪[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809160000 +0800" stop="20260809163000 +0800">
+		<title lang="zh">日5「正反対な君と仆」　#18「春の手前」[字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260809163000 +0800" stop="20260809170000 +0800">
+		<title lang="zh">Nスタ[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809170000 +0800" stop="20260809173000 +0800">
+		<title lang="zh">世界遗产[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809173000 +0800" stop="20260809180000 +0800">
+		<title lang="zh">ベスコングルメ★横浜・元町の路地里を歩く!めざすはイタリアン名店の(秘)パスタ[解][字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260809180000 +0800" stop="20260809195400 +0800">
+		<title lang="zh">坂上&amp;指原のつぶれない店　ワークマン・串カツ田中・サブウェイが超どえらいことに!</title>
+	</programme>
+	<programme channel="TBS" start="20260809195400 +0800" stop="20260809200000 +0800">
+		<title lang="zh">フラッシュニュース[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809200000 +0800" stop="20260809210900 +0800">
+		<title lang="zh">日曜剧场「VIVANT」第13话[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809210900 +0800" stop="20260809211500 +0800">
+		<title lang="zh">むしめがね 〜真の価値をのぞく〜[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809211500 +0800" stop="20260809220900 +0800">
+		<title lang="zh">日曜日の初耳学【大泉洋×林修◆スキマスイッチと爆笑リモート&amp;吉田羊が暴露】[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809220900 +0800" stop="20260809221500 +0800">
+		<title lang="zh">东京空色さんぽ[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809221500 +0800" stop="20260809224500 +0800">
+		<title lang="zh">情热大陆【次田展之/诊疗所医师・パイロット▽空飞び命守る!フライングドクター】[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260809224500 +0800" stop="20260809231500 +0800">
+		<title lang="zh">黒猫と魔女の教室[字][デ]　#18【アガルアニメ】</title>
+	</programme>
+	<programme channel="TBS" start="20260809231500 +0800" stop="20260810001300 +0800">
+		<title lang="zh">S☆1[字]周末のスポーツ情报番组。世界で活跃するアスリートを热く厚くお届けします!</title>
+	</programme>
+	<programme channel="TBS" start="20260810001300 +0800" stop="20260810011300 +0800">
+		<title lang="zh">KICK　OFF!J ≪新たな视点で纽解く、新たなサッカーLIFE≫[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810011300 +0800" stop="20260810024500 +0800">
+		<title lang="zh">カイモノラボ</title>
+	</programme>
+	<programme channel="TBS" start="20260810024500 +0800" stop="20260810033000 +0800">
+		<title lang="zh">TBS　NEWS</title>
+	</programme>
+	<programme channel="TBS" start="20260810033000 +0800" stop="20260810042000 +0800">
+		<title lang="zh">THE　TIME'[デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260810042000 +0800" stop="20260810070000 +0800">
+		<title lang="zh">THE　TIME,[字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260810070000 +0800" stop="20260810085500 +0800">
+		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810085500 +0800" stop="20260810092500 +0800">
+		<title lang="zh">滝沢カレン&amp;和田明日香のフィーリンきっちん[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810092500 +0800" stop="20260810105500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810105500 +0800" stop="20260810125500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810125500 +0800" stop="20260810144900 +0800">
+		<title lang="zh">ゴゴスマ</title>
+	</programme>
+	<programme channel="TBS" start="20260810144900 +0800" stop="20260810180000 +0800">
+		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
+	</programme>
+	<programme channel="TBS" start="20260810180000 +0800" stop="20260810195500 +0800">
+		<title lang="zh">CDTVライブ!ライブ![字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260810195500 +0800" stop="20260810210000 +0800">
+		<title lang="zh">テレビ×ミセス★びしょ濡れMAX!夏の东京ディズニーリゾート大视察ロケSP![字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810210000 +0800" stop="20260810215700 +0800">
+		<title lang="zh">プロフェッショナルランキング★SASUKE泣ける名场面ランキングBEST20[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810215700 +0800" stop="20260810220000 +0800">
+		<title lang="zh">トップニュース先出し[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810220000 +0800" stop="20260810225600 +0800">
+		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+	</programme>
+	<programme channel="TBS" start="20260810225600 +0800" stop="20260810235500 +0800">
+		<title lang="zh">クレイジージャーニー[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260810235500 +0800" stop="20260810235800 +0800">
+		<title lang="zh">Gヘルスケア  街角ドクター访问</title>
+	</programme>
+	<programme channel="TBS" start="20260810235800 +0800" stop="20260811002800 +0800">
+		<title lang="zh">ひらめけ!うんぴょこちゃんねる WEST.お兄さんが子どもの自由な発想を全力表现</title>
+	</programme>
+	<programme channel="TBS" start="20260811002800 +0800" stop="20260811003500 +0800">
+		<title lang="zh">イベントGO!</title>
+	</programme>
+	<programme channel="TBS" start="20260811003500 +0800" stop="20260811031500 +0800">
+		<title lang="zh">カイモノラボ</title>
+	</programme>
+	<programme channel="TBS" start="20260811031500 +0800" stop="20260811033000 +0800">
+		<title lang="zh">TBS　NEWS</title>
+	</programme>
+	<programme channel="TBS" start="20260811033000 +0800" stop="20260811042000 +0800">
+		<title lang="zh">THE　TIME'[デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260811042000 +0800" stop="20260811070000 +0800">
+		<title lang="zh">THE　TIME,[字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260811070000 +0800" stop="20260811085500 +0800">
+		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260811085500 +0800" stop="20260811092500 +0800">
+		<title lang="zh">买いドキ!生ショップ　この时期にぴったりの季节商品や今だけの期间限定商品がお得[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260811092500 +0800" stop="20260811105500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260811105500 +0800" stop="20260811125500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260811125500 +0800" stop="20260811144900 +0800">
+		<title lang="zh">ゴゴスマ</title>
+	</programme>
+	<programme channel="TBS" start="20260811144900 +0800" stop="20260811180000 +0800">
+		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
+	</programme>
+	<programme channel="TBS" start="20260811180000 +0800" stop="20260811195500 +0800">
+		<title lang="zh">THE神业チャレンジ★くら寿司!売上対决&amp;铃木亮平VS神职人&amp;松尾VS神クレーン[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260811195500 +0800" stop="20260811210000 +0800">
+		<title lang="zh">マツコの知らない世界[解][字]【毎周火曜よる8时55分!マツコ仰天!惊きの世界】</title>
+	</programme>
+	<programme channel="TBS" start="20260811210000 +0800" stop="20260811220000 +0800">
+		<title lang="zh">火曜ドラマ「君の好きは无敌」#5すべては「かわいい」と「好き」を守るために![解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260811220000 +0800" stop="20260811225600 +0800">
+		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+	</programme>
+	<programme channel="TBS" start="20260811225600 +0800" stop="20260811232400 +0800">
+		<title lang="zh">地球まるごと大実験ネイチャーティーチャー[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260811232400 +0800" stop="20260811235300 +0800">
+		<title lang="zh">「トーキング千鸟!」ナビ</title>
+	</programme>
+	<programme channel="TBS" start="20260811235300 +0800" stop="20260811235600 +0800">
+		<title lang="zh">Gヘルスケア  街角ドクター访问【テーマ:腰痛】</title>
+	</programme>
+	<programme channel="TBS" start="20260811235600 +0800" stop="20260812002600 +0800">
+		<title lang="zh">アッコとジャンボ</title>
+	</programme>
+	<programme channel="TBS" start="20260812002600 +0800" stop="20260812005600 +0800">
+		<title lang="zh">幸せになりたいマサムネ君　第6话【中沢元纪・主演★ドラマイズム】[解][字]</title>
+	</programme>
+	<programme channel="TBS" start="20260812005600 +0800" stop="20260812013600 +0800">
+		<title lang="zh">アカデミーナイトG</title>
+	</programme>
+	<programme channel="TBS" start="20260812013600 +0800" stop="20260812014300 +0800">
+		<title lang="zh">イベントGO!</title>
+	</programme>
+	<programme channel="TBS" start="20260812014300 +0800" stop="20260812024500 +0800">
+		<title lang="zh">カイモノラボ</title>
+	</programme>
+	<programme channel="TBS" start="20260812024500 +0800" stop="20260812033000 +0800">
+		<title lang="zh">TBS　NEWS</title>
+	</programme>
+	<programme channel="TBS" start="20260812033000 +0800" stop="20260812042000 +0800">
+		<title lang="zh">THE　TIME'[デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260812042000 +0800" stop="20260812070000 +0800">
+		<title lang="zh">THE　TIME,[字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260812070000 +0800" stop="20260812085500 +0800">
+		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260812085500 +0800" stop="20260812092500 +0800">
+		<title lang="zh">滝沢カレン&amp;和田明日香のフィーリンきっちん[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260812092500 +0800" stop="20260812105500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260812105500 +0800" stop="20260812125500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260812125500 +0800" stop="20260812144900 +0800">
+		<title lang="zh">ゴゴスマ</title>
+	</programme>
+	<programme channel="TBS" start="20260812144900 +0800" stop="20260812180000 +0800">
+		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
+	</programme>
+	<programme channel="TBS" start="20260812180000 +0800" stop="20260812205800 +0800">
+		<title lang="zh">世界くらべてみたら★SixTONES森本&amp;あばれる君参戦!世界で自由研究[字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260812205800 +0800" stop="20260812210000 +0800">
+		<title lang="zh">フラッシュニュース[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260812210000 +0800" stop="20260812220000 +0800">
+		<title lang="zh">「トーキング千鸟!」好评第2弾★千鸟VS话题の有名人10名!东京は天国or地狱SP</title>
+	</programme>
+	<programme channel="TBS" start="20260812220000 +0800" stop="20260812225600 +0800">
+		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+	</programme>
+	<programme channel="TBS" start="20260812225600 +0800" stop="20260812235500 +0800">
+		<title lang="zh">よるのブランチ[字]八村伦太郎率いるWATWINGとクイズ対决★1年前のリベンジ合戦</title>
+	</programme>
+	<programme channel="TBS" start="20260812235500 +0800" stop="20260812235800 +0800">
+		<title lang="zh">Gヘルスケア  街角ドクター访问【テーマ:腰痛】</title>
+	</programme>
+	<programme channel="TBS" start="20260812235800 +0800" stop="20260813002800 +0800">
+		<title lang="zh">ふるさとの未来[解]</title>
+	</programme>
+	<programme channel="TBS" start="20260813002800 +0800" stop="20260813003500 +0800">
+		<title lang="zh">イベントGO! ブロードウェイミュージカル『シカゴ』情报!</title>
+	</programme>
+	<programme channel="TBS" start="20260813003500 +0800" stop="20260813024500 +0800">
+		<title lang="zh">カイモノラボ</title>
+	</programme>
+	<programme channel="TBS" start="20260813024500 +0800" stop="20260813033000 +0800">
+		<title lang="zh">TBS　NEWS</title>
+	</programme>
+	<programme channel="TBS" start="20260813033000 +0800" stop="20260813042000 +0800">
+		<title lang="zh">THE　TIME'[デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260813042000 +0800" stop="20260813070000 +0800">
+		<title lang="zh">THE　TIME,[字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260813070000 +0800" stop="20260813085500 +0800">
+		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813085500 +0800" stop="20260813092500 +0800">
+		<title lang="zh">滝沢カレン&amp;和田明日香のフィーリンきっちん[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813092500 +0800" stop="20260813105500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813105500 +0800" stop="20260813125500 +0800">
+		<title lang="zh">ひるおび[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813125500 +0800" stop="20260813144900 +0800">
+		<title lang="zh">ゴゴスマ</title>
+	</programme>
+	<programme channel="TBS" start="20260813144900 +0800" stop="20260813180000 +0800">
+		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
+	</programme>
+	<programme channel="TBS" start="20260813180000 +0800" stop="20260813190000 +0800">
+		<title lang="zh">プレバト!!【陶芸…特待生の片桐仁が升格试験!★俳句…お题は「花火大会」】[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813190000 +0800" stop="20260813210000 +0800">
+		<title lang="zh">ニンゲン観察バラエティ　モニタリング[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813210000 +0800" stop="20260813215700 +0800">
+		<title lang="zh">サンド屋台☆菜々绪&amp;宫泽エマ&amp;モナキおヨネが来店で大揉め!!爆笑トーク&amp;ゲーム[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813215700 +0800" stop="20260813220000 +0800">
+		<title lang="zh">アジア大会×VIVANT〜新たな别班候补はだれだ?〜[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813220000 +0800" stop="20260813225600 +0800">
+		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
+	</programme>
+	<programme channel="TBS" start="20260813225600 +0800" stop="20260813232600 +0800">
+		<title lang="zh">スーパーの里でヤニ吸うふたり　♯6[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260813232600 +0800" stop="20260813235600 +0800">
+		<title lang="zh">追放された転生重骑士はゲーム知识で无双する#07◆スーパーアニメイズムTURBO[字][デ]</title>
+	</programme>
+	<programme channel="TBS" start="20260813235600 +0800" stop="20260813235900 +0800">
+		<title lang="zh">Gヘルスケア  街角ドクター访问【テーマ:腰痛】</title>
+	</programme>
+	<programme channel="TBS" start="20260813235900 +0800" stop="20260814002800 +0800">
+		<title lang="zh">限界突破!やってM!LK</title>
+	</programme>
+	<programme channel="TBS" start="20260814002800 +0800" stop="20260814005800 +0800">
+		<title lang="zh">TVアニメ『乙女怪獣キャラメリゼ』第7话「狙われた新汰」[字]</title>
+	</programme>
+	<programme channel="TBS" start="20260814005800 +0800" stop="20260814010500 +0800">
+		<title lang="zh">イベントGO! ブロードウェイミュージカル『シカゴ』情报!</title>
+	</programme>
+	<programme channel="TBS" start="20260814010500 +0800" stop="20260814024500 +0800">
+		<title lang="zh">カイモノラボ</title>
+	</programme>
+	<programme channel="TBS" start="20260814024500 +0800" stop="20260814033000 +0800">
+		<title lang="zh">TBS　NEWS</title>
+	</programme>
+	<programme channel="TBS" start="20260814033000 +0800" stop="20260815000000 +0800">
+		<title lang="zh">THE　TIME'[デ]</title>
+	</programme>
+	<channel id="テレビ朝日">
+		<display-name lang="zh">テレビ朝日</display-name>
+	</channel>
+	<programme channel="テレビ朝日" start="20260808001500 +0800" stop="20260808004500 +0800">
+		<title lang="zh">バズマンTV</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808004500 +0800" stop="20260808010000 +0800">
+		<title lang="zh">ラブ!!Jリーグ[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808010000 +0800" stop="20260808012000 +0800">
+		<title lang="zh">M:ZINE</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808012000 +0800" stop="20260808012200 +0800">
+		<title lang="zh">テレ朝サマフェスナビ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808012200 +0800" stop="20260808015200 +0800">
+		<title lang="zh">全力!アオハル応援団</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808015200 +0800" stop="20260808021700 +0800">
+		<title lang="zh">新日ちゃんぴおん!</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808021700 +0800" stop="20260808023000 +0800">
+		<title lang="zh">イベレコ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808023000 +0800" stop="20260808030000 +0800">
+		<title lang="zh">秘汤ロマン</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808030000 +0800" stop="20260808032500 +0800">
+		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808032500 +0800" stop="20260808035000 +0800">
+		<title lang="zh">渡辺笃史の建もの探访[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808035000 +0800" stop="20260808042000 +0800">
+		<title lang="zh">テレメンタリー2026「核を抱く星-VOICE-」[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808042000 +0800" stop="20260808045000 +0800">
+		<title lang="zh">日本のチカラ[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808045000 +0800" stop="20260808050000 +0800">
+		<title lang="zh">ANNニュース[手][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808050000 +0800" stop="20260808070000 +0800">
+		<title lang="zh">グッド!モーニング[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808070000 +0800" stop="20260808083000 +0800">
+		<title lang="zh">朝だ!生です旅サラダ[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808083000 +0800" stop="20260808085500 +0800">
+		<title lang="zh">1泊家族　杰作选[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808085500 +0800" stop="20260808090000 +0800">
+		<title lang="zh">しあわせのたね。[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808090000 +0800" stop="20260808093000 +0800">
+		<title lang="zh">题名のない音楽会「背筋も冻る!恐怖を感じる音楽会」[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808093000 +0800" stop="20260808100000 +0800">
+		<title lang="zh">买いドキ!生放送ショッピング　期间限定商品を手にする大チャンス!お见逃しなく!</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808100000 +0800" stop="20260808123000 +0800">
+		<title lang="zh">ワイド!スクランブル　サタデー[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808123000 +0800" stop="20260808143000 +0800">
+		<title lang="zh">八村塁スペシャルマッチ　BLACK　SAMURAI　SUMMIT[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808143000 +0800" stop="20260808150000 +0800">
+		<title lang="zh">なにわ男子の逆転男子[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808150000 +0800" stop="20260808153000 +0800">
+		<title lang="zh">バチバチSTAR[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808153000 +0800" stop="20260808160000 +0800">
+		<title lang="zh">クレヨンしんちゃん　【スワンボート伝说だゾ】(他)[デ][解][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808160000 +0800" stop="20260808163000 +0800">
+		<title lang="zh">ドラえもん　【ウラメシズキン】ほか[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808163000 +0800" stop="20260808170000 +0800">
+		<title lang="zh">ANNスーパーJチャンネル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808170000 +0800" stop="20260808175600 +0800">
+		<title lang="zh">人生の楽园　夏の1时间!ふるさと大好きスペシャル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808175600 +0800" stop="20260808190000 +0800">
+		<title lang="zh">サンドウィッチマン&amp;芦田爱菜の博士ちゃん[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808190000 +0800" stop="20260808195400 +0800">
+		<title lang="zh">池上彰のニュースそうだったのか!!　池上流映像ショーSP[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808195400 +0800" stop="20260808212400 +0800">
+		<title lang="zh">タモリステーション　日本人と石油　最前线　そもそも石油とは何なのか!?彻底取材![字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808212400 +0800" stop="20260808215200 +0800">
+		<title lang="zh">サタデーステーション[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808215200 +0800" stop="20260808215600 +0800">
+		<title lang="zh">私の幸福时间[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808215600 +0800" stop="20260808220000 +0800">
+		<title lang="zh">港时间[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808220000 +0800" stop="20260808223000 +0800">
+		<title lang="zh">热闘甲子园[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808223000 +0800" stop="20260808230000 +0800">
+		<title lang="zh">夏色の云が恋と岚をまきおこす　#5[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808230000 +0800" stop="20260808233000 +0800">
+		<title lang="zh">天幕のジャードゥーガル　#7【イマニメーション】[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260808233000 +0800" stop="20260809000000 +0800">
+		<title lang="zh">テレ朝サマフェス音楽LIVEダイジェスト[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809000000 +0800" stop="20260809003000 +0800">
+		<title lang="zh">タイムトラベルダディ　#2　ダイアン津田ドラマ初主演作品　脚本:上田诚[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809003000 +0800" stop="20260809010000 +0800">
+		<title lang="zh">ワールドプロレスリング</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809010000 +0800" stop="20260809013000 +0800">
+		<title lang="zh">「きみを爱する気はない」と言った次期公爵様がなぜか溺爱してきます　#6[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809013000 +0800" stop="20260809020000 +0800">
+		<title lang="zh">花织さんは転生しても喧哗がしたい【ANiMAZiNG!!!】　#5</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809020000 +0800" stop="20260809023000 +0800">
+		<title lang="zh">上田ちゃんネル</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809023000 +0800" stop="20260809030000 +0800">
+		<title lang="zh">テラサってる?　EXOシウミン主演『ホ食堂〜时空を超えた恋のシェフ』第1话・前编</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809030000 +0800" stop="20260809033000 +0800">
+		<title lang="zh">サタデーマルシェ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809033000 +0800" stop="20260809033500 +0800">
+		<title lang="zh">CSテレ朝ナビ!!</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809033500 +0800" stop="20260809040000 +0800">
+		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809040000 +0800" stop="20260809042000 +0800">
+		<title lang="zh">はい!テレビ朝日です[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809042000 +0800" stop="20260809045000 +0800">
+		<title lang="zh">健康家族テレショップ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809045000 +0800" stop="20260809070000 +0800">
+		<title lang="zh">グッド!モーニング[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809070000 +0800" stop="20260809070100 +0800">
+		<title lang="zh">コウペンちゃん　#71[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809070100 +0800" stop="20260809073000 +0800">
+		<title lang="zh">よ〜い!スターと!トビダスクール[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809073000 +0800" stop="20260809080000 +0800">
+		<title lang="zh">名探侦プリキュア!　#28　谜の怪盗デッチ・アゲイン[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809080000 +0800" stop="20260809083000 +0800">
+		<title lang="zh">仮面ライダーゼッツ　第47话「救う」[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809083000 +0800" stop="20260809090000 +0800">
+		<title lang="zh">角醒ハンター　オメガホーン　第3话「味わえ!怒りのタッグバトル!」[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809090000 +0800" stop="20260809100000 +0800">
+		<title lang="zh">テレメンタリーPlus「谁が看取るのか 〜身寄りのない高齢者たち〜」[解][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809100000 +0800" stop="20260809104500 +0800">
+		<title lang="zh">林修の今知りたいでしょ!　杰作选[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809104500 +0800" stop="20260809105000 +0800">
+		<title lang="zh">つながるピックル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809105000 +0800" stop="20260809110000 +0800">
+		<title lang="zh">ANNニュース[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809110000 +0800" stop="20260809115500 +0800">
+		<title lang="zh">ビートたけしのTVタックル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809115500 +0800" stop="20260809122500 +0800">
+		<title lang="zh">新婚さんいらっしゃい![解][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809122500 +0800" stop="20260809125500 +0800">
+		<title lang="zh">华丸丼と大吉麺[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809125500 +0800" stop="20260809150000 +0800">
+		<title lang="zh">バスケットボール男子日本代表国际试合　日本×モンゴル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809150000 +0800" stop="20260809151500 +0800">
+		<title lang="zh">バスケ最强ニッポン　W杯最终予选へ![字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809151500 +0800" stop="20260809162500 +0800">
+		<title lang="zh">路线バスで寄り道の旅[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809162500 +0800" stop="20260809163000 +0800">
+		<title lang="zh">部活　on　Campus[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809163000 +0800" stop="20260809170000 +0800">
+		<title lang="zh">ANNスーパーJチャンネル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809170000 +0800" stop="20260809175600 +0800">
+		<title lang="zh">相叶マナブ[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809175600 +0800" stop="20260809185000 +0800">
+		<title lang="zh">ナニコレ珍百景[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809185000 +0800" stop="20260809185400 +0800">
+		<title lang="zh">食ノ音色[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809185400 +0800" stop="20260809195600 +0800">
+		<title lang="zh">ポツンと一轩家[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809195600 +0800" stop="20260809211500 +0800">
+		<title lang="zh">有働Times[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809211500 +0800" stop="20260809220900 +0800">
+		<title lang="zh">マイ・フィクション　#6　「すべてを操った“谁か"」[解][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809220900 +0800" stop="20260809221500 +0800">
+		<title lang="zh">ペダる!东京[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809221500 +0800" stop="20260809224500 +0800">
+		<title lang="zh">热闘甲子园[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809224500 +0800" stop="20260809234000 +0800">
+		<title lang="zh">EIGHT-JAM 【EIGHT-JAM FESの全貌を公开!コラボパフォーマンスや舞台里】[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260809234000 +0800" stop="20260810001000 +0800">
+		<title lang="zh">TRADE　ROOM[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810001000 +0800" stop="20260810004000 +0800">
+		<title lang="zh">有吉クイズ　【できそうな颜して実はアヤしい人选手権】[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810004000 +0800" stop="20260810011000 +0800">
+		<title lang="zh">热闘!Mリーグ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810011000 +0800" stop="20260810012500 +0800">
+		<title lang="zh">バスケ☆FIVE〜日本バスケ応援宣言〜[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810012500 +0800" stop="20260810025500 +0800">
+		<title lang="zh">Get　Sports</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810025500 +0800" stop="20260810030000 +0800">
+		<title lang="zh">おはようゴーちゃん。</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810030000 +0800" stop="20260810035500 +0800">
+		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#20[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810035500 +0800" stop="20260810070000 +0800">
+		<title lang="zh">グッド!モーニング[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810070000 +0800" stop="20260810085500 +0800">
+		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810085500 +0800" stop="20260810091000 +0800">
+		<title lang="zh">有働由美子の健康案内人![字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810091000 +0800" stop="20260810094000 +0800">
+		<title lang="zh">じゅん散歩[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810094000 +0800" stop="20260810120000 +0800">
+		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810120000 +0800" stop="20260810123000 +0800">
+		<title lang="zh">彻子の部屋[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810123000 +0800" stop="20260810124500 +0800">
+		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　名店の味ポークソテージンジャー[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810124500 +0800" stop="20260810125500 +0800">
+		<title lang="zh">ANNニュース[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810125500 +0800" stop="20260810135300 +0800">
+		<title lang="zh">クロスロード 〜救命救急の约束〜　#5[解][字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810135300 +0800" stop="20260810145000 +0800">
+		<title lang="zh">科捜研の女13　#6[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810145000 +0800" stop="20260810154800 +0800">
+		<title lang="zh">相棒21　#9[解][字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810154800 +0800" stop="20260810180000 +0800">
+		<title lang="zh">スーパーJチャンネル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810180000 +0800" stop="20260810205400 +0800">
+		<title lang="zh">Qさま!!　3时间SP[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810205400 +0800" stop="20260810221000 +0800">
+		<title lang="zh">报道ステーション[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810221000 +0800" stop="20260810224000 +0800">
+		<title lang="zh">热闘甲子园[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810224000 +0800" stop="20260810224500 +0800">
+		<title lang="zh">世界の车窓から[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810224500 +0800" stop="20260810231500 +0800">
+		<title lang="zh">光一&amp;シゲのSHOWマン!![字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810231500 +0800" stop="20260810234500 +0800">
+		<title lang="zh">くりぃむナンタラ　ドンデコルテ渡辺を深掘りクイズ!说教した女性と禁断の恋爱!?[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260810234500 +0800" stop="20260811004500 +0800">
+		<title lang="zh">START UP!ドリームエンタ[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811004500 +0800" stop="20260811005000 +0800">
+		<title lang="zh">テレ朝サマフェスナビ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811005000 +0800" stop="20260811005500 +0800">
+		<title lang="zh">全力坂</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811005500 +0800" stop="20260811012500 +0800">
+		<title lang="zh">musicる　TV</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811012500 +0800" stop="20260811015000 +0800">
+		<title lang="zh">耳の穴かっぽじって闻け!</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811015000 +0800" stop="20260811021500 +0800">
+		<title lang="zh">冠モナキ　【知ってほしい自分の一面をアピール!】</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811021500 +0800" stop="20260811023500 +0800">
+		<title lang="zh">熊プロのイケメロパラダイス</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811023500 +0800" stop="20260811030000 +0800">
+		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811030000 +0800" stop="20260811035500 +0800">
+		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#21[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811035500 +0800" stop="20260811070000 +0800">
+		<title lang="zh">グッド!モーニング[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811070000 +0800" stop="20260811085500 +0800">
+		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811085500 +0800" stop="20260811091000 +0800">
+		<title lang="zh">有働由美子の健康案内人![字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811091000 +0800" stop="20260811094000 +0800">
+		<title lang="zh">じゅん散歩[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811094000 +0800" stop="20260811120000 +0800">
+		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811120000 +0800" stop="20260811123000 +0800">
+		<title lang="zh">彻子の部屋[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811123000 +0800" stop="20260811124500 +0800">
+		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　今年も流す!そうめんパーティー[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811124500 +0800" stop="20260811125500 +0800">
+		<title lang="zh">ANNニュース[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811125500 +0800" stop="20260811132500 +0800">
+		<title lang="zh">买いドキ!生放送ショッピング　期间限定商品を手にする大チャンス!お见逃しなく!</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811132500 +0800" stop="20260811154800 +0800">
+		<title lang="zh">西村京太郎トラベルミステリー59[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811154800 +0800" stop="20260811180000 +0800">
+		<title lang="zh">スーパーJチャンネル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811180000 +0800" stop="20260811200000 +0800">
+		<title lang="zh">火曜の良纯孝太郎　2时间SP　世界文化遗产“富士山"ぐるっと一周大冒険[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811200000 +0800" stop="20260811205400 +0800">
+		<title lang="zh">クロスロード 〜救命救急の约束〜　#6[解][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811205400 +0800" stop="20260811221000 +0800">
+		<title lang="zh">报道ステーション[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811221000 +0800" stop="20260811224000 +0800">
+		<title lang="zh">热闘甲子园[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811224000 +0800" stop="20260811224500 +0800">
+		<title lang="zh">世界の车窓から[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811224500 +0800" stop="20260811231500 +0800">
+		<title lang="zh">ロンドンハーツ[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811231500 +0800" stop="20260811234500 +0800">
+		<title lang="zh">テレビ千鸟[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260811234500 +0800" stop="20260812001500 +0800">
+		<title lang="zh">夫が寝たあとに[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812001500 +0800" stop="20260812003200 +0800">
+		<title lang="zh">永野&amp;くるまのひっかかりニーチェ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812003200 +0800" stop="20260812005000 +0800">
+		<title lang="zh">ファンタスティックPARK</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812005000 +0800" stop="20260812005200 +0800">
+		<title lang="zh">テレ朝サマフェスナビ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812005200 +0800" stop="20260812005700 +0800">
+		<title lang="zh">全力坂</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812005700 +0800" stop="20260812012700 +0800">
+		<title lang="zh">RECTRUCK</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812012700 +0800" stop="20260812015200 +0800">
+		<title lang="zh">深夜のダイアン</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812015200 +0800" stop="20260812021700 +0800">
+		<title lang="zh">若槻千夏のうるさい心理テスト</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812021700 +0800" stop="20260812023700 +0800">
+		<title lang="zh">スポンジ・シノ2　杰作选</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812023700 +0800" stop="20260812024500 +0800">
+		<title lang="zh">バスケW杯まであと1年　あの歓喜をもう一度</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812024500 +0800" stop="20260812030000 +0800">
+		<title lang="zh">ミッドナイトマルシェ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812030000 +0800" stop="20260812035500 +0800">
+		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#22[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812035500 +0800" stop="20260812070000 +0800">
+		<title lang="zh">グッド!モーニング[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812070000 +0800" stop="20260812085500 +0800">
+		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812085500 +0800" stop="20260812091000 +0800">
+		<title lang="zh">有働由美子の健康案内人!　なかなか相谈できないけど意外と多い!尿トラブル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812091000 +0800" stop="20260812094000 +0800">
+		<title lang="zh">じゅん散歩[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812094000 +0800" stop="20260812120000 +0800">
+		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812120000 +0800" stop="20260812123000 +0800">
+		<title lang="zh">彻子の部屋[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812123000 +0800" stop="20260812124500 +0800">
+		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　みんなで豚しゃぶのニンニク味噌[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812124500 +0800" stop="20260812125500 +0800">
+		<title lang="zh">ANNニュース[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812125500 +0800" stop="20260812135400 +0800">
+		<title lang="zh">大追迹〜警视庁SSBC强行犯系〜2　#3[解][字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812135400 +0800" stop="20260812145000 +0800">
+		<title lang="zh">科捜研の女19　#11[解][字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812145000 +0800" stop="20260812154800 +0800">
+		<title lang="zh">相棒8　#18[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812154800 +0800" stop="20260812180000 +0800">
+		<title lang="zh">スーパーJチャンネル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812180000 +0800" stop="20260812200000 +0800">
+		<title lang="zh">くりぃむクイズ　ミラクル9　2时间SP[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812200000 +0800" stop="20260812205400 +0800">
+		<title lang="zh">大追迹〜警视庁SSBC强行犯系〜 Season2　#4/トクリュウ扑灭作戦[解][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812205400 +0800" stop="20260812221000 +0800">
+		<title lang="zh">报道ステーション[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812221000 +0800" stop="20260812224000 +0800">
+		<title lang="zh">热闘甲子园[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812224000 +0800" stop="20260812224500 +0800">
+		<title lang="zh">健查官〜サインを见逃すな〜[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812224500 +0800" stop="20260812231500 +0800">
+		<title lang="zh">かまいガチ　旅行に行きたい芸人&amp;スタッフが激突!「軽井沢旅行选抜会议」[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812231500 +0800" stop="20260812234500 +0800">
+		<title lang="zh">片田舎のおっさん、剣圣になるII　#6【イマニメーションW】[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260812234500 +0800" stop="20260813005000 +0800">
+		<title lang="zh">AI大作戦[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813005000 +0800" stop="20260813005200 +0800">
+		<title lang="zh">テレ朝サマフェスナビ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813005200 +0800" stop="20260813005700 +0800">
+		<title lang="zh">全力坂</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813005700 +0800" stop="20260813012700 +0800">
+		<title lang="zh">Break　Out</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813012700 +0800" stop="20260813015200 +0800">
+		<title lang="zh">ニカゲーム</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813015200 +0800" stop="20260813021700 +0800">
+		<title lang="zh">まいにち大喜利&amp;赏レース</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813021700 +0800" stop="20260813023700 +0800">
+		<title lang="zh">ジャンボ&amp;みーぱんの　おしえて推しコサン</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813023700 +0800" stop="20260813030000 +0800">
+		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813030000 +0800" stop="20260813035500 +0800">
+		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#23[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813035500 +0800" stop="20260813070000 +0800">
+		<title lang="zh">グッド!モーニング[デ][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813070000 +0800" stop="20260813085500 +0800">
+		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813085500 +0800" stop="20260813091000 +0800">
+		<title lang="zh">有働由美子の健康案内人!　なかなか相谈できないけど意外と多い!尿トラブル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813091000 +0800" stop="20260813094000 +0800">
+		<title lang="zh">じゅん散歩[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813094000 +0800" stop="20260813120000 +0800">
+		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813120000 +0800" stop="20260813123000 +0800">
+		<title lang="zh">彻子の部屋　秋川雅史[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813123000 +0800" stop="20260813124500 +0800">
+		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　手軽で必见!お刺身アレンジ[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813124500 +0800" stop="20260813125500 +0800">
+		<title lang="zh">ANNニュース[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813125500 +0800" stop="20260813135300 +0800">
+		<title lang="zh">大空港〜GATE24〜　#3[解][字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813135300 +0800" stop="20260813145000 +0800">
+		<title lang="zh">科捜研の女　2022　#4[解][字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813145000 +0800" stop="20260813154800 +0800">
+		<title lang="zh">相棒12　#12[解][字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813154800 +0800" stop="20260813180000 +0800">
+		<title lang="zh">スーパーJチャンネル[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813180000 +0800" stop="20260813200000 +0800">
+		<title lang="zh">林修の今知りたいでしょ!　2时间SP　夏が変わった!昭和の常识&amp;令和の新常识![字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813200000 +0800" stop="20260813205400 +0800">
+		<title lang="zh">大空港〜GATE24〜　#4[解][字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813205400 +0800" stop="20260813221000 +0800">
+		<title lang="zh">报道ステーション[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813221000 +0800" stop="20260813224000 +0800">
+		<title lang="zh">热闘甲子园[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813224000 +0800" stop="20260813224500 +0800">
+		<title lang="zh">And　One[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813224500 +0800" stop="20260813234500 +0800">
+		<title lang="zh">アメトーーク!　ダチョウ倶楽部を考えよう2026[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260813234500 +0800" stop="20260814001500 +0800">
+		<title lang="zh">见取り図じゃん[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814001500 +0800" stop="20260814005000 +0800">
+		<title lang="zh">あざとくて何が悪いの?[字]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814005000 +0800" stop="20260814005200 +0800">
+		<title lang="zh">テレ朝サマフェスナビ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814005200 +0800" stop="20260814005700 +0800">
+		<title lang="zh">全力坂</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814005700 +0800" stop="20260814012700 +0800">
+		<title lang="zh">FRUITS　ZIPPERのNEW　KAWAIIってしてよ?</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814012700 +0800" stop="20260814015200 +0800">
+		<title lang="zh">サクラミーツ</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814015200 +0800" stop="20260814021700 +0800">
+		<title lang="zh">EBiDAN热中!朝までBUDDiiS </title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814021700 +0800" stop="20260814023700 +0800">
+		<title lang="zh">ドンデコルテ银次と弱者たちの锅会　杰作选</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814023700 +0800" stop="20260814024500 +0800">
+		<title lang="zh">バスケW杯まであと1年　あの歓喜をもう一度</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814024500 +0800" stop="20260814030000 +0800">
+		<title lang="zh">ショッピングなう</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814030000 +0800" stop="20260814035500 +0800">
+		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#24[字][再]</title>
+	</programme>
+	<programme channel="テレビ朝日" start="20260814035500 +0800" stop="20260815000000 +0800">
+		<title lang="zh">グッド!モーニング[デ][字]</title>
+	</programme>
 	<channel id="tagesschau24">
 		<display-name lang="zh">tagesschau24</display-name>
 	</channel>
@@ -19139,1044 +20177,6 @@
 	</programme>
 	<programme channel="NOW 90s00s" start="20260810054500 +0800" stop="20260811000000 +0800">
 		<title lang="zh">Mellow Moments!</title>
-	</programme>
-	<channel id="TBS">
-		<display-name lang="zh">TBS</display-name>
-	</channel>
-	<programme channel="TBS" start="20260808001800 +0800" stop="20260808002300 +0800">
-		<title lang="zh">ジョシとドラゴン★サバンナ高桥</title>
-	</programme>
-	<programme channel="TBS" start="20260808002300 +0800" stop="20260808005300 +0800">
-		<title lang="zh">こちけんリアピのてれび1年生</title>
-	</programme>
-	<programme channel="TBS" start="20260808005300 +0800" stop="20260808012300 +0800">
-		<title lang="zh">コードギアス　夺还のロゼ　#05【アニメイズム】</title>
-	</programme>
-	<programme channel="TBS" start="20260808012300 +0800" stop="20260808013300 +0800">
-		<title lang="zh">With☆ベイスターズ</title>
-	</programme>
-	<programme channel="TBS" start="20260808013300 +0800" stop="20260808014500 +0800">
-		<title lang="zh">イベントGO!プラス「Ice Brave -A TURNING SEASON-」</title>
-	</programme>
-	<programme channel="TBS" start="20260808014500 +0800" stop="20260808030000 +0800">
-		<title lang="zh">カイモノラボ</title>
-	</programme>
-	<programme channel="TBS" start="20260808030000 +0800" stop="20260808034500 +0800">
-		<title lang="zh">TBS　NEWS</title>
-	</programme>
-	<programme channel="TBS" start="20260808034500 +0800" stop="20260808041500 +0800">
-		<title lang="zh">ぜひモノ</title>
-	</programme>
-	<programme channel="TBS" start="20260808041500 +0800" stop="20260808043000 +0800">
-		<title lang="zh">皇室アルバム</title>
-	</programme>
-	<programme channel="TBS" start="20260808043000 +0800" stop="20260808044500 +0800">
-		<title lang="zh">JNNニュース[手][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808044500 +0800" stop="20260808063000 +0800">
-		<title lang="zh">夜明けのラヴィット![字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808063000 +0800" stop="20260808082500 +0800">
-		<title lang="zh">サタプラ[字]试して!夏アイス★东京で云海!?小野花梨が生中継★正门が旬の明石タコ钓り</title>
-	</programme>
-	<programme channel="TBS" start="20260808082500 +0800" stop="20260808083000 +0800">
-		<title lang="zh">アニメ「リラックマ」#19[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808083000 +0800" stop="20260808104500 +0800">
-		<title lang="zh">王様のブランチ[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808104500 +0800" stop="20260808105900 +0800">
-		<title lang="zh">JNNニュース[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808105900 +0800" stop="20260808130000 +0800">
-		<title lang="zh">王様のブランチ[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808130000 +0800" stop="20260808140000 +0800">
-		<title lang="zh">今さらシロー!〜テストに出ないが役に立つ〜[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808140000 +0800" stop="20260808150000 +0800">
-		<title lang="zh">THE鬼タイジ【今夜7时〜真夏2时间SP!VIVANT大物俳优&amp;M!LKが参戦】</title>
-	</programme>
-	<programme channel="TBS" start="20260808150000 +0800" stop="20260808163000 +0800">
-		<title lang="zh">坂上&amp;指原のつぶれない店[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808163000 +0800" stop="20260808175000 +0800">
-		<title lang="zh">报道特集[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808175000 +0800" stop="20260808175100 +0800">
-		<title lang="zh">ウィークエンドウェザー[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808175100 +0800" stop="20260808195400 +0800">
-		<title lang="zh">THE鬼タイジ【东京サマーランド完全占拠】VIVANT超大物俳优&amp;M!LK初参戦</title>
-	</programme>
-	<programme channel="TBS" start="20260808195400 +0800" stop="20260808205600 +0800">
-		<title lang="zh">いくらかわかる金?镰仓グルメ旅で暗记クイズ!寝たら减额・軽井沢リラクゼーション旅</title>
-	</programme>
-	<programme channel="TBS" start="20260808205600 +0800" stop="20260808210000 +0800">
-		<title lang="zh">和心百景〜愿いがこめられた织物　『知花花织/冲縄』〜[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808210000 +0800" stop="20260808222400 +0800">
-		<title lang="zh">情报7daysニュースキャスター[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808222400 +0800" stop="20260808223000 +0800">
-		<title lang="zh">Weatherニュースキャスター[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808223000 +0800" stop="20260808230000 +0800">
-		<title lang="zh">人生最高レストラン[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808230000 +0800" stop="20260808232800 +0800">
-		<title lang="zh">S☆1[字]周末のスポーツ情报番组。世界で活跃するアスリートを热く厚くお届けします!</title>
-	</programme>
-	<programme channel="TBS" start="20260808232800 +0800" stop="20260808235800 +0800">
-		<title lang="zh">IMP.の「できません」は言いません[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260808235800 +0800" stop="20260809002800 +0800">
-		<title lang="zh">バース・デイ[字]　</title>
-	</programme>
-	<programme channel="TBS" start="20260809002800 +0800" stop="20260809005800 +0800">
-		<title lang="zh">カバン持ちさせてください!</title>
-	</programme>
-	<programme channel="TBS" start="20260809005800 +0800" stop="20260809030000 +0800">
-		<title lang="zh">カイモノラボ</title>
-	</programme>
-	<programme channel="TBS" start="20260809030000 +0800" stop="20260809034000 +0800">
-		<title lang="zh">TBS　NEWS</title>
-	</programme>
-	<programme channel="TBS" start="20260809034000 +0800" stop="20260809044000 +0800">
-		<title lang="zh">ぜひモノ</title>
-	</programme>
-	<programme channel="TBS" start="20260809044000 +0800" stop="20260809050000 +0800">
-		<title lang="zh">TBSレビュー[手]</title>
-	</programme>
-	<programme channel="TBS" start="20260809050000 +0800" stop="20260809054500 +0800">
-		<title lang="zh">バナナマンの早起きせっかくグルメ★笑って腹ペコ!最高の朝ごはんを応援します![字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809054500 +0800" stop="20260809060000 +0800">
-		<title lang="zh">JNNニュース[手]</title>
-	</programme>
-	<programme channel="TBS" start="20260809060000 +0800" stop="20260809063000 +0800">
-		<title lang="zh">健康カプセル!ゲンキの时间[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809063000 +0800" stop="20260809070000 +0800">
-		<title lang="zh">がっちりマンデー!!地方ビジネスホテル!アメニティ无し谜宿「マエノリ・アトハク」</title>
-	</programme>
-	<programme channel="TBS" start="20260809070000 +0800" stop="20260809085400 +0800">
-		<title lang="zh">サンデーモーニング[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809085400 +0800" stop="20260809103500 +0800">
-		<title lang="zh">サンデー・ジャポン</title>
-	</programme>
-	<programme channel="TBS" start="20260809103500 +0800" stop="20260809115400 +0800">
-		<title lang="zh">上田晋也のサンデーQ[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809115400 +0800" stop="20260809115700 +0800">
-		<title lang="zh">ゆたかな食の未来をさがして[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809115700 +0800" stop="20260809120000 +0800">
-		<title lang="zh">デジタル一番星+[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809120000 +0800" stop="20260809122700 +0800">
-		<title lang="zh">周刊さんまとマツコ[解][字] 芸能界リアル金銭トラブル被害者の会!実态と対処法を激白</title>
-	</programme>
-	<programme channel="TBS" start="20260809122700 +0800" stop="20260809123000 +0800">
-		<title lang="zh">四季折々の赠り物 〜精霊马〜[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809123000 +0800" stop="20260809133000 +0800">
-		<title lang="zh">世界くらべてみたら[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809133000 +0800" stop="20260809143000 +0800">
-		<title lang="zh">THE神业チャレンジ★11日よる7时!くら寿司!売上対决&amp;MC松尾VS神クレーン[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809143000 +0800" stop="20260809152700 +0800">
-		<title lang="zh">别册!王様のブランチ　夏休み満吃SP★JO1最先端デジタル施设&amp;冷やしグルメ体験</title>
-	</programme>
-	<programme channel="TBS" start="20260809152700 +0800" stop="20260809153000 +0800">
-		<title lang="zh">With☆ベイ サンデー[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809153000 +0800" stop="20260809160000 +0800">
-		<title lang="zh">レッツゴー怪奇组　第六怪[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809160000 +0800" stop="20260809163000 +0800">
-		<title lang="zh">日5「正反対な君と仆」　#18「春の手前」[字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260809163000 +0800" stop="20260809170000 +0800">
-		<title lang="zh">Nスタ[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809170000 +0800" stop="20260809173000 +0800">
-		<title lang="zh">世界遗产[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809173000 +0800" stop="20260809180000 +0800">
-		<title lang="zh">ベスコングルメ★横浜・元町の路地里を歩く!めざすはイタリアン名店の(秘)パスタ[解][字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260809180000 +0800" stop="20260809195400 +0800">
-		<title lang="zh">坂上&amp;指原のつぶれない店　ワークマン・串カツ田中・サブウェイが超どえらいことに!</title>
-	</programme>
-	<programme channel="TBS" start="20260809195400 +0800" stop="20260809200000 +0800">
-		<title lang="zh">フラッシュニュース[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809200000 +0800" stop="20260809210900 +0800">
-		<title lang="zh">日曜剧场「VIVANT」第13话[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809210900 +0800" stop="20260809211500 +0800">
-		<title lang="zh">むしめがね 〜真の価値をのぞく〜[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809211500 +0800" stop="20260809220900 +0800">
-		<title lang="zh">日曜日の初耳学【大泉洋×林修◆スキマスイッチと爆笑リモート&amp;吉田羊が暴露】[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809220900 +0800" stop="20260809221500 +0800">
-		<title lang="zh">东京空色さんぽ[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809221500 +0800" stop="20260809224500 +0800">
-		<title lang="zh">情热大陆【次田展之/诊疗所医师・パイロット▽空飞び命守る!フライングドクター】[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260809224500 +0800" stop="20260809231500 +0800">
-		<title lang="zh">黒猫と魔女の教室[字][デ]　#18【アガルアニメ】</title>
-	</programme>
-	<programme channel="TBS" start="20260809231500 +0800" stop="20260810001300 +0800">
-		<title lang="zh">S☆1[字]周末のスポーツ情报番组。世界で活跃するアスリートを热く厚くお届けします!</title>
-	</programme>
-	<programme channel="TBS" start="20260810001300 +0800" stop="20260810011300 +0800">
-		<title lang="zh">KICK　OFF!J ≪新たな视点で纽解く、新たなサッカーLIFE≫[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810011300 +0800" stop="20260810024500 +0800">
-		<title lang="zh">カイモノラボ</title>
-	</programme>
-	<programme channel="TBS" start="20260810024500 +0800" stop="20260810033000 +0800">
-		<title lang="zh">TBS　NEWS</title>
-	</programme>
-	<programme channel="TBS" start="20260810033000 +0800" stop="20260810042000 +0800">
-		<title lang="zh">THE　TIME'[デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260810042000 +0800" stop="20260810070000 +0800">
-		<title lang="zh">THE　TIME,[字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260810070000 +0800" stop="20260810085500 +0800">
-		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810085500 +0800" stop="20260810092500 +0800">
-		<title lang="zh">滝沢カレン&amp;和田明日香のフィーリンきっちん[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810092500 +0800" stop="20260810105500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810105500 +0800" stop="20260810125500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810125500 +0800" stop="20260810144900 +0800">
-		<title lang="zh">ゴゴスマ</title>
-	</programme>
-	<programme channel="TBS" start="20260810144900 +0800" stop="20260810180000 +0800">
-		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
-	</programme>
-	<programme channel="TBS" start="20260810180000 +0800" stop="20260810195500 +0800">
-		<title lang="zh">CDTVライブ!ライブ![字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260810195500 +0800" stop="20260810210000 +0800">
-		<title lang="zh">テレビ×ミセス★びしょ濡れMAX!夏の东京ディズニーリゾート大视察ロケSP![字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810210000 +0800" stop="20260810215700 +0800">
-		<title lang="zh">プロフェッショナルランキング★SASUKE泣ける名场面ランキングBEST20[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810215700 +0800" stop="20260810220000 +0800">
-		<title lang="zh">トップニュース先出し[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810220000 +0800" stop="20260810225600 +0800">
-		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
-	</programme>
-	<programme channel="TBS" start="20260810225600 +0800" stop="20260810235500 +0800">
-		<title lang="zh">クレイジージャーニー[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260810235500 +0800" stop="20260810235800 +0800">
-		<title lang="zh">Gヘルスケア  街角ドクター访问</title>
-	</programme>
-	<programme channel="TBS" start="20260810235800 +0800" stop="20260811002800 +0800">
-		<title lang="zh">ひらめけ!うんぴょこちゃんねる WEST.お兄さんが子どもの自由な発想を全力表现</title>
-	</programme>
-	<programme channel="TBS" start="20260811002800 +0800" stop="20260811003500 +0800">
-		<title lang="zh">イベントGO!</title>
-	</programme>
-	<programme channel="TBS" start="20260811003500 +0800" stop="20260811031500 +0800">
-		<title lang="zh">カイモノラボ</title>
-	</programme>
-	<programme channel="TBS" start="20260811031500 +0800" stop="20260811033000 +0800">
-		<title lang="zh">TBS　NEWS</title>
-	</programme>
-	<programme channel="TBS" start="20260811033000 +0800" stop="20260811042000 +0800">
-		<title lang="zh">THE　TIME'[デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260811042000 +0800" stop="20260811070000 +0800">
-		<title lang="zh">THE　TIME,[字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260811070000 +0800" stop="20260811085500 +0800">
-		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260811085500 +0800" stop="20260811092500 +0800">
-		<title lang="zh">买いドキ!生ショップ　この时期にぴったりの季节商品や今だけの期间限定商品がお得[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260811092500 +0800" stop="20260811105500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260811105500 +0800" stop="20260811125500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260811125500 +0800" stop="20260811144900 +0800">
-		<title lang="zh">ゴゴスマ</title>
-	</programme>
-	<programme channel="TBS" start="20260811144900 +0800" stop="20260811180000 +0800">
-		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
-	</programme>
-	<programme channel="TBS" start="20260811180000 +0800" stop="20260811195500 +0800">
-		<title lang="zh">THE神业チャレンジ★くら寿司!売上対决&amp;铃木亮平VS神职人&amp;松尾VS神クレーン[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260811195500 +0800" stop="20260811210000 +0800">
-		<title lang="zh">マツコの知らない世界[解][字]【毎周火曜よる8时55分!マツコ仰天!惊きの世界】</title>
-	</programme>
-	<programme channel="TBS" start="20260811210000 +0800" stop="20260811220000 +0800">
-		<title lang="zh">火曜ドラマ「君の好きは无敌」#5すべては「かわいい」と「好き」を守るために![解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260811220000 +0800" stop="20260811225600 +0800">
-		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
-	</programme>
-	<programme channel="TBS" start="20260811225600 +0800" stop="20260811232400 +0800">
-		<title lang="zh">地球まるごと大実験ネイチャーティーチャー[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260811232400 +0800" stop="20260811235300 +0800">
-		<title lang="zh">「トーキング千鸟!」ナビ</title>
-	</programme>
-	<programme channel="TBS" start="20260811235300 +0800" stop="20260811235600 +0800">
-		<title lang="zh">Gヘルスケア  街角ドクター访问【テーマ:腰痛】</title>
-	</programme>
-	<programme channel="TBS" start="20260811235600 +0800" stop="20260812002600 +0800">
-		<title lang="zh">アッコとジャンボ</title>
-	</programme>
-	<programme channel="TBS" start="20260812002600 +0800" stop="20260812005600 +0800">
-		<title lang="zh">幸せになりたいマサムネ君　第6话【中沢元纪・主演★ドラマイズム】[解][字]</title>
-	</programme>
-	<programme channel="TBS" start="20260812005600 +0800" stop="20260812013600 +0800">
-		<title lang="zh">アカデミーナイトG</title>
-	</programme>
-	<programme channel="TBS" start="20260812013600 +0800" stop="20260812014300 +0800">
-		<title lang="zh">イベントGO!</title>
-	</programme>
-	<programme channel="TBS" start="20260812014300 +0800" stop="20260812024500 +0800">
-		<title lang="zh">カイモノラボ</title>
-	</programme>
-	<programme channel="TBS" start="20260812024500 +0800" stop="20260812033000 +0800">
-		<title lang="zh">TBS　NEWS</title>
-	</programme>
-	<programme channel="TBS" start="20260812033000 +0800" stop="20260812042000 +0800">
-		<title lang="zh">THE　TIME'[デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260812042000 +0800" stop="20260812070000 +0800">
-		<title lang="zh">THE　TIME,[字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260812070000 +0800" stop="20260812085500 +0800">
-		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260812085500 +0800" stop="20260812092500 +0800">
-		<title lang="zh">滝沢カレン&amp;和田明日香のフィーリンきっちん[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260812092500 +0800" stop="20260812105500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260812105500 +0800" stop="20260812125500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260812125500 +0800" stop="20260812144900 +0800">
-		<title lang="zh">ゴゴスマ</title>
-	</programme>
-	<programme channel="TBS" start="20260812144900 +0800" stop="20260812180000 +0800">
-		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
-	</programme>
-	<programme channel="TBS" start="20260812180000 +0800" stop="20260812205800 +0800">
-		<title lang="zh">世界くらべてみたら★SixTONES森本&amp;あばれる君参戦!世界で自由研究[字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260812205800 +0800" stop="20260812210000 +0800">
-		<title lang="zh">フラッシュニュース[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260812210000 +0800" stop="20260812220000 +0800">
-		<title lang="zh">「トーキング千鸟!」好评第2弾★千鸟VS话题の有名人10名!东京は天国or地狱SP</title>
-	</programme>
-	<programme channel="TBS" start="20260812220000 +0800" stop="20260812225600 +0800">
-		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
-	</programme>
-	<programme channel="TBS" start="20260812225600 +0800" stop="20260812235500 +0800">
-		<title lang="zh">よるのブランチ[字]八村伦太郎率いるWATWINGとクイズ対决★1年前のリベンジ合戦</title>
-	</programme>
-	<programme channel="TBS" start="20260812235500 +0800" stop="20260812235800 +0800">
-		<title lang="zh">Gヘルスケア  街角ドクター访问【テーマ:腰痛】</title>
-	</programme>
-	<programme channel="TBS" start="20260812235800 +0800" stop="20260813002800 +0800">
-		<title lang="zh">ふるさとの未来[解]</title>
-	</programme>
-	<programme channel="TBS" start="20260813002800 +0800" stop="20260813003500 +0800">
-		<title lang="zh">イベントGO! ブロードウェイミュージカル『シカゴ』情报!</title>
-	</programme>
-	<programme channel="TBS" start="20260813003500 +0800" stop="20260813024500 +0800">
-		<title lang="zh">カイモノラボ</title>
-	</programme>
-	<programme channel="TBS" start="20260813024500 +0800" stop="20260813033000 +0800">
-		<title lang="zh">TBS　NEWS</title>
-	</programme>
-	<programme channel="TBS" start="20260813033000 +0800" stop="20260813042000 +0800">
-		<title lang="zh">THE　TIME'[デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260813042000 +0800" stop="20260813070000 +0800">
-		<title lang="zh">THE　TIME,[字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260813070000 +0800" stop="20260813085500 +0800">
-		<title lang="zh">ラヴィット!　日本でいちばん明るい朝番组[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813085500 +0800" stop="20260813092500 +0800">
-		<title lang="zh">滝沢カレン&amp;和田明日香のフィーリンきっちん[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813092500 +0800" stop="20260813105500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813105500 +0800" stop="20260813125500 +0800">
-		<title lang="zh">ひるおび[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813125500 +0800" stop="20260813144900 +0800">
-		<title lang="zh">ゴゴスマ</title>
-	</programme>
-	<programme channel="TBS" start="20260813144900 +0800" stop="20260813180000 +0800">
-		<title lang="zh">Nスタ[字]　井上贵博、出水麻衣が、あなたのパートナーに。</title>
-	</programme>
-	<programme channel="TBS" start="20260813180000 +0800" stop="20260813190000 +0800">
-		<title lang="zh">プレバト!!【陶芸…特待生の片桐仁が升格试験!★俳句…お题は「花火大会」】[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813190000 +0800" stop="20260813210000 +0800">
-		<title lang="zh">ニンゲン観察バラエティ　モニタリング[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813210000 +0800" stop="20260813215700 +0800">
-		<title lang="zh">サンド屋台☆菜々绪&amp;宫泽エマ&amp;モナキおヨネが来店で大揉め!!爆笑トーク&amp;ゲーム[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813215700 +0800" stop="20260813220000 +0800">
-		<title lang="zh">アジア大会×VIVANT〜新たな别班候补はだれだ?〜[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813220000 +0800" stop="20260813225600 +0800">
-		<title lang="zh">news23[字]あなたと、あなたの身近な人にとって大切なニュースを</title>
-	</programme>
-	<programme channel="TBS" start="20260813225600 +0800" stop="20260813232600 +0800">
-		<title lang="zh">スーパーの里でヤニ吸うふたり　♯6[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260813232600 +0800" stop="20260813235600 +0800">
-		<title lang="zh">追放された転生重骑士はゲーム知识で无双する#07◆スーパーアニメイズムTURBO[字][デ]</title>
-	</programme>
-	<programme channel="TBS" start="20260813235600 +0800" stop="20260813235900 +0800">
-		<title lang="zh">Gヘルスケア  街角ドクター访问【テーマ:腰痛】</title>
-	</programme>
-	<programme channel="TBS" start="20260813235900 +0800" stop="20260814002800 +0800">
-		<title lang="zh">限界突破!やってM!LK</title>
-	</programme>
-	<programme channel="TBS" start="20260814002800 +0800" stop="20260814005800 +0800">
-		<title lang="zh">TVアニメ『乙女怪獣キャラメリゼ』第7话「狙われた新汰」[字]</title>
-	</programme>
-	<programme channel="TBS" start="20260814005800 +0800" stop="20260814010500 +0800">
-		<title lang="zh">イベントGO! ブロードウェイミュージカル『シカゴ』情报!</title>
-	</programme>
-	<programme channel="TBS" start="20260814010500 +0800" stop="20260814024500 +0800">
-		<title lang="zh">カイモノラボ</title>
-	</programme>
-	<programme channel="TBS" start="20260814024500 +0800" stop="20260814033000 +0800">
-		<title lang="zh">TBS　NEWS</title>
-	</programme>
-	<programme channel="TBS" start="20260814033000 +0800" stop="20260815000000 +0800">
-		<title lang="zh">THE　TIME'[デ]</title>
-	</programme>
-	<channel id="テレビ朝日">
-		<display-name lang="zh">テレビ朝日</display-name>
-	</channel>
-	<programme channel="テレビ朝日" start="20260808001500 +0800" stop="20260808004500 +0800">
-		<title lang="zh">バズマンTV</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808004500 +0800" stop="20260808010000 +0800">
-		<title lang="zh">ラブ!!Jリーグ[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808010000 +0800" stop="20260808012000 +0800">
-		<title lang="zh">M:ZINE</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808012000 +0800" stop="20260808012200 +0800">
-		<title lang="zh">テレ朝サマフェスナビ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808012200 +0800" stop="20260808015200 +0800">
-		<title lang="zh">全力!アオハル応援団</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808015200 +0800" stop="20260808021700 +0800">
-		<title lang="zh">新日ちゃんぴおん!</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808021700 +0800" stop="20260808023000 +0800">
-		<title lang="zh">イベレコ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808023000 +0800" stop="20260808030000 +0800">
-		<title lang="zh">秘汤ロマン</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808030000 +0800" stop="20260808032500 +0800">
-		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808032500 +0800" stop="20260808035000 +0800">
-		<title lang="zh">渡辺笃史の建もの探访[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808035000 +0800" stop="20260808042000 +0800">
-		<title lang="zh">テレメンタリー2026「核を抱く星-VOICE-」[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808042000 +0800" stop="20260808045000 +0800">
-		<title lang="zh">日本のチカラ[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808045000 +0800" stop="20260808050000 +0800">
-		<title lang="zh">ANNニュース[手][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808050000 +0800" stop="20260808070000 +0800">
-		<title lang="zh">グッド!モーニング[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808070000 +0800" stop="20260808083000 +0800">
-		<title lang="zh">朝だ!生です旅サラダ[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808083000 +0800" stop="20260808085500 +0800">
-		<title lang="zh">1泊家族　杰作选[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808085500 +0800" stop="20260808090000 +0800">
-		<title lang="zh">しあわせのたね。[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808090000 +0800" stop="20260808093000 +0800">
-		<title lang="zh">题名のない音楽会「背筋も冻る!恐怖を感じる音楽会」[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808093000 +0800" stop="20260808100000 +0800">
-		<title lang="zh">买いドキ!生放送ショッピング　期间限定商品を手にする大チャンス!お见逃しなく!</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808100000 +0800" stop="20260808123000 +0800">
-		<title lang="zh">ワイド!スクランブル　サタデー[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808123000 +0800" stop="20260808143000 +0800">
-		<title lang="zh">八村塁スペシャルマッチ　BLACK　SAMURAI　SUMMIT[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808143000 +0800" stop="20260808150000 +0800">
-		<title lang="zh">なにわ男子の逆転男子[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808150000 +0800" stop="20260808153000 +0800">
-		<title lang="zh">バチバチSTAR[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808153000 +0800" stop="20260808160000 +0800">
-		<title lang="zh">クレヨンしんちゃん　【スワンボート伝说だゾ】(他)[デ][解][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808160000 +0800" stop="20260808163000 +0800">
-		<title lang="zh">ドラえもん　【ウラメシズキン】ほか[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808163000 +0800" stop="20260808170000 +0800">
-		<title lang="zh">ANNスーパーJチャンネル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808170000 +0800" stop="20260808175600 +0800">
-		<title lang="zh">人生の楽园　夏の1时间!ふるさと大好きスペシャル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808175600 +0800" stop="20260808190000 +0800">
-		<title lang="zh">サンドウィッチマン&amp;芦田爱菜の博士ちゃん[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808190000 +0800" stop="20260808195400 +0800">
-		<title lang="zh">池上彰のニュースそうだったのか!!　池上流映像ショーSP[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808195400 +0800" stop="20260808212400 +0800">
-		<title lang="zh">タモリステーション　日本人と石油　最前线　そもそも石油とは何なのか!?彻底取材![字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808212400 +0800" stop="20260808215200 +0800">
-		<title lang="zh">サタデーステーション[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808215200 +0800" stop="20260808215600 +0800">
-		<title lang="zh">私の幸福时间[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808215600 +0800" stop="20260808220000 +0800">
-		<title lang="zh">港时间[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808220000 +0800" stop="20260808223000 +0800">
-		<title lang="zh">热闘甲子园[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808223000 +0800" stop="20260808230000 +0800">
-		<title lang="zh">夏色の云が恋と岚をまきおこす　#5[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808230000 +0800" stop="20260808233000 +0800">
-		<title lang="zh">天幕のジャードゥーガル　#7【イマニメーション】[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260808233000 +0800" stop="20260809000000 +0800">
-		<title lang="zh">テレ朝サマフェス音楽LIVEダイジェスト[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809000000 +0800" stop="20260809003000 +0800">
-		<title lang="zh">タイムトラベルダディ　#2　ダイアン津田ドラマ初主演作品　脚本:上田诚[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809003000 +0800" stop="20260809010000 +0800">
-		<title lang="zh">ワールドプロレスリング</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809010000 +0800" stop="20260809013000 +0800">
-		<title lang="zh">「きみを爱する気はない」と言った次期公爵様がなぜか溺爱してきます　#6[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809013000 +0800" stop="20260809020000 +0800">
-		<title lang="zh">花织さんは転生しても喧哗がしたい【ANiMAZiNG!!!】　#5</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809020000 +0800" stop="20260809023000 +0800">
-		<title lang="zh">上田ちゃんネル</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809023000 +0800" stop="20260809030000 +0800">
-		<title lang="zh">テラサってる?　EXOシウミン主演『ホ食堂〜时空を超えた恋のシェフ』第1话・前编</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809030000 +0800" stop="20260809033000 +0800">
-		<title lang="zh">サタデーマルシェ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809033000 +0800" stop="20260809033500 +0800">
-		<title lang="zh">CSテレ朝ナビ!!</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809033500 +0800" stop="20260809040000 +0800">
-		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809040000 +0800" stop="20260809042000 +0800">
-		<title lang="zh">はい!テレビ朝日です[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809042000 +0800" stop="20260809045000 +0800">
-		<title lang="zh">健康家族テレショップ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809045000 +0800" stop="20260809070000 +0800">
-		<title lang="zh">グッド!モーニング[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809070000 +0800" stop="20260809070100 +0800">
-		<title lang="zh">コウペンちゃん　#71[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809070100 +0800" stop="20260809073000 +0800">
-		<title lang="zh">よ〜い!スターと!トビダスクール[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809073000 +0800" stop="20260809080000 +0800">
-		<title lang="zh">名探侦プリキュア!　#28　谜の怪盗デッチ・アゲイン[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809080000 +0800" stop="20260809083000 +0800">
-		<title lang="zh">仮面ライダーゼッツ　第47话「救う」[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809083000 +0800" stop="20260809090000 +0800">
-		<title lang="zh">角醒ハンター　オメガホーン　第3话「味わえ!怒りのタッグバトル!」[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809090000 +0800" stop="20260809100000 +0800">
-		<title lang="zh">テレメンタリーPlus「谁が看取るのか 〜身寄りのない高齢者たち〜」[解][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809100000 +0800" stop="20260809104500 +0800">
-		<title lang="zh">林修の今知りたいでしょ!　杰作选[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809104500 +0800" stop="20260809105000 +0800">
-		<title lang="zh">つながるピックル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809105000 +0800" stop="20260809110000 +0800">
-		<title lang="zh">ANNニュース[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809110000 +0800" stop="20260809115500 +0800">
-		<title lang="zh">ビートたけしのTVタックル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809115500 +0800" stop="20260809122500 +0800">
-		<title lang="zh">新婚さんいらっしゃい![解][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809122500 +0800" stop="20260809125500 +0800">
-		<title lang="zh">华丸丼と大吉麺[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809125500 +0800" stop="20260809150000 +0800">
-		<title lang="zh">バスケットボール男子日本代表国际试合　日本×モンゴル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809150000 +0800" stop="20260809151500 +0800">
-		<title lang="zh">バスケ最强ニッポン　W杯最终予选へ![字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809151500 +0800" stop="20260809162500 +0800">
-		<title lang="zh">路线バスで寄り道の旅[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809162500 +0800" stop="20260809163000 +0800">
-		<title lang="zh">部活　on　Campus[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809163000 +0800" stop="20260809170000 +0800">
-		<title lang="zh">ANNスーパーJチャンネル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809170000 +0800" stop="20260809175600 +0800">
-		<title lang="zh">相叶マナブ[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809175600 +0800" stop="20260809185000 +0800">
-		<title lang="zh">ナニコレ珍百景[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809185000 +0800" stop="20260809185400 +0800">
-		<title lang="zh">食ノ音色[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809185400 +0800" stop="20260809195600 +0800">
-		<title lang="zh">ポツンと一轩家[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809195600 +0800" stop="20260809211500 +0800">
-		<title lang="zh">有働Times[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809211500 +0800" stop="20260809220900 +0800">
-		<title lang="zh">マイ・フィクション　#6　「すべてを操った“谁か"」[解][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809220900 +0800" stop="20260809221500 +0800">
-		<title lang="zh">ペダる!东京[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809221500 +0800" stop="20260809224500 +0800">
-		<title lang="zh">热闘甲子园[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809224500 +0800" stop="20260809234000 +0800">
-		<title lang="zh">EIGHT-JAM 【EIGHT-JAM FESの全貌を公开!コラボパフォーマンスや舞台里】[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260809234000 +0800" stop="20260810001000 +0800">
-		<title lang="zh">TRADE　ROOM[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810001000 +0800" stop="20260810004000 +0800">
-		<title lang="zh">有吉クイズ　【できそうな颜して実はアヤしい人选手権】[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810004000 +0800" stop="20260810011000 +0800">
-		<title lang="zh">热闘!Mリーグ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810011000 +0800" stop="20260810012500 +0800">
-		<title lang="zh">バスケ☆FIVE〜日本バスケ応援宣言〜[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810012500 +0800" stop="20260810025500 +0800">
-		<title lang="zh">Get　Sports</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810025500 +0800" stop="20260810030000 +0800">
-		<title lang="zh">おはようゴーちゃん。</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810030000 +0800" stop="20260810035500 +0800">
-		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#20[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810035500 +0800" stop="20260810070000 +0800">
-		<title lang="zh">グッド!モーニング[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810070000 +0800" stop="20260810085500 +0800">
-		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810085500 +0800" stop="20260810091000 +0800">
-		<title lang="zh">有働由美子の健康案内人![字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810091000 +0800" stop="20260810094000 +0800">
-		<title lang="zh">じゅん散歩[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810094000 +0800" stop="20260810120000 +0800">
-		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810120000 +0800" stop="20260810123000 +0800">
-		<title lang="zh">彻子の部屋[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810123000 +0800" stop="20260810124500 +0800">
-		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　名店の味ポークソテージンジャー[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810124500 +0800" stop="20260810125500 +0800">
-		<title lang="zh">ANNニュース[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810125500 +0800" stop="20260810135300 +0800">
-		<title lang="zh">クロスロード 〜救命救急の约束〜　#5[解][字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810135300 +0800" stop="20260810145000 +0800">
-		<title lang="zh">科捜研の女13　#6[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810145000 +0800" stop="20260810154800 +0800">
-		<title lang="zh">相棒21　#9[解][字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810154800 +0800" stop="20260810180000 +0800">
-		<title lang="zh">スーパーJチャンネル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810180000 +0800" stop="20260810205400 +0800">
-		<title lang="zh">Qさま!!　3时间SP[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810205400 +0800" stop="20260810221000 +0800">
-		<title lang="zh">报道ステーション[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810221000 +0800" stop="20260810224000 +0800">
-		<title lang="zh">热闘甲子园[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810224000 +0800" stop="20260810224500 +0800">
-		<title lang="zh">世界の车窓から[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810224500 +0800" stop="20260810231500 +0800">
-		<title lang="zh">光一&amp;シゲのSHOWマン!![字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810231500 +0800" stop="20260810234500 +0800">
-		<title lang="zh">くりぃむナンタラ　ドンデコルテ渡辺を深掘りクイズ!说教した女性と禁断の恋爱!?[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260810234500 +0800" stop="20260811004500 +0800">
-		<title lang="zh">START UP!ドリームエンタ[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811004500 +0800" stop="20260811005000 +0800">
-		<title lang="zh">テレ朝サマフェスナビ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811005000 +0800" stop="20260811005500 +0800">
-		<title lang="zh">全力坂</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811005500 +0800" stop="20260811012500 +0800">
-		<title lang="zh">musicる　TV</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811012500 +0800" stop="20260811015000 +0800">
-		<title lang="zh">耳の穴かっぽじって闻け!</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811015000 +0800" stop="20260811021500 +0800">
-		<title lang="zh">冠モナキ　【知ってほしい自分の一面をアピール!】</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811021500 +0800" stop="20260811023500 +0800">
-		<title lang="zh">熊プロのイケメロパラダイス</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811023500 +0800" stop="20260811030000 +0800">
-		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811030000 +0800" stop="20260811035500 +0800">
-		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#21[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811035500 +0800" stop="20260811070000 +0800">
-		<title lang="zh">グッド!モーニング[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811070000 +0800" stop="20260811085500 +0800">
-		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811085500 +0800" stop="20260811091000 +0800">
-		<title lang="zh">有働由美子の健康案内人![字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811091000 +0800" stop="20260811094000 +0800">
-		<title lang="zh">じゅん散歩[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811094000 +0800" stop="20260811120000 +0800">
-		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811120000 +0800" stop="20260811123000 +0800">
-		<title lang="zh">彻子の部屋[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811123000 +0800" stop="20260811124500 +0800">
-		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　今年も流す!そうめんパーティー[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811124500 +0800" stop="20260811125500 +0800">
-		<title lang="zh">ANNニュース[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811125500 +0800" stop="20260811132500 +0800">
-		<title lang="zh">买いドキ!生放送ショッピング　期间限定商品を手にする大チャンス!お见逃しなく!</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811132500 +0800" stop="20260811154800 +0800">
-		<title lang="zh">西村京太郎トラベルミステリー59[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811154800 +0800" stop="20260811180000 +0800">
-		<title lang="zh">スーパーJチャンネル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811180000 +0800" stop="20260811200000 +0800">
-		<title lang="zh">火曜の良纯孝太郎　2时间SP　世界文化遗产“富士山"ぐるっと一周大冒険[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811200000 +0800" stop="20260811205400 +0800">
-		<title lang="zh">クロスロード 〜救命救急の约束〜　#6[解][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811205400 +0800" stop="20260811221000 +0800">
-		<title lang="zh">报道ステーション[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811221000 +0800" stop="20260811224000 +0800">
-		<title lang="zh">热闘甲子园[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811224000 +0800" stop="20260811224500 +0800">
-		<title lang="zh">世界の车窓から[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811224500 +0800" stop="20260811231500 +0800">
-		<title lang="zh">ロンドンハーツ[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811231500 +0800" stop="20260811234500 +0800">
-		<title lang="zh">テレビ千鸟[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260811234500 +0800" stop="20260812001500 +0800">
-		<title lang="zh">夫が寝たあとに[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812001500 +0800" stop="20260812003200 +0800">
-		<title lang="zh">永野&amp;くるまのひっかかりニーチェ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812003200 +0800" stop="20260812005000 +0800">
-		<title lang="zh">ファンタスティックPARK</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812005000 +0800" stop="20260812005200 +0800">
-		<title lang="zh">テレ朝サマフェスナビ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812005200 +0800" stop="20260812005700 +0800">
-		<title lang="zh">全力坂</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812005700 +0800" stop="20260812012700 +0800">
-		<title lang="zh">RECTRUCK</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812012700 +0800" stop="20260812015200 +0800">
-		<title lang="zh">深夜のダイアン</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812015200 +0800" stop="20260812021700 +0800">
-		<title lang="zh">若槻千夏のうるさい心理テスト</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812021700 +0800" stop="20260812023700 +0800">
-		<title lang="zh">スポンジ・シノ2　杰作选</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812023700 +0800" stop="20260812024500 +0800">
-		<title lang="zh">バスケW杯まであと1年　あの歓喜をもう一度</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812024500 +0800" stop="20260812030000 +0800">
-		<title lang="zh">ミッドナイトマルシェ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812030000 +0800" stop="20260812035500 +0800">
-		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#22[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812035500 +0800" stop="20260812070000 +0800">
-		<title lang="zh">グッド!モーニング[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812070000 +0800" stop="20260812085500 +0800">
-		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812085500 +0800" stop="20260812091000 +0800">
-		<title lang="zh">有働由美子の健康案内人!　なかなか相谈できないけど意外と多い!尿トラブル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812091000 +0800" stop="20260812094000 +0800">
-		<title lang="zh">じゅん散歩[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812094000 +0800" stop="20260812120000 +0800">
-		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812120000 +0800" stop="20260812123000 +0800">
-		<title lang="zh">彻子の部屋[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812123000 +0800" stop="20260812124500 +0800">
-		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　みんなで豚しゃぶのニンニク味噌[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812124500 +0800" stop="20260812125500 +0800">
-		<title lang="zh">ANNニュース[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812125500 +0800" stop="20260812135400 +0800">
-		<title lang="zh">大追迹〜警视庁SSBC强行犯系〜2　#3[解][字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812135400 +0800" stop="20260812145000 +0800">
-		<title lang="zh">科捜研の女19　#11[解][字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812145000 +0800" stop="20260812154800 +0800">
-		<title lang="zh">相棒8　#18[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812154800 +0800" stop="20260812180000 +0800">
-		<title lang="zh">スーパーJチャンネル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812180000 +0800" stop="20260812200000 +0800">
-		<title lang="zh">くりぃむクイズ　ミラクル9　2时间SP[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812200000 +0800" stop="20260812205400 +0800">
-		<title lang="zh">大追迹〜警视庁SSBC强行犯系〜 Season2　#4/トクリュウ扑灭作戦[解][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812205400 +0800" stop="20260812221000 +0800">
-		<title lang="zh">报道ステーション[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812221000 +0800" stop="20260812224000 +0800">
-		<title lang="zh">热闘甲子园[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812224000 +0800" stop="20260812224500 +0800">
-		<title lang="zh">健查官〜サインを见逃すな〜[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812224500 +0800" stop="20260812231500 +0800">
-		<title lang="zh">かまいガチ　旅行に行きたい芸人&amp;スタッフが激突!「軽井沢旅行选抜会议」[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812231500 +0800" stop="20260812234500 +0800">
-		<title lang="zh">片田舎のおっさん、剣圣になるII　#6【イマニメーションW】[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260812234500 +0800" stop="20260813005000 +0800">
-		<title lang="zh">AI大作戦[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813005000 +0800" stop="20260813005200 +0800">
-		<title lang="zh">テレ朝サマフェスナビ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813005200 +0800" stop="20260813005700 +0800">
-		<title lang="zh">全力坂</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813005700 +0800" stop="20260813012700 +0800">
-		<title lang="zh">Break　Out</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813012700 +0800" stop="20260813015200 +0800">
-		<title lang="zh">ニカゲーム</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813015200 +0800" stop="20260813021700 +0800">
-		<title lang="zh">まいにち大喜利&amp;赏レース</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813021700 +0800" stop="20260813023700 +0800">
-		<title lang="zh">ジャンボ&amp;みーぱんの　おしえて推しコサン</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813023700 +0800" stop="20260813030000 +0800">
-		<title lang="zh">ワカコさんとマサルくんのお宅は买わないの??</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813030000 +0800" stop="20260813035500 +0800">
-		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#23[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813035500 +0800" stop="20260813070000 +0800">
-		<title lang="zh">グッド!モーニング[デ][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813070000 +0800" stop="20260813085500 +0800">
-		<title lang="zh">羽鸟慎一モーニングショー[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813085500 +0800" stop="20260813091000 +0800">
-		<title lang="zh">有働由美子の健康案内人!　なかなか相谈できないけど意外と多い!尿トラブル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813091000 +0800" stop="20260813094000 +0800">
-		<title lang="zh">じゅん散歩[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813094000 +0800" stop="20260813120000 +0800">
-		<title lang="zh">大下容子ワイド!スクランブル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813120000 +0800" stop="20260813123000 +0800">
-		<title lang="zh">彻子の部屋　秋川雅史[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813123000 +0800" stop="20260813124500 +0800">
-		<title lang="zh">DAIGOも台所　〜きょうの献立　何にする?〜　手軽で必见!お刺身アレンジ[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813124500 +0800" stop="20260813125500 +0800">
-		<title lang="zh">ANNニュース[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813125500 +0800" stop="20260813135300 +0800">
-		<title lang="zh">大空港〜GATE24〜　#3[解][字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813135300 +0800" stop="20260813145000 +0800">
-		<title lang="zh">科捜研の女　2022　#4[解][字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813145000 +0800" stop="20260813154800 +0800">
-		<title lang="zh">相棒12　#12[解][字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813154800 +0800" stop="20260813180000 +0800">
-		<title lang="zh">スーパーJチャンネル[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813180000 +0800" stop="20260813200000 +0800">
-		<title lang="zh">林修の今知りたいでしょ!　2时间SP　夏が変わった!昭和の常识&amp;令和の新常识![字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813200000 +0800" stop="20260813205400 +0800">
-		<title lang="zh">大空港〜GATE24〜　#4[解][字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813205400 +0800" stop="20260813221000 +0800">
-		<title lang="zh">报道ステーション[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813221000 +0800" stop="20260813224000 +0800">
-		<title lang="zh">热闘甲子园[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813224000 +0800" stop="20260813224500 +0800">
-		<title lang="zh">And　One[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813224500 +0800" stop="20260813234500 +0800">
-		<title lang="zh">アメトーーク!　ダチョウ倶楽部を考えよう2026[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260813234500 +0800" stop="20260814001500 +0800">
-		<title lang="zh">见取り図じゃん[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814001500 +0800" stop="20260814005000 +0800">
-		<title lang="zh">あざとくて何が悪いの?[字]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814005000 +0800" stop="20260814005200 +0800">
-		<title lang="zh">テレ朝サマフェスナビ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814005200 +0800" stop="20260814005700 +0800">
-		<title lang="zh">全力坂</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814005700 +0800" stop="20260814012700 +0800">
-		<title lang="zh">FRUITS　ZIPPERのNEW　KAWAIIってしてよ?</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814012700 +0800" stop="20260814015200 +0800">
-		<title lang="zh">サクラミーツ</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814015200 +0800" stop="20260814021700 +0800">
-		<title lang="zh">EBiDAN热中!朝までBUDDiiS </title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814021700 +0800" stop="20260814023700 +0800">
-		<title lang="zh">ドンデコルテ银次と弱者たちの锅会　杰作选</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814023700 +0800" stop="20260814024500 +0800">
-		<title lang="zh">バスケW杯まであと1年　あの歓喜をもう一度</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814024500 +0800" stop="20260814030000 +0800">
-		<title lang="zh">ショッピングなう</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814030000 +0800" stop="20260814035500 +0800">
-		<title lang="zh">おはよう!时代剧　暴れん坊将军9　#24[字][再]</title>
-	</programme>
-	<programme channel="テレビ朝日" start="20260814035500 +0800" stop="20260815000000 +0800">
-		<title lang="zh">グッド!モーニング[デ][字]</title>
 	</programme>
 	<channel id="Hub Premier 1">
 		<display-name lang="zh">Hub Premier 1</display-name>
@@ -238911,18 +238911,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260801212200 +0800" stop="20260801221200 +0800">
-		<title lang="zh">黄金剧场勇敢的心（1）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260801212200 +0800" stop="20260801221200 +0800">
-		<title lang="zh">黄金剧场勇敢的心（1）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260801221200 +0800" stop="20260801224900 +0800">
-		<title lang="zh">10分好微短剧场</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260801221200 +0800" stop="20260801224900 +0800">
-		<title lang="zh">10分好微短剧场</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260801224900 +0800" stop="20260802003300 +0800">
 		<title lang="zh">王牌高手重播</title>
 	</programme>
@@ -240090,24 +240078,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260801210000 +0800" stop="20260801213000 +0800">
-		<title lang="zh">山西新闻联播（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801210000 +0800" stop="20260801213000 +0800">
-		<title lang="zh">山西新闻联播（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801213000 +0800" stop="20260801221600 +0800">
-		<title lang="zh">悬崖（9集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801213000 +0800" stop="20260801221600 +0800">
-		<title lang="zh">悬崖（9集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801221600 +0800" stop="20260801225800 +0800">
-		<title lang="zh">悬崖（10集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801221600 +0800" stop="20260801225800 +0800">
-		<title lang="zh">悬崖（10集）</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260801225800 +0800" stop="20260801234300 +0800">
 		<title lang="zh">悬崖（11集）</title>
 	</programme>
@@ -242502,18 +242472,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260801211800 +0800" stop="20260801221300 +0800">
-		<title lang="zh">伪装者(16)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260801211800 +0800" stop="20260801221300 +0800">
-		<title lang="zh">伪装者(16)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260801221300 +0800" stop="20260801230200 +0800">
-		<title lang="zh">伪装者(17)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260801221300 +0800" stop="20260801230200 +0800">
-		<title lang="zh">伪装者(17)</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260801230200 +0800" stop="20260801233500 +0800">
 		<title lang="zh">宣传片</title>
 	</programme>
@@ -244398,18 +244356,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260801205700 +0800" stop="20260801215500 +0800">
-		<title lang="zh">边城（21）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801205700 +0800" stop="20260801215500 +0800">
-		<title lang="zh">边城（21）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801215500 +0800" stop="20260801224500 +0800">
-		<title lang="zh">边城（22）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801215500 +0800" stop="20260801224500 +0800">
-		<title lang="zh">边城（22）</title>
-	</programme>
 	<programme channel="山西影视" start="20260801224500 +0800" stop="20260801233100 +0800">
 		<title lang="zh">边城（23）</title>
 	</programme>
@@ -245847,18 +245793,6 @@
 	<channel id="黄河电视台">
 		<display-name lang="zh">黄河电视台</display-name>
 	</channel>
-	<programme channel="黄河电视台" start="20260801211600 +0800" stop="20260801220500 +0800">
-		<title lang="zh">我的兄弟叫顺溜(6)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260801211600 +0800" stop="20260801220500 +0800">
-		<title lang="zh">我的兄弟叫顺溜(6)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260801220500 +0800" stop="20260801225500 +0800">
-		<title lang="zh">群星璀璨</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260801220500 +0800" stop="20260801225500 +0800">
-		<title lang="zh">群星璀璨</title>
-	</programme>
 	<programme channel="黄河电视台" start="20260801225500 +0800" stop="20260802001500 +0800">
 		<title lang="zh">谁是高手双升（重播）</title>
 	</programme>
