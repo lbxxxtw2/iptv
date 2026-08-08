@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260808045521 +0800">
+<tv date="20260808064759 +0800">
 	<channel id="8TV">
 		<display-name lang="zh">8TV</display-name>
 	</channel>
@@ -238911,12 +238911,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260801141700 +0800" stop="20260801150200 +0800">
-		<title lang="zh">悬崖（31）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260801141700 +0800" stop="20260801150200 +0800">
-		<title lang="zh">悬崖（31）</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260801150200 +0800" stop="20260801160700 +0800">
 		<title lang="zh">悬崖（32）</title>
 	</programme>
@@ -240138,36 +240132,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260801130800 +0800" stop="20260801133500 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801130800 +0800" stop="20260801133500 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801133500 +0800" stop="20260801134800 +0800">
-		<title lang="zh">理论天天学（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801133500 +0800" stop="20260801134800 +0800">
-		<title lang="zh">理论天天学（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801134800 +0800" stop="20260801141800 +0800">
-		<title lang="zh">烽火英雄传（29集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801134800 +0800" stop="20260801141800 +0800">
-		<title lang="zh">烽火英雄传（29集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801141800 +0800" stop="20260801144200 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801141800 +0800" stop="20260801144200 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801144200 +0800" stop="20260801151200 +0800">
-		<title lang="zh">烽火英雄传（30集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260801144200 +0800" stop="20260801151200 +0800">
-		<title lang="zh">烽火英雄传（30集）</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260801151200 +0800" stop="20260801154300 +0800">
 		<title lang="zh">专题</title>
 	</programme>
@@ -242652,18 +242616,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260801132300 +0800" stop="20260801141100 +0800">
-		<title lang="zh">特警力量(10)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260801132300 +0800" stop="20260801141100 +0800">
-		<title lang="zh">特警力量(10)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260801141100 +0800" stop="20260801145900 +0800">
-		<title lang="zh">特警力量(11)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260801141100 +0800" stop="20260801145900 +0800">
-		<title lang="zh">特警力量(11)</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260801145900 +0800" stop="20260801153900 +0800">
 		<title lang="zh">特警力量(12)</title>
 	</programme>
@@ -244626,24 +244578,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260801130300 +0800" stop="20260801134900 +0800">
-		<title lang="zh">荡寇（03）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801130300 +0800" stop="20260801134900 +0800">
-		<title lang="zh">荡寇（03）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801134900 +0800" stop="20260801144700 +0800">
-		<title lang="zh">荡寇（04）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801134900 +0800" stop="20260801144700 +0800">
-		<title lang="zh">荡寇（04）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801144700 +0800" stop="20260801154400 +0800">
-		<title lang="zh">荡寇（05）</title>
-	</programme>
-	<programme channel="山西影视" start="20260801144700 +0800" stop="20260801154400 +0800">
-		<title lang="zh">荡寇（05）</title>
-	</programme>
 	<programme channel="山西影视" start="20260801154400 +0800" stop="20260801164100 +0800">
 		<title lang="zh">荡寇（06）</title>
 	</programme>
