@@ -1322,7 +1322,7 @@ https://iptv.1989.click/comp/ufca8d?token=18c41b1ce21fac540566dc07d5322df18ec76e
 http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="电影频道",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="电影频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1574,7 +1574,7 @@ https://iptv.1989.click/4gtv/8gduxr?token=18c41b1ce21fac540566dc07d5322df18ec76e
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Love Nature.png" group-title="外国频道",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://material.1989.click/logo/Nickelodeon.png" group-title="外国频道",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="外国频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2003,18 +2003,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/609154353
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1 tvg-id="临沂农科" tvg-name="临沂农科" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/临沂农科.png" group-title="山东频道",临沂农科
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/延边卫视.png" group-title="吉林频道",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/延边卫视.png" group-title="吉林频道",延边卫视
-http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/延边卫视.png" group-title="吉林频道",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
-#EXTINF:-1 tvg-id="延边-1" tvg-name="延边-1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/延边-1.png" group-title="吉林频道",延边-1
-http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
-#EXTINF:-1 tvg-id="延边-2" tvg-name="延边-2" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/延边-2.png" group-title="吉林频道",延边-2
-http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-#EXTINF:-1 tvg-id="延边汉语综合" tvg-name="延边汉语综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/延边汉语综合.png" group-title="吉林频道",延边汉语综合
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 #EXTINF:-1 tvg-id="丘北电视台" tvg-name="丘北电视台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/丘北电视台.png" group-title="云南频道",丘北电视台
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 #EXTINF:-1 tvg-id="广南电视台" tvg-name="广南电视台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广南电视台.png" group-title="云南频道",广南电视台
@@ -2112,5 +2100,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-08 07:13:59
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-08 10:05:00
 https://cdn.1989.click/hk/3nps68?token=3f80cd99f69fca00863eba20531eada75e7b4489950e0a70
