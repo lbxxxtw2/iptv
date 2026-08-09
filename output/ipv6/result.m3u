@@ -138,6 +138,8 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
 https://smt.1678520.xyz/163189/tvbp
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB Plus.png" group-title="香港频道",TVB Plus
 https://10.fast.hidns.vip/163189/tvbp/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB Plus.png" group-title="香港频道",TVB Plus
+http://cdn3.123.rr.kg/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://material.1989.click/logo/HOY77.png" group-title="香港频道",HOY 77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://material.1989.click/logo/HOY77.png" group-title="香港频道",HOY 77
@@ -243,6 +245,12 @@ https://cdn6.cc.cd/163189/tvb1
 https://cdn6.cc.cd/163189/j1
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB J1.png" group-title="香港频道",TVB J1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB J1.png" group-title="香港频道",TVB J1
+http://cdn6.123.rr.kg/163189/tvb1
+#EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB J1.png" group-title="香港频道",TVB J1
+http://cdn6.123.rr.kg/163189/j1
+#EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB J1.png" group-title="香港频道",TVB J1
+https://cdn.qd.je/163189.php?id=j1
 #EXTINF:-1 tvg-id="TVB FREE" tvg-name="TVB FREE" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",TVB FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB1.png" group-title="香港频道",TVB1
@@ -257,6 +265,12 @@ https://cdn6.cc.cd/163189/tvb1
 https://cdn6.cc.cd/163189/j1
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB1.png" group-title="香港频道",TVB1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB1.png" group-title="香港频道",TVB1
+http://cdn6.123.rr.kg/163189/tvb1
+#EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB1.png" group-title="香港频道",TVB1
+http://cdn6.123.rr.kg/163189/j1
+#EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB1.png" group-title="香港频道",TVB1
+https://cdn.qd.je/163189.php?id=j1
 #EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",myTV SUPER直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",myTV SUPER直播足球4台
@@ -371,6 +385,10 @@ https://cdn.qd.je/163189/viu
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="Viu 頻道" tvg-name="Viu 頻道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Viu 頻道.png" group-title="香港频道",Viu 頻道
 https://10.fast.hidns.vip/163189/viu/
+#EXTINF:-1 tvg-id="Viu 頻道" tvg-name="Viu 頻道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Viu 頻道.png" group-title="香港频道",Viu 頻道
+https://cdn.123.rr.kg/163189/viu
+#EXTINF:-1 tvg-id="Viu 頻道" tvg-name="Viu 頻道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Viu 頻道.png" group-title="香港频道",Viu 頻道
+https://cdn.qd.je/163189.php?id=viu
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="香港频道",VIUTVSIX
 https://iptv.1989.click/hk/pdajb7?token=ce4cd37f34b31d48c887b8c7369194aceed16deeda6d8d84
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="香港频道",VIUTVSIX
@@ -2122,5 +2140,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-09 17:31:41
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-09 19:44:13
 https://cdn.1989.click/hk/zq8qj8?token=6bc38a558e2066edbcbf943fa1f05d543b6222b9fb6f3cd9
