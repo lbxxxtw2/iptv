@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lbxxxtw2/iptv/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台
-https://cdn.1989.click/hk/zq8qj8?token=6bc38a558e2066edbcbf943fa1f05d543b6222b9fb6f3cd9
+http://83.147.60.29:19899/hk/ujay5x?token=8892162402134c08657e725d2212fff90af6989893e2df20
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台
 https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台
@@ -58,7 +58,7 @@ http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台4K.png" group-title="香港频道",翡翠台4K
 https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="香港频道",无线新闻台
-https://cdn.1989.click/hk/jz52zn?token=6bc38a558e2066edbcbf943fa1f05d543b6222b9fb6f3cd9
+http://83.147.60.29:19899/hk/c4pjqj?token=8892162402134c08657e725d2212fff90af6989893e2df20
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="香港频道",无线新闻台
 https://cdn.qd.je/163189/wxxw
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="香港频道",无线新闻台
@@ -108,7 +108,7 @@ https://cdn3.indevs.in/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/明珠台.png" group-title="香港频道",明珠台
 https://10.fast.hidns.vip/163189/mzt/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="香港频道",TVB Plus
-https://cdn.1989.click/hk/e2npkg?token=6bc38a558e2066edbcbf943fa1f05d543b6222b9fb6f3cd9
+http://83.147.60.29:19899/hk/e58tab?token=8892162402134c08657e725d2212fff90af6989893e2df20
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",TVB Plus
 https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",TVB Plus
@@ -2006,9 +2006,6 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://cdn.qd.je/163189/hxws2
-#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="福建频道",福建海峡卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://live.chinacert.cftest5.cn/cnmg/live/849119120
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
@@ -2140,5 +2137,5 @@ https://live.chinacert.cftest5.cn/cnmg/live/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-09 21:54:57
-https://cdn.1989.click/hk/zq8qj8?token=6bc38a558e2066edbcbf943fa1f05d543b6222b9fb6f3cd9
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-09 23:25:11
+http://83.147.60.29:19899/hk/ujay5x?token=8892162402134c08657e725d2212fff90af6989893e2df20
