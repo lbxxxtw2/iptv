@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260811070357 +0800">
+<tv date="20260811085258 +0800">
 	<channel id="8TV">
 		<display-name lang="zh">8TV</display-name>
 	</channel>
@@ -240309,12 +240309,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260804160400 +0800" stop="20260804171100 +0800">
-		<title lang="zh">局中人（5）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260804160400 +0800" stop="20260804171100 +0800">
-		<title lang="zh">局中人（5）</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260804171100 +0800" stop="20260804181600 +0800">
 		<title lang="zh">局中人（6）</title>
 	</programme>
@@ -241518,30 +241512,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260804151400 +0800" stop="20260804154500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260804151400 +0800" stop="20260804154500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260804154500 +0800" stop="20260804161500 +0800">
-		<title lang="zh">烽火英雄传（46集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260804154500 +0800" stop="20260804161500 +0800">
-		<title lang="zh">烽火英雄传（46集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260804161500 +0800" stop="20260804163500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260804161500 +0800" stop="20260804163500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260804163500 +0800" stop="20260804170500 +0800">
-		<title lang="zh">烽火英雄传（47集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260804163500 +0800" stop="20260804170500 +0800">
-		<title lang="zh">烽火英雄传（47集）</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260804170500 +0800" stop="20260804173500 +0800">
 		<title lang="zh">烽火英雄传（48集）</title>
 	</programme>
@@ -244011,24 +243981,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260804153800 +0800" stop="20260804160300 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260804153800 +0800" stop="20260804160300 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260804160300 +0800" stop="20260804164300 +0800">
-		<title lang="zh">特警力量(31)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260804160300 +0800" stop="20260804164300 +0800">
-		<title lang="zh">特警力量(31)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260804164300 +0800" stop="20260804170400 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260804164300 +0800" stop="20260804170400 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260804170400 +0800" stop="20260804174500 +0800">
 		<title lang="zh">特警力量(32)</title>
 	</programme>
@@ -245976,18 +245928,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260804154400 +0800" stop="20260804164100 +0800">
-		<title lang="zh">荡寇（21）</title>
-	</programme>
-	<programme channel="山西影视" start="20260804154400 +0800" stop="20260804164100 +0800">
-		<title lang="zh">荡寇（21）</title>
-	</programme>
-	<programme channel="山西影视" start="20260804164100 +0800" stop="20260804174500 +0800">
-		<title lang="zh">荡寇（22）</title>
-	</programme>
-	<programme channel="山西影视" start="20260804164100 +0800" stop="20260804174500 +0800">
-		<title lang="zh">荡寇（22）</title>
-	</programme>
 	<programme channel="山西影视" start="20260804174500 +0800" stop="20260804184400 +0800">
 		<title lang="zh">铁道游击队战后篇（01）</title>
 	</programme>
@@ -247479,18 +247419,6 @@
 	<channel id="黄河电视台">
 		<display-name lang="zh">黄河电视台</display-name>
 	</channel>
-	<programme channel="黄河电视台" start="20260804155100 +0800" stop="20260804164800 +0800">
-		<title lang="zh">精编刀光枪影(58)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260804155100 +0800" stop="20260804164800 +0800">
-		<title lang="zh">精编刀光枪影(58)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260804164800 +0800" stop="20260804174100 +0800">
-		<title lang="zh">精编刀光枪影(59)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260804164800 +0800" stop="20260804174100 +0800">
-		<title lang="zh">精编刀光枪影(59)</title>
-	</programme>
 	<programme channel="黄河电视台" start="20260804174100 +0800" stop="20260804185000 +0800">
 		<title lang="zh">谁是高手双升精编</title>
 	</programme>
