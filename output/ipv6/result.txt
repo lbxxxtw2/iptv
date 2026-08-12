@@ -272,13 +272,14 @@ NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-new
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8
 广东珠江,http://tv1288.xyz/douyin.php?type=rid&rid=gdtvzjpd
 广东珠江,http://www.3344.uk:8888/udp/239.77.0.1:5146
+广东珠江,http://www.ikerobot.com:1234/639731952
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://cdn2.163189.xyz/163189/gdty
 广东体育,https://2.fast.hidns.vip/163189/gdty
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
-广东卫视,https://live.chinacert.cftest5.cn/cnmg/live/608831231
+广东卫视,http://www.ikerobot.com:1234/608831231
 广州综合,https://cdn.qd.je/163189/gzzh
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
@@ -289,6 +290,7 @@ NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-new
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
+大湾区卫视,http://www.ikerobot.com:1234/608917627
 
 体育频道,#genre#
 CCTV-5,https://iptv.1989.click/cn/9fmd89?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
@@ -297,6 +299,7 @@ CCTV-5,https://cdn.qd.je/163189/cctv5-2
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
+CCTV-5,http://www.ikerobot.com:1234/641886683
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://cdn2.163189.xyz/163189/gdty
@@ -305,7 +308,7 @@ CCTV-5+,https://iptv.1989.click/cn/3gaqvn?token=3fb62170eeab60bdeab4d3b411feb27f
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV-5+,https://cdn.qd.je/163189/cctv5p-2
 CCTV-5+,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
-CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5+,http://www.ikerobot.com:1234/641886773
 纬来体育,https://iptv.1989.click/tw/crqjjy?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 纬来体育,https://cdn.qd.je/163189/wlty
 纬来体育,https://smt.1678520.xyz/163189/wlty
@@ -348,76 +351,91 @@ CCTV-1,https://cdn.qd.je/163189/rthk33
 CCTV-1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
 CCTV-1,https://cdn6.cc.cd/163189/cctv1
 CCTV-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
+CCTV-1,http://www.ikerobot.com:1234/608807420
 CCTV-2,https://iptv.1989.click/cn/k757er?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
 CCTV-2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
+CCTV-2,http://www.ikerobot.com:1234/631780532
 CCTV-3,https://iptv.1989.click/cn/ytkvxe?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-3,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
+CCTV-3,http://www.ikerobot.com:1234/624878271
 CCTV-4,https://iptv.1989.click/cn/6dnhzy?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 CCTV-4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
+CCTV-4,http://www.ikerobot.com:1234/631780421
 CCTV-5,https://iptv.1989.click/cn/9fmd89?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-5,https://cdn.qd.je/163189/cctv5
 CCTV-5,https://cdn.qd.je/163189/cctv5-2
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
+CCTV-5,http://www.ikerobot.com:1234/641886683
 CCTV-5+,https://iptv.1989.click/cn/3gaqvn?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV-5+,https://cdn.qd.je/163189/cctv5p-2
 CCTV-5+,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
-CCTV-5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773
+CCTV-5+,http://www.ikerobot.com:1234/641886773
 CCTV-6,https://iptv.1989.click/cn/w875af?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
 CCTV-6,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
+CCTV-6,http://www.ikerobot.com:1234/624878396
 CCTV-7,https://iptv.1989.click/cn/xttzgq?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
 CCTV-7,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
+CCTV-7,http://www.ikerobot.com:1234/673168121
 CCTV-8,https://iptv.1989.click/cn/rz7kda?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
 CCTV-8,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
+CCTV-8,http://www.ikerobot.com:1234/624878356
 CCTV-9,https://iptv.1989.click/cn/9nhfnr?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-9,https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
 CCTV-9,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
 CCTV-9,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
+CCTV-9,http://www.ikerobot.com:1234/673168140
 CCTV-10,https://iptv.1989.click/cn/tqduzf?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-10,https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
 CCTV-10,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
+CCTV-10,http://www.ikerobot.com:1234/624878405
 CCTV-11,https://iptv.1989.click/cn/n75s6c?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
 CCTV-11,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
+CCTV-11,http://www.ikerobot.com:1234/667987558
 CCTV-12,https://iptv.1989.click/cn/gb7a95?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-12,https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
 CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV-12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226748/1.m3u8
 CCTV-12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
+CCTV-12,http://www.ikerobot.com:1234/673168185
 CCTV-13,https://iptv.1989.click/cn/7udtwq?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 CCTV-13,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
+CCTV-13,http://www.ikerobot.com:1234/608807423
 CCTV-14,https://iptv.1989.click/cn/83mjne?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
 CCTV-14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
 CCTV-14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
+CCTV-14,http://www.ikerobot.com:1234/624878440
 CCTV-15,https://iptv.1989.click/cn/ud2zf3?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
 CCTV-15,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
+CCTV-15,http://www.ikerobot.com:1234/673168223
 CCTV-16,https://iptv.1989.click/cn/refppf?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 CCTV-16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV-16,https://cdn.qd.je/163189/cctv16-2
@@ -427,13 +445,14 @@ CCTV-17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 CCTV-17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 CCTV-17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
+CCTV-17,http://www.ikerobot.com:1234/673168256
 CETV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 CETV1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226712/1.m3u8
-CETV1,https://live.chinacert.cftest5.cn/cnmg/live/923287154
+CETV1,http://www.ikerobot.com:1234/923287154
 CETV2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226718/1.m3u8
-CETV2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
+CETV2,http://www.ikerobot.com:1234/923287211
 CETV4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
-CETV4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
+CETV4,http://www.ikerobot.com:1234/923287339
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 
 台湾频道,#genre#
@@ -626,9 +645,9 @@ Astro 欢喜台,https://cdn.qd.je/163189/hxt
 Astro 欢喜台,http://o11.163189.xyz/stream/live/hxt/
 Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
-CHC动作电影,https://live.chinacert.cftest5.cn/cnmg/live/644368714
-CHC家庭影院,https://live.chinacert.cftest5.cn/cnmg/live/644368373
-CHC影迷电影,https://live.chinacert.cftest5.cn/cnmg/live/952383261
+CHC动作电影,http://www.ikerobot.com:1234/644368714
+CHC家庭影院,http://www.ikerobot.com:1234/644368373
+CHC影迷电影,http://www.ikerobot.com:1234/952383261
 CinemaWorld,https://cdn.qd.je/163189/cinemaworld
 CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784702901150
 CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
@@ -783,9 +802,10 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 
 卫视频道,#genre#
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
+大湾区卫视,http://www.ikerobot.com:1234/608917627
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
-广东卫视,https://live.chinacert.cftest5.cn/cnmg/live/608831231
+广东卫视,http://www.ikerobot.com:1234/608831231
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 浙江卫视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
 浙江卫视,http://zappl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1761099064-0-0-9b644d437557bcc66b9411e545e45fbc
@@ -797,26 +817,27 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 北京卫视,https://iptv.1989.click/cn/jczkmf?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing
 北京卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
-北京卫视,https://live.chinacert.cftest5.cn/cnmg/live/630287636
+北京卫视,http://www.ikerobot.com:1234/630287636
 湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei
 湖北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
-湖北卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472496
+湖北卫视,http://www.ikerobot.com:1234/947472496
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 黑龙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
+黑龙江卫视,http://www.ikerobot.com:1234/738906901
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
 安徽卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
 安徽卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226664/1.m3u8
 重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 重庆卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
-重庆卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910914
+重庆卫视,http://www.ikerobot.com:1234/738910914
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
-东方卫视,https://live.chinacert.cftest5.cn/cnmg/live/651632648
+东方卫视,http://www.ikerobot.com:1234/651632648
 东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226670/1.m3u8
 东南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226675/1.m3u8
-东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
+东南卫视,http://www.ikerobot.com:1234/849116810
 甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu
 甘肃卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226662/1.m3u8
 广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi
@@ -827,38 +848,38 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan
 海南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 海南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226683/1.m3u8
-海南卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472502
+海南卫视,http://www.ikerobot.com:1234/947472502
 河北卫视,https://live.chinacert.cftest5.cn/zgst/live/hebei
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
 河北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226665/1.m3u8
-河北卫视,https://live.chinacert.cftest5.cn/cnmg/live/962042070
+河北卫视,http://www.ikerobot.com:1234/962042070
 河南卫视,https://live.chinacert.cftest5.cn/zgst/live/henan
 河南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
 河南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226687/1.m3u8
-河南卫视,https://live.chinacert.cftest5.cn/cnmg/live/790187291
+河南卫视,http://www.ikerobot.com:1234/790187291
 吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin
 吉林卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226671/1.m3u8
-吉林卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472500
+吉林卫视,http://www.ikerobot.com:1234/947472500
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
-江苏卫视,https://live.chinacert.cftest5.cn/cnmg/live/623899368
+江苏卫视,http://www.ikerobot.com:1234/623899368
 江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
 江西卫视,http://goo.bkpcp.top/mg/jxws
 江西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226726/1.m3u8
 江西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
-江西卫视,https://live.chinacert.cftest5.cn/cnmg/live/783847495
+江西卫视,http://www.ikerobot.com:1234/783847495
 辽宁卫视,https://live.chinacert.cftest5.cn/zgst/live/liaoning
 辽宁卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226689/1.m3u8
-辽宁卫视,https://live.chinacert.cftest5.cn/cnmg/live/630291707
+辽宁卫视,http://www.ikerobot.com:1234/630291707
 内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu
 内蒙古卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226685/1.m3u8
 宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia
 宁夏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226691/1.m3u8
-宁夏卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910535
+宁夏卫视,http://www.ikerobot.com:1234/738910535
 青海卫视,https://live.chinacert.cftest5.cn/zgst/live/qinghai
 青海卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226696/1.m3u8
-青海卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472506
+青海卫视,http://www.ikerobot.com:1234/947472506
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
 山东卫视,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 山东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
@@ -866,7 +887,7 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 山西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226704/1.m3u8
 陕西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 陕西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226707/1.m3u8
-陕西卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910838
+陕西卫视,http://www.ikerobot.com:1234/738910838
 四川卫视,https://iptv.1989.click/cn/rn9vz2?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan
 四川卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
@@ -875,7 +896,7 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=b040eb4e1727851324
-三沙卫视,https://live.chinacert.cftest5.cn/cnmg/live/961023778
+三沙卫视,http://www.ikerobot.com:1234/961023778
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
 天津卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
 西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang
@@ -886,8 +907,8 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 云南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226709/1.m3u8
 兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan
 兵团卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226661/1.m3u8
-兵团卫视,https://live.chinacert.cftest5.cn/cnmg/live/956923145
-山东教育,https://live.chinacert.cftest5.cn/cnmg/live/609154353
+兵团卫视,http://www.ikerobot.com:1234/956923145
+山东教育,http://www.ikerobot.com:1234/609154353
 山东教育卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226701/1.m3u8
 莲花卫视,http://cdn6.163189.xyz/163189/amlh
 
@@ -898,17 +919,17 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 北京科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 
 上海频道,#genre#
-上海新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/651632657
-上海第一财经,https://live.chinacert.cftest5.cn/cnmg/live/608780988
+上海新闻综合,http://www.ikerobot.com:1234/651632657
+上海第一财经,http://www.ikerobot.com:1234/608780988
 哈哈炫动,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 
 重庆频道,#genre#
 
 江苏频道,#genre#
-优漫卡通,https://live.chinacert.cftest5.cn/cnmg/live/626064703
+优漫卡通,http://www.ikerobot.com:1234/626064703
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-南通新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/955227985
+南通新闻综合,http://www.ikerobot.com:1234/955227985
 大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
@@ -932,13 +953,13 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
-江苏教育,https://live.chinacert.cftest5.cn/cnmg/live/628008321
+江苏教育,http://www.ikerobot.com:1234/628008321
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
-淮安新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/639731826
-溧水新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/639737327
-连云港新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/639731715
-镇江新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/639731783
+淮安新闻综合,http://www.ikerobot.com:1234/639731826
+溧水新闻综合,http://www.ikerobot.com:1234/639737327
+连云港新闻综合,http://www.ikerobot.com:1234/639731715
+镇江新闻综合,http://www.ikerobot.com:1234/639731783
 
 辽宁频道,#genre#
 
@@ -987,6 +1008,7 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 福建海峡卫视,http://r.jdshipin.com/WtYt3
 福建海峡卫视,https://10.fast.hidns.vip/163189/hxws/
 福建海峡卫视,https://168.sryze.cc/163189/hxws
+福建海峡卫视,http://www.ikerobot.com:1234/849119120
 
 海南频道,#genre#
 海南新闻,https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=62bd37b31727851111
@@ -1011,7 +1033,7 @@ BBC Lifestyle,https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b4
 新疆卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226700/1.m3u8
 
 山东频道,#genre#
-山东教育,https://live.chinacert.cftest5.cn/cnmg/live/609154353
+山东教育,http://www.ikerobot.com:1234/609154353
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
@@ -1054,7 +1076,7 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 東森幼幼,https://iptv.1989.click/tw/bgjnnv?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 火影忍者,https://huyazhibo.de5.net/?id=29465866
 火影忍者,https://www.goodiptv.club/huya/29465866
-嘉佳卡通,https://live.chinacert.cftest5.cn/cnmg/live/614952364
+嘉佳卡通,http://www.ikerobot.com:1234/614952364
 金鹰卡通,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
 卡酷动画,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
@@ -1071,10 +1093,10 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,https://www.goodiptv.club/huya/11352919
 炫动卡通,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
-新动漫,https://live.chinacert.cftest5.cn/cnmg/live/961930269
-优漫卡通,https://live.chinacert.cftest5.cn/cnmg/live/626064703
+新动漫,http://www.ikerobot.com:1234/961930269
+优漫卡通,http://www.ikerobot.com:1234/626064703
 中华小当家,https://huyazhibo.de5.net/?id=30613314
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-08-12 12:56:46,http://83.147.60.29:19899/hk/5cs36w?token=0f3413098e1d4253d637a985b7ff1f9266bdec7b48b9c149
+2026-08-12 16:13:22,http://83.147.60.29:19899/hk/5cs36w?token=0f3413098e1d4253d637a985b7ff1f9266bdec7b48b9c149
