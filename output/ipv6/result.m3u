@@ -168,7 +168,7 @@ https://cdn.qd.je/163189/hoy78
 https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="HOY 78" tvg-name="HOY 78" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 78.png" group-title="香港频道",HOY 78
 https://fast.hidns.vip/163189/hoy78
-#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",MYTVSUPER18台
+#EXTINF:-1 tvg-id="MYTVSUPER18台" tvg-name="MYTVSUPER18台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",MYTVSUPER18台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://material.1989.click/logo/Now新聞台.png" group-title="香港频道",NOW新闻台
 https://iptv.1989.click/hk/qpzb3v?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
@@ -189,9 +189,9 @@ http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="香港频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
-#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",ROCK Extreme
+#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",ROCK Extreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="ROCK 綜藝娛樂" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",ROCK 綜藝娛樂
+#EXTINF:-1 tvg-id="ROCK 綜藝娛樂" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",ROCK 綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="https://material.1989.click/logo/RTHK31.png" group-title="香港频道",RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
@@ -217,21 +217,21 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPla
 http://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 tvg-id="中國環球電視網紀錄頻道" tvg-name="RTHK 34" tvg-logo="https://material.1989.click/logo/RTHK34.png" group-title="香港频道",RTHK 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="SUPEREYT" tvg-name="SUPER EYT" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER EYT
+#EXTINF:-1 tvg-id="SUPEREYT" tvg-name="SUPER EYT" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER Kids Channel
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER Sports
+#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER煲剧" tvg-name="SUPER煲剧" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER煲剧
+#EXTINF:-1 tvg-id="SUPER煲剧" tvg-name="SUPER煲剧" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER煲剧
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER奖门人" tvg-name="SUPER奖门人" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER奖门人
+#EXTINF:-1 tvg-id="SUPER奖门人" tvg-name="SUPER奖门人" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER奖门人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER识食" tvg-name="SUPER识食" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER识食
+#EXTINF:-1 tvg-id="SUPER识食" tvg-name="SUPER识食" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER识食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER识叹" tvg-name="SUPER识叹" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER识叹
+#EXTINF:-1 tvg-id="SUPER识叹" tvg-name="SUPER识叹" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER识叹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",SUPER Music
+#EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB J1.png" group-title="香港频道",TVB J1
 https://cdn.qd.je/163189/tvb1
@@ -251,7 +251,7 @@ http://cdn6.123.rr.kg/163189/tvb1
 http://cdn6.123.rr.kg/163189/j1
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB J1.png" group-title="香港频道",TVB J1
 https://cdn.qd.je/163189.php?id=j1
-#EXTINF:-1 tvg-id="TVB FREE" tvg-name="TVB FREE" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",TVB FREE
+#EXTINF:-1 tvg-id="TVB FREE" tvg-name="TVB FREE" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",TVB FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB1.png" group-title="香港频道",TVB1
 https://cdn.qd.je/163189/tvb1
@@ -271,13 +271,13 @@ http://cdn6.123.rr.kg/163189/tvb1
 http://cdn6.123.rr.kg/163189/j1
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB1.png" group-title="香港频道",TVB1
 https://cdn.qd.je/163189.php?id=j1
-#EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",myTV SUPER直播足球3台
+#EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",myTV SUPER直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",myTV SUPER直播足球4台
+#EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",myTV SUPER直播足球4台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",互動窗 1
+#EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",互動窗 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",互動窗 2
+#EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",互動窗 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/华丽翡翠台.png" group-title="香港频道",华丽翡翠台
 https://cdn.qd.je/163189/hlfct
@@ -314,7 +314,7 @@ https://o11.163189.xyz/stream/live/jade/
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/华丽翡翠台.png" group-title="香港频道",华丽翡翠台
 https://cdn3.indevs.in/stream/live/jade/
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",黄金翡翠台
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",黄金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://material.1989.click/logo/黃金華劇台.png" group-title="香港频道",黃金華劇台
 https://cdn.qd.je/163189/hjhjt
@@ -369,13 +369,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 https://10.fast.hidns.vip/163189/xinghe/
 #EXTINF:-1 tvg-id="亚洲武侠电视台" tvg-name="亚洲武侠电视台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/亚洲武侠电视台.png" group-title="香港频道",亚洲武侠电视台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",亞洲劇台
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="TVB戏曲" tvg-name="戲曲台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",戲曲台
+#EXTINF:-1 tvg-id="TVB戏曲" tvg-name="戲曲台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",戲曲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",粵語片台
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",華語劇台
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="Viu 頻道" tvg-name="Viu 頻道" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="香港频道",Viu 頻道
 https://iptv.1989.click/hk/2azruk?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
@@ -395,7 +395,7 @@ https://iptv.1989.click/hk/cpmpkg?token=3fb62170eeab60bdeab4d3b411feb27f132e246a
 https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/VIUTVSIX.png" group-title="香港频道",VIUTVSIX
 https://10.fast.hidns.vip/163189/viu6/
-#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",創世電視
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="澳門Macau" tvg-name="澳門Macau" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="香港频道",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
@@ -488,9 +488,9 @@ http://cdn8.163189.xyz/163189/lhrh
 https://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龍華日韓台.png" group-title="香港频道",龍華日韓台
 https://8.fast.hidns.vip/163189/lhrh
-#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",無線衛星新聞台
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",無線衛星亞洲台
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央綜合台" tvg-logo="https://material.1989.click/logo/RTHK33.png" group-title="香港频道",中央綜合台
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -509,29 +509,29 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://material.1989.click/logo/tvN.png" group-title="香港频道",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",亞洲新聞台
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",亞洲新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/AXN.png" group-title="香港频道",AXN
 https://ktpremium.world/live/LT1976F/A9177/515075.ts
-#EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",雲南瀾湄國際衛視
+#EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",雲南瀾湄國際衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",安徽廣播電視台國際頻道
+#EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",安徽廣播電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-name="北京電視台國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",北京電視台國際頻道
+#EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-name="北京電視台國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",北京電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-name="廣西電視台國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",廣西電視台國際頻道
+#EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-name="廣西電視台國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",廣西電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",福建海峽衛視國際頻道
+#EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",福建海峽衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-name="湖南電視台國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",湖南電視台國際頻道
+#EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-name="湖南電視台國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",湖南電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-name="江蘇電視台國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",江蘇電視台國際頻道
+#EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-name="江蘇電視台國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",江蘇電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",廣東廣播電視台大灣區衛視頻道
+#EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-name="浙江電視台國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",浙江電視台國際頻道
+#EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-name="浙江電視台國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",浙江電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",深圳衛視國際頻道
+#EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://material.1989.click/logo/RTHK33.png" group-title="香港频道",中央電視台綜合頻道 (港澳版)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -547,11 +547,11 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://material.1989.click/logo/NOW80s.png" group-title="香港频道",NOW 80s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",NOW ROCK
+#EXTINF:-1 tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",NOW ROCK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",NOW 90s00s
+#EXTINF:-1 tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",NOW 90s00s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",TRACE Urban
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",TRACE Urban
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://material.1989.click/logo/NewsWorld.png" group-title="香港频道",NewsWorld
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1394,9 +1394,9 @@ https://iptv.1989.click/comp/2xv8kc?token=3fb62170eeab60bdeab4d3b411feb27f132e24
 https://ktpremium.world/live/LT1976F/A9177/870553.ts
 #EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/IQIYI.png" group-title="电影频道",IQIYI
 http://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",KIX
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="电影频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1407,26 +1407,26 @@ http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="电影频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
-#EXTINF:-1 tvg-id="SUPEREYT" tvg-name="SUPER EYT" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",SUPER EYT
+#EXTINF:-1 tvg-id="SUPEREYT" tvg-name="SUPER EYT" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",SUPER Kids Channel
+#EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",SUPER Sports
+#EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER煲剧" tvg-name="SUPER 煲劇" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",SUPER 煲劇
+#EXTINF:-1 tvg-id="SUPER煲剧" tvg-name="SUPER 煲劇" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER 煲劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER 金曲" tvg-name="SUPER 金曲" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",SUPER 金曲
+#EXTINF:-1 tvg-id="SUPER 金曲" tvg-name="SUPER 金曲" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER 金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER识食" tvg-name="SUPER 識食" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",SUPER 識食
+#EXTINF:-1 tvg-id="SUPER识食" tvg-name="SUPER 識食" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER 識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="SUPER识叹" tvg-name="SUPER 識嘆" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",SUPER 識嘆
+#EXTINF:-1 tvg-id="SUPER识叹" tvg-name="SUPER 識嘆" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER 識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="亚洲武侠" tvg-name="TVB亚洲武侠" tvg-logo="https://material.1989.click/logo/亞洲武俠.png" group-title="电影频道",TVB亚洲武侠
 https://cdn.qd.je/163189/yzwx
 #EXTINF:-1 tvg-id="亚洲武侠" tvg-name="TVB亚洲武侠" tvg-logo="https://epg.112114.xyz/logo/TVB%E4%BA%9A%E6%B4%B2%E6%AD%A6%E4%BE%A0.png" group-title="电影频道",TVB亚洲武侠
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn6.cc.cd/163189/yzwx
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="TVB亞洲劇台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",TVB亞洲劇台
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="TVB亞洲劇台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",TVB亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="TVB千禧經典台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB千禧經典台.png" group-title="电影频道",TVB千禧經典台
 https://cdn.qd.je/163189/tvbc
@@ -1475,7 +1475,7 @@ https://cdn.qd.je/163189/ccyj
 https://cdn12.178.indevs.in/163189/ccyj
 #EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/采昌影剧台.png" group-title="电影频道",采昌影剧台
 https://cdn12.178.indevs.in/163189/0a6204ed0261460c
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",粵語片台
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="東森電影台" tvg-name="东森电影" tvg-logo="https://material.1989.click/logo/東森電影台.png" group-title="电影频道",东森电影
 https://iptv.1989.click/tw/42ghv7?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
@@ -1489,7 +1489,7 @@ https://iptv.1989.click/tw/zf9xmd?token=3fb62170eeab60bdeab4d3b411feb27f132e246a
 https://cdn.qd.je/163189/dsyp
 #EXTINF:-1 tvg-id="東森洋片台" tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东森洋片.png" group-title="电影频道",东森洋片
 https://smt.1678520.xyz/163189/dsyp
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="华语剧台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",华语剧台
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="华语剧台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",华语剧台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/金光布袋戏.png" group-title="电影频道",金光布袋戏
 https://cdn.qd.je/163189/jgbdx
@@ -1557,7 +1557,7 @@ http://o11.163189.xyz/stream/live/ccm/
 https://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天映经典频道.png" group-title="电影频道",天映经典频道
 https://10.fast.hidns.vip/163189/ccm/
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",亞洲劇台
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://epg.112114.xyz/logo/%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="电影频道",影迷數位電影台
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -1606,7 +1606,7 @@ https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/靖天映畫.png" group-title="电影频道",靖天映畫
 http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="电影频道",中國電影頻道
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",中國電影頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="東森戲劇台" tvg-name="东森戏剧" tvg-logo="https://material.1989.click/logo/東森戲劇台.png" group-title="电影频道",东森戏剧
 https://iptv.1989.click/tw/eyhjx6?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
@@ -1632,14 +1632,14 @@ https://jmp2.uk/stvp-ATBD800001VA
 https://iptv.1989.click/comp/pwc9da?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Discovery.png" group-title="外国频道",Discovery
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="外国频道",DW
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",DW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://material.1989.click/logo/FRANCE24.png" group-title="外国频道",France 24
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/zcyag5?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://material.1989.click/logo/FRANCE24.png" group-title="外国频道",France 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="外国频道",KIX
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="KNBC" tvg-name="KNBC" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/KNBC.png" group-title="外国频道",KNBC
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
@@ -1652,7 +1652,7 @@ https://iptv.1989.click/4gtv/b266ge?token=3fb62170eeab60bdeab4d3b411feb27f132e24
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Love Nature.png" group-title="外国频道",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="外国频道",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="外国频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1665,7 +1665,7 @@ http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TBS.png" group-title="外国频道",TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="外国频道",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://epg.112114.xyz/logo/TRT%20World.png" group-title="外国频道",TRT World
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -1681,7 +1681,7 @@ https://iptv.1989.click/4gtv/p7xkp3?token=3fb62170eeab60bdeab4d3b411feb27f132e24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半岛新闻 (1080p)" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/半岛新闻 (1080p).png" group-title="外国频道",半岛新闻 (1080p)
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="外国频道",東方衛視國際頻道
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",東方衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93.png" group-title="外国频道",尼克兒童頻道
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -1690,9 +1690,9 @@ http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="新加坡国际" tvg-name="新加坡国际" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/新加坡国际.png" group-title="外国频道",新加坡国际
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="外国频道",亞洲新聞台
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",亞洲新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="外国频道",無線衛星新聞台
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://material.1989.click/logo/BBC-Lifestyle.png" group-title="外国频道",BBC Lifestyle
 https://iptv.1989.click/comp/5yx6q8?token=3fb62170eeab60bdeab4d3b411feb27f132e246a45664234
@@ -2186,5 +2186,5 @@ http://www.ikerobot.com:1234/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-12 19:47:03
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-12 21:53:37
 http://83.147.60.29:19899/hk/5cs36w?token=0f3413098e1d4253d637a985b7ff1f9266bdec7b48b9c149
