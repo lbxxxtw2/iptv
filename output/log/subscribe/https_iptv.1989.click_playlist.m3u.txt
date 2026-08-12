@@ -46,8 +46,6 @@ https://iptv.1989.click/hkg/mpckbw?token=380bc8c52465355de1b82a0e94a86e8ab7e5c11
 https://iptv.1989.click/hkg/5jygwu?token=380bc8c52465355de1b82a0e94a86e8ab7e5c112f96ed340
 #EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://material.1989.click/logo/AM864.png" group-title="•香港「Relay」",電台·AM864
 https://iptv.1989.click/hkg/jg7azh?token=380bc8c52465355de1b82a0e94a86e8ab7e5c112f96ed340
-#EXTINF:-1 tvg-id="测试" tvg-name="测试" tvg-logo="" group-title="•香港「Relay」",测试
-https://iptv.1989.click/hkg/pg6g6m?token=380bc8c52465355de1b82a0e94a86e8ab7e5c112f96ed340
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://material.1989.click/logo/HOY76.png" group-title="•香港「Relay」",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://material.1989.click/logo/HOY77.png" group-title="•香港「Relay」",HOY TV
@@ -76,6 +74,8 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://material.1989.click/logo/澳门综艺.png" group-title="•香港「Relay」",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="•央視「Relay」",咪视界「测试」
+https://iptv.1989.click/cn/pg6g6m?token=380bc8c52465355de1b82a0e94a86e8ab7e5c112f96ed340
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://material.1989.click/logo/CCTV1.png" group-title="•央視「Relay」",CCTV 1 綜合「Relay」
 https://iptv.1989.click/cn/y3yrt5?token=380bc8c52465355de1b82a0e94a86e8ab7e5c112f96ed340
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://material.1989.click/logo/CCTV2.png" group-title="•央視「Relay」",CCTV 2 財經「Relay」
