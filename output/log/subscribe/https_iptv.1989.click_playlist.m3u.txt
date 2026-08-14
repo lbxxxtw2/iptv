@@ -14,7 +14,7 @@ https://iptv.1989.click/phoenix/r4gc4q?token=03a196fd50c25e22afa7158e1c90b38416a
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港「回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/phoenix/72sbx9?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",ViuTV
 https://iptv.1989.click/hk/p2jwva?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="•香港「Relay」",ViuTVsix
 https://iptv.1989.click/hk/hmvap5?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
@@ -184,9 +184,6 @@ https://iptv.1989.click/4gtv/c8st62?token=03a196fd50c25e22afa7158e1c90b38416a6c6
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://material.1989.click/logo/博斯魅力台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯魅力「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/epv9gr?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://material.1989.click/logo/中天新聞台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",中天新聞「4gTV」
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/gwnej4?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://material.1989.click/logo/中視.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",中視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/brny5p?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
