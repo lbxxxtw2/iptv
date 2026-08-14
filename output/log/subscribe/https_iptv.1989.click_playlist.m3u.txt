@@ -534,6 +534,10 @@ https://iptv.1989.click/ofiii/hrt2pk?token=03a196fd50c25e22afa7158e1c90b38416a6c
 https://iptv.1989.click/ofiii/89dhd5?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://material.1989.click/logo/Smart知識台.png" group-title="•台灣「Relay」",Smart知識「ofiii」
 https://iptv.1989.click/ofiii/xt9gm5?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://material.1989.click/logo/Eurosport-1.png" group-title="•體育「Relay」",Eurosport 1
+https://iptv.1989.click/sprt/mxm396?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://material.1989.click/logo/Eurosport-2.png" group-title="•體育「Relay」",Eurosport 2
+https://iptv.1989.click/sprt/yhcwdx?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://material.1989.click/logo/TNT-Sports-1.png" group-title="•體育「Relay」",TNT Sport 1
 https://iptv.1989.click/sprt/a7tm9w?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://material.1989.click/logo/TNT-Sports-2.png" group-title="•體育「Relay」",TNT Sport 2
@@ -542,10 +546,6 @@ https://iptv.1989.click/sprt/f4p726?token=03a196fd50c25e22afa7158e1c90b38416a6c6
 https://iptv.1989.click/sprt/e2nb3s?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://material.1989.click/logo/TNT-Sports-4.png" group-title="•體育「Relay」",TNT Sport 4
 https://iptv.1989.click/sprt/9khgrs?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://material.1989.click/logo/Eurosport-1.png" group-title="•體育「Relay」",Eurosport 1
-https://iptv.1989.click/sprt/mxm396?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://material.1989.click/logo/Eurosport-2.png" group-title="•體育「Relay」",Eurosport 2
-https://iptv.1989.click/sprt/yhcwdx?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://material.1989.click/logo/beIN-Sports-1.png" group-title="•體育「Relay」",beIN Sports 1
 https://iptv.1989.click/sprt/vzd72d?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://material.1989.click/logo/beIN-Sports-2.png" group-title="•體育「Relay」",beIN Sports 2
@@ -556,6 +556,16 @@ https://iptv.1989.click/sprt/ygm39a?token=03a196fd50c25e22afa7158e1c90b38416a6c6
 https://iptv.1989.click/sprt/cue2s9?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://material.1989.click/logo/beIN-Sports-5.png" group-title="•體育「Relay」",beIN Sports 5
 https://iptv.1989.click/sprt/v83nh6?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://material.1989.click/logo/TSN-1.png" group-title="•體育「Relay」",TSN 1
+https://iptv.1989.click/sprt/n8mhsu?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://material.1989.click/logo/TSN-2.png" group-title="•體育「Relay」",TSN 2
+https://iptv.1989.click/sprt/jrzrbt?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://material.1989.click/logo/TSN-3.png" group-title="•體育「Relay」",TSN 3
+https://iptv.1989.click/sprt/274ceu?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://material.1989.click/logo/TSN-4.png" group-title="•體育「Relay」",TSN 4
+https://iptv.1989.click/sprt/c3byka?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://material.1989.click/logo/TSN-5.png" group-title="•體育「Relay」",TSN 5
+https://iptv.1989.click/sprt/avt6hb?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://material.1989.click/logo/Hub-Premier-1.png" group-title="•體育「Relay」",Hub Premier 1
 https://iptv.1989.click/sprt/r7z9gu?token=03a196fd50c25e22afa7158e1c90b38416a6c66752340e4c
 #EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://material.1989.click/logo/Hub-Premier-2.png" group-title="•體育「Relay」",Hub Premier 2
