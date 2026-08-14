@@ -14,7 +14,7 @@ https://iptv.1989.click/phoenix/3c6nfy?token=9b67578ae4141a3a0e5f6e011e346659637
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港「回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/phoenix/uqda3e?token=9b67578ae4141a3a0e5f6e011e34665963727d1dd62c60c7
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」",ViuTV
 https://iptv.1989.click/hk/5wtwcd?token=9b67578ae4141a3a0e5f6e011e34665963727d1dd62c60c7
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="•香港「Relay」",ViuTVsix
 https://iptv.1989.click/hk/p3hjjm?token=9b67578ae4141a3a0e5f6e011e34665963727d1dd62c60c7
@@ -64,7 +64,7 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://material.1989.click/logo/澳门综艺.png" group-title="•香港「Relay」",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://material.1989.click/logo/咪咕.png" group-title="•央視「Relay」",咪视界「测试」
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://material.1989.click/logo/睛彩广场舞.png" group-title="•央視「Relay」",睛彩广场舞「测试」
 https://iptv.1989.click/cn/wbfnrz?token=9b67578ae4141a3a0e5f6e011e34665963727d1dd62c60c7
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://material.1989.click/logo/CCTV1.png" group-title="•央視「Relay」",CCTV 1 綜合「Relay」
 https://iptv.1989.click/cn/gjcy38?token=9b67578ae4141a3a0e5f6e011e34665963727d1dd62c60c7
