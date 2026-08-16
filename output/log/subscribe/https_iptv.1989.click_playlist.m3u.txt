@@ -7,41 +7,41 @@ https://material.1989.click/v/302.mp4
 https://material.1989.click/v/301.mp4
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://material.1989.click/logo/凤凰中文.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·中文「回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/phoenix/ct48jj?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/phoenix/mp62pc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://material.1989.click/logo/凤凰资讯.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·資訊「回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/phoenix/4c6duc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/phoenix/49fdjy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港「回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/phoenix/zad6d6?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/phoenix/xxth2j?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台
-https://iptv.1989.click/hk/8j9626?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/jhwpva?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•香港「Relay」",無綫新聞台
-https://iptv.1989.click/hk/yyufaq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/sdwbat?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•香港「Relay」",TVB Plus
-https://iptv.1989.click/hk/y6hfac?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/ex224c?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」",ViuTV
-https://iptv.1989.click/hk/c3dnmb?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/abfhf5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="•香港「Relay」",ViuTVsix
-https://iptv.1989.click/hk/zbs3vx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/mpyznf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://material.1989.click/logo/Now直播台.png" group-title="•香港「Relay」",Now直播台
-https://iptv.1989.click/hk/6k5eq8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/jeajy5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://material.1989.click/logo/Now新聞台.png" group-title="•香港「Relay」",Now新聞台
-https://iptv.1989.click/hk/kjb9yb?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/3sspw5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://material.1989.click/logo/Now財經台.png" group-title="•香港「Relay」",Now財經台
-https://iptv.1989.click/hk/xagfwz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/92skjs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://material.1989.click/logo/Now Sports 精選.png" group-title="•香港「Relay」",Now Sports 精選
-https://iptv.1989.click/hk/zbdu7t?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hk/n2njzq?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Now Sports 4K 617" tvg-name="Now Sports 4K 617" tvg-logo="https://material.1989.click/logo/Now-Sports-617.png" group-title="•香港「Relay」",Now Sports 617
-https://iptv.1989.click/hkg/np9d2j?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hkg/6gxthj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Now Sports 618" tvg-name="Now Sports 618" tvg-logo="https://material.1989.click/logo/Now-Sports-618.png" group-title="•香港「Relay」",Now Sports 618
-https://iptv.1989.click/hkg/7d52uq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hkg/gvpkca?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://material.1989.click/logo/雷霆881.png" group-title="•香港「Relay」",電台·雷霆881
-https://iptv.1989.click/hkg/48j9hr?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hkg/2w5t3p?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://material.1989.click/logo/叱咤903.png" group-title="•香港「Relay」",電台·叱咤903
-https://iptv.1989.click/hkg/ngkq89?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hkg/gpvypu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://material.1989.click/logo/AM864.png" group-title="•香港「Relay」",電台·AM864
-https://iptv.1989.click/hkg/avnzyx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/hkg/h6mpmx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://material.1989.click/logo/HOY76.png" group-title="•香港「Relay」",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://material.1989.click/logo/HOY77.png" group-title="•香港「Relay」",HOY TV
@@ -71,569 +71,569 @@ https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://material.1989.click/logo/澳门综艺.png" group-title="•香港「Relay」",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://material.1989.click/logo/睛彩广场舞.png" group-title="•央視「Relay」",睛彩广场舞「Relay」
-https://iptv.1989.click/cn/sxnjkg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/penvyc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://material.1989.click/logo/睛彩青少.png" group-title="•央視「Relay」",睛彩青少「Relay」
-https://iptv.1989.click/cn/d63dg8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/gae82w?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://material.1989.click/logo/睛彩竞技.png" group-title="•央視「Relay」",睛彩竞技「Relay」
-https://iptv.1989.click/cn/byweux?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/bxbvbv?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://material.1989.click/logo/睛彩篮球.png" group-title="•央視「Relay」",睛彩篮球「Relay」
-https://iptv.1989.click/cn/drpe8q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/njyssf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://material.1989.click/logo/CCTV1.png" group-title="•央視「Relay」",CCTV 1 綜合「Relay」
-https://iptv.1989.click/cn/9cbnap?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/v6qgv4?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://material.1989.click/logo/CCTV2.png" group-title="•央視「Relay」",CCTV 2 財經「Relay」
-https://iptv.1989.click/cn/azw8an?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/hwwkgy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://material.1989.click/logo/CCTV3.png" group-title="•央視「Relay」",CCTV 3 綜藝「Relay」
-https://iptv.1989.click/cn/dwvap9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/9dzudm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://material.1989.click/logo/CCTV4.png" group-title="•央視「Relay」",CCTV 4 中文國際「Relay」
-https://iptv.1989.click/cn/9qetpd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/52ewzq?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://material.1989.click/logo/CCTV5.png" group-title="•央視「Relay」",CCTV 5 體育「Relay」
-https://iptv.1989.click/cn/2vn2p5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/yard86?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://material.1989.click/logo/CCTV5+.png" group-title="•央視「Relay」",CCTV 5+ 體育賽事「Relay」
-https://iptv.1989.click/cn/8utfwy?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/mc9cwa?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://material.1989.click/logo/CCTV6.png" group-title="•央視「Relay」",CCTV 6 電影「Relay」
-https://iptv.1989.click/cn/3bvnnw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/rjw7jc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://material.1989.click/logo/CCTV7.png" group-title="•央視「Relay」",CCTV 7 國防軍事「Relay」
-https://iptv.1989.click/cn/xsfc77?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/4ts7v4?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://material.1989.click/logo/CCTV8.png" group-title="•央視「Relay」",CCTV 8 電視劇「Relay」
-https://iptv.1989.click/cn/rq6taw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/vmrh9q?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://material.1989.click/logo/CCTV9.png" group-title="•央視「Relay」",CCTV 9 記錄「Relay」
-https://iptv.1989.click/cn/pv6t3k?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/jnz7aw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://material.1989.click/logo/CCTV10.png" group-title="•央視「Relay」",CCTV 10 科教「Relay」
-https://iptv.1989.click/cn/ym7cwn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/e7qwyz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://material.1989.click/logo/CCTV11.png" group-title="•央視「Relay」",CCTV 11 戲曲「Relay」
-https://iptv.1989.click/cn/62ds54?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/qzzfaj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://material.1989.click/logo/CCTV12.png" group-title="•央視「Relay」",CCTV 12 社會與法「Relay」
-https://iptv.1989.click/cn/w8qp5d?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/cd8awc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://material.1989.click/logo/CCTV13.png" group-title="•央視「Relay」",CCTV 13 新聞「Relay」
-https://iptv.1989.click/cn/tdgxet?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/2e3rak?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://material.1989.click/logo/CCTV14.png" group-title="•央視「Relay」",CCTV 14 少兒「Relay」
-https://iptv.1989.click/cn/yev547?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/s5zv5g?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://material.1989.click/logo/CCTV15.png" group-title="•央視「Relay」",CCTV 15 音樂「Relay」
-https://iptv.1989.click/cn/72jzvy?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/934ev8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://material.1989.click/logo/CCTV16.png" group-title="•央視「Relay」",CCTV 16 奧林匹克「Relay」
-https://iptv.1989.click/cn/nk8q67?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/qdt2t7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://material.1989.click/logo/CCTV17.png" group-title="•央視「Relay」",CCTV 17 農村農業「Relay」
-https://iptv.1989.click/cn/6ebzgf?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/xwqppb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://material.1989.click/logo/北京卫视.png" group-title="•央視「Relay」",北京衛視「Relay」
-https://iptv.1989.click/cn/k2exut?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/zx6jne?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://material.1989.click/logo/东方卫视.png" group-title="•央視「Relay」",東方衛視「Relay」
-https://iptv.1989.click/cn/9k8ubp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/ccgd4v?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://material.1989.click/logo/广东卫视.png" group-title="•央視「Relay」",廣東衛視「Relay」
-https://iptv.1989.click/cn/e85ff8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/8aa6q6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://material.1989.click/logo/浙江卫视.png" group-title="•央視「Relay」",浙江衛視「Relay」
-https://iptv.1989.click/cn/d3xs6q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/256w69?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://material.1989.click/logo/江苏卫视.png" group-title="•央視「Relay」",江蘇衛視「Relay」
-https://iptv.1989.click/cn/bjagx6?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/ffwvzf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://material.1989.click/logo/湖南卫视.png" group-title="•央視「Relay」",湖南衛視「Relay」
-https://iptv.1989.click/cn/a49un6?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/cc7hyg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://material.1989.click/logo/四川卫视.png" group-title="•央視「Relay」",四川衛視「Relay」
-https://iptv.1989.click/cn/t4em38?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/cn/47symd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台'" tvg-logo="https://material.1989.click/logo/緯來日本.png" group-title="•台灣「Relay」",緯來日本「Relay」
-https://iptv.1989.click/tw/rvbskj?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/c83acc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://material.1989.click/logo/緯來體育.png" group-title="•台灣「Relay」",緯來體育「Relay」
-https://iptv.1989.click/tw/aadf34?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/sgp32p?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://material.1989.click/logo/緯來電影.png" group-title="•台灣「Relay」",緯來電影「Relay」
-https://iptv.1989.click/tw/96259b?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/d2p3qs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://material.1989.click/logo/緯來綜合.png" group-title="•台灣「Relay」",緯來綜合「Relay」
-https://iptv.1989.click/tw/5kyhe7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/jz5qby?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://material.1989.click/logo/緯來戲劇.png" group-title="•台灣「Relay」",緯來戲劇「Relay」
-https://iptv.1989.click/tw/zunz8w?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/asexbj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://material.1989.click/logo/緯來育樂.png" group-title="•台灣「Relay」",緯來育樂「Relay」
-https://iptv.1989.click/tw/y3mnyj?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/a82qe8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="年代新聞台" tvg-name="年代新聞台" tvg-logo="https://material.1989.click/logo/年代新聞台.png" group-title="•台灣「Relay」",年代新聞「Relay」
-https://iptv.1989.click/tw/mp7fby?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/bd7p3j?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://material.1989.click/logo/中天亞洲台.png" group-title="•台灣「Relay」",中天亞洲「Relay」
-https://iptv.1989.click/tw/y79n8y?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/a4uyym?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://material.1989.click/logo/中天綜合台.png" group-title="•台灣「Relay」",中天綜合「Relay」
-https://iptv.1989.click/tw/8tbacg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/vtxhwy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://material.1989.click/logo/中天娛樂台.png" group-title="•台灣「Relay」",中天娛樂「Relay」
-https://iptv.1989.click/tw/jac8h5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/q7s6rm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://material.1989.click/logo/東森電影台.png" group-title="•台灣「Relay」",東森電影「Relay」
-https://iptv.1989.click/tw/2pknyx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/qbfq6q?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://material.1989.click/logo/東森洋片台.png" group-title="•台灣「Relay」",東森洋片「Relay」
-https://iptv.1989.click/tw/t3eaz8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/9qga5a?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://material.1989.click/logo/東森綜合台.png" group-title="•台灣「Relay」",東森綜合「Relay」
-https://iptv.1989.click/tw/skvx2r?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/rv3jkw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://material.1989.click/logo/東森戲劇台.png" group-title="•台灣「Relay」",東森戲劇「Relay」
-https://iptv.1989.click/tw/q2c3k9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/4tg3ya?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="https://material.1989.click/logo/東森幼幼台.png" group-title="•台灣「Relay」",東森幼幼「Relay」
-https://iptv.1989.click/tw/nvgcdm?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/h6ebfs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://material.1989.click/logo/台視.png" group-title="•台灣「Relay」",台視「Relay」
-https://iptv.1989.click/tw/3khzuq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/zmzcnm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://material.1989.click/logo/動物星球.png" group-title="•台灣「Relay」",動物星球「Relay」
-https://iptv.1989.click/tw/37psnj?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/jq6etx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://material.1989.click/logo/CATCHPLAY電影台.png" group-title="•台灣「Relay」",CATCHPLAY 電影「Relay」
-https://iptv.1989.click/tw/xsdd7z?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/9qy34s?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="https://material.1989.click/logo/龍祥時代.png" group-title="•台灣「Relay」",龍祥時代「Relay」
-https://iptv.1989.click/tw/j9assg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/4t98hd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://material.1989.click/logo/CINEMAX.png" group-title="•台灣「Relay」",CINEMAX「Relay」
-https://iptv.1989.click/tw/8udbv7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/22345j?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://material.1989.click/logo/好萊塢電影台.png" group-title="•台灣「Relay」",好萊塢電影「Relay」
-https://iptv.1989.click/tw/pbbt9y?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/rmn6q6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://material.1989.click/logo/MTV.png" group-title="•台灣「Relay」",MTV Live「Relay」
-https://iptv.1989.click/tw/swfxyx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/tw/cyf5ew?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://material.1989.click/logo/博斯運動一台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯運動 一「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/4he99y?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/dm7f2f?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://material.1989.click/logo/博斯運動二台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯運動 二「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/3226aw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/yc57js?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://material.1989.click/logo/博斯無限台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯無限 一「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/eyncxr?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/pbvua5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://material.1989.click/logo/博斯無限二台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯無限 二「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/yuepa8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/cb9yxj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://material.1989.click/logo/博斯高球台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯高球 一「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/7sxk8w?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/r9p5ue?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://material.1989.click/logo/博斯高球二台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯高球 二「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/8qbc4g?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/d6zte7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://material.1989.click/logo/博斯網球台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯網球「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/vuvgxv?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/mgqhx2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://material.1989.click/logo/博斯魅力台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",博斯魅力「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/hku5ru?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/ng2a24?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://material.1989.click/logo/中視.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",中視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/7jykz9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/e3m94w?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://material.1989.click/logo/中視新聞.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",中視新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/9dennw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/3jrgj6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://material.1989.click/logo/東森新聞台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",東森新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/gmu55m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/4pawfs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://material.1989.click/logo/東森財經新聞台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",東森財經「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/8dpwa7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/zdwukm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://material.1989.click/logo/TVBS.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",TVBS「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/vcme4t?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/wsdgeu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://material.1989.click/logo/TVBS新聞.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",TVBS 新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/n5zytd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/k95s4r?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://material.1989.click/logo/TVBS歡樂台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",TVBS 歡樂「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/nkd762?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/q2dwws?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://material.1989.click/logo/TVBS精采台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",TVBS 精采「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/rhhdrq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/fxmg6y?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://material.1989.click/logo/KLT-靖天國際台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天國際「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/k68aet?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/savxsf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Nice TV靖天歡樂台" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://material.1989.click/logo/Nice-TV靖天歡樂台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天歡樂「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/xnvzm2?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/mfz4a2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://material.1989.click/logo/靖天映畫.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天映畫「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/r7v6dq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/w78746?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://material.1989.click/logo/靖天戲劇台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天戲劇「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/z3xav4?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/v4ytfv?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://material.1989.click/logo/靖天日本台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天日本「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/e4bt4m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/axbvrw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://material.1989.click/logo/靖天綜合台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天綜合「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/nvpbdw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/5h6b3q?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://material.1989.click/logo/靖天育樂台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天育樂「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/8ftz4m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/3862rg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://material.1989.click/logo/靖天資訊台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天資訊「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/t9da32?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/aa7rkx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://material.1989.click/logo/靖天電影台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天電影「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/k5sx69?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/acuyx2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://material.1989.click/logo/靖天卡通台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖天卡通「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/8k9e87?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/juuhg9?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖洋卡通台Nice Bingo" tvg-name="靖洋卡通台Nice Bingo" tvg-logo="https://material.1989.click/logo/靖洋卡通Nice-Bingo.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖洋卡通「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/xscytp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/wtzveh?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://material.1989.click/logo/靖洋戲劇台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",靖洋戲劇「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/paydmg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/j4mstd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://material.1989.click/logo/八大精彩台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",八大精彩「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/upapbn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/bvv2tw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://material.1989.click/logo/八大綜藝台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",八大綜藝「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/nv2jp9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/5byme9?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://material.1989.click/logo/公視戲劇台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",公視戲劇「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/mr2fap?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/8cn59q?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://material.1989.click/logo/寰宇新聞台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",寰宇新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/rkbqgq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/kt9xgz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://material.1989.click/logo/寰宇新聞台灣台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",寰宇新聞台灣「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/ua6882?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/kpf3g7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://material.1989.click/logo/華視.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",華視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/2gwt8c?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/7ufusj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://material.1989.click/logo/華視新聞.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",華視新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/qrux58?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/f8wye7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://material.1989.click/logo/民視.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",民視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/5uye3m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/fcv4sv?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://material.1989.click/logo/民視台灣台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",民視台灣「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/ga6kq4?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/jcgnkz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://material.1989.click/logo/民視影劇台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",民視影劇「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/5ekexn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/p77m67?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://material.1989.click/logo/民視新聞台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",民視新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/brz6e2?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/e9vkbm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://material.1989.click/logo/民視旅遊台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",民視旅遊「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/rpwhsb?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/c4x769?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://material.1989.click/logo/民視第一台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",民視第一「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/29xyhb?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/axvejb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://material.1989.click/logo/民視綜藝台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",民視綜藝「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/q9spbq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/hjxxk5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://material.1989.click/logo/三立綜合台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",三立綜合「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/a2cwr2?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/x3hrzd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://material.1989.click/logo/三立新聞iNEWS.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",三立新聞iNEWS「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/g3yc9n?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/xvh3gq?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://material.1989.click/logo/INULTRA.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",INULTRA「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/yafun9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/d8vdbb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://material.1989.click/logo/愛爾達生活旅遊台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",愛爾達生活旅遊「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/rt33ej?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/68puhw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://material.1989.click/logo/鏡電視新聞台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",鏡電視新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/7j3atc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/qmfskh?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://material.1989.click/logo/半島國際新聞台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",半島國際新聞「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/u23wye?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/tsnpe7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://material.1989.click/logo/DW德國之聲.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",DW德國之聲「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/yr5eeb?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/zcss3g?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://material.1989.click/logo/FRANCE24.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",FRANCE24「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/6cbyeq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/kgst6s?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://material.1989.click/logo/NHK-WORLD-JAPAN.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",NHK 新聞資訊「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/scwupp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/g5tkbd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://material.1989.click/logo/CNBC-Asia-財經台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",CNBC Asia 財經「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/s6bv9m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/e5zw68?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://material.1989.click/logo/SBN-全球財經台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",SBN 全球財經「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/xj9aph?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/e82cuy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://material.1989.click/logo/Bloomberg-TV.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Bloomberg TV「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/r37nsx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/mdrj76?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://material.1989.click/logo/亞洲旅遊台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",亞洲旅遊「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/3fq6bv?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/4fps99?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://material.1989.click/logo/時尚運動X.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",時尚運動X「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/avb57m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/cah7xu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://material.1989.click/logo/智林體育台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",智林體育「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/94umt7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/efpsa8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://material.1989.click/logo/amc電影台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",amc電影台「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/t6w27d?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/j4ggu6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://material.1989.click/logo/My-Cinema-Europe.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",MCE 我的歐洲電影「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/ne6vf7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/ycb4rz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://material.1989.click/logo/影迷數位電影台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",影迷數位電影「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/e4ep44?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/eesfx7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://material.1989.click/logo/影迷數位紀實台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",影迷數位紀實「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/mbrty4?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/cdkp9h?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://material.1989.click/logo/CinemaWorld.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",CinemaWorld「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/vru8u5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/fwxbaa?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://material.1989.click/logo/經典電影台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",經典電影「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/8p3q9r?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/jfr29v?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://material.1989.click/logo/Love-Nature.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Love Nature「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/xqdm5d?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/5keqqc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://material.1989.click/logo/視納華仁紀實頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",視納華仁紀實頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/zyhq2k?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/kxpyth?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://material.1989.click/logo/CI-罪案偵查頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",CI 罪案偵查頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/k5b66a?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/j6wz6g?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://material.1989.click/logo/History-歷史頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",History 歷史頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/m29zz5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/8cycmg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/ROCK-Action.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",ROCK Action「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/c8t73h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/ce4wjw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://material.1989.click/logo/ROCK-Entertainment.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",ROCK Entertainment「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/z4h3pt?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/5tqpn8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://material.1989.click/logo/ROCK-Xstream.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",ROCK Xstream「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/t2ep39?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/pa7j57?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://material.1989.click/logo/Arirang-TV.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Arirang TV「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/v46rm5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/t56c9z?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://material.1989.click/logo/韓國娛樂台-KMTV.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",韓國娛樂台 KMTV「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/etrwar?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/t6dmax?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://material.1989.click/logo/Lifetime-娛樂頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Lifetime 娛樂頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/sqwvvu?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/4h2cn8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://material.1989.click/logo/fun探索娛樂台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",fun探索娛樂「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/jbzvcz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/jj4m9t?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://material.1989.click/logo/HITS頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",HITS頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/tmaam3?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/fhd8hm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://material.1989.click/logo/豬哥亮歌廳秀.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",豬哥亮歌廳秀「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/97qtqn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/qjpchy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://material.1989.click/logo/采昌影劇台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",采昌影劇「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/q65vn5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/nq3ub2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://material.1989.click/logo/CLASSICA-古典樂.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",CLASSICA 古典樂「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/f64n6z?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/npd7qr?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://material.1989.click/logo/Mezzo-Live.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Mezzo Live「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/vgk5vs?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/q67b6p?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://material.1989.click/logo/電影原聲台CMusic.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",電影原聲 CMusic「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/dc36xd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/rd8rvc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://material.1989.click/logo/TRACE-Urban.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",TRACE Urban「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/ys5344?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/tkfmkn?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://material.1989.click/logo/TRACE-Sport-Stars.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",TRACE Sport Stars「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/ngqa5j?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/zxqcd8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://material.1989.click/logo/GINX-Esports-TV.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",GINX Esports TV「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/93ebmw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/df8ae6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://material.1989.click/logo/DreamWorks-夢工廠動畫.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",DreamWorks 夢工廠動畫「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/emkz8h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/99vny4?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://material.1989.click/logo/精選動漫台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",精選動漫「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/zzek8a?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/sd3qbz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://material.1989.click/logo/經典卡通台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",經典卡通「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/fmbrk5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/ks2emq?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://material.1989.click/logo/MOMO親子台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",MOMO親子「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/zth89j?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/6vkqm5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://material.1989.click/logo/Nick-Jr.兒童頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Nick Jr. 兒童頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/n7uvbp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/bdgbcs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://material.1989.click/logo/Nickelodeon.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",尼克兒童頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/efyxgv?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/c8hj6k?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://material.1989.click/logo/Pet-Club-TV.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Pet Club TV「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/75wrk5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/626c7c?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://material.1989.click/logo/LiveABC互動英語頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",LiveABC互動英語頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/6u3qbp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/c5e9mu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ELTV英語學習台" tvg-name="ELTV英語學習台" tvg-logo="https://material.1989.click/logo/ELTA生活英語.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",ELTA生活英語「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/rfze7h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/smvv7v?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://material.1989.click/logo/達文西頻道.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",達文西頻道「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/eznsqz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/hqu84z?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://material.1989.click/logo/滾動力rollor.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",滾動力rollor「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/vb29ug?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/28b3ux?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://material.1989.click/logo/Global-Trekker.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Global Trekker「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/bu7bkv?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/2kw3y2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://material.1989.click/logo/LUXE-TV-Channel.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",LUXE TV Channel「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/qcqddq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/jtbvqg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://material.1989.click/logo/TV5MONDE-STYLE.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",TV5MONDE STYLE 生活時尚「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/6zxhbt?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/hhspbx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://material.1989.click/logo/幸福空間居家台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",幸福空間居家「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/997vdd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/skgzxf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://material.1989.click/logo/車迷TV.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",車迷「4gTV」 TV
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/crkuwg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/ynex8a?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://material.1989.click/logo/金光布袋戲.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",金光布袋戲「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/fw4ndg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/cyt9kp?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://material.1989.click/logo/原住民族電視台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",原住民族電視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/9x29ew?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/5keza5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://material.1989.click/logo/客家電視台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",客家電視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/znffvx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/j75jc4?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://material.1989.click/logo/人間衛視.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",人間衛視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/nwr9kv?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/hwgayu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://material.1989.click/logo/大愛電視.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",大愛電視「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/s59288?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/xmhm57?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://material.1989.click/logo/大愛電視.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",大愛電視 2「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/n2z9cc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/tyxvut?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://material.1989.click/logo/好消息.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",好消息 1「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/854h74?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/aadqzy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://material.1989.click/logo/好消息2台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",好消息 2「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/pj7mmt?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/t3ty7g?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://material.1989.click/logo/國會頻道1.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",國會頻道 1「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/bebnf6?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/fz9mx8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://material.1989.click/logo/國會頻道2.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",國會頻道 2「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/85zwy7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/yunw36?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://material.1989.click/logo/東森購物.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",東森購物 一「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/nb6rms?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/vkubqy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://material.1989.click/logo/東森購物.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",東森購物 二「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/zf43tz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/9hu3v6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://material.1989.click/logo/東森購物.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",東森購物 三「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/95u8ha?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/9b5zt7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://material.1989.click/logo/東森購物.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",東森購物 四「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/d2wmck?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/9yvf3b?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://material.1989.click/logo/新唐人亚太台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",新唐人亞太「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/bz3wut?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/qz9xry?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Getwin Sports運動台" tvg-name="Getwin Sports運動台" tvg-logo="https://material.1989.click/logo/Getwin-Sports運動台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",Getwin Sports運動「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/xrkyhd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/fktuz8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ABC Australia 澳洲公廣頻道" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://material.1989.click/logo/ABC-Australia.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",ABC Australia 澳洲公廣「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/4gtv/ez7699?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/4gtv/82gj4h?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://material.1989.click/logo/龍華偶像台.png" group-title="•台灣「Relay」",龍華偶像「ofiii」
-https://iptv.1989.click/ofiii/4qg39t?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/k45am5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://material.1989.click/logo/龍華卡通台.png" group-title="•台灣「Relay」",龍華卡通「ofiii」
-https://iptv.1989.click/ofiii/b4sbbv?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/8mrmmr?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://material.1989.click/logo/龍華戲劇台.png" group-title="•台灣「Relay」",龍華戲劇「ofiii」
-https://iptv.1989.click/ofiii/nrzkx7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/pm9wvt?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://material.1989.click/logo/龍華日韓台.png" group-title="•台灣「Relay」",龍華日韓「ofiii」
-https://iptv.1989.click/ofiii/dn9x3x?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/pumbnw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://material.1989.click/logo/龍華洋片台.png" group-title="•台灣「Relay」",龍華洋片「ofiii」
-https://iptv.1989.click/ofiii/z7834r?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/duj9b7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://material.1989.click/logo/龍華經典台.png" group-title="•台灣「Relay」",龍華經典「ofiii」
-https://iptv.1989.click/ofiii/7y3863?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/g2e8bj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://material.1989.click/logo/龍華電影台.png" group-title="•台灣「Relay」",龍華電影「ofiii」
-https://iptv.1989.click/ofiii/grzqex?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/3ha4hp?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://material.1989.click/logo/台視新聞.png" group-title="•台灣「Relay」",台視新聞「ofiii」
-https://iptv.1989.click/ofiii/s5k6pa?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/jrvmcb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://material.1989.click/logo/台灣戲劇台.png" group-title="•台灣「Relay」",台灣戲劇「ofiii」
-https://iptv.1989.click/ofiii/t4ey9m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/dtjadc?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://material.1989.click/logo/寰宇財經台.png" group-title="•台灣「Relay」",寰宇財經「ofiii」
-https://iptv.1989.click/ofiii/j88z7b?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/xtbyfg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://material.1989.click/logo/DayStar.png" group-title="•台灣「Relay」",DayStar「ofiii」
-https://iptv.1989.click/ofiii/m6cc6h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/wyxm5a?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="第1商業" tvg-name="第1商業" tvg-logo="https://material.1989.click/logo/第1商業.png" group-title="•台灣「Relay」",第1商業「ofiii」
-https://iptv.1989.click/ofiii/phqp3s?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/p6u76t?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://material.1989.click/logo/Smart知識台.png" group-title="•台灣「Relay」",Smart知識「ofiii」
-https://iptv.1989.click/ofiii/my7hdz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/ofiii/6yfk62?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://material.1989.click/logo/Eurosport-1.png" group-title="•體育「Relay」",Eurosport 1
-https://iptv.1989.click/sprt/9sm9gb?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/xd9yac?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://material.1989.click/logo/Eurosport-2.png" group-title="•體育「Relay」",Eurosport 2
-https://iptv.1989.click/sprt/26jx96?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/wufp8c?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://material.1989.click/logo/TNT-Sports-1.png" group-title="•體育「Relay」",TNT Sport 1
-https://iptv.1989.click/sprt/wkj5d2?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/98dpus?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://material.1989.click/logo/TNT-Sports-2.png" group-title="•體育「Relay」",TNT Sport 2
-https://iptv.1989.click/sprt/k6z6mx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/23ey52?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://material.1989.click/logo/TNT-Sports-3.png" group-title="•體育「Relay」",TNT Sport 3
-https://iptv.1989.click/sprt/36k4d7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/7d6s8q?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://material.1989.click/logo/TNT-Sports-4.png" group-title="•體育「Relay」",TNT Sport 4
-https://iptv.1989.click/sprt/abduae?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/kn6awp?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://material.1989.click/logo/beIN-Sports-1.png" group-title="•體育「Relay」",beIN Sports 1
-https://iptv.1989.click/sprt/9jyphm?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/6vkzve?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://material.1989.click/logo/beIN-Sports-2.png" group-title="•體育「Relay」",beIN Sports 2
-https://iptv.1989.click/sprt/9asccn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/jfvfnb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://material.1989.click/logo/beIN-Sports-3.png" group-title="•體育「Relay」",beIN Sports 3
-https://iptv.1989.click/sprt/zbk6j7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/q794cd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://material.1989.click/logo/beIN-Sports-4.png" group-title="•體育「Relay」",beIN Sports 4
-https://iptv.1989.click/sprt/vbh9pj?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/uv3tdg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://material.1989.click/logo/beIN-Sports-5.png" group-title="•體育「Relay」",beIN Sports 5
-https://iptv.1989.click/sprt/dzhuyr?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/2sxzt6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://material.1989.click/logo/TSN-1.png" group-title="•體育「Relay」",TSN 1
-https://iptv.1989.click/sprt/jcnfbg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/8a23dp?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://material.1989.click/logo/TSN-2.png" group-title="•體育「Relay」",TSN 2
-https://iptv.1989.click/sprt/bbps4h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/ggqgqt?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://material.1989.click/logo/TSN-3.png" group-title="•體育「Relay」",TSN 3
-https://iptv.1989.click/sprt/aenadc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/3bqu2z?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://material.1989.click/logo/TSN-4.png" group-title="•體育「Relay」",TSN 4
-https://iptv.1989.click/sprt/5u33ur?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/m5u74e?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://material.1989.click/logo/TSN-5.png" group-title="•體育「Relay」",TSN 5
-https://iptv.1989.click/sprt/guj76e?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/ttqj7f?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://material.1989.click/logo/Hub-Premier-1.png" group-title="•體育「Relay」",Hub Premier 1
-https://iptv.1989.click/sprt/d8wfff?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/kyhcws?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://material.1989.click/logo/Hub-Premier-2.png" group-title="•體育「Relay」",Hub Premier 2
-https://iptv.1989.click/sprt/dj87qw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/ujc4aq?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://material.1989.click/logo/Hub-Premier-3.png" group-title="•體育「Relay」",Hub Premier 3
-https://iptv.1989.click/sprt/dwm2em?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/qatv4t?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://material.1989.click/logo/Hub-Premier-4.png" group-title="•體育「Relay」",Hub Premier 4
-https://iptv.1989.click/sprt/3j8jqc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/5zjkyh?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://material.1989.click/logo/Hub-Premier-5.png" group-title="•體育「Relay」",Hub Premier 5
-https://iptv.1989.click/sprt/9h598j?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/ns89mj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://material.1989.click/logo/Hub-Premier-6.png" group-title="•體育「Relay」",Hub Premier 6
-https://iptv.1989.click/sprt/s83krh?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/fmjyma?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-1.png" group-title="•體育「Relay」",Hub Sports 1
-https://iptv.1989.click/sprt/chfw5q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/m6r38y?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-2.png" group-title="•體育「Relay」",Hub Sports 2
-https://iptv.1989.click/sprt/mmga8v?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/aajtsa?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-3.png" group-title="•體育「Relay」",Hub Sports 3
-https://iptv.1989.click/sprt/kj9r6h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/4thtbh?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-4.png" group-title="•體育「Relay」",Hub Sports 4
-https://iptv.1989.click/sprt/9ymxw5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/sr398k?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-5.png" group-title="•體育「Relay」",Hub Sports 5
-https://iptv.1989.click/sprt/dhfppy?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/hkt5j9?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 6 HD" tvg-name="Hub Sports 6 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-6.png" group-title="•體育「Relay」",Hub Sports 6
-https://iptv.1989.click/sprt/4qmqw8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/xbd77d?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 7 HD" tvg-name="Hub Sports 7 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-7.png" group-title="•體育「Relay」",Hub Sports 7
-https://iptv.1989.click/sprt/zcwz8r?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/uqzx6k?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Hub Sports 8 HD" tvg-name="Hub Sports 8 HD" tvg-logo="https://material.1989.click/logo/Hub-Sports-8.png" group-title="•體育「Relay」",Hub Sports 8
-https://iptv.1989.click/sprt/p7ugtu?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/jgq2ww?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://material.1989.click/logo/Spotv-1.png" group-title="•體育「Relay」",Spotv 1
-https://iptv.1989.click/sprt/4ypuqs?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/fjpjwr?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://material.1989.click/logo/Spotv-2.png" group-title="•體育「Relay」",Spotv 2
-https://iptv.1989.click/sprt/8x2e4d?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/ptmytu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://material.1989.click/logo/Fight-Sports.png" group-title="•體育「Relay」",FIGHT SPORTS
-https://iptv.1989.click/sprt/zws48e?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/sprt/suhfza?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://material.1989.click/logo/BBC-Earth.png" group-title="•綜合「Relay」",BBC Earth
-https://iptv.1989.click/comp/ryckj6?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/6bnxqj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://material.1989.click/logo/BBC-Lifestyle.png" group-title="•綜合「Relay」",BBC Lifestyle
-https://iptv.1989.click/comp/3z3xxt?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/xwdrk6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://material.1989.click/logo/Discovery-Channel.png" group-title="•綜合「Relay」",Discovery
-https://iptv.1989.click/comp/e4q2b3?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/u6khvf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://material.1989.click/logo/HBO.png" group-title="•綜合「Relay」",HBO
-https://iptv.1989.click/comp/u6vhjn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/ze8kjm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://material.1989.click/logo/HBO-Hits.png" group-title="•綜合「Relay」",HBO Hits
-https://iptv.1989.click/comp/7ff576?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/tgrxmf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://material.1989.click/logo/HBO-Family.png" group-title="•綜合「Relay」",HBO Family
-https://iptv.1989.click/comp/en3avh?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/uqgp8c?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://material.1989.click/logo/HBO-Signature.png" group-title="•綜合「Relay」",HBO Signature
-https://iptv.1989.click/comp/j7gj23?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/6h4k8f?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://material.1989.click/logo/Channel5.png" group-title="•綜合「Relay」",Channel 5
-https://iptv.1989.click/comp/c5acrk?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/tbur3q?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://material.1989.click/logo/Channel8.png" group-title="•綜合「Relay」",Channel 8
-https://iptv.1989.click/comp/22ywn7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/9acj74?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://material.1989.click/logo/ChannelU.png" group-title="•綜合「Relay」",Channel U
-https://iptv.1989.click/comp/jjpc3h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/5vm3wm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://material.1989.click/logo/中天亞洲台.png" group-title="•綜合「Relay」",中天亞洲
-https://iptv.1989.click/comp/epctgq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/comp/ntg5r2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•港澳台「Juli」",翡翠台
 https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•港澳台「Juli」",翡翠台 4K「字幕」
@@ -870,426 +870,426 @@ https://cdn.qd.je/163189/dsyp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://iptv.1989.click/myTV/8j9626?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/jhwpva?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•myTV「DASH」",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-https://iptv.1989.click/myTV/n34yv9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/54m4zj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•myTV「DASH」",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-https://iptv.1989.click/myTV/y6hfac?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/ex224c?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•myTV「DASH」",無綫新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
-https://iptv.1989.click/myTV/yyufaq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/sdwbat?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="•myTV「DASH」",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
-https://iptv.1989.click/myTV/933gsz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/pbpwu5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://material.1989.click/logo/娛樂新聞.png" group-title="•myTV「DASH」",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-https://iptv.1989.click/myTV/svt57h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/998ru8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://material.1989.click/logo/TVBS亞洲台.png" group-title="•myTV「DASH」",無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-https://iptv.1989.click/myTV/df6zad?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/vs2dzy?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://material.1989.click/logo/创世电视.png" group-title="•myTV「DASH」",創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
-https://iptv.1989.click/myTV/c6hcnj?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/vxtt57?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://material.1989.click/logo/TVBS新聞.png" group-title="•myTV「DASH」",無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
-https://iptv.1989.click/myTV/ez6zgh?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/s65n8a?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://material.1989.click/logo/CNA.png" group-title="•myTV「DASH」",亞洲新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
-https://iptv.1989.click/myTV/6fjbka?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/dgtxep?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://material.1989.click/logo/半岛电视台.png" group-title="•myTV「DASH」",半島電視台英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
-https://iptv.1989.click/myTV/hb874r?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/j7makw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://material.1989.click/logo/FRANCE24.png" group-title="•myTV「DASH」",France 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
-https://iptv.1989.click/myTV/z8ngap?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/qdx5vg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://material.1989.click/logo/DW.png" group-title="•myTV「DASH」",DW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
-https://iptv.1989.click/myTV/82wpty?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/gdx3rr?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://material.1989.click/logo/NHKWORLD.png" group-title="•myTV「DASH」",NHK World-Japan
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
-https://iptv.1989.click/myTV/ghjsvx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/tt8d8n?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://material.1989.click/logo/NewsWorld.png" group-title="•myTV「DASH」",NewsWorld
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/69f4fr?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/4qfxnf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-https://iptv.1989.click/myTV/a2qdgc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/k96nqn?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",黃金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
-https://iptv.1989.click/myTV/sxuwyn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/yhha5d?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://material.1989.click/logo/千禧經典台.png" group-title="•myTV「DASH」",千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
-https://iptv.1989.click/myTV/r7q55q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/xmkxm4?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://material.1989.click/logo/華語劇台.png" group-title="•myTV「DASH」",華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
-https://iptv.1989.click/myTV/bu9tz3?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/7dy25d?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://material.1989.click/logo/粤语片台.png" group-title="•myTV「DASH」",粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
-https://iptv.1989.click/myTV/v52dzf?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/kgyfyr?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
-https://iptv.1989.click/myTV/2ct494?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/cdntjn?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://material.1989.click/logo/黃金華劇台.png" group-title="•myTV「DASH」",黃金華劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
-https://iptv.1989.click/myTV/6fghb5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/stxqka?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",戲曲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
-https://iptv.1989.click/myTV/nv7gvx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/8w66eb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://material.1989.click/logo/美亞電影台.png" group-title="•myTV「DASH」",美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
-https://iptv.1989.click/myTV/b2w2v2?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/8g4mub?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://material.1989.click/logo/Thrill.png" group-title="•myTV「DASH」",Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-https://iptv.1989.click/myTV/44v5dn?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/6ymrkx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://material.1989.click/logo/天映经典.png" group-title="•myTV「DASH」",天映經典頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-https://iptv.1989.click/myTV/j54hj2?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/8p36nj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://material.1989.click/logo/ChinaMovie.png" group-title="•myTV「DASH」",中國電影頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-https://iptv.1989.click/myTV/pzeweh?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/mau4bk?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="•myTV「DASH」",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-https://iptv.1989.click/myTV/ye5bcc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/apr4wj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://material.1989.click/logo/RockExtreme.png" group-title="•myTV「DASH」",ROCK Extreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-https://iptv.1989.click/myTV/djzm7d?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/4ua7eg?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" tvg-logo="https://material.1989.click/logo/RockEntertainment.png" group-title="•myTV「DASH」",ROCK 綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-https://iptv.1989.click/myTV/xnrszx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/ycrtqw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/Kix.png" group-title="•myTV「DASH」",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
-https://iptv.1989.click/myTV/r3vmtu?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/b9cauu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://material.1989.click/logo/tvN.png" group-title="•myTV「DASH」",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-https://iptv.1989.click/myTV/39tmcy?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/xchq4v?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="•myTV「DASH」",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-https://iptv.1989.click/myTV/7vxsq3?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/c4qxbu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://material.1989.click/logo/ActionHollywoodMovies.png" group-title="•myTV「DASH」",Action Hollywood Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/t2z7hk?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/vebvcj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Rialto Classic Movies (RCM)" tvg-name="Rialto Classic Movies (RCM)" tvg-logo="https://material.1989.click/logo/RCM.png" group-title="•myTV「DASH」",Rialto Classic Movies (RCM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/nm8jdy?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/rze5vj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://material.1989.click/logo/Love-Nature.png" group-title="•myTV「DASH」",Love Nature
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
-https://iptv.1989.click/myTV/8v3s4u?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/k47epk?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://material.1989.click/logo/LoveNature4K.png" group-title="•myTV「DASH」",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-https://iptv.1989.click/myTV/zncur4?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/3w8hab?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://material.1989.click/logo/Global-Trekker.png" group-title="•myTV「DASH」",Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
-https://iptv.1989.click/myTV/qjb3jd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/5w2z24?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://material.1989.click/logo/FashionBox.png" group-title="•myTV「DASH」",FashionBox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-https://iptv.1989.click/myTV/6ubtye?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/eecxu4?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://material.1989.click/logo/Arirang-TV.png" group-title="•myTV「DASH」",Arirang TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
-https://iptv.1989.click/myTV/5b65yp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/remmst?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://material.1989.click/logo/TRACE-Sport-Stars.png" group-title="•myTV「DASH」",TRACE Sport Stars
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/qqzbs3?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/bmac7t?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://material.1989.click/logo/TRACE-Urban.png" group-title="•myTV「DASH」",TRACE Urban
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/3mk9kf?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/nwf3yt?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://material.1989.click/logo/PetClubTV.png" group-title="•myTV「DASH」",Pet Club TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/enpsuc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/jtsdvb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://material.1989.click/logo/Globetrotter.png" group-title="•myTV「DASH」",Globetrotter
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/xtrcas?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/hsycyj?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Docsville" tvg-name="Docsville" tvg-logo="https://material.1989.click/logo/Docsville.png" group-title="•myTV「DASH」",Docsville
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/g82zct?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/kh6t4w?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Pulse Documentaries" tvg-name="Pulse Documentaries" tvg-logo="https://material.1989.click/logo/PulseDocumentaries.png" group-title="•myTV「DASH」",Pulse Documentaries
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/3fkamx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/xwng6h?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://material.1989.click/logo/NOW70s.png" group-title="•myTV「DASH」",NOW 70s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/68xh8m?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/xg2f6j?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://material.1989.click/logo/NOW80s.png" group-title="•myTV「DASH」",NOW 80s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/pye9fm?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/y3w3xk?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://material.1989.click/logo/NOW90s00s.png" group-title="•myTV「DASH」",NOW 90s00s
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/p4aaa5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/hpextb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://material.1989.click/logo/NOWROCK.png" group-title="•myTV「DASH」",NOW ROCK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/mjcxym?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/y35ypx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://material.1989.click/logo/Concerto.png" group-title="•myTV「DASH」",Concerto
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://iptv.1989.click/myTV/qvcck7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/zpda7u?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
-https://iptv.1989.click/myTV/kwrah3?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/9ysudd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",myTV SUPER 18台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
-https://iptv.1989.click/myTV/2k6mnd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/hg6f3a?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="myTV SUPER直播足球2台" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",myTV SUPER 直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
-https://iptv.1989.click/myTV/hebqu3?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/ynvhay?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",myTV SUPER 直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
-https://iptv.1989.click/myTV/4dr38d?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/byv8an?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",myTV SUPER直播足球4台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
-https://iptv.1989.click/myTV/guv972?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/swtgbx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="myTV SUPER直播足球5台" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",myTV SUPER 直播足球5台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
-https://iptv.1989.click/myTV/7xyxah?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/h6wsce?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="myTV SUPER直播足球6台" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",myTV SUPER 直播足球6台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
-https://iptv.1989.click/myTV/tynt9u?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/tppe4s?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",myTV SUPER 直播足球7台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
-https://iptv.1989.click/myTV/vfbx8q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/862jnm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",互動窗 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-https://iptv.1989.click/myTV/sn476u?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/nus2ev?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",互動窗 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-https://iptv.1989.click/myTV/hyytfd?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/4d299y?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://material.1989.click/logo/SUPERKidsChannel.png" group-title="•myTV「DASH」",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-https://iptv.1989.click/myTV/99jkaq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/b38bf9?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://material.1989.click/logo/ZooMoo.png" group-title="•myTV「DASH」",ZooMoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
-https://iptv.1989.click/myTV/gznxzs?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/23dq4v?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://material.1989.click/logo/Nickelodeon.png" group-title="•myTV「DASH」",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
-https://iptv.1989.click/myTV/y8ew7f?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/3225u5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://material.1989.click/logo/Nickjr.png" group-title="•myTV「DASH」",Nick Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
-https://iptv.1989.click/myTV/rk8cv7?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/ku2kjs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER 獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
-https://iptv.1989.click/myTV/5py933?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/h4cm6m?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
-https://iptv.1989.click/myTV/u7cj5c?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/nqj778?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER 識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
-https://iptv.1989.click/myTV/mgqwvk?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/w73qx2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER識嘆" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER 識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
-https://iptv.1989.click/myTV/ca74f9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/6ddhdz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-https://iptv.1989.click/myTV/pmajdz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/sm3spd?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER 金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-https://iptv.1989.click/myTV/pr763h?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/4gmq5z?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER 煲劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
-https://iptv.1989.click/myTV/8n5hcz?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/4v7e5w?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="SUPER單元劇" tvg-name="SUPER單元劇" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",SUPER 單元劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-https://iptv.1989.click/myTV/fs565k?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/scqr5t?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="真情SUPER煲" tvg-name="真情SUPER煲" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="•myTV「DASH」",真情SUPER煲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-https://iptv.1989.click/myTV/6adpbx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/zex57c?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://material.1989.click/logo/CCTV1.png" group-title="•myTV「DASH」",中央電視台 綜合頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-https://iptv.1989.click/myTV/bp32np?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/eghmp8?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中國中央電視台中文國際頻道" tvg-name="中國中央電視台中文國際頻道" tvg-logo="https://material.1989.click/logo/CCTV4.png" group-title="•myTV「DASH」",中央電視台 中文國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b2762e6912e2f37a1cad1df9af6dc6e:f4edc1240a3e852661c0607db463a6dd
-https://iptv.1989.click/myTV/8rvgkp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/syzxj6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中國中央電視台娛樂頻道" tvg-name="中國中央電視台娛樂頻道" tvg-logo="https://material.1989.click/logo/CCTV娱乐.png" group-title="•myTV「DASH」",中央電視台 娛樂頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e173591f7ab25dbc47f6c05abcbb92c7:21c5e4987d1e255d0e171280ad13d815
-https://iptv.1989.click/myTV/5nuejw?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/qyjp48?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中國中央電視台戲曲頻道" tvg-name="中國中央電視台戲曲頻道" tvg-logo="https://material.1989.click/logo/CCTV戏曲.png" group-title="•myTV「DASH」",中央電視台 戲曲頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=310ee76e894b8361fefdedf5c7b50983:f113fcca4a982e53ba2fc31e7fbf6e2c
-https://iptv.1989.click/myTV/kcuz2w?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/6q24fs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CGTN (中國環球電視網)記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://material.1989.click/logo/CGTN纪录.png" group-title="•myTV「DASH」",CGTN 記錄頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
-https://iptv.1989.click/myTV/6w5br4?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/x2765t?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="CGTN (中國環球電視網)英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://material.1989.click/logo/CGTN.png" group-title="•myTV「DASH」",CGTN 英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
-https://iptv.1989.click/myTV/mzrx8n?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/j3ghqb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://material.1989.click/logo/澜湄国际.png" group-title="•myTV「DASH」",雲南瀾湄國際衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
-https://iptv.1989.click/myTV/9jhe38?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/b8bx53?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://material.1989.click/logo/东方卫视.png" group-title="•myTV「DASH」",東方衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-https://iptv.1989.click/myTV/nk7pry?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/x8np94?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://material.1989.click/logo/安徽卫视.png" group-title="•myTV「DASH」",安徽廣播電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
-https://iptv.1989.click/myTV/mnxepa?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/r9hbqf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-name="北京電視台國際頻道" tvg-logo="https://material.1989.click/logo/北京卫视.png" group-title="•myTV「DASH」",北京電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
-https://iptv.1989.click/myTV/xb46gu?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/dbd537?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-name="廣西電視台國際頻道" tvg-logo="https://material.1989.click/logo/广西卫视.png" group-title="•myTV「DASH」",廣西電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://iptv.1989.click/myTV/78su2b?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/uyqgsn?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://material.1989.click/logo/海峡卫视.png" group-title="•myTV「DASH」",福建海峽衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://iptv.1989.click/myTV/u8jn6f?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/w4g73b?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-name="湖南電視台國際頻道" tvg-logo="https://material.1989.click/logo/湖南卫视.png" group-title="•myTV「DASH」",湖南電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
-https://iptv.1989.click/myTV/2mpvz9?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/qk33kf?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-name="江蘇電視台國際頻道" tvg-logo="https://material.1989.click/logo/江苏卫视.png" group-title="•myTV「DASH」",江蘇電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
-https://iptv.1989.click/myTV/x4hvza?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/s699cn?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://material.1989.click/logo/广东卫视.png" group-title="•myTV「DASH」",廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://iptv.1989.click/myTV/6hu8nm?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/nbt4zb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-name="浙江電視台國際頻道" tvg-logo="https://material.1989.click/logo/浙江卫视.png" group-title="•myTV「DASH」",浙江電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
-https://iptv.1989.click/myTV/ee2c26?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/qkb26u?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://material.1989.click/logo/深圳卫视.png" group-title="•myTV「DASH」",深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
-https://iptv.1989.click/myTV/4scqua?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+https://iptv.1989.click/myTV/5zsn68?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
