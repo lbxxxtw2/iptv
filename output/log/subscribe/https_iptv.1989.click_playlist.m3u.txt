@@ -14,7 +14,13 @@ https://iptv.1989.click/phoenix/4c6duc?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港「回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/phoenix/zad6d6?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",ViuTV
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台
+https://iptv.1989.click/hk/8j9626?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•香港「Relay」",無綫新聞台
+https://iptv.1989.click/hk/yyufaq?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•香港「Relay」",TVB Plus
+https://iptv.1989.click/hk/y6hfac?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」",ViuTV
 https://iptv.1989.click/hk/c3dnmb?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="•香港「Relay」",ViuTVsix
 https://iptv.1989.click/hk/zbs3vx?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
