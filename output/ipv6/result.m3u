@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lbxxxtw2/iptv/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台
-https://iptv.1989.click/hk/jhwpva?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台
 https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台
 https://cdn.qd.je/163189/fct2
@@ -42,6 +40,8 @@ http://r.jdshipin.com/GeWKr
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="香港频道",翡翠台
 https://10.fast.hidns.vip/163189/fct/
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台4K
+https://iptv.1989.click/hk/jhwpva?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台4K
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -81,6 +81,8 @@ http://r.jdshipin.com/CkuBd
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/无线新闻台.png" group-title="香港频道",无线新闻台
 https://cdn6.cc.cd/163189/wxxw
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",明珠台
+https://iptv.1989.click/hk/pbpwu5?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="香港频道",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/明珠台.png" group-title="香港频道",明珠台
@@ -1296,6 +1298,8 @@ https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="镜电视新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/镜电视新闻.png" group-title="台湾频道",镜电视新闻
 http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://material.1989.click/logo/美亞電影台.png" group-title="电影频道",美亞電影台
+https://iptv.1989.click/hk/8g4mub?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://material.1989.click/logo/美亞電影台.png" group-title="电影频道",美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/美亞電影台.png" group-title="电影频道",美亞電影台
 https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
@@ -1389,7 +1393,9 @@ https://ktpremium.world/live/LT1976F/A9177/870553.ts
 http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",PopC
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="电影频道",PopC
+https://iptv.1989.click/hk/c4qxbu?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="电影频道",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="电影频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2177,5 +2183,5 @@ http://www.ikerobot.com:1234/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-17 05:17:14
-https://iptv.1989.click/hk/jhwpva?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-17 07:01:59
+https://cdn.qd.je/163189/fct
