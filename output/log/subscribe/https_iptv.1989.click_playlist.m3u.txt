@@ -70,8 +70,14 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://material.1989.click/logo/澳门综艺.png" group-title="•香港「Relay」",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://material.1989.click/logo/睛彩广场舞.png" group-title="•央視「Relay」",睛彩广场舞「测试」
-https://iptv.1989.click/cn/y9nus5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://material.1989.click/logo/睛彩广场舞.png" group-title="•央視「Relay」",睛彩广场舞「Relay」
+https://iptv.1989.click/cn/sxnjkg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://material.1989.click/logo/睛彩青少.png" group-title="•央視「Relay」",睛彩青少「Relay」
+https://iptv.1989.click/cn/d63dg8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://material.1989.click/logo/睛彩竞技.png" group-title="•央視「Relay」",睛彩竞技「Relay」
+https://iptv.1989.click/cn/byweux?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://material.1989.click/logo/睛彩篮球.png" group-title="•央視「Relay」",睛彩篮球「Relay」
+https://iptv.1989.click/cn/drpe8q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://material.1989.click/logo/CCTV1.png" group-title="•央視「Relay」",CCTV 1 綜合「Relay」
 https://iptv.1989.click/cn/9cbnap?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://material.1989.click/logo/CCTV2.png" group-title="•央視「Relay」",CCTV 2 財經「Relay」

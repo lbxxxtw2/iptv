@@ -17,7 +17,10 @@ HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-睛彩广场舞「测试」,https://iptv.1989.click/cn/y9nus5?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+睛彩广场舞「Relay」,https://iptv.1989.click/cn/sxnjkg?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+睛彩青少「Relay」,https://iptv.1989.click/cn/d63dg8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+睛彩竞技「Relay」,https://iptv.1989.click/cn/byweux?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
+睛彩篮球「Relay」,https://iptv.1989.click/cn/drpe8q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 東方衛視「Relay」,https://iptv.1989.click/cn/9k8ubp?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 廣東衛視「Relay」,https://iptv.1989.click/cn/e85ff8?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
 浙江衛視「Relay」,https://iptv.1989.click/cn/d3xs6q?token=a6d0a5b6bd8f4da11200820da92a5a0ad7a4fbe0a323f0fc
@@ -919,18 +922,6 @@ KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/pla
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
 JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-澳门体育,https://cdn.qd.je/163189/amty
-重温经典,https://cdn.qd.je/163189/cwjd
-CH5,https://cdn.qd.je/163189/ch5
-CH8,https://cdn.qd.je/163189/ch8
-CHU,https://cdn.qd.je/163189/chu
-龙华电影,https://cdn.qd.je/163189/lhdy
-龙华经典,https://cdn.qd.je/163189/lhjd
-龙华洋片,https://cdn.qd.je/163189/lhyp
-Astro QJ,https://cdn.qd.je/163189/qj
-重温经典,https://cdn.qd.je/163189/cwjd2
-广州南国都市,https://cdn.qd.je/163189/ngds
-公视戏剧,https://cdn.qd.je/163189/gsxj
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
@@ -948,15 +939,6 @@ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w
 HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-靖天戏剧台,https://cdn.qd.je/163189/jtxj
-靖洋戏剧台,https://cdn.qd.je/163189/jyxj
-影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
-My Cinema Europe,https://cdn.qd.je/163189/mce
-经典电影台,https://cdn.qd.je/163189/jddyt
-CMusic,https://cdn.qd.je/163189/cmusic
-精选动漫台,https://cdn.qd.je/163189/jxdmt
-咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
-咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
 EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
@@ -1356,6 +1338,18 @@ IPTV谍战剧场,rtsp://183.59.56.116:554/PLTV/88888905/224/3221227158/100001000
 精选4k频道1,rtsp://183.59.56.116:554/PLTV/88888905/224/3221228307/10000100000000060000000008189136_0.smil?0&accountinfo=%7E%7EV2.0%7EAqd3ciY3-pzJVhUaGjQUaw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 精选4k频道2,rtsp://183.59.56.116:554/PLTV/88888905/224/3221228179/10000100000000060000000008189131_0.smil?0&accountinfo=%7E%7EV2.0%7El0PMxMTr89VnbogvGkhHKQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 精选4k频道3,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229891/10000100000000060000000009714024_0.smil?0&accountinfo=%7E%7EV2.0%7Ewh4GzNmJ9Ru12FmJnUao9A%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+澳门体育,https://cdn.qd.je/163189/amty
+重温经典,https://cdn.qd.je/163189/cwjd
+CH5,https://cdn.qd.je/163189/ch5
+CH8,https://cdn.qd.je/163189/ch8
+CHU,https://cdn.qd.je/163189/chu
+龙华电影,https://cdn.qd.je/163189/lhdy
+龙华经典,https://cdn.qd.je/163189/lhjd
+龙华洋片,https://cdn.qd.je/163189/lhyp
+Astro QJ,https://cdn.qd.je/163189/qj
+重温经典,https://cdn.qd.je/163189/cwjd2
+广州南国都市,https://cdn.qd.je/163189/ngds
+公视戏剧,https://cdn.qd.je/163189/gsxj
 CGTN,http://120.87.19.109:80/PLTV/88888973/224/3221225718/10000100000000060000000000334622_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xXxOwiUWK0jN7fiwrWDIrngWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 东方卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221225707/10000100000000060000000000334659_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xQJ7WqJgfFfHk2jodTVMrwQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 深圳卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221225708/10000100000000060000000000334657_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xZox2lUBTeY7VmKWJJTAIBAWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
@@ -1371,6 +1365,15 @@ CGTN,http://120.87.19.109:80/PLTV/88888973/224/3221225718/1000010000000006000000
 安徽卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221225759/10000100000000060000000000335582_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xYIMzCly3CKwvk2VVjUQWtgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 山东卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221225758/10000100000000060000000000334623_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xc0g8qb26m/B5LC+MPknpTwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 青海卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221226646/10000100000000060000000002016680_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xk45W7ZlhhBWZgDlcayXdkQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
+靖天戏剧台,https://cdn.qd.je/163189/jtxj
+靖洋戏剧台,https://cdn.qd.je/163189/jyxj
+影迷数位电影台,https://cdn.qd.je/163189/ymswdyt
+My Cinema Europe,https://cdn.qd.je/163189/mce
+经典电影台,https://cdn.qd.je/163189/jddyt
+CMusic,https://cdn.qd.je/163189/cmusic
+精选动漫台,https://cdn.qd.je/163189/jxdmt
+咪咕4K(限移动网络),http://r.jdshipin.com/ln4xk
+咪咕4K-2(限移动网络),http://r.jdshipin.com/Lqdwf
 重庆卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221225757/10000100000000060000000000334621_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x1K8cdyBFgkIqO+PYXMTCFgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 贵州卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221226123/10000100000000060000000001056887_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x4WIasRb1QkepmYXgLRVmUgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 广西卫视高清,http://120.87.19.109:80/PLTV/88888973/224/3221226355/10000100000000060000000001481217_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xEVPi1oYRiQCfdkbphB8r9gWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
@@ -10003,6 +10006,3 @@ CGTN,http://113.120.243.155:7788/609017205
 家有儿女,http://cfss.cc/cdn/huya/30335591.flv
 永夜星河,http://cfss.cc/cdn/huya/23734169.flv
 柳舟计,http://cfss.cc/cdn/huya/23860039.flv
-玫瑰的故事,http://cfss.cc/cdn/huya/23865142.flv
-梦中的那片海,http://cfss.cc/cdn/huya/26355765.flv
-大秦赋,http://cfss.cc/cdn/huya/23903130.flv
