@@ -49,11 +49,11 @@ https://iptv.1989.click/hkg/gpvypu?token=2a7d490a4526443835096de6aa76ca83526ea87
 #EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://material.1989.click/logo/AM864.png" group-title="•香港「Relay」",電台·AM864
 https://iptv.1989.click/hkg/h6mpmx?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://material.1989.click/logo/HOY76.png" group-title="•香港「Relay」",HOY 國際財經台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd-3-v-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://material.1989.click/logo/HOY77.png" group-title="•香港「Relay」",HOY TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd-3-v-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://material.1989.click/logo/HOY78.png" group-title="•香港「Relay」",HOY 資訊台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd-3-v-fhd.m3u8
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://material.1989.click/logo/RTHK31.png" group-title="•香港「Relay」",RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://material.1989.click/logo/RTHK32.png" group-title="•香港「Relay」",RTHK 32
