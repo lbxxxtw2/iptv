@@ -190,7 +190,7 @@ http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="香港频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="香港频道",ROCK Action
-http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="香港频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="香港频道",ROCK Extreme
@@ -475,7 +475,7 @@ http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/寰宇新聞台.png" group-title="香港频道",寰宇新聞台
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="香港频道",寰宇新聞台
-http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华戏剧.png" group-title="香港频道",龙华戏剧
 https://cdn.qd.je/163189/lhxj
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华戏剧.png" group-title="香港频道",龙华戏剧
@@ -949,7 +949,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东森新闻.png" group-title="台湾频道",东森新闻
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="台湾频道",东森新闻
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://material.1989.click/logo/TVBS新聞.png" group-title="台湾频道",TVBS新聞
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/k95s4r?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -965,14 +965,14 @@ https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS新聞.png" group-title="台湾频道",TVBS新聞
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="台湾频道",TVBS新聞
-http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台湾频道",中天新聞台
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中天新聞台.png" group-title="台湾频道",中天新聞台
 http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="台湾频道",中天新聞台
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS.png" group-title="台湾频道",三立新闻
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
@@ -983,7 +983,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立新闻.png" group-title="台湾频道",三立新闻
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="台湾频道",三立新闻
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://material.1989.click/logo/台視新聞.png" group-title="台湾频道",台視新聞
 https://iptv.1989.click/ofiii/jrvmcb?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://material.1989.click/logo/華視新聞.png" group-title="台湾频道",華視新聞
@@ -997,7 +997,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/華視新聞.png" group-title="台湾频道",華視新聞
 http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="台湾频道",華視新聞
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://material.1989.click/logo/中視新聞.png" group-title="台湾频道",中視新聞
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/3jrgj6?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1011,7 +1011,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中視新聞.png" group-title="台湾频道",中視新聞
 http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="台湾频道",中視新聞
-http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://material.1989.click/logo/民視新聞台.png" group-title="台湾频道",民視新聞台
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/e9vkbm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1023,7 +1023,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/民視新聞台.png" group-title="台湾频道",民視新聞台
 http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="台湾频道",民視新聞台
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://material.1989.click/logo/寰宇新聞台.png" group-title="台湾频道",寰宇新聞台
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/kt9xgz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1033,7 +1033,7 @@ http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/寰宇新聞台.png" group-title="台湾频道",寰宇新聞台
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台湾频道",寰宇新聞台
-http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://material.1989.click/logo/寰宇新聞台灣台.png" group-title="台湾频道",寰宇新聞台灣台
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/kpf3g7?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1043,7 +1043,7 @@ http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/寰宇新聞台灣台.png" group-title="台湾频道",寰宇新聞台灣台
 http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="台湾频道",寰宇新聞台灣台
-http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/亚洲新闻.png" group-title="台湾频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/亚洲新闻.png" group-title="台湾频道",亚洲新闻
@@ -1070,7 +1070,7 @@ https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/鏡電視新聞台.png" group-title="台湾频道",鏡電視新聞台
 http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="台湾频道",鏡電視新聞台
-http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://material.1989.click/logo/東森綜合台.png" group-title="台湾频道",东森综合
 https://iptv.1989.click/tw/rv3jkw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台湾频道",東森財經新聞
@@ -1079,7 +1079,7 @@ http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/東森財經新聞.png" group-title="台湾频道",東森財經新聞
 http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="台湾频道",東森財經新聞
-http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://material.1989.click/logo/東森戲劇台.png" group-title="台湾频道",東森戲劇台
 https://iptv.1989.click/tw/4tg3ya?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/東森戲劇台.png" group-title="台湾频道",東森戲劇台
@@ -1109,7 +1109,7 @@ http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS.png" group-title="台湾频道",TVBS
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="台湾频道",TVBS
-http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS.png" group-title="台湾频道",TVBS
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://material.1989.click/logo/TVBS歡樂台.png" group-title="台湾频道",TVBS歡樂台
@@ -1125,28 +1125,28 @@ https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv068
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS歡樂台.png" group-title="台湾频道",TVBS歡樂台
 http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="台湾频道",TVBS歡樂台
-http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝" tvg-logo="https://epg.112114.xyz/logo/TVBS%E7%B6%9C%E8%97%9D%E5%8F%B0.png" group-title="台湾频道",TVBS綜藝
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS綜藝.png" group-title="台湾频道",TVBS綜藝
 http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png" group-title="台湾频道",TVBS綜藝
-http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇" tvg-logo="https://epg.112114.xyz/logo/TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0.png" group-title="台湾频道",TVBS台劇
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS台劇.png" group-title="台湾频道",TVBS台劇
 http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png" group-title="台湾频道",TVBS台劇
-http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台" tvg-logo="https://epg.112114.xyz/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png" group-title="台湾频道",TVBS精彩台
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS精彩台.png" group-title="台湾频道",TVBS精彩台
 http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="TVBS精彩台" tvg-name="TVBS精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="台湾频道",TVBS精彩台
-http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://material.1989.click/logo/中天亞洲台.png" group-title="台湾频道",中天亞洲台
 https://iptv.1989.click/tw/a4uyym?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://material.1989.click/logo/中天亞洲台.png" group-title="台湾频道",中天亞洲台
@@ -1164,7 +1164,7 @@ http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立综合.png" group-title="台湾频道",三立综合
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="台湾频道",三立综合
-http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS.png" group-title="台湾频道",三立iNEWS
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
@@ -1175,7 +1175,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立iNEWS.png" group-title="台湾频道",三立iNEWS
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="台湾频道",三立iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="台視" tvg-name="台视" tvg-logo="https://material.1989.click/logo/台視.png" group-title="台湾频道",台视
 https://iptv.1989.click/tw/zmzcnm?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://material.1989.click/logo/華視.png" group-title="台湾频道",華視
@@ -1187,7 +1187,7 @@ http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/華視.png" group-title="台湾频道",華視
 http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="台湾频道",華視
-http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://material.1989.click/logo/中視.png" group-title="台湾频道",中視
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/e3m94w?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1197,7 +1197,7 @@ http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中視.png" group-title="台湾频道",中視
 http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="中视" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台湾频道",中視
-http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="民视" tvg-name="民視" tvg-logo="https://material.1989.click/logo/民視.png" group-title="台湾频道",民視
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/fcv4sv?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1207,7 +1207,7 @@ http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="民视" tvg-name="民視" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/民視.png" group-title="台湾频道",民視
 http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="民视" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="台湾频道",民視
-http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾" tvg-logo="https://material.1989.click/logo/民視台灣台.png" group-title="台湾频道",民视台湾
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/jcgnkz?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1217,7 +1217,7 @@ http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/民视台湾.png" group-title="台湾频道",民视台湾
 http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台湾频道",民视台湾
-http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="民视影劇台" tvg-name="民视影剧" tvg-logo="https://material.1989.click/logo/民視影劇台.png" group-title="台湾频道",民视影剧
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/p77m67?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1237,7 +1237,7 @@ http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/民视第一.png" group-title="台湾频道",民视第一
 http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台湾频道",民视第一
-http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民视旅游" tvg-logo="https://material.1989.click/logo/民視旅遊台.png" group-title="台湾频道",民视旅游
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/c4x769?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1250,7 +1250,7 @@ http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="民视綜藝台" tvg-name="民视综艺" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/民视综艺.png" group-title="台湾频道",民视综艺
 http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="民视綜藝台" tvg-name="民视综艺" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="台湾频道",民视综艺
-http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://material.1989.click/logo/八大綜藝台.png" group-title="台湾频道",八大綜合台
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/5byme9?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1260,7 +1260,7 @@ http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/八大綜合台.png" group-title="台湾频道",八大綜合台
 http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv410_mobile.png" group-title="台湾频道",八大綜合台
-http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://material.1989.click/logo/八大精彩台.png" group-title="台湾频道",八大精彩台
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/bvv2tw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1270,7 +1270,7 @@ http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/八大精彩台.png" group-title="台湾频道",八大精彩台
 http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="台湾频道",八大精彩台
-http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://material.1989.click/logo/緯來體育.png" group-title="台湾频道",纬来体育台
 https://iptv.1989.click/tw/sgp32p?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/纬来体育台.png" group-title="台湾频道",纬来体育台
@@ -1310,7 +1310,7 @@ https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/靖天電影台.png" group-title="台湾频道",靖天電影台
 http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="台湾频道",靖天電影台
-http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龍華日韓台" tvg-logo="https://material.1989.click/logo/龍華日韓台.png" group-title="台湾频道",龍華日韓台
 https://iptv.1989.click/ofiii/pumbnw?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龍華日韓台.png" group-title="台湾频道",龍華日韓台
@@ -1341,7 +1341,7 @@ http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/KLT-靖天國際台.png" group-title="台湾频道",KLT-靖天國際台
 http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="台湾频道",KLT-靖天國際台
-http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="镜电视新闻" tvg-logo="https://material.1989.click/logo/鏡電視新聞台.png" group-title="台湾频道",镜电视新闻
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/qmfskh?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1358,7 +1358,7 @@ https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="镜电视新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/镜电视新闻.png" group-title="台湾频道",镜电视新闻
 http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="镜电视新闻" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="台湾频道",镜电视新闻
-http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://material.1989.click/logo/美亞電影台.png" group-title="电影频道",美亞電影台
 https://iptv.1989.click/hk/8g4mub?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://material.1989.click/logo/美亞電影台.png" group-title="电影频道",美亞電影台
@@ -1396,7 +1396,7 @@ https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 #EXTINF:-1 tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/AMC电影.png" group-title="电影频道",AMC电影
 http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="电影频道",AMC电影
-http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Animax.png" group-title="电影频道",Animax
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 #EXTINF:-1 tvg-id="Astro iQIYI" tvg-name="Astro iQIYI" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Astro iQIYI.png" group-title="电影频道",Astro iQIYI
@@ -1448,7 +1448,7 @@ https://cdn12.178.indevs.in/163189/cinemaworld
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CinemaWorld.png" group-title="电影频道",CinemaWorld
 http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="电影频道",CinemaWorld
-http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CinemaWorld.png" group-title="电影频道",CinemaWorld
 http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO" tvg-logo="https://material.1989.click/logo/HBO.png" group-title="电影频道",HBO
@@ -1471,7 +1471,7 @@ http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="电影频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="电影频道",ROCK Action
-http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="电影频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-id="SUPEREYT" tvg-name="SUPER EYT" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",SUPER EYT
@@ -1632,7 +1632,7 @@ http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/影迷數位電影台.png" group-title="电影频道",影迷數位電影台
 http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="电影频道",影迷數位電影台
-http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天电影" tvg-logo="https://material.1989.click/logo/靖天電影台.png" group-title="电影频道",靖天电影
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/acuyx2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1649,7 +1649,7 @@ https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/靖天电影.png" group-title="电影频道",靖天电影
 http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天电影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="电影频道",靖天电影
-http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://material.1989.click/logo/靖天電影台.png" group-title="电影频道",靖天電影台
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/acuyx2?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -1666,7 +1666,7 @@ https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/靖天電影台.png" group-title="电影频道",靖天電影台
 http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="电影频道",靖天電影台
-http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/靖天映画.png" group-title="电影频道",靖天映画
 https://cdn.qd.je/163189/jtyh
 #EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="电影频道",靖天映画
@@ -1680,7 +1680,7 @@ http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/靖天映畫.png" group-title="电影频道",靖天映畫
 http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="电影频道",靖天映畫
-http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="电影频道",中國電影頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="東森戲劇台" tvg-name="东森戏剧" tvg-logo="https://material.1989.click/logo/東森戲劇台.png" group-title="电影频道",东森戏剧
@@ -1725,7 +1725,7 @@ https://iptv.1989.click/4gtv/5keqqc?token=2a7d490a4526443835096de6aa76ca83526ea8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Love Nature.png" group-title="外国频道",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://material.1989.click/logo/Nickelodeon.png" group-title="外国频道",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://material.1989.click/logo/RockAction.png" group-title="外国频道",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1735,7 +1735,7 @@ http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="外国频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="外国频道",ROCK Action
-http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="外国频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TBS.png" group-title="外国频道",TBS
@@ -1764,7 +1764,7 @@ http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/尼克兒童頻道.png" group-title="外国频道",尼克兒童頻道
 http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="外国频道",尼克兒童頻道
-http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="新加坡国际" tvg-name="新加坡国际" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/新加坡国际.png" group-title="外国频道",新加坡国际
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://material.1989.click/logo/MytvSuper.png" group-title="外国频道",亞洲新聞台
@@ -2195,14 +2195,14 @@ https://cdn12.178.indevs.in/163189/dreamworks
 #EXTINF:-1 tvg-id="DreamWorks夢工廠動畫" tvg-name="DreamWorks夢工廠動畫" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/DreamWorks夢工廠動畫.png" group-title="动画频道",DreamWorks夢工廠動畫
 http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="DreamWorks夢工廠動畫" tvg-name="DreamWorks夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="动画频道",DreamWorks夢工廠動畫
-http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://epg.112114.xyz/logo/MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0.png" group-title="动画频道",MOMO親子台
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/MOMO親子台.png" group-title="动画频道",MOMO親子台
 http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="动画频道",MOMO親子台
-http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="Nick Jr. 儿童频道" tvg-name="Nick Jr. 儿童频道" tvg-logo="https://material.1989.click/logo/Nick-Jr.兒童頻道.png" group-title="动画频道",Nick Jr. 儿童频道
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/bdgbcs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
@@ -2214,7 +2214,7 @@ http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="Nick Jr. 儿童频道" tvg-name="Nick Jr. 儿童频道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Nick Jr. 儿童频道.png" group-title="动画频道",Nick Jr. 儿童频道
 http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="Nick Jr. 儿童频道" tvg-name="Nick Jr. 儿童频道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="动画频道",Nick Jr. 儿童频道
-http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1786928703001
+http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1786935429550
 #EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼" tvg-logo="https://material.1989.click/logo/東森幼幼台.png" group-title="动画频道",東森幼幼
 https://iptv.1989.click/tw/h6ebfs?token=2a7d490a4526443835096de6aa76ca83526ea872588cb5d4
 #EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85.png" group-title="动画频道",火影忍者
@@ -2269,5 +2269,5 @@ http://www.ikerobot.com:1234/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-17 10:06:02
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-17 11:57:10
 https://cdn.qd.je/163189/fct
