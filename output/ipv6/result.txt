@@ -10,6 +10,7 @@
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 翡翠台,https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
@@ -75,9 +76,12 @@ HOY 77,http://cdn.163189.xyz/163189/hoy#https://cdn6.163189.xyz/163189/hoy
 HOY 77,https://cdn6.cc.cd/163189/hoy
 HOY 77,https://fast.hidns.vip/163189/hoy
 HOY 77,http://cdn.163189.xyz/163189/hoy
+HOY 77,http://c.123.rr.kg/163189/hoy
 HOY 76,https://cdn.qd.je/163189/hoy76
 HOY 76,https://cdn11.163189.xyz/163189/hoy76
+HOY 76,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=7tad3n
 HOY 78,https://cdn.qd.je/163189/hoy78
+HOY 78,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=38q53s
 HOY 78,https://cdn.163189.xyz/163189/hoy78
 HOY 78,https://fast.hidns.vip/163189/hoy78
 MYTVSUPER18台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -117,6 +121,8 @@ TVB J1,https://cdn.qd.je/163189/j1
 TVB J1,https://cdn6.cc.cd/163189/tvb1
 TVB J1,https://cdn6.cc.cd/163189/j1
 TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+TVB J1,http://c.123.rr.kg/163189/tvb1
+TVB J1,http://c.123.rr.kg/163189/j1
 TVB J1,http://cdn6.123.rr.kg/163189/tvb1
 TVB J1,http://cdn6.123.rr.kg/163189/j1
 TVB J1,https://cdn.qd.je/163189.php?id=j1
@@ -126,6 +132,8 @@ TVB1,https://cdn.qd.je/163189/j1
 TVB1,https://cdn6.cc.cd/163189/tvb1
 TVB1,https://cdn6.cc.cd/163189/j1
 TVB1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+TVB1,http://c.123.rr.kg/163189/tvb1
+TVB1,http://c.123.rr.kg/163189/j1
 TVB1,http://cdn6.123.rr.kg/163189/tvb1
 TVB1,http://cdn6.123.rr.kg/163189/j1
 TVB1,https://cdn.qd.je/163189.php?id=j1
@@ -257,12 +265,18 @@ AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
 CGTN (中國環球電視網)英語頻道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 CGTN (中國環球電視網)英語頻道,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 NOW 70s,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW ROCK,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 NOW 90s00s,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 TRACE Urban,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 
 广东频道,#genre#
 广东珠江,https://cdn.qd.je/163189/gdzj
@@ -517,6 +531,7 @@ TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 鏡電視新聞台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 鏡電視新聞台,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 东森综合,https://iptv.1989.click/tw/d8929p?token=835de109e821fbff9439ad576e33a5120b2169aba5aa8968
+东森综合,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 東森財經新聞,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
 東森財經新聞,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 東森戲劇台,https://iptv.1989.click/tw/9xu8qe?token=835de109e821fbff9439ad576e33a5120b2169aba5aa8968
@@ -624,6 +639,8 @@ KLT-靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=17826
 镜电视新闻,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 
 电影频道,#genre#
+Now爆谷台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=h7kw14
+Now爆谷星影台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
 美亞電影台,https://iptv.1989.click/hk/fdwcus?token=835de109e821fbff9439ad576e33a5120b2169aba5aa8968
 美亞電影台,#KODIPROP:inputstream.adaptive.manifest_type=mpd
 美亞電影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
@@ -1116,4 +1133,4 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-08-19 15:23:57,https://cdn.qd.je/163189/fct
+2026-08-19 19:10:11,https://cdn.qd.je/163189/fct
