@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260820124329 +0800">
+<tv date="20260820143444 +0800">
 	<channel id="8TV">
 		<display-name lang="zh">8TV</display-name>
 	</channel>
@@ -235359,12 +235359,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260813211400 +0800" stop="20260813220300 +0800">
-		<title lang="zh">黄金剧场勇敢的心（49）</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260813220300 +0800" stop="20260813224300 +0800">
-		<title lang="zh">10分好微短剧场</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260813224300 +0800" stop="20260813235300 +0800">
 		<title lang="zh">王牌高手重播</title>
 	</programme>
@@ -236337,24 +236331,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260813210000 +0800" stop="20260813213000 +0800">
-		<title lang="zh">山西新闻联播（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260813210000 +0800" stop="20260813213000 +0800">
-		<title lang="zh">山西新闻联播（首播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260813213000 +0800" stop="20260813221600 +0800">
-		<title lang="zh">江河日上（5集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260813213000 +0800" stop="20260813221600 +0800">
-		<title lang="zh">江河日上（5集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260813221600 +0800" stop="20260813225700 +0800">
-		<title lang="zh">江河日上（6集）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260813221600 +0800" stop="20260813225700 +0800">
-		<title lang="zh">江河日上（6集）</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260813225700 +0800" stop="20260813234100 +0800">
 		<title lang="zh">江河日上（7集）</title>
 	</programme>
@@ -238821,18 +238797,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260813210600 +0800" stop="20260813215800 +0800">
-		<title lang="zh">告密者(11)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260813210600 +0800" stop="20260813215800 +0800">
-		<title lang="zh">告密者(11)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260813215800 +0800" stop="20260813224000 +0800">
-		<title lang="zh">告密者(12)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260813215800 +0800" stop="20260813224000 +0800">
-		<title lang="zh">告密者(12)</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260813224000 +0800" stop="20260813230200 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
@@ -240924,12 +240888,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260813205700 +0800" stop="20260813215500 +0800">
-		<title lang="zh">铁血尖刀（15）</title>
-	</programme>
-	<programme channel="山西影视" start="20260813215500 +0800" stop="20260813224500 +0800">
-		<title lang="zh">铁血尖刀（16）</title>
-	</programme>
 	<programme channel="山西影视" start="20260813224500 +0800" stop="20260813233100 +0800">
 		<title lang="zh">铁血尖刀（17）</title>
 	</programme>
@@ -242319,15 +242277,6 @@
 	<channel id="黄河电视台">
 		<display-name lang="zh">黄河电视台</display-name>
 	</channel>
-	<programme channel="黄河电视台" start="20260813211300 +0800" stop="20260813220500 +0800">
-		<title lang="zh">我的特一营(16)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260813220500 +0800" stop="20260813222100 +0800">
-		<title lang="zh">寻味山西</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260813222100 +0800" stop="20260813234300 +0800">
-		<title lang="zh">谁是高手双升（重播）</title>
-	</programme>
 	<programme channel="黄河电视台" start="20260813234300 +0800" stop="20260814002400 +0800">
 		<title lang="zh">暗刃(13)</title>
 	</programme>
