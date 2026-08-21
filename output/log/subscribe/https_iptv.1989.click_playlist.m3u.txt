@@ -1,9 +1,9 @@
-#EXTM3U x-tvg-url="https://material.1989.click/epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv.1989.click/epg.xml.gz"
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://material.1989.click/logo/温馨提示.png" group-title="•溫馨「提示」",免費訂閲：請勿販賣...
 https://material.1989.click/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://material.1989.click/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-7-1 #佛系維護...
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://material.1989.click/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-8-21 #佛系維護...
 https://material.1989.click/v/301.mp4
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://iptv.1989.click/logo/睛彩广场舞.webp" group-title="•央視「Relay」",睛彩广场舞「Relay」
 https://iptv.1989.click/cn/64r8cq?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
@@ -112,11 +112,11 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://material.1989.click/logo/HOY78.png" group-title="•香港「Relay」",HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://material.1989.click/logo/RTHK31.png" group-title="•香港「Relay」",RTHK 31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://iptv.1989.click/logo/RTHK31.webp" group-title="•香港「Relay」",RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://material.1989.click/logo/RTHK32.png" group-title="•香港「Relay」",RTHK 32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://iptv.1989.click/logo/RTHK32.webp" group-title="•香港「Relay」",RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://material.1989.click/logo/RTHK33.png" group-title="•香港「Relay」",RTHK 33
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="•香港「Relay」",RTHK 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="•香港「Relay」",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
@@ -348,7 +348,7 @@ https://iptv.1989.click/4gtv/6dws7r?token=09fd791b33ab84cb6418db8ba4f69d3295a346
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://material.1989.click/logo/amc電影台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",amc電影台「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/yw5v4b?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="My Cinema Europe 我的歐洲電影" tvg-name="MCE 我的歐洲電影「4gTV」" tvg-logo="https://material.1989.click/logo/My-Cinema-Europe.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",MCE 我的歐洲電影「4gTV」
+#EXTINF:-1 tvg-id="My Cinema Europe 我的歐洲電影" tvg-name="My Cinema Europe 我的歐洲電影" tvg-logo="https://material.1989.click/logo/My-Cinema-Europe.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",MCE 我的歐洲電影「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/3fm6ec?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://material.1989.click/logo/影迷數位電影台.png" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",影迷數位電影「4gTV」
@@ -548,37 +548,37 @@ https://iptv.1989.click/ofiii/7bq7ny?token=09fd791b33ab84cb6418db8ba4f69d3295a34
 https://iptv.1989.click/ofiii/s6j67r?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://material.1989.click/logo/Smart知識台.png" group-title="•台灣「Relay」",Smart知識「ofiii」
 https://iptv.1989.click/ofiii/gkqybv?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://material.1989.click/logo/Eurosport-1.png" group-title="•體育「Relay」",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://iptv.1989.click/logo/Eurosport%201.webp" group-title="•體育「Relay」",Eurosport 1
 https://iptv.1989.click/sprt/9e8f4s?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://material.1989.click/logo/Eurosport-2.png" group-title="•體育「Relay」",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://iptv.1989.click/logo/Eurosport%202.webp" group-title="•體育「Relay」",Eurosport 2
 https://iptv.1989.click/sprt/7ydxvj?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="https://material.1989.click/logo/TNT-Sports-1.png" group-title="•體育「Relay」",TNT Sport 1
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="https://iptv.1989.click/logo/TNT%20Sports%201.webp" group-title="•體育「Relay」",TNT Sport 1
 https://iptv.1989.click/sprt/ptq3z3?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://material.1989.click/logo/TNT-Sports-2.png" group-title="•體育「Relay」",TNT Sport 2
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="https://iptv.1989.click/logo/TNT%20Sports%202.webp" group-title="•體育「Relay」",TNT Sport 2
 https://iptv.1989.click/sprt/esk6t7?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="https://material.1989.click/logo/TNT-Sports-3.png" group-title="•體育「Relay」",TNT Sport 3
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="https://iptv.1989.click/logo/TNT%20Sports%203.webp" group-title="•體育「Relay」",TNT Sport 3
 https://iptv.1989.click/sprt/v9w8e5?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="https://material.1989.click/logo/TNT-Sports-4.png" group-title="•體育「Relay」",TNT Sport 4
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="https://iptv.1989.click/logo/TNT%20Sports%204.webp" group-title="•體育「Relay」",TNT Sport 4
 https://iptv.1989.click/sprt/jdz9qq?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="beIN Sports" tvg-name="beIN Sports" tvg-logo="https://material.1989.click/logo/beIN-Sports-1.png" group-title="•體育「Relay」",beIN Sports 1
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://iptv.1989.click/logo/beIN%20Sports%201.webp" group-title="•體育「Relay」",beIN Sports 1
 https://iptv.1989.click/sprt/39ehv8?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://material.1989.click/logo/beIN-Sports-2.png" group-title="•體育「Relay」",beIN Sports 2
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://iptv.1989.click/logo/beIN%20Sports%202.webp" group-title="•體育「Relay」",beIN Sports 2
 https://iptv.1989.click/sprt/e3wwwp?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://material.1989.click/logo/beIN-Sports-3.png" group-title="•體育「Relay」",beIN Sports 3
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://iptv.1989.click/logo/beIN%20Sports%203.webp" group-title="•體育「Relay」",beIN Sports 3
 https://iptv.1989.click/sprt/ygbvc9?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://material.1989.click/logo/beIN-Sports-4.png" group-title="•體育「Relay」",beIN Sports 4
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://iptv.1989.click/logo/beIN%20Sports%204.webp" group-title="•體育「Relay」",beIN Sports 4
 https://iptv.1989.click/sprt/8v33cu?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://material.1989.click/logo/beIN-Sports-5.png" group-title="•體育「Relay」",beIN Sports 5
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://iptv.1989.click/logo/beIN%20Sports%205.webp" group-title="•體育「Relay」",beIN Sports 5
 https://iptv.1989.click/sprt/fs7ncy?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://material.1989.click/logo/TSN-1.png" group-title="•體育「Relay」",TSN 1
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://iptv.1989.click/logo/TSN%201.webp" group-title="•體育「Relay」",TSN 1
 https://iptv.1989.click/sprt/7c48w9?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://material.1989.click/logo/TSN-2.png" group-title="•體育「Relay」",TSN 2
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://iptv.1989.click/logo/TSN%202.webp" group-title="•體育「Relay」",TSN 2
 https://iptv.1989.click/sprt/6ehxg3?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://material.1989.click/logo/TSN-3.png" group-title="•體育「Relay」",TSN 3
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://iptv.1989.click/logo/TSN%203.webp" group-title="•體育「Relay」",TSN 3
 https://iptv.1989.click/sprt/hu225e?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://material.1989.click/logo/TSN-4.png" group-title="•體育「Relay」",TSN 4
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://iptv.1989.click/logo/TSN%204.webp" group-title="•體育「Relay」",TSN 4
 https://iptv.1989.click/sprt/pdxh25?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://material.1989.click/logo/TSN-5.png" group-title="•體育「Relay」",TSN 5
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://iptv.1989.click/logo/TSN%205.webp" group-title="•體育「Relay」",TSN 5
 https://iptv.1989.click/sprt/59mq4x?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://iptv.1989.click/logo/Hub%20Premier%201.webp" group-title="•體育「Relay」",Hub Premier 1
 https://iptv.1989.click/sprt/95rbaf?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
@@ -608,11 +608,11 @@ https://iptv.1989.click/sprt/59yhay?token=09fd791b33ab84cb6418db8ba4f69d3295a346
 https://iptv.1989.click/sprt/kj68te?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 #EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://iptv.1989.click/logo/Hub%20Sports%208.webp" group-title="•體育「Relay」",Hub Sports 8
 https://iptv.1989.click/sprt/kxp85y?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="Spotv 1" tvg-name="Spotv 1" tvg-logo="https://material.1989.click/logo/Spotv-1.png" group-title="•體育「Relay」",Spotv 1
+#EXTINF:-1 tvg-id="Spotv 1" tvg-name="Spotv 1" tvg-logo="https://iptv.1989.click/logo/Spotv%201.webp" group-title="•體育「Relay」",Spotv 1
 https://iptv.1989.click/sprt/zws3uv?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="Spotv 2" tvg-name="Spotv 2" tvg-logo="https://material.1989.click/logo/Spotv-2.png" group-title="•體育「Relay」",Spotv 2
+#EXTINF:-1 tvg-id="Spotv 2" tvg-name="Spotv 2" tvg-logo="https://iptv.1989.click/logo/Spotv%202.webp" group-title="•體育「Relay」",Spotv 2
 https://iptv.1989.click/sprt/dg9cq7?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-#EXTINF:-1 tvg-id="FIGHT SPORTS" tvg-name="FIGHT SPORTS" tvg-logo="https://material.1989.click/logo/Fight-Sports.png" group-title="•體育「Relay」",FIGHT SPORTS
+#EXTINF:-1 tvg-id="FIGHT SPORTS" tvg-name="FIGHT SPORTS" tvg-logo="https://iptv.1989.click/logo/FIGHT%20SPORTS.webp" group-title="•體育「Relay」",FIGHT SPORTS
 https://iptv.1989.click/sprt/aptbx2?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://material.1989.click/logo/BBC-Earth.png" group-title="•綜合「Relay」",BBC Earth
 https://iptv.1989.click/comp/4vvhpc?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
@@ -678,11 +678,11 @@ https://cdn.qd.je/163189/hoy76
 https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="•港澳台「Juli」",ViuTVsix
 https://cdn.qd.je/163189/viu6
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://material.1989.click/logo/RTHK31.png" group-title="•港澳台「Juli」",RTHK31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://iptv.1989.click/logo/RTHK31.webp" group-title="•港澳台「Juli」",RTHK31
 https://cdn.qd.je/163189/rthk31
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK32" tvg-logo="https://material.1989.click/logo/RTHK32.png" group-title="•港澳台「Juli」",RTHK32
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK32" tvg-logo="https://iptv.1989.click/logo/RTHK32.webp" group-title="•港澳台「Juli」",RTHK32
 https://cdn.qd.je/163189/rthk32
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://material.1989.click/logo/RTHK33.png" group-title="•港澳台「Juli」",RTHK33
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="•港澳台「Juli」",RTHK33
 https://cdn.qd.je/163189/cctv1
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://material.1989.click/logo/澳视澳门.png" group-title="•港澳台「Juli」",澳視澳門
 https://cdn.qd.je/163189/asam
@@ -702,9 +702,9 @@ https://cdn.qd.je/163189/tvb1
 https://cdn.qd.je/163189/j1
 #EXTINF:-1 tvg-id="翡翠劇集台" tvg-name="翡翠劇集台" tvg-logo="" group-title="•港澳台「Juli」",翡翠劇集台
 https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 tvg-id="g-4ffdc4" tvg-name="广东珠江" tvg-logo="" group-title="•港澳台「Juli」",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="" group-title="•港澳台「Juli」",广东珠江
 https://cdn.qd.je/163189/gdzj
-#EXTINF:-1 tvg-id="g-0ba8c9" tvg-name="广东体育" tvg-logo="" group-title="•港澳台「Juli」",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="•港澳台「Juli」",广东体育
 https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="" group-title="•港澳台「Juli」",八度空间
 https://cdn.qd.je/163189/8tv
