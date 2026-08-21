@@ -5,77 +5,6 @@
 https://material.1989.click/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://material.1989.click/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-7-1 #佛系維護...
 https://material.1989.click/v/301.mp4
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://material.1989.click/logo/凤凰中文.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·中文「72H Replay」
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/phoenix/5nw2y2?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://material.1989.click/logo/凤凰资讯.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·資訊「72H Replay」
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/phoenix/s2yy88?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港「72H Replay」
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
-https://iptv.1989.click/phoenix/y7zp87?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台「24H Replay」
-https://iptv.1989.click/hk/b6gf7t?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•香港「Relay」",無綫新聞台
-https://iptv.1989.click/hk/gsgncf?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="•香港「Relay」",明珠台
-https://iptv.1989.click/hk/x2rjqw?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•香港「Relay」",TVB Plus
-https://iptv.1989.click/hk/fz629n?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://material.1989.click/logo/美亞電影台.png" group-title="•香港「Relay」",美亞電影台
-https://iptv.1989.click/hk/hhetth?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="•香港「Relay」",PopC
-https://iptv.1989.click/hk/jt9rzr?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」",ViuTV
-https://iptv.1989.click/hk/bewujv?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="•香港「Relay」",ViuTVsix
-https://iptv.1989.click/hk/ny656v?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://material.1989.click/logo/Now直播台.png" group-title="•香港「Relay」",Now直播台
-https://iptv.1989.click/hk/wxdzys?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://material.1989.click/logo/Now新聞台.png" group-title="•香港「Relay」",Now新聞台
-https://iptv.1989.click/hk/tkthmr?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://material.1989.click/logo/Now財經台.png" group-title="•香港「Relay」",Now財經台
-https://iptv.1989.click/hk/ft4bk4?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://material.1989.click/logo/Now Sports 精選.png" group-title="•香港「Relay」",Now Sports 精選
-https://iptv.1989.click/hk/c7zbbw?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="Now Sports 4K 617" tvg-name="Now Sports 4K 617" tvg-logo="https://material.1989.click/logo/Now-Sports-617.png" group-title="•香港「Relay」",Now Sports 617
-https://iptv.1989.click/hkg/puta5p?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="Now Sports 618" tvg-name="Now Sports 618" tvg-logo="https://material.1989.click/logo/Now-Sports-618.png" group-title="•香港「Relay」",Now Sports 618
-https://iptv.1989.click/hkg/vjjjxm?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://material.1989.click/logo/雷霆881.png" group-title="•香港「Relay」",電台·雷霆881
-https://iptv.1989.click/hkg/quj5ga?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://material.1989.click/logo/叱咤903.png" group-title="•香港「Relay」",電台·叱咤903
-https://iptv.1989.click/hkg/pf5pnf?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://material.1989.click/logo/AM864.png" group-title="•香港「Relay」",電台·AM864
-https://iptv.1989.click/hkg/d75j92?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://material.1989.click/logo/HOY76.png" group-title="•香港「Relay」",HOY 國際財經台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://material.1989.click/logo/HOY77.png" group-title="•香港「Relay」",HOY TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://material.1989.click/logo/HOY78.png" group-title="•香港「Relay」",HOY 資訊台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://material.1989.click/logo/RTHK31.png" group-title="•香港「Relay」",RTHK 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://material.1989.click/logo/RTHK32.png" group-title="•香港「Relay」",RTHK 32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://material.1989.click/logo/RTHK33.png" group-title="•香港「Relay」",RTHK 33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://material.1989.click/logo/RTHK34.png" group-title="•香港「Relay」",RTHK 34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://material.1989.click/logo/RTHK35.png" group-title="•香港「Relay」",RTHK 35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="•香港「Relay」",澳門Macau
-https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://material.1989.click/logo/澳视葡文.png" group-title="•香港「Relay」",澳門葡文
-https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://material.1989.click/logo/澳视澳门.png" group-title="•香港「Relay」",澳視澳門
-https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://material.1989.click/logo/澳门资讯.png" group-title="•香港「Relay」",澳門資訊
-https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://material.1989.click/logo/澳门体育.png" group-title="•香港「Relay」",澳門體育
-https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://material.1989.click/logo/澳门综艺.png" group-title="•香港「Relay」",澳門綜藝
-https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://material.1989.click/logo/睛彩广场舞.png" group-title="•央視「Relay」",睛彩广场舞「Relay」
 https://iptv.1989.click/cn/k6fywk?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://material.1989.click/logo/睛彩青少.png" group-title="•央視「Relay」",睛彩青少「Relay」
@@ -134,6 +63,77 @@ https://iptv.1989.click/cn/g7tquq?token=2ef422a71722dfa097b63476f96cdb44abf78103
 https://iptv.1989.click/cn/brbrcj?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://material.1989.click/logo/四川卫视.png" group-title="•央視「Relay」",四川衛視「Relay」
 https://iptv.1989.click/cn/hyvh7y?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://material.1989.click/logo/凤凰中文.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·中文｜72小时回看
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+https://iptv.1989.click/phoenix/5nw2y2?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://material.1989.click/logo/凤凰资讯.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·資訊｜72小时回看
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+https://iptv.1989.click/phoenix/s2yy88?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港｜72小时回看
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+https://iptv.1989.click/phoenix/y7zp87?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台｜24小时回看
+https://iptv.1989.click/hk/b6gf7t?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•香港「Relay」",無綫新聞台
+https://iptv.1989.click/hk/gsgncf?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="•香港「Relay」",明珠台
+https://iptv.1989.click/hk/x2rjqw?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•香港「Relay」",TVB Plus
+https://iptv.1989.click/hk/fz629n?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://material.1989.click/logo/美亞電影台.png" group-title="•香港「Relay」",美亞電影台
+https://iptv.1989.click/hk/hhetth?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://material.1989.click/logo/PopC.png" group-title="•香港「Relay」",PopC
+https://iptv.1989.click/hk/jt9rzr?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://material.1989.click/logo/ViuTV.png" group-title="•香港「Relay」",ViuTV
+https://iptv.1989.click/hk/bewujv?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://material.1989.click/logo/ViuTVsix.png" group-title="•香港「Relay」",ViuTVsix
+https://iptv.1989.click/hk/ny656v?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://material.1989.click/logo/Now直播台.png" group-title="•香港「Relay」",Now直播台
+https://iptv.1989.click/hk/wxdzys?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://material.1989.click/logo/Now新聞台.png" group-title="•香港「Relay」",Now新聞台
+https://iptv.1989.click/hk/tkthmr?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://material.1989.click/logo/Now財經台.png" group-title="•香港「Relay」",Now財經台
+https://iptv.1989.click/hk/ft4bk4?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://material.1989.click/logo/Now Sports 精選.png" group-title="•香港「Relay」",Now Sports 精選
+https://iptv.1989.click/hk/c7zbbw?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="Now Sports 4K 617" tvg-name="Now Sports 4K 617" tvg-logo="https://material.1989.click/logo/Now-Sports-617.png" group-title="•香港「Relay」",Now Sports 617
+https://iptv.1989.click/hkg/puta5p?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="Now Sports 618" tvg-name="Now Sports 618" tvg-logo="https://material.1989.click/logo/Now-Sports-618.png" group-title="•香港「Relay」",Now Sports 618
+https://iptv.1989.click/hkg/vjjjxm?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://material.1989.click/logo/雷霆881.png" group-title="•香港「Relay」",雷霆881｜電台
+https://iptv.1989.click/hkg/quj5ga?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://material.1989.click/logo/叱咤903.png" group-title="•香港「Relay」",叱咤903｜電台
+https://iptv.1989.click/hkg/pf5pnf?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://material.1989.click/logo/AM864.png" group-title="•香港「Relay」",AM864｜電台
+https://iptv.1989.click/hkg/d75j92?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://material.1989.click/logo/HOY76.png" group-title="•香港「Relay」",HOY 國際財經台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://material.1989.click/logo/HOY77.png" group-title="•香港「Relay」",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://material.1989.click/logo/HOY78.png" group-title="•香港「Relay」",HOY 資訊台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://material.1989.click/logo/RTHK31.png" group-title="•香港「Relay」",RTHK 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://material.1989.click/logo/RTHK32.png" group-title="•香港「Relay」",RTHK 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://material.1989.click/logo/RTHK33.png" group-title="•香港「Relay」",RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://material.1989.click/logo/RTHK34.png" group-title="•香港「Relay」",RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://material.1989.click/logo/RTHK35.png" group-title="•香港「Relay」",RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="•香港「Relay」",澳門Macau
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://material.1989.click/logo/澳视葡文.png" group-title="•香港「Relay」",澳門葡文
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://material.1989.click/logo/澳视澳门.png" group-title="•香港「Relay」",澳視澳門
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://material.1989.click/logo/澳门资讯.png" group-title="•香港「Relay」",澳門資訊
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://material.1989.click/logo/澳门体育.png" group-title="•香港「Relay」",澳門體育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://material.1989.click/logo/澳门综艺.png" group-title="•香港「Relay」",澳門綜藝
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台'" tvg-logo="https://material.1989.click/logo/緯來日本.png" group-title="•台灣「Relay」",緯來日本「Relay」
 https://iptv.1989.click/tw/ywupth?token=2ef422a71722dfa097b63476f96cdb44abf78103768296fa
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://material.1989.click/logo/緯來體育.png" group-title="•台灣「Relay」",緯來體育「Relay」
