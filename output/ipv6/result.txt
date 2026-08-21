@@ -95,8 +95,8 @@ RTHK 32,https://cdn.qd.je/163189/rthk32
 RTHK 32,http://cdn.163189.xyz/163189/rthk32
 RTHK 32,https://fast.hidns.vip/163189/rthk32
 RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+RTHK 33,https://cdn.qd.je/163189/cctv1
 RTHK 33,http://cdn6.163189.xyz/163189/cctv1
-RTHK 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 TVB J1,https://cdn.qd.je/163189/tvb1
 TVB J1,https://cdn.qd.je/163189/j1
 TVB J1,https://cdn6.cc.cd/163189/tvb1
@@ -117,10 +117,10 @@ TVB1,http://c.123.rr.kg/163189/j1
 TVB1,http://cdn6.123.rr.kg/163189/tvb1
 TVB1,http://cdn6.123.rr.kg/163189/j1
 TVB1,https://cdn.qd.je/163189.php?id=j1
-华丽翡翠台,https://cdn.qd.je/163189/hlfct
 华丽翡翠台,https://cdn.qd.je/163189/hlt
-华丽翡翠台,https://cdn.qd.je/163189/jade2
 华丽翡翠台,https://cdn.qd.je/163189/jade
+华丽翡翠台,https://cdn.qd.je/163189/hlfct
+华丽翡翠台,https://cdn.qd.je/163189/jade2
 华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
 华丽翡翠台,https://cdn6.cc.cd/163189/jade
 华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
@@ -208,13 +208,14 @@ VIUTVSIX,https://10.fast.hidns.vip/163189/viu6/
 龍華日韓台,https://cdn8.163189.xyz/163189/lhrh
 龍華日韓台,https://8.fast.hidns.vip/163189/lhrh
 中央綜合台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+中央綜合台,https://cdn.qd.je/163189/cctv1
 中央綜合台,http://cdn6.163189.xyz/163189/cctv1
 Love Nature,https://iptv.1989.click/4gtv/5rxyqj?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
 中央電視台綜合頻道 (港澳版),https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+中央電視台綜合頻道 (港澳版),https://cdn.qd.je/163189/cctv1
 中央電視台綜合頻道 (港澳版),http://cdn6.163189.xyz/163189/cctv1
-CGTN (中國環球電視網)英語頻道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
 NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
@@ -307,9 +308,9 @@ Hub Premier 1 HD,https://iptv.1989.click/sprt/95rbaf?token=09fd791b33ab84cb6418d
 
 央视频道,#genre#
 CCTV-1,https://iptv.1989.click/cn/ekgjvu?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV-1,https://cdn.qd.je/163189/rthk33
+CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
 CCTV-1,https://cdn6.cc.cd/163189/cctv1
 CCTV-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
@@ -389,8 +390,8 @@ CCTV-12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226748/1.m3u8
 CCTV-12,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
 CCTV-12,http://www.ikerobot.com:1234/673168185
 CCTV-13,https://iptv.1989.click/cn/a9q99y?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
-CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+CCTV-13,https://cdn.qd.je/163189/cctv13-2
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 CCTV-13,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
@@ -587,8 +588,8 @@ Now爆谷台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=h7kw14
 Now爆谷星影台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=07jkor
 美亞電影台,https://iptv.1989.click/hk/sa4tkk?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 美亞電影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
-天映頻道,https://cdn.qd.je/163189/typd
 天映頻道,https://cdn.qd.je/163189/typd2
+天映頻道,https://cdn.qd.je/163189/typd
 天映頻道,https://cdn3.indevs.in/stream/live/typd/
 天映頻道,https://cdn10.163189.xyz/163189/typd/
 天映頻道,http://o11.163189.xyz/stream/live/typd/
@@ -686,8 +687,8 @@ TVB星河,https://10.fast.hidns.vip/163189/xinghe/
 龙祥时代,https://iptv.1989.click/tw/xfqpee?token=09fd791b33ab84cb6418db8ba4f69d3295a3463d898db801
 龙祥时代,https://cdn.qd.je/163189/lxsd
 龙祥时代,https://smt.1678520.xyz/163189/lxsd
-天映经典频道,https://cdn.qd.je/163189/ccm
 天映经典频道,https://cdn.qd.je/163189/ccm2
+天映经典频道,https://cdn.qd.je/163189/ccm
 天映经典频道,https://cdn3.indevs.in/stream/live/ccm/
 天映经典频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
@@ -1049,4 +1050,4 @@ Nick Jr. 儿童频道,http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-08-21 21:23:12,https://cdn.qd.je/163189/fct
+2026-08-21 23:16:07,https://cdn.qd.je/163189/fct
