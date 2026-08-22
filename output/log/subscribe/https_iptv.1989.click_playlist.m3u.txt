@@ -752,19 +752,19 @@ https://cdn.qd.je/163189/tvbxh2
 https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="•港澳台「Juli」",海峡卫视
 https://cdn.qd.je/163189/hxws2
-#EXTINF:-1 tvg-id="天映新加坡" tvg-name="天映新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映頻[新加坡]
+#EXTINF:-1 tvg-id="天映頻道新加坡" tvg-name="天映頻道新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映頻道｜新加坡
 https://cdn.qd.je/163189/typd
-#EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="" group-title="•港澳台「Juli」",天映頻道[马来西亚]
-https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="" group-title="•港澳台「Juli」",天映經典頻道
-https://cdn.qd.je/163189/ccm2
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="" group-title="•港澳台「Juli」",天映經典頻道
+#EXTINF:-1 tvg-id="天映經典新加坡" tvg-name="天映經典新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映經典｜新加坡
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="" group-title="•港澳台「Juli」",Astro AOD
+#EXTINF:-1 tvg-id="天映頻道馬來西亞" tvg-name="天映頻道馬來西亞" tvg-logo="" group-title="•港澳台「Juli」",天映頻道｜马来西亚
+https://cdn.qd.je/163189/typd2
+#EXTINF:-1 tvg-id="天映經典馬來西亞" tvg-name="天映經典馬來西亞" tvg-logo="" group-title="•港澳台「Juli」",天映經典｜馬來西亞
+https://cdn.qd.je/163189/ccm2
+#EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="" group-title="•港澳台「Juli」",Astro AOD
 https://cdn.qd.je/163189/aod
-#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="" group-title="•港澳台「Juli」",Astro欢喜台
+#EXTINF:-1 tvg-id="Astro歡喜台" tvg-name="Astro歡喜台" tvg-logo="" group-title="•港澳台「Juli」",Astro 歡喜台
 https://cdn.qd.je/163189/hxt
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="" group-title="•港澳台「Juli」",爱奇艺
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="" group-title="•港澳台「Juli」",iQIYI
 https://cdn.qd.je/163189/iqiyi
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="" group-title="•港澳台「Juli」",千禧經典台
 https://cdn.qd.je/163189/tvbc
