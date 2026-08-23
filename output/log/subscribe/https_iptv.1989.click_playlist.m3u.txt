@@ -96,10 +96,10 @@ https://iptv.1989.click/hk/m2jtqe?token=902e36b470f5fb2c12816ef6388bad67a71db0d5
 https://iptv.1989.click/hk/gfvm68?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://material.1989.click/logo/Now Sports 精選.png" group-title="•香港「Relay」",Now Sports 精選
 https://iptv.1989.click/hk/qtpsfb?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="https://material.1989.click/logo/Now-Sports-617.png" group-title="•香港「Relay」",Now Sports 英超 2台
-https://iptv.1989.click/hkg/kxwrsj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="https://material.1989.click/logo/Now-Sports-618.png" group-title="•香港「Relay」",Now Sports 英超 X 台
 https://iptv.1989.click/hkg/33fc87?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
+#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="https://material.1989.click/logo/Now-Sports-617.png" group-title="•香港「Relay」",Now Sports 英超 2台
+https://iptv.1989.click/hkg/kxwrsj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://material.1989.click/logo/雷霆881.png" group-title="•香港「Relay」",雷霆881「電台」
 https://iptv.1989.click/hkg/rcahhd?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://material.1989.click/logo/叱咤903.png" group-title="•香港「Relay」",叱咤903「電台」
@@ -142,6 +142,14 @@ https://iptv.1989.click/tw/yka2uk?token=902e36b470f5fb2c12816ef6388bad67a71db0d5
 https://iptv.1989.click/tw/wsrrun?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://material.1989.click/logo/緯來育樂.png" group-title="•台灣「Relay」",緯來育樂「Relay」
 https://iptv.1989.click/tw/rznmhp?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="•台灣「Relay」",愛爾達體育 一
+https://iptv.1989.click/tw/9snd48?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="•台灣「Relay」",愛爾達體育 二
+https://iptv.1989.click/tw/kgpva4?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="" group-title="•台灣「Relay」",DAZN 1
+https://iptv.1989.click/tw/2f7b62?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="" group-title="•台灣「Relay」",DAZN 2
+https://iptv.1989.click/tw/ur9mh6?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="年代新聞台" tvg-name="年代新聞台" tvg-logo="https://material.1989.click/logo/年代新聞台.png" group-title="•台灣「Relay」",年代新聞「Relay」
 https://iptv.1989.click/tw/7urhfs?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://material.1989.click/logo/中天亞洲台.png" group-title="•台灣「Relay」",中天亞洲「Relay」
@@ -686,6 +694,32 @@ https://cdn.qd.je/163189/rthk31
 https://cdn.qd.je/163189/rthk32
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="•港澳台「Juli」",RTHK33
 https://cdn.qd.je/163189/rthk33
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="•港澳台「Juli」",TVB1
+https://cdn.qd.je/163189/tvb1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="•港澳台「Juli」",TVBJ1
+https://cdn.qd.je/163189/j1
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="" group-title="•港澳台「Juli」",千禧經典台
+https://cdn.qd.je/163189/tvbc
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="" group-title="•港澳台「Juli」",娛樂新聞台
+https://cdn.qd.je/163189/ylxw
+#EXTINF:-1 tvg-id="翡翠劇集台" tvg-name="翡翠劇集台" tvg-logo="" group-title="•港澳台「Juli」",翡翠劇集台
+https://cdn.qd.je/163189/tvbd
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台
+https://cdn.qd.je/163189/hlt
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「硬字幕」
+https://cdn.qd.je/163189/jade
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
+https://cdn.qd.je/163189/hlfct
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
+https://cdn.qd.je/163189/jade2
+#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://material.1989.click/logo/亞洲武俠.png" group-title="•港澳台「Juli」",TVB 功夫台
+https://cdn.qd.je/163189/yzwx
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="" group-title="•港澳台「Juli」",TVB 星河台
+https://cdn.qd.je/163189/tvbxh
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="" group-title="•港澳台「Juli」",TVB 星河台
+https://cdn.qd.je/163189/xinghe
+#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="" group-title="•港澳台「Juli」",TVB 星河台
+https://cdn.qd.je/163189/tvbxh2
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://material.1989.click/logo/澳视澳门.png" group-title="•港澳台「Juli」",澳視澳門
 https://cdn.qd.je/163189/asam
 #EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="•港澳台「Juli」",澳門衛星
@@ -696,64 +730,6 @@ https://cdn.qd.je/163189/amty
 https://cdn.qd.je/163189/amzy
 #EXTINF:-1 tvg-id="澳門蓮花衛視" tvg-name="澳門蓮花衛視" tvg-logo="https://material.1989.click/logo/澳门莲花.png" group-title="•港澳台「Juli」",澳門蓮花
 https://cdn.qd.je/163189/amlh
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://material.1989.click/logo/重温经典.png" group-title="•港澳台「Juli」",重温经典
-https://cdn.qd.je/163189/cwjd
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="•港澳台「Juli」",TVB1
-https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="•港澳台「Juli」",TVBJ1
-https://cdn.qd.je/163189/j1
-#EXTINF:-1 tvg-id="翡翠劇集台" tvg-name="翡翠劇集台" tvg-logo="" group-title="•港澳台「Juli」",翡翠劇集台
-https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="" group-title="•港澳台「Juli」",广东珠江
-https://cdn.qd.je/163189/gdzj
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="•港澳台「Juli」",广东体育
-https://cdn.qd.je/163189/gdty
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="" group-title="•港澳台「Juli」",八度空间
-https://cdn.qd.je/163189/8tv
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="•港澳台「Juli」",Channel 5
-https://cdn.qd.je/163189/ch5
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="•港澳台「Juli」",Channel 8
-https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="•港澳台「Juli」",Channel U
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="" group-title="•港澳台「Juli」",金光布袋戲
-https://cdn.qd.je/163189/jgbdx
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="" group-title="•港澳台「Juli」",龍華電影台
-https://cdn.qd.je/163189/lhdy
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="" group-title="•港澳台「Juli」",龍華經典台
-https://cdn.qd.je/163189/lhjd
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="" group-title="•港澳台「Juli」",龍華偶像台
-https://cdn.qd.je/163189/lhox
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="" group-title="•港澳台「Juli」",龍華日韓台
-https://cdn.qd.je/163189/lhrh
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="" group-title="•港澳台「Juli」",龍華戲劇台
-https://cdn.qd.je/163189/lhxj
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="" group-title="•港澳台「Juli」",龍華洋片台
-https://cdn.qd.je/163189/lhyp
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="" group-title="•港澳台「Juli」",龍華卡通台
-https://cdn.qd.je/163189/lhkt
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台
-https://cdn.qd.je/163189/hlt
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「硬字幕」
-https://cdn.qd.je/163189/jade
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
-https://cdn.qd.je/163189/hlfct
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
-https://cdn.qd.je/163189/jade2
-#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://material.1989.click/logo/亞洲武俠.png" group-title="•港澳台「Juli」",功夫台
-https://cdn.qd.je/163189/yzwx
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="" group-title="•港澳台「Juli」",娛樂新聞台
-https://cdn.qd.je/163189/ylxw
-#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="" group-title="•港澳台「Juli」",TVB 星河台
-https://cdn.qd.je/163189/tvbxh
-#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="" group-title="•港澳台「Juli」",TVB 星河台
-https://cdn.qd.je/163189/xinghe
-#EXTINF:-1 tvg-id="TVB 星河台" tvg-name="TVB 星河台" tvg-logo="" group-title="•港澳台「Juli」",TVB 星河台
-https://cdn.qd.je/163189/tvbxh2
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="•港澳台「Juli」",海峡卫视
-https://cdn.qd.je/163189/hxws
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="•港澳台「Juli」",海峡卫视
-https://cdn.qd.je/163189/hxws2
 #EXTINF:-1 tvg-id="天映頻道新加坡" tvg-name="天映頻道新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映頻道「新加坡」
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="天映經典新加坡" tvg-name="天映經典新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映經典「新加坡」
@@ -768,8 +744,14 @@ https://cdn.qd.je/163189/aod
 https://cdn.qd.je/163189/hxt
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="" group-title="•港澳台「Juli」",iQIYI
 https://cdn.qd.je/163189/iqiyi
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="" group-title="•港澳台「Juli」",千禧經典台
-https://cdn.qd.je/163189/tvbc
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="" group-title="•港澳台「Juli」",八度空间
+https://cdn.qd.je/163189/8tv
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="•港澳台「Juli」",Channel 5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="•港澳台「Juli」",Channel 8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="•港澳台「Juli」",Channel U
+https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.1989.click/logo/CCTV1.webp" group-title="•港澳台「Juli」",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV2" tvg-logo="https://iptv.1989.click/logo/CCTV2.webp" group-title="•港澳台「Juli」",CCTV2
@@ -814,16 +796,42 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://iptv.1989.click/logo/CCTV17.webp" group-title="•港澳台「Juli」",CCTV17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="•港澳台「Juli」",五星体育
+https://cdn.qd.je/163189/wxty
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="•港澳台「Juli」",重温经典
 https://cdn.qd.je/163189/cwjd2
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://material.1989.click/logo/重温经典.png" group-title="•港澳台「Juli」",重温经典
+https://cdn.qd.je/163189/cwjd
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="" group-title="•港澳台「Juli」",广东珠江
+https://cdn.qd.je/163189/gdzj
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="•港澳台「Juli」",广东体育
+https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="" group-title="•港澳台「Juli」",广州综合
 https://cdn.qd.je/163189/gzzh
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="" group-title="•港澳台「Juli」",广州新闻
 https://cdn.qd.je/163189/gzxw
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="" group-title="•港澳台「Juli」",广州南国都市
 https://cdn.qd.je/163189/ngds
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="•港澳台「Juli」",五星体育
-https://cdn.qd.je/163189/wxty
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="•港澳台「Juli」",海峡卫视
+https://cdn.qd.je/163189/hxws
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="•港澳台「Juli」",海峡卫视
+https://cdn.qd.je/163189/hxws2
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="" group-title="•港澳台「Juli」",金光布袋戲
+https://cdn.qd.je/163189/jgbdx
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="" group-title="•港澳台「Juli」",龍華電影台
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="" group-title="•港澳台「Juli」",龍華經典台
+https://cdn.qd.je/163189/lhjd
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="" group-title="•港澳台「Juli」",龍華偶像台
+https://cdn.qd.je/163189/lhox
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="" group-title="•港澳台「Juli」",龍華日韓台
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="" group-title="•港澳台「Juli」",龍華戲劇台
+https://cdn.qd.je/163189/lhxj
+#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="" group-title="•港澳台「Juli」",龍華洋片台
+https://cdn.qd.je/163189/lhyp
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="" group-title="•港澳台「Juli」",龍華卡通台
+https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="" group-title="•港澳台「Juli」",民視影劇台
 https://cdn.qd.je/163189/msyj
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="" group-title="•港澳台「Juli」",公視戲劇
