@@ -63,16 +63,16 @@ https://iptv.1989.click/cn/8apynj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5
 https://iptv.1989.click/cn/3mn8a2?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://material.1989.click/logo/四川卫视.png" group-title="•央視「Relay」",四川衛視「Relay」
 https://iptv.1989.click/cn/y33nv9?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://material.1989.click/logo/凤凰中文.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·中文｜72小时回看
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://material.1989.click/logo/凤凰中文.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·中文「72小时回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/phoenix/segv57?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://material.1989.click/logo/凤凰资讯.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·資訊｜72小时回看
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://material.1989.click/logo/凤凰资讯.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·資訊「72小时回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/phoenix/esmvja?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港｜72小时回看
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://material.1989.click/logo/凤凰香港.png" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視·香港「72小时回看」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/phoenix/vm4pbq?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台｜24小时回看
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台「24小时回看」
 https://iptv.1989.click/hk/wmpyht?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•香港「Relay」",無綫新聞台
 https://iptv.1989.click/hk/tsyetu?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
@@ -100,11 +100,11 @@ https://iptv.1989.click/hk/qtpsfb?token=902e36b470f5fb2c12816ef6388bad67a71db0d5
 https://iptv.1989.click/hkg/kxwrsj?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="https://material.1989.click/logo/Now-Sports-618.png" group-title="•香港「Relay」",Now Sports 英超 X 台
 https://iptv.1989.click/hkg/33fc87?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://material.1989.click/logo/雷霆881.png" group-title="•香港「Relay」",雷霆881｜電台
+#EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://material.1989.click/logo/雷霆881.png" group-title="•香港「Relay」",雷霆881「電台」
 https://iptv.1989.click/hkg/rcahhd?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://material.1989.click/logo/叱咤903.png" group-title="•香港「Relay」",叱咤903｜電台
+#EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://material.1989.click/logo/叱咤903.png" group-title="•香港「Relay」",叱咤903「電台」
 https://iptv.1989.click/hkg/huuypn?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
-#EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://material.1989.click/logo/AM864.png" group-title="•香港「Relay」",AM864｜電台
+#EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://material.1989.click/logo/AM864.png" group-title="•香港「Relay」",AM864「電台」
 https://iptv.1989.click/hkg/tepu3g?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://material.1989.click/logo/HOY76.png" group-title="•香港「Relay」",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
@@ -644,12 +644,14 @@ https://cdn.qd.je/163189/fct4k
 https://cdn.qd.je/163189/fct2
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="•港澳台「Juli」",翡翠台「WebVTT字幕」
 https://cdn.qd.je/163189/fctvtt
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•港澳台「Juli」",無綫新聞台
+https://cdn.qd.je/163189/wxxw
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•港澳台「Juli」",無綫新聞台
+https://cdn.qd.je/163189/wxxwt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="•港澳台「Juli」",明珠台「字幕」
 https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png" group-title="•港澳台「Juli」",明珠台「WebVTT字幕」
 https://cdn.qd.je/163189/mztvtt
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="•港澳台「Juli」",無綫新聞台
-https://cdn.qd.je/163189/wxxw
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•港澳台「Juli」",TVB Plus
 https://cdn.qd.je/163189/tvbp2
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://material.1989.click/logo/TVBPlus.png" group-title="•港澳台「Juli」",TVB Plus「字幕」
@@ -683,7 +685,7 @@ https://cdn.qd.je/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK32" tvg-logo="https://iptv.1989.click/logo/RTHK32.webp" group-title="•港澳台「Juli」",RTHK32
 https://cdn.qd.je/163189/rthk32
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="•港澳台「Juli」",RTHK33
-https://cdn.qd.je/163189/cctv1
+https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://material.1989.click/logo/澳视澳门.png" group-title="•港澳台「Juli」",澳視澳門
 https://cdn.qd.je/163189/asam
 #EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="•港澳台「Juli」",澳門衛星
@@ -732,11 +734,11 @@ https://cdn.qd.je/163189/lhyp
 https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台
 https://cdn.qd.je/163189/hlt
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台[硬字幕]
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「硬字幕」
 https://cdn.qd.je/163189/jade
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台[新加坡]
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
 https://cdn.qd.je/163189/hlfct
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台[新加坡]
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
 https://cdn.qd.je/163189/jade2
 #EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://material.1989.click/logo/亞洲武俠.png" group-title="•港澳台「Juli」",功夫台
 https://cdn.qd.je/163189/yzwx
@@ -752,13 +754,13 @@ https://cdn.qd.je/163189/tvbxh2
 https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="" group-title="•港澳台「Juli」",海峡卫视
 https://cdn.qd.je/163189/hxws2
-#EXTINF:-1 tvg-id="天映頻道新加坡" tvg-name="天映頻道新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映頻道｜新加坡
+#EXTINF:-1 tvg-id="天映頻道新加坡" tvg-name="天映頻道新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映頻道「新加坡」
 https://cdn.qd.je/163189/typd
-#EXTINF:-1 tvg-id="天映經典新加坡" tvg-name="天映經典新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映經典｜新加坡
+#EXTINF:-1 tvg-id="天映經典新加坡" tvg-name="天映經典新加坡" tvg-logo="" group-title="•港澳台「Juli」",天映經典「新加坡」
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-id="天映頻道馬來西亞" tvg-name="天映頻道馬來西亞" tvg-logo="" group-title="•港澳台「Juli」",天映頻道｜马来西亚
+#EXTINF:-1 tvg-id="天映頻道馬來西亞" tvg-name="天映頻道馬來西亞" tvg-logo="" group-title="•港澳台「Juli」",天映頻道「马来西亚」
 https://cdn.qd.je/163189/typd2
-#EXTINF:-1 tvg-id="天映經典馬來西亞" tvg-name="天映經典馬來西亞" tvg-logo="" group-title="•港澳台「Juli」",天映經典｜馬來西亞
+#EXTINF:-1 tvg-id="天映經典馬來西亞" tvg-name="天映經典馬來西亞" tvg-logo="" group-title="•港澳台「Juli」",天映經典「馬來西亞」
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="" group-title="•港澳台「Juli」",Astro AOD
 https://cdn.qd.je/163189/aod
@@ -800,6 +802,8 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.1989.click/logo/CCTV13.webp" group-title="•港澳台「Juli」",CCTV13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.1989.click/logo/CCTV13.webp" group-title="•港澳台「Juli」",CCTV13
+https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.1989.click/logo/CCTV14.webp" group-title="•港澳台「Juli」",CCTV14
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://iptv.1989.click/logo/CCTV15.webp" group-title="•港澳台「Juli」",CCTV15

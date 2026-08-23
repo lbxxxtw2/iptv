@@ -42,6 +42,8 @@ https://10.fast.hidns.vip/163189/fct/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="香港频道",翡翠台
 https://ktpremium.world/live/LT1976F/A9177/492383.ts
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台4K
+https://iptv.1989.click/hk/wmpyht?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://material.1989.click/logo/翡翠台.png" group-title="香港频道",翡翠台4K
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台4K.png" group-title="香港频道",翡翠台4K
 http://o11.163189.xyz/stream/tvb/fct4k/
@@ -59,8 +61,7 @@ https://cdn3.indevs.in/stream/tvb/fct4k/
 https://iptv.1989.click/hk/tsyetu?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="香港频道",无线新闻台
 https://cdn.qd.je/163189/wxxw
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/无线新闻台.png" group-title="香港频道",无线新闻台
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://material.1989.click/logo/無綫新聞台.png" group-title="香港频道",无线新闻台
 https://cdn.qd.je/163189/wxxwt
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="香港频道",无线新闻台
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -214,7 +215,7 @@ https://fast.hidns.vip/163189/rthk32
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="RTHK 33" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="香港频道",RTHK 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="RTHK 33" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="香港频道",RTHK 33
-https://cdn.qd.je/163189/cctv1
+https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="RTHK 33" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/RTHK 33.png" group-title="香港频道",RTHK 33
 http://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVB J1.png" group-title="香港频道",TVB J1
@@ -482,7 +483,7 @@ https://ktpremium.world/live/LT1976F/A9177/948087.ts
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央綜合台" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="香港频道",中央綜合台
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央綜合台" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="香港频道",中央綜合台
-https://cdn.qd.je/163189/cctv1
+https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央綜合台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中央綜合台.png" group-title="香港频道",中央綜合台
 http://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://material.1989.click/logo/Love-Nature.png" group-title="香港频道",Love Nature
@@ -497,7 +498,7 @@ https://ktpremium.world/live/LT1976F/A9177/515075.ts
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="香港频道",中央電視台綜合頻道 (港澳版)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://iptv.1989.click/logo/RTHK33.webp" group-title="香港频道",中央電視台綜合頻道 (港澳版)
-https://cdn.qd.je/163189/cctv1
+https://cdn.qd.je/163189/rthk33
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中央電視台綜合頻道 (港澳版).png" group-title="香港频道",中央電視台綜合頻道 (港澳版)
 http://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/NOW 70s.png" group-title="香港频道",NOW 70s
@@ -845,8 +846,7 @@ http://www.ikerobot.com:1234/673168185
 https://iptv.1989.click/cn/ykfsxh?token=902e36b470f5fb2c12816ef6388bad67a71db0d5aa6b958d
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://iptv.1989.click/logo/CCTV13.webp" group-title="央视频道",CCTV-13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-13.png" group-title="央视频道",CCTV-13
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://iptv.1989.click/logo/CCTV13.webp" group-title="央视频道",CCTV-13
 https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-13.png" group-title="央视频道",CCTV-13
 https://live.chinacert.cftest5.cn/cnmg/live/608807423
@@ -1386,7 +1386,6 @@ https://ktpremium.world/live/LT1976F/A9177/870561.ts
 #EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天映頻道.png" group-title="电影频道",天映頻道
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天映頻道.png" group-title="电影频道",天映頻道
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%98%A0.png" group-title="电影频道",天映頻道
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -1630,10 +1629,8 @@ https://smt.1678520.xyz/163189/lxsd
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙祥时代.png" group-title="电影频道",龙祥时代
 https://ktpremium.world/live/LT1976F/A9177/694086.ts
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天映经典频道.png" group-title="电影频道",天映经典频道
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/ccm
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天映经典频道.png" group-title="电影频道",天映经典频道
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典频道" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="电影频道",天映经典频道
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -2279,5 +2276,5 @@ http://www.ikerobot.com:1234/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-23 17:09:46
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-23 19:06:42
 https://cdn.qd.je/163189/fct
