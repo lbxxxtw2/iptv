@@ -377,8 +377,6 @@ https://iptv.1989.click/hk/zmdmd2?token=902e36b470f5fb2c12816ef6388bad67a71db0d5
 https://cdn.qd.je/163189/viu6
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/VIUTVSIX.png" group-title="香港频道",VIUTVSIX
 https://10.fast.hidns.vip/163189/viu6/
-#EXTINF:-1 tvg-id="澳門Macau" tvg-name="澳門Macau" tvg-logo="https://material.1989.click/logo/澳门Macau.png" group-title="香港频道",澳門Macau
-https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/澳门综艺.png" group-title="香港频道",澳门综艺
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/amzy
@@ -2281,5 +2279,5 @@ http://www.ikerobot.com:1234/626064703
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-23 15:21:11
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-23 17:09:46
 https://cdn.qd.je/163189/fct
