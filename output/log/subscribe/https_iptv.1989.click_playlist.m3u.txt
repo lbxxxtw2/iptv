@@ -330,7 +330,7 @@ https://iptv.1989.click/4gtv/6xz66f?token=c26aa9abd789d6a3ff873a4e08439ce2dbcd46
 #EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://iptv.1989.click/logo/France%2024.webp" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",France 24「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/pfrr6q?token=c26aa9abd789d6a3ff873a4e08439ce2dbcd46cc97a80bb4
-#EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://iptv.1989.click/logo/NHK%20World-Japan.webp" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",NHK 新聞資訊「4gTV」
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://iptv.1989.click/logo/NHK%20World-Japan.webp" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",NHK 新聞資訊「4gTV」
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 https://iptv.1989.click/4gtv/sbsnnn?token=c26aa9abd789d6a3ff873a4e08439ce2dbcd46cc97a80bb4
 #EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://iptv.1989.click/logo/CNBC%20Asia%20財經台.webp" group-title="•台灣「Relay」" http-user-agent="okhttp/3.14.9",CNBC Asia 財經「4gTV」
