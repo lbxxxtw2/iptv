@@ -496,8 +496,6 @@ https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8
 http://tv1288.xyz/douyin.php?type=rid&rid=gdtvzjpd
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东珠江.png" group-title="广东频道",广东珠江
 http://www.3344.uk:8888/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东珠江.png" group-title="广东频道",广东珠江
-http://www.ikerobot.com:1234/639731952
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://iptv.1989.click/logo/广东体育.webp" group-title="广东频道",广东体育
 https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东体育.png" group-title="广东频道",广东体育
@@ -510,8 +508,6 @@ https://2.fast.hidns.vip/163189/gdty
 https://live.chinacert.cftest5.cn/zgst/live/guangdong
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东卫视.png" group-title="广东频道",广东卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东卫视.png" group-title="广东频道",广东卫视
-http://www.ikerobot.com:1234/608831231
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东卫视.png" group-title="广东频道",广东卫视
 rtmp://yftv-wshls.yzbtv.cn/live/1bd69
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://iptv.1989.click/logo/广州综合.webp" group-title="广东频道",广州综合
@@ -536,8 +532,6 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 rtmp://yftv-wshls.yzbtv.cn/live/1bd61
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/大湾区卫视.png" group-title="广东频道",大湾区卫视
 https://live.chinacert.cftest5.cn/cnmg/live/608917627
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/大湾区卫视.png" group-title="广东频道",大湾区卫视
-http://www.ikerobot.com:1234/608917627
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://iptv.1989.click/logo/CCTV5.webp" group-title="体育频道",CCTV-5
 https://iptv.1989.click/cn/8zhu3y?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://iptv.1989.click/logo/CCTV5.webp" group-title="体育频道",CCTV-5
@@ -550,8 +544,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/641886683
 https://live.chinacert.cftest5.cn/cnmg/live/641886773
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5.png" group-title="体育频道",CCTV-5
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5.png" group-title="体育频道",CCTV-5
-http://www.ikerobot.com:1234/641886683
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5.png" group-title="体育频道",CCTV-5
 rtmp://yftv-wshls.yzbtv.cn/live/11eec
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://iptv.1989.click/logo/广东体育.webp" group-title="体育频道",广东体育
@@ -570,8 +562,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5+.png" group-title="体育频道",CCTV-5+
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5+.png" group-title="体育频道",CCTV-5+
-http://www.ikerobot.com:1234/641886773
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://iptv.1989.click/logo/緯來體育台.webp" group-title="体育频道",纬来体育
 https://iptv.1989.click/tw/t83gh8?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://iptv.1989.click/logo/緯來體育台.webp" group-title="体育频道",纬来体育
@@ -657,8 +647,6 @@ https://cdn6.cc.cd/163189/cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-1.png" group-title="央视频道",CCTV-1
-http://www.ikerobot.com:1234/608807420
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 rtmp://yftv-wshls.yzbtv.cn/live/4387
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://iptv.1989.click/logo/CCTV2.webp" group-title="央视频道",CCTV-2
 https://iptv.1989.click/cn/m4vbkf?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
@@ -669,8 +657,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/631780532
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-2.png" group-title="央视频道",CCTV-2
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-2.png" group-title="央视频道",CCTV-2
-http://www.ikerobot.com:1234/631780532
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-2.png" group-title="央视频道",CCTV-2
 rtmp://yftv-wshls.yzbtv.cn/live/11ecc
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://iptv.1989.click/logo/CCTV3.webp" group-title="央视频道",CCTV-3
 https://iptv.1989.click/cn/p77rqu?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
@@ -680,8 +666,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 https://live.chinacert.cftest5.cn/cnmg/live/624878271
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-3.png" group-title="央视频道",CCTV-3
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-3.png" group-title="央视频道",CCTV-3
-http://www.ikerobot.com:1234/624878271
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-3.png" group-title="央视频道",CCTV-3
 rtmp://yftv-wshls.yzbtv.cn/live/11ef4
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://iptv.1989.click/logo/CCTV4.webp" group-title="央视频道",CCTV-4
@@ -697,8 +681,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/608807416
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-4.png" group-title="央视频道",CCTV-4
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-4.png" group-title="央视频道",CCTV-4
-http://www.ikerobot.com:1234/631780421
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-4.png" group-title="央视频道",CCTV-4
 rtmp://yftv-wshls.yzbtv.cn/live/11ef0
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://iptv.1989.click/logo/CCTV5.webp" group-title="央视频道",CCTV-5
 https://iptv.1989.click/cn/8zhu3y?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
@@ -713,8 +695,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/641886773
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5.png" group-title="央视频道",CCTV-5
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5.png" group-title="央视频道",CCTV-5
-http://www.ikerobot.com:1234/641886683
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5.png" group-title="央视频道",CCTV-5
 rtmp://yftv-wshls.yzbtv.cn/live/11eec
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://iptv.1989.click/logo/CCTV5%2B.webp" group-title="央视频道",CCTV-5+
 https://iptv.1989.click/cn/4nbggs?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
@@ -724,8 +704,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5+.png" group-title="央视频道",CCTV-5+
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-5+.png" group-title="央视频道",CCTV-5+
-http://www.ikerobot.com:1234/641886773
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://iptv.1989.click/logo/CCTV6.webp" group-title="央视频道",CCTV-6
 https://iptv.1989.click/cn/anzqk5?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://iptv.1989.click/logo/CCTV6.webp" group-title="央视频道",CCTV-6
@@ -734,8 +712,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 https://live.chinacert.cftest5.cn/cnmg/live/624878396
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-6.png" group-title="央视频道",CCTV-6
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-6.png" group-title="央视频道",CCTV-6
-http://www.ikerobot.com:1234/624878396
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-6.png" group-title="央视频道",CCTV-6
 rtmp://yftv-wshls.yzbtv.cn/live/11ee8
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://iptv.1989.click/logo/CCTV7.webp" group-title="央视频道",CCTV-7
@@ -746,8 +722,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 https://live.chinacert.cftest5.cn/cnmg/live/673168121
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-7.png" group-title="央视频道",CCTV-7
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-7.png" group-title="央视频道",CCTV-7
-http://www.ikerobot.com:1234/673168121
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://iptv.1989.click/logo/CCTV8.webp" group-title="央视频道",CCTV-8
 https://iptv.1989.click/cn/6f887t?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://iptv.1989.click/logo/CCTV8.webp" group-title="央视频道",CCTV-8
@@ -756,8 +730,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 https://live.chinacert.cftest5.cn/cnmg/live/624878356
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-8.png" group-title="央视频道",CCTV-8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-8.png" group-title="央视频道",CCTV-8
-http://www.ikerobot.com:1234/624878356
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-8.png" group-title="央视频道",CCTV-8
 rtmp://yftv-wshls.yzbtv.cn/live/11ee0
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://iptv.1989.click/logo/CCTV9.webp" group-title="央视频道",CCTV-9
@@ -770,8 +742,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/673168140
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-9.png" group-title="央视频道",CCTV-9
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-9.png" group-title="央视频道",CCTV-9
-http://www.ikerobot.com:1234/673168140
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://iptv.1989.click/logo/CCTV10.webp" group-title="央视频道",CCTV-10
 https://iptv.1989.click/cn/vk98kw?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://iptv.1989.click/logo/CCTV10.webp" group-title="央视频道",CCTV-10
@@ -780,8 +750,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 https://live.chinacert.cftest5.cn/cnmg/live/624878405
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-10.png" group-title="央视频道",CCTV-10
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-10.png" group-title="央视频道",CCTV-10
-http://www.ikerobot.com:1234/624878405
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-10.png" group-title="央视频道",CCTV-10
 rtmp://yftv-wshls.yzbtv.cn/live/11ed8
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://iptv.1989.click/logo/CCTV11.webp" group-title="央视频道",CCTV-11
@@ -792,8 +760,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 https://live.chinacert.cftest5.cn/cnmg/live/667987558
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-11.png" group-title="央视频道",CCTV-11
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-11.png" group-title="央视频道",CCTV-11
-http://www.ikerobot.com:1234/667987558
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://iptv.1989.click/logo/CCTV12.webp" group-title="央视频道",CCTV-12
 https://iptv.1989.click/cn/cu3h2h?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://iptv.1989.click/logo/CCTV12.webp" group-title="央视频道",CCTV-12
@@ -804,8 +770,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/673168185
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226748/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-12.png" group-title="央视频道",CCTV-12
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-12.png" group-title="央视频道",CCTV-12
-http://www.ikerobot.com:1234/673168185
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://iptv.1989.click/logo/CCTV13.webp" group-title="央视频道",CCTV-13
 https://iptv.1989.click/cn/jtwuvc?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://iptv.1989.click/logo/CCTV13.webp" group-title="央视频道",CCTV-13
@@ -819,8 +783,6 @@ https://10.fast.hidns.vip/163189/cctv13/
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-13.png" group-title="央视频道",CCTV-13
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-13.png" group-title="央视频道",CCTV-13
-http://www.ikerobot.com:1234/608807423
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-13.png" group-title="央视频道",CCTV-13
 rtmp://yftv-wshls.yzbtv.cn/live/4e2f
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://iptv.1989.click/logo/CCTV14.webp" group-title="央视频道",CCTV-14
 https://iptv.1989.click/cn/6ke8ku?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
@@ -832,8 +794,6 @@ https://live.chinacert.cftest5.cn/cnmg/live/624878440
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-14.png" group-title="央视频道",CCTV-14
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-14.png" group-title="央视频道",CCTV-14
-http://www.ikerobot.com:1234/624878440
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://iptv.1989.click/logo/CCTV15.webp" group-title="央视频道",CCTV-15
 https://iptv.1989.click/cn/r66zx7?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://iptv.1989.click/logo/CCTV15.webp" group-title="央视频道",CCTV-15
@@ -842,8 +802,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 https://live.chinacert.cftest5.cn/cnmg/live/673168223
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-15.png" group-title="央视频道",CCTV-15
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-15.png" group-title="央视频道",CCTV-15
-http://www.ikerobot.com:1234/673168223
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://iptv.1989.click/logo/CCTV16.webp" group-title="央视频道",CCTV-16
 https://iptv.1989.click/cn/cx5n35?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://iptv.1989.click/logo/CCTV16.webp" group-title="央视频道",CCTV-16
@@ -862,22 +820,14 @@ https://live.chinacert.cftest5.cn/cnmg/live/673168256
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-17.png" group-title="央视频道",CCTV-17
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CCTV-17.png" group-title="央视频道",CCTV-17
-http://www.ikerobot.com:1234/673168256
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CETV1.png" group-title="央视频道",CETV1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CETV1.png" group-title="央视频道",CETV1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226712/1.m3u8
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CETV1.png" group-title="央视频道",CETV1
-http://www.ikerobot.com:1234/923287154
 #EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CETV2.png" group-title="央视频道",CETV2
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226718/1.m3u8
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CETV2.png" group-title="央视频道",CETV2
-http://www.ikerobot.com:1234/923287211
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CETV4.png" group-title="央视频道",CETV4
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
-#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CETV4.png" group-title="央视频道",CETV4
-http://www.ikerobot.com:1234/923287339
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/风云足球.png" group-title="央视频道",风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://iptv.1989.click/logo/東森新聞台.webp" group-title="台湾频道",东森新闻
@@ -1319,12 +1269,6 @@ http://o11.163189.xyz/stream/live/hxt/
 https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/AXN.png" group-title="电影频道",AXN
 https://ktpremium.world/live/LT1976F/A9177/515075.ts
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
-http://www.ikerobot.com:1234/644368714
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
-http://www.ikerobot.com:1234/644368373
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
-http://www.ikerobot.com:1234/952383261
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://iptv.1989.click/logo/CinemaWorld.webp" group-title="电影频道",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://epg.112114.xyz/logo/CinemaWorld.png" group-title="电影频道",CinemaWorld
@@ -1605,14 +1549,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 https://iptv.1989.click/comp/b8dhyn?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 https://live.chinacert.cftest5.cn/cnmg/live/608917627
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-http://www.ikerobot.com:1234/608917627
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
 https://live.chinacert.cftest5.cn/zgst/live/guangdong
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
-http://www.ikerobot.com:1234/608831231
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东卫视.png" group-title="卫视频道",广东卫视
 rtmp://yftv-wshls.yzbtv.cn/live/1bd69
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/香港卫视.png" group-title="卫视频道",香港卫视
@@ -1639,14 +1579,10 @@ https://iptv.1989.click/cn/3peutx?token=099c9d230a79bcc2e874231d7c20ffc7cab73acf
 https://live.chinacert.cftest5.cn/zgst/live/beijing
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://www.ikerobot.com:1234/630287636
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 https://live.chinacert.cftest5.cn/zgst/live/hubei
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://www.ikerobot.com:1234/947472496
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",黑龙江卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
@@ -1654,8 +1590,6 @@ https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://www.ikerobot.com:1234/738906901
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 https://live.chinacert.cftest5.cn/zgst/live/anhui
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -1666,14 +1600,10 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226664/1.m3u8
 https://live.chinacert.cftest5.cn/zgst/live/zhongqing
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://www.ikerobot.com:1234/738910914
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
 https://live.chinacert.cftest5.cn/zgst/live/dongfang
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://www.ikerobot.com:1234/651632648
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东方卫视.png" group-title="卫视频道",东方卫视
 rtmp://yftv-wshls.yzbtv.cn/live/1bd7d
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
@@ -1682,8 +1612,6 @@ https://live.chinacert.cftest5.cn/zgst/live/dongnan
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226670/1.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226675/1.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
-http://www.ikerobot.com:1234/849116810
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 https://live.chinacert.cftest5.cn/zgst/live/gansu
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -1704,8 +1632,6 @@ https://live.chinacert.cftest5.cn/zgst/live/hainan
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海南卫视.png" group-title="卫视频道",海南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226683/1.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海南卫视.png" group-title="卫视频道",海南卫视
-http://www.ikerobot.com:1234/947472502
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
 https://live.chinacert.cftest5.cn/zgst/live/hebei
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
@@ -1714,28 +1640,20 @@ http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226665/1.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河北卫视.png" group-title="卫视频道",河北卫视
-http://www.ikerobot.com:1234/962042070
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
 https://live.chinacert.cftest5.cn/zgst/live/henan
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226687/1.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://www.ikerobot.com:1234/790187291
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 https://live.chinacert.cftest5.cn/zgst/live/jilin
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226671/1.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://www.ikerobot.com:1234/947472500
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://www.ikerobot.com:1234/623899368
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 rtmp://yftv-wshls.yzbtv.cn/live/1bd81
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
@@ -1746,14 +1664,10 @@ http://goo.bkpcp.top/mg/jxws
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226726/1.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江西卫视.png" group-title="卫视频道",江西卫视
-http://www.ikerobot.com:1234/783847495
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 https://live.chinacert.cftest5.cn/zgst/live/liaoning
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226689/1.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://www.ikerobot.com:1234/630291707
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://live.chinacert.cftest5.cn/zgst/live/neimenggu
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -1762,14 +1676,10 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226685/1.m3u8
 https://live.chinacert.cftest5.cn/zgst/live/ningxia
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226691/1.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://www.ikerobot.com:1234/738910535
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
 https://live.chinacert.cftest5.cn/zgst/live/qinghai
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226696/1.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
-http://www.ikerobot.com:1234/947472506
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
 https://live.chinacert.cftest5.cn/zgst/live/shandong
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
@@ -1786,8 +1696,6 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226704/1.m3u8
 https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226707/1.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://www.ikerobot.com:1234/738910838
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.1989.click/logo/四川卫视.webp" group-title="卫视频道",四川卫视
 https://iptv.1989.click/cn/ra4n6s?token=099c9d230a79bcc2e874231d7c20ffc7cab73acfaf545051
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/四川卫视.png" group-title="卫视频道",四川卫视
@@ -1806,8 +1714,6 @@ rtmp://yftv-wshls.yzbtv.cn/live/1bd61
 https://live.chinacert.cftest5.cn/zgst/live/sansha
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
 https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=b040eb4e1727851324
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://www.ikerobot.com:1234/961023778
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
 https://live.chinacert.cftest5.cn/zgst/live/tianjin
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天津卫视.png" group-title="卫视频道",天津卫视
@@ -1828,10 +1734,6 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226709/1.m3u8
 https://live.chinacert.cftest5.cn/zgst/live/bingtuan
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226661/1.m3u8
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://www.ikerobot.com:1234/956923145
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/山东教育.png" group-title="卫视频道",山东教育
-http://www.ikerobot.com:1234/609154353
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/山东教育卫视.png" group-title="卫视频道",山东教育卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226701/1.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/莲花卫视.png" group-title="卫视频道",莲花卫视
@@ -1840,21 +1742,13 @@ http://cdn6.163189.xyz/163189/amlh
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 #EXTINF:-1 tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/北京科教.png" group-title="北京频道",北京科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/上海新闻综合.png" group-title="上海频道",上海新闻综合
-http://www.ikerobot.com:1234/651632657
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/上海第一财经.png" group-title="上海频道",上海第一财经
-http://www.ikerobot.com:1234/608780988
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/哈哈炫动.png" group-title="上海频道",哈哈炫动
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 tvg-id="崇明电视台" tvg-name="崇明电视台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/崇明电视台.png" group-title="上海频道",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/优漫卡通.png" group-title="江苏频道",优漫卡通
-http://www.ikerobot.com:1234/626064703
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E5%B0%91%E5%84%BF.png" group-title="江苏频道",南京少儿
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/南通新闻综合.png" group-title="江苏频道",南通新闻综合
-http://www.ikerobot.com:1234/955227985
 #EXTINF:-1 tvg-id="大丰公共" tvg-name="大丰公共" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/大丰公共.png" group-title="江苏频道",大丰公共
 http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 #EXTINF:-1 tvg-id="如东新闻综合" tvg-name="如东新闻综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/如东新闻综合.png" group-title="江苏频道",如东新闻综合
@@ -1901,20 +1795,10 @@ http://stream.thmz.com/wxtv3/playlist.m3u8
 http://stream.thmz.com/wxtv3/sd/live.m3u8
 #EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/无锡都市资讯.png" group-title="江苏频道",无锡都市资讯
 http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/江苏教育.png" group-title="江苏频道",江苏教育
-http://www.ikerobot.com:1234/628008321
 #EXTINF:-1 tvg-id="沭阳综合" tvg-name="沭阳综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/沭阳综合.png" group-title="江苏频道",沭阳综合
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 #EXTINF:-1 tvg-id="涟水电视台综合" tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/涟水电视台综合.png" group-title="江苏频道",涟水电视台综合
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
-#EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/淮安新闻综合.png" group-title="江苏频道",淮安新闻综合
-http://www.ikerobot.com:1234/639731826
-#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/溧水新闻综合.png" group-title="江苏频道",溧水新闻综合
-http://www.ikerobot.com:1234/639737327
-#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/连云港新闻综合.png" group-title="江苏频道",连云港新闻综合
-http://www.ikerobot.com:1234/639731715
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/镇江新闻综合.png" group-title="江苏频道",镇江新闻综合
-http://www.ikerobot.com:1234/639731783
 #EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/湖南都市.png" group-title="湖南频道",湖南都市
 http://php.jdshipin.com:8880/iptv.php?id=hnds
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/湖南经视.png" group-title="湖南频道",湖南经视
@@ -1980,8 +1864,6 @@ http://r.jdshipin.com/WtYt3
 https://10.fast.hidns.vip/163189/hxws/
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://168.sryze.cc/163189/hxws
-#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
-http://www.ikerobot.com:1234/849119120
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海南新闻.png" group-title="海南频道",海南新闻
 https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=62bd37b31727851111
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海南自贸.png" group-title="海南频道",海南自贸
@@ -2002,8 +1884,6 @@ https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 https://live.chinacert.cftest5.cn/zgst/live/xinjiang
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/新疆卫视.png" group-title="新疆频道",新疆卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226700/1.m3u8
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/山东教育.png" group-title="山东频道",山东教育
-http://www.ikerobot.com:1234/609154353
 #EXTINF:-1 tvg-id="临沂公共" tvg-name="临沂公共" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/临沂公共.png" group-title="山东频道",临沂公共
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1 tvg-id="临沂农科" tvg-name="临沂农科" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/临沂农科.png" group-title="山东频道",临沂农科
@@ -2056,8 +1936,6 @@ https://iptv.1989.click/tw/ybj9xg?token=099c9d230a79bcc2e874231d7c20ffc7cab73acf
 https://huyazhibo.de5.net/?id=29465866
 #EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/火影忍者.png" group-title="动画频道",火影忍者
 https://www.goodiptv.club/huya/29465866
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/嘉佳卡通.png" group-title="动画频道",嘉佳卡通
-http://www.ikerobot.com:1234/614952364
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/金鹰卡通.png" group-title="动画频道",金鹰卡通
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/卡酷动画.png" group-title="动画频道",卡酷动画
@@ -2095,14 +1973,10 @@ https://live.metshop.top/douyu/3949681
 https://www.goodiptv.club/huya/11352919
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/炫动卡通.png" group-title="动画频道",炫动卡通
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/新动漫.png" group-title="动画频道",新动漫
-http://www.ikerobot.com:1234/961930269
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/优漫卡通.png" group-title="动画频道",优漫卡通
-http://www.ikerobot.com:1234/626064703
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%8D%8E%E5%B0%8F%E5%BD%93%E5%AE%B6.png" group-title="动画频道",中华小当家
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-25 15:28:06
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-25 17:24:59
 https://cdn.qd.je/163189/fct
