@@ -1,198 +1,154 @@
 #EXTM3U
 #EXTINF:-1 group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
 https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_d07cb017056b4df38430610a502d670d.jpeg?from=3067671334" group-title="🍿抖音直播",木森（卷土重来） - 2026年马到成功 303489人 西安
-http://pull-f3.douyinliving.com/third/stream-408198151751861043_uhd5.m3u8?auth_key=1788264686-0-0-7f30fd25ee291542617dbf978bf75c1c&arch_hrchy=s2&exp_hrchy=s1&s_anchor=1&major_anchor_level=vip&t_id=037-2026082520412619AB2A42FBBFF0C44773-3xwP1a
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_7d9788eeef10969ba33892772ba2a4f5.jpeg?from=3067671334" group-title="🍿抖音直播",龙浩天🐲(酉阳摆手堂直播) - 亲生兄妹..展开 229887人 重庆
-http://pull-hls-f1.douyinliving.com/gamereplay/stream-119967671233807184_uhd5/playlist.m3u8?keeptime=00093a80&wsSecret=a2e164a506afc89aa33feb8bc5920a6f&wsTime=6a8d8d75&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-20260825204124F5FB646343236109D52F-keD5jz
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/mosaic-legacy_313e200053d9fa8843af2.jpeg?from=3067671334" group-title="🍿抖音直播",吕德华 - 输一把发5台平板净死一次加一台 152854人
-http://pull-hls-q11.douyincdn.com/thirdgame/stream-408198151201882942_hiquhd5.m3u8?expire=1788266488&sign=1a0c0c46b448b6ec3ca7fc7fe37e821d&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&exp_hrchy=s1&t_id=037-2026082520412728AC2D2AA6451101EA99-oCpw2o
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_ddf8fc7092c454daf3810f9a645b1522.jpeg?from=3067671334" group-title="🍿抖音直播",与辉同行 - 2026行稳致远 92513人
-http://pull-hls-f13.douyinliving.com/fantasy/stream-696425261025985367.m3u8?expire=1788266486&sign=e5c800405e95bb17560ec7cf27bf4f53&arch_hrchy=s1&major_anchor_level=svip&t_id=037-2026082520412619AB2A42FBBFF0C44773-dPyZKZ
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_7cb0164156fdd55fe255b714f6769be1.jpeg?from=3067671334" group-title="🍿抖音直播",浮夸（蔡哥不菜） - 全体都有，保持湿润 50853人
-http://pull-hls-f1.douyinliving.com/thirdgame/stream-119967791303623489_uiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=a3c6d7ff55a4a5f7a4bc3d14921cd0de&wsTime=6a8d8d75&s_anchor=1&arch_hrchy=s2&exp_hrchy=s1&major_anchor_level=vip&t_id=037-20260825204124F5FB646343236109D52F-GU1YQf
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/mosaic-legacy_72970031b9c76656b487.jpeg?from=3067671334" group-title="🍿抖音直播",大司马解说 - 金牌讲师归来! 41070人
-http://pull-hls-q1.douyincdn.com/thirdgame/stream-119967539296994110_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=1ee8ef12caa9250bc9acb1679af85cc5&wsTime=6a8d8d75&s_anchor=1&arch_hrchy=s2&exp_hrchy=s1&major_anchor_level=vip&t_id=037-20260825204124F5FB646343236109D52F-3Iz6wV
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_ec91a445806b42e8e1532af21777fc78.jpeg?from=3067671334" group-title="🍿抖音直播",卢某某(三角洲行动) - 以小博大扶贫第一人，把撤千万教学 28226人 泰州
-http://pull-hls-f1.douyinliving.com/thirdgame/stream-119967529840149313_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=d3a3f1b91503514dfb4fd94f6cc50725&wsTime=6a8d8d75&arch_hrchy=s2&exp_hrchy=s1&s_anchor=1&major_anchor_level=vip&t_id=037-20260825204124F5FB646343236109D52F-9tG8ty
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_aa16511ea32e5f11b5789e5ec8b9a009.jpeg?from=3067671334" group-title="🍿抖音直播",小86 - 小86：进来笑！至冬开门！奥黛塔阿蕾奇诺第十二天！~ 24597人
-http://pull-hls-t1.douyincdn.com/thirdgame/stream-696428532594115387_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=3c3ef99fb17c6b6c4f4cd9de20c54f40&wsTime=6a8d8d75&exp_hrchy=h2&arch_hrchy=h1&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-ETHtRF
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_bd0f5cd1d1d746d685316592cd41af59.jpeg?from=3067671334" group-title="🍿抖音直播",不会捏蓝(东东电竞) - 让一让捏蓝大王来了 21029人 杭州
-http://pull-hls-q26.douyincdn.com/thirdgame/stream-408198049538507582_hiquhd5.m3u8?expire=6a96c7f5&sign=07fc1070c4e7cab0962a11c5684c085d&arch_hrchy=s2&exp_hrchy=s1&major_anchor_level=vip&s_anchor=1&t_id=037-20260825204124F5FB646343236109D52F-yL9wRs
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_524f1d703cda6279951f147d03a43728.jpeg?from=3067671334" group-title="🍿抖音直播",人类最强士兵 - 冲巅峰第一 19323人
-http://pull-q5.douyincdn.com/thirdgame/stream-119967846050562878_hiquhd5/index.m3u8?expire=1788266485&sign=b936e4738b57645bd31dadf1270fd422&volcSecret=b936e4738b57645bd31dadf1270fd422&volcTime=1788266485&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&exp_hrchy=s1&t_id=037-20260825204124F5FB646343236109D52F-eZmnx8
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_oMBVNEuIDySwYCjQgEfCA6AAeFr0AqAAbjM9YV.jpeg?from=3067671334" group-title="🍿抖音直播",冷爵9 - 冲3000分 19269人
-http://pull-hls-q13.douyincdn.com/thirdgame/stream-408198056239432510_lsuhd5.m3u8?expire=1788266488&sign=7f43df7d02d30f3bf664a833359de74d&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412728AC2D2AA6451101EA99-0txAaf
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_1d0acf88aad918f4b48729814fa29e40.jpeg?from=3067671334" group-title="🍿抖音直播",空巢老人小黑屋 - 空巢老人小黑屋正在直播 15237人 上海
-http://pull-hls-f11.douyinliving.com/third/stream-408198275760128819_uhd5.m3u8?expire=1788266486&sign=d22496940364159b01a762f2c459bf64&s_anchor=1&arch_hrchy=s2&exp_hrchy=s1&major_anchor_level=vip&t_id=037-2026082520412619AB2A42FBBFF0C44773-1kRspV
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_a9c3d02eb8fbe285d66e8601e2c15a71.jpeg?from=3067671334" group-title="🍿抖音直播",Saiwen - 美国直播中 12951人
-http://pull-hls-l1.douyincdn.com/stage/stream-119967909605539870/playlist.m3u8?keeptime=00093a80&wsSecret=fdc019714ab78b98dde85bd3510af175&wsTime=6a8d8d76&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-rtsA4Q
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_6eef264efae046cee7fce06d2b392a53.jpeg?from=3067671334" group-title="🍿抖音直播",小央视频 - 央视《新闻频道》正在直播！ 6706人
-http://pull-hls-f11.douyincdn.com/media/stream-696342147108700844.m3u8?expire=1788266486&sign=e25b377968e5d987d12578f65f223d54&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-mjuc2J
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_oM7AOfYDFgQ9DnAQAp5EAaCCFAgFIeHUqQv5AE.jpeg?from=3067671334" group-title="🍿抖音直播",月亮岛👑新厅待冠 - 一个歌手和七个捧哏 6367人
-http://pull-hls-l6.douyincdn.com/radio/stream-119965122241495075/index.m3u8?k=2149ea43282b1ce2&t=1788266486&major_anchor_level=common&arch_hrchy=w1&exp_hrchy=w1&t_id=037-2026082520412619AB2A42FBBFF0C44773-aVCB0w
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_b065ed7b7257a5bacbfd3bce4f9fd3d5.jpeg?from=3067671334" group-title="🍿抖音直播",M（A妹） - 冲刺巅峰赛榜一 4633人
-http://pull-hls-q13.douyincdn.com/thirdgame/stream-408197740157207358_hiquhd5.m3u8?expire=1788266486&sign=7f38ac2df46ae4725d5ddaa7e5b31c53&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-GCnRcK
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_5909ef310322be2428dc69048f8cc117.jpeg?from=3067671334" group-title="🍿抖音直播",00后炒饭 - 欢迎大家走进直播间～ 4409人 苏州
-http://pull-hls-h95.douyincdn.com/stage/stream-408198208384664409.m3u8?expire=1788266486&sign=eb50a44f510b1eab4e8c644b866691f7&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-z8P2YW
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_9ef25b666e8846a695e404f041c84c88.jpeg?from=3067671334" group-title="🍿抖音直播",辉哥-逗萌宠 - 辉哥-逗萌宠正在直播 3759人 上海
-http://pull-hls-h95.douyincdn.com/stage/stream-696428530313986905.m3u8?expire=1788266486&sign=05e2cb486a26f56468d225038026341d&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-Ti3eov
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_2ba6ec1dfb116c0f3fb39a7249ec4936.jpeg?from=3067671334" group-title="🍿抖音直播",唐山荷花坑晨晨鸡蛋饼 - 唐山荷花坑晨晨鸡蛋饼正在直播 3380人 唐山
-http://pull-hls-t6.douyincdn.com/stage/stream-119967588421731127/index.m3u8?k=621a7e319d3c989e&t=1788266486&exp_hrchy=h1&major_anchor_level=common&arch_hrchy=h1&t_id=037-2026082520412619AB2A42FBBFF0C44773-CmZjRI
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_33fa6d962b89bed46bd26628794c60df.jpeg?from=3067671334" group-title="🍿抖音直播",☀️刘晨²⁰⁹ ☀️ Emmanuel - 刘晨 2754人 哈尔滨
-http://pull-hls-q11.douyincdn.com/third/stream-408198182542508861_uhd5.m3u8?expire=1788266486&sign=083c555d853aa1091ccc643d5df7c7e3&exp_hrchy=h1&arch_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-Yw9MBv
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_ab27b7bd76710b6ed1c496196e02df5b.jpeg?from=3067671334" group-title="🍿抖音直播",XYG.秀豆 - 顶分局 冲第一！ 2728人
-http://pull-hls-t11.douyincdn.com/thirdgame/stream-408197856925057851_lsuhd5.m3u8?expire=1788266485&sign=dc2859ad7d1bb729c7e488fe9729dcb4&major_anchor_level=common&arch_hrchy=h1&exp_hrchy=h1&t_id=037-20260825204124F5FB646343236109D52F-m5bHqy
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_oUofDzy0IAmoC9gAEcA8AEA3A9irmnfsEwvBli.jpeg?from=3067671334" group-title="🍿抖音直播",阿琳达 - 一起看剧吧#现场配音#琅琊榜# 2233人
-http://pull-hls-h95.douyincdn.com/third/stream-408198119262258012_uhd5.m3u8?expire=1788266486&sign=2cfd492e8c3cff865705fa027a593cf6&exp_hrchy=h1&arch_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-CXTjdq
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_a5484dfb46f9404593bb09014c69584e.jpeg?from=3067671334" group-title="🍿抖音直播",符星符星（崩铁全能） - 新混沌！拯救粉丝星启！速来！sp知更鸟问题随便问！ 1888人 成都
-http://pull-hls-q26.douyincdn.com/thirdgame/stream-119967061212398398_hiquhd5.m3u8?expire=6a96c7f8&sign=4d5cd4a75e12054a7c3dceb302875fbf&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412728AC2D2AA6451101EA99-pJ7rSu
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_ogaAAdjCIIAEiAyvj1Sm0fANLgEr8CDBnEe9AF.jpeg?from=3067671334" group-title="🍿抖音直播",加钱居士 - 引爆全宇宙，感谢badada大美女十六级！ 1842人
-http://pull-q5.douyincdn.com/thirdgame/stream-119967292666938174_hiquhd5/index.m3u8?expire=1788266485&sign=90bf4340983f860cb903b906ead3086d&volcSecret=90bf4340983f860cb903b906ead3086d&volcTime=1788266485&exp_hrchy=h2&major_anchor_level=common&arch_hrchy=h1&t_id=037-20260825204124F5FB646343236109D52F-jv3zfE
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_oUAiAftzBEB0iAOAySixW8EWqCoIAqUw9UeTKA.jpeg?from=3067671334" group-title="🍿抖音直播",雨辰魔王（07天花板诸葛） - 月底稳标 1580人 郑州
-http://pull-t3.douyincdn.com/thirdgame/stream-408197639159939899_hiquhd5.m3u8?auth_key=1788264685-0-0-7771ae49f08f3164ba6e23de5c6ac090&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-IaNeBF
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_oUyezAiAnAcxFECIAJhAUjgEBfASiAAobCA1iI.jpeg?from=3067671334" group-title="🍿抖音直播",𝑳𝑮王者荣耀落笙（国一貂蝉） - 两万四战力巅峰第一貂蝉 1503人
-http://pull-hls-q1.douyincdn.com/thirdgame/stream-408197993296560958_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=d5bed5aeb83cbbc82803fecdab23e381&wsTime=6a8d8d78&exp_hrchy=h1&major_anchor_level=common&arch_hrchy=h1&t_id=037-2026082520412728AC2D2AA6451101EA99-FhDsJB
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_cbe7ccb1e0e237048daa536c35b10811.jpeg?from=3067671334" group-title="🍿抖音直播",港叔国服镜 - 沉浸式听歌打素材～ 1478人 汕头
-http://pull-hls-t11.douyincdn.com/thirdgame/stream-119967659636818747_hiquhd5.m3u8?expire=1788266485&sign=c7a637b6272fc17c3a442a78aeb08b48&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-DLE0Is
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_ogALAAGKI9PBMAPwYvnaUEAW3hRmlii6Ahc3q.jpeg?from=3067671334" group-title="🍿抖音直播",缘y - 撕咬流中单 1388人
-http://pull-q5.douyincdn.com/thirdgame/stream-408198052752393022_hiquhd5/index.m3u8?expire=1788266486&sign=16ce5f56af74de4fb49adcd31b64cb7d&volcSecret=16ce5f56af74de4fb49adcd31b64cb7d&volcTime=1788266486&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-P5etnN
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_6a3674983c329d37cc8c275a79269e5a.jpeg?from=3067671334" group-title="🍿抖音直播",齐物论（暗区突围Pc） - 暗区铁人三项，大金挑战！ 1216人
-http://pull-hls-t1.douyincdn.com/thirdgame/stream-408167232266830651_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=01677155c264a2475c83c7d4d452956b&wsTime=6a8d8d76&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-p4rqUm
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_ed621d52ffd84a338d6901cb826bb805.jpeg?from=3067671334" group-title="🍿抖音直播",康宝儿 - 康宝儿正在直播 749人 安阳
-http://pull-h5.douyincdn.com/third/stream-696428572113109852_uhd5/index.m3u8?expire=1788266486&sign=1552e88107fd8dd16a14a99ed44a0ceb&volcSecret=1552e88107fd8dd16a14a99ed44a0ceb&volcTime=1788266486&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-6GZuGz
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_4ce22251e848a38c1025574586d9ee9b.jpeg?from=3067671334" group-title="🍿抖音直播",CF杜超 - 巅峰赛冲榜 699人
-http://pull-hls-t1.douyincdn.com/thirdgame/stream-119967015648887611_uiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=848c3a5e846867a0fea844615e59044e&wsTime=6a8d8d75&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-chsLJW
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_oket1AOZZNANbEIqBdFfACg84nFA7VEk9ADoAT.jpeg?from=3067671334" group-title="🍿抖音直播",何时重塑新生 - 何时重塑新生正在直播 676人
-http://pull-hls-t26.douyincdn.com/thirdgame/stream-408198191464317755_hiquhd5.m3u8?expire=6a96c7f5&sign=6ddf50caa087ba41b21020265297b7b1&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-wlAXPf
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_d2daf25427695060fd399c3e0f2d1f6f.jpeg?from=3067671334" group-title="🍿抖音直播",糖果（巅峰第一辅） - 极致型辅刺，极致型手法，冲巅峰第一！ 674人
-http://pull-hls-q26.douyincdn.com/thirdgame/stream-408197924442080062.m3u8?expire=6a96c7f8&sign=63ee1df3310bc3440f72a9c0b35b738f&exp_hrchy=h1&arch_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412728AC2D2AA6451101EA99-Iq4u9o
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_oU6AFDAbiQQDrv8vBIxrZk0iEAEAAj6wPjIAP.jpeg?from=3067671334" group-title="🍿抖音直播",不安（国一桑启） - 辅助大肘子 672人
-http://pull-hls-q1.douyincdn.com/thirdgame/stream-119967259250393918_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=61f491423aea0284e20b4126769c8ff1&wsTime=6a8d8d75&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-XKFQ0b
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_373284869ef9952769904d1094a9ce8b.jpeg?from=3067671334" group-title="🍿抖音直播",逆天的战斗鹅（定榜第一嫦娥） - 定榜第一嫦娥冲巅峰2600挑战，当前巅峰2450，输一把抽奶茶 542人
-http://pull-hls-q13.douyincdn.com/thirdgame/stream-408198079931745086.m3u8?expire=1788266485&sign=d022e10795515bfc986a90fb7c2036e9&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-8HTN5u
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_32af7fae918e5f837d100e29e46ddd26.jpeg?from=3067671334" group-title="🍿抖音直播",顾昕（空空儿包时） - 空空儿还不出皮肤，我无疑是愤怒的 403人 宿迁
-http://pull-hls-q11.douyincdn.com/thirdgame/stream-696428270731658046_hiquhd5.m3u8?expire=1788266488&sign=1391992a9f5b1cf73e109ce9c13095e1&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082520412728AC2D2AA6451101EA99-pLXzVL
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_oEJagQegPs9eegegAH2eA8AAe5ORAZIPKSEZCa.jpeg?from=3067671334" group-title="🍿抖音直播",浮生（世一施） - 浮生小乐乐....不乐...不乐 392人
-http://pull-q5.douyincdn.com/thirdgame/stream-696428070274073406_hiquhd5/index.m3u8?expire=1788266485&sign=579feea059d9c8039bb53d3a4c161a01&volcSecret=579feea059d9c8039bb53d3a4c161a01&volcTime=1788266485&exp_hrchy=h1&arch_hrchy=h1&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-vJiKlQ
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_e0430cca059842e187bb44cdd814042e.jpeg?from=3067671334" group-title="🍿抖音直播",牛牛（东东电竞） - 妖刀姬单人三排，爆炸伤害，场伤8w速学！3分钟学不到随便喷。妖刀人柱力 380人 泰安
-http://pull-hls-q13.douyincdn.com/thirdgame/stream-119967829818868542_hiquhd5.m3u8?expire=1788266485&sign=3c2f34d4ebfbcdf53c21759726da94da&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-jJIaB1
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_oACp9ADe8HvfiAG7l5xGCEBEAmqFIApUAQgAIn.jpeg?from=3067671334" group-title="🍿抖音直播",名红蝶香水（连续30赛季手搓S蝶 ） - 手搓S蝶 299人 赣州
-http://pull-hls-q1.douyincdn.com/thirdgame/stream-408197912164303678_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=f607312043fa13a235267e6e1881d775&wsTime=6a8d8d75&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-QN1xxx
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/douyin-user-image-file_88f3670da6eac678b42fe427ba4d614a.jpeg?from=3067671334" group-title="🍿抖音直播",张滋冬 - 三角洲人格 217人
-http://pull-hls-l11.douyincdn.com/thirdgame/stream-408197346026062668_hiquhd5.m3u8?expire=1788266488&sign=c471b454c2b189f19ae425dc70343aa5&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026082520412728AC2D2AA6451101EA99-Sm3Ctv
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_d5e20ea77f2285b8f70f15232f32c46e.jpeg?from=3067671334" group-title="🍿抖音直播",蒙千（歌剧🥚看主页） - 炸金主播 211人
-http://pull-q3.douyincdn.com/thirdgame/stream-696428292142007102_hiquhd5.m3u8?auth_key=1788264688-0-0-b3462d1bea73b5e7951c3c86dcfc7e70&major_anchor_level=common&arch_hrchy=h1&exp_hrchy=h1&t_id=037-2026082520412728AC2D2AA6451101EA99-BRLwxW
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_6493cef220141dfea3c3229b3893a610.jpeg?from=3067671334" group-title="🍿抖音直播",莎莎学姐 - 西施全局思路讲解/5分钟让你爱上西施 202人 东莞
-http://pull-hls-q26.douyincdn.com/thirdgame/stream-696428204422333246_hiquhd5.m3u8?expire=6a96c7f5&sign=d8d3c4a646ddcd42c772db131b6f15ca&major_anchor_level=common&exp_hrchy=h1&arch_hrchy=h1&t_id=037-20260825204124F5FB646343236109D52F-wR49Yd
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_o0C89AD2TB9fgA1RP5ioCVlEAIfFEAp9AIgACM.jpeg?from=3067671334" group-title="🍿抖音直播",困困包qaq - 巅峰赛 49人
-http://pull-hls-f11.douyincdn.com/thirdgame/stream-696428520111080202.m3u8?expire=1788266485&sign=7c533a271f81c84e081e468c5df43a32&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260825204124F5FB646343236109D52F-h3h44h
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_87c8e2edbdfb204c133e32a0c4940f49.jpeg?from=3067671334" group-title="🍿抖音直播",港湾pt.1 - 来找你的港湾 38人
-http://pull-hls-l6.douyincdn.com/radio/stream-696426604144885795/index.m3u8?k=7514a3330a331569&t=1788266486&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-2026082520412619AB2A42FBBFF0C44773-GWXzOl
-#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_ocLDNAyU3ApTBsXAIBSpG7kEaaeegfMABQcAQG.jpeg?from=3067671334" group-title="🍿抖音直播",聆世•无界 - 声入聆世，陪伴无界 24人 宁波
-http://pull-hls-l1.douyincdn.com/radio/stream-119967291333148706/playlist.m3u8?keeptime=00093a80&wsSecret=c5ebdaae588f440e7ad033c6785a377f&wsTime=6a8d8d76&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-CEQ7Pv
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_5457ade845ac4080b8aee7f531270081.jpeg?from=3067671334" group-title="🍿抖音直播",皇朝-若雪👑DEMIMI👑👑 - 皇朝👑新厅待冠 19人 常州
-http://pull-hls-l6.douyincdn.com/radio/stream-696428103358480419/index.m3u8?k=30dfd1fe08b1eebc&t=1788266486&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-pVaBCl
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_da66f0d3052ed321f6c7bbee6a4ba57b.jpeg?from=3067671334" group-title="🍿抖音直播",瞬4.0 - 金牛女不要进来啊！！ 16人
-http://pull-hls-l1.douyincdn.com/radio/stream-696423698133418018/playlist.m3u8?keeptime=00093a80&wsSecret=fa12d90f2d94f5f96bc2fe7ca358cf82&wsTime=6a8d8d76&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026082520412619AB2A42FBBFF0C44773-us1BVL
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/ea79ef41258eda93ac02fbeb646995ec.png" group-title="中冠",⚽ 广东晨星创尔特 vs 吴川青年 1-0 [原声7]
-https://pul-tenm.gkykp.com/live/sd-1-4601407.m3u8?txSecret=cfa94378b9c4c21f07c8fd671503db61&txTime=6A8EDEA0
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/359d0b2402aac384dd4f406fc0d01811.png" group-title="中冠",⚽ 江苏常晋 vs 武汉联镇 1-2 [原声83]
-https://pul-tenm.gkykp.com/live/sd-1-4601408.m3u8?txSecret=2fc86f1764009acea7b4ca6418b47365&txTime=6A8EDEA0
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/72f4b5ba888537eb2e2cff018ecd71ba.png" group-title="中女锦",🏀 浙江稠州银行女篮 vs 山东赤水河酒女篮 32-36 [原声38]
-https://pul-tenm.gkykp.com/live/sd-2-3931415.m3u8?txSecret=241186c3b28049cb08996608f96a41a5&txTime=6A8EDEA0
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/4ac56345ae0f8016a5cc997683785635.png" group-title="中女锦",🏀 黑龙江上东女篮 vs 福建金篮女篮 37-78 [原声84]
-https://pul-tenm.gkykp.com/live/sd-2-3931439.m3u8?txSecret=46bfc4c3c594b062ba6397a7aa55273c&txTime=6A8EDEA0
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/d5f466d4b8ee5ea82ab5d1b6ee3ff397.png" group-title="乌兹甲",⚽ 加云 vs 雅潘FK 0-0 [原声70]
-https://pul-tenm.gkykp.com/live/sd-1-4525622.m3u8?txSecret=330511cbbad5b540b1d48aeb4145c173&txTime=6A8EDEA0
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_ea049bad84680f08c7bcf556e429efcd.jpeg?from=3067671334" group-title="🍿抖音直播",等我刷把宗师 - 1 51499人 武汉
+http://pull-hls-f13.douyinliving.com/thirdgame/stream-696428809272689473_hiquhd5.m3u8?expire=1788273705&sign=5fad74d99476709ae5eca9b793ecf90e&s_anchor=1&arch_hrchy=s2&exp_hrchy=s1&major_anchor_level=vip&t_id=037-202608252241431346DFF2641BB5FCE7CF-BZbL62
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_osYEztP8Ah2CIHDB2AzgfC7iEMeQAAjbAAmA6x.jpeg?from=3067671334" group-title="🍿抖音直播",浩子【1023】 - 这是在干什么 31785人 凉山
+http://pull-hls-q13.douyincdn.com/stage/stream-119968055766025020.m3u8?expire=1788273705&sign=b1a1e34c6eb01080c1a498bb2d377d79&s_anchor=1&arch_hrchy=s2&exp_hrchy=s1&major_anchor_level=vip&t_id=037-202608252241431346DFF2641BB5FCE7CF-CqHQrm
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_bd0f5cd1d1d746d685316592cd41af59.jpeg?from=3067671334" group-title="🍿抖音直播",不会捏蓝(东东电竞) - 让一让捏蓝大王来了 18700人 杭州
+http://pull-hls-q13.douyincdn.com/thirdgame/stream-408198049538507582_hiquhd5.m3u8?expire=1788273705&sign=770c60ea6199e61355dab792f0ac8919&exp_hrchy=s1&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-202608252241431346DFF2641BB5FCE7CF-hZdOMQ
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_524f1d703cda6279951f147d03a43728.jpeg?from=3067671334" group-title="🍿抖音直播",人类最强士兵 - 冲巅峰第一 16235人
+http://pull-hls-q13.douyincdn.com/thirdgame/stream-119967846050562878_hiquhd5.m3u8?expire=1788273705&sign=fadbc5de3987e9e808a4dcc6889b823b&exp_hrchy=s1&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-202608252241431346DFF2641BB5FCE7CF-sxfbDI
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_0a996982846649e62e0964713533d1f9.jpeg?from=3067671334" group-title="🍿抖音直播",APEX-QQ (皮蛋） - 錢老二來了 10984人
+http://pull-hls-t11.douyincdn.com/thirdgame/stream-696428804655809339_hiquhd5.m3u8?expire=1788273705&sign=58cefb35b4780a494a23044fca71a664&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-vkwFIr
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_o8ArAP5nBAB1iACAHjinc4ExMCDIS8AgyzeKfA.jpeg?from=3067671334" group-title="🍿抖音直播",王权富贵（巅峰第一蒙恬） - 七天即巅一 9695人 株洲
+http://pull-hls-t13.douyincdn.com/thirdgame/stream-119968210455364411_lsuhd5.m3u8?expire=1788273705&sign=0b8a4f8cbc21dddabe04d5e279497492&major_anchor_level=common&arch_hrchy=h1&exp_hrchy=h1&t_id=037-202608252241431346DFF2641BB5FCE7CF-wdYFmk
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_o0ehFi2DDrGfPe5IIhL4FIAwTCAMQAJeQXA4BA.jpeg?from=3067671334" group-title="🍿抖音直播",CF白鲨常旭（不忘初心） - 台上做戏.台下做人.！ 5963人 营口
+http://pull-hls-f13.douyinliving.com/thirdgame/stream-696428194019935041_uiquhd5.m3u8?expire=1788273705&sign=264fa26ea380a11297339b392e753d92&arch_hrchy=s2&exp_hrchy=s1&s_anchor=1&major_anchor_level=vip&t_id=037-202608252241431346DFF2641BB5FCE7CF-lHnuHN
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_529e5f46e7018c175e8a903cc320f055.jpeg?from=3067671334" group-title="🍿抖音直播",CF石头 - 牛蛙局！ 3242人
+http://pull-hls-q26.douyincdn.com/thirdgame/stream-408197821695787838_hiquhd5.m3u8?expire=6a96e429&sign=deba1bf8622661b9f47fd4f8435459c8&arch_hrchy=h1&major_anchor_level=common&exp_hrchy=h2&t_id=037-202608252241431346DFF2641BB5FCE7CF-1qVdd0
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_61ea36a5646c4773c0099040b8f407b9.jpeg?from=3067671334" group-title="🍿抖音直播",雪天缤纷 - 冲巅峰第一 2660人
+http://pull-hls-q26.douyincdn.com/thirdgame/stream-696428049467966270_hiquhd5.m3u8?expire=6a96e429&sign=709abf35c64028d0f51534bb2bb27472&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-WntMo9
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_02c08191f47d961427786d14f3218f5f.jpeg?from=3067671334" group-title="🍿抖音直播",阿羊—沃夫（三角洲行动） - 狼与龙!! 2506人
+http://pull-hls-t13.douyincdn.com/thirdgame/stream-119967210735928123_hiquhd5.m3u8?expire=1788273705&sign=96d0f33d9a58c4680e7b725fe538d1a1&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-zAGTcL
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_oUAiAftzBEB0iAOAySixW8EWqCoIAqUw9UeTKA.jpeg?from=3067671334" group-title="🍿抖音直播",雨辰魔王（07天花板诸葛） - 月底稳标 1557人 郑州
+http://pull-hls-t13.douyincdn.com/thirdgame/stream-408197639159939899_hiquhd5.m3u8?expire=1788273705&sign=a9cdd6b49173b46fab47c37ca715a2e8&major_anchor_level=common&arch_hrchy=h1&exp_hrchy=h1&t_id=037-202608252241431346DFF2641BB5FCE7CF-qVg2m3
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_cfaf2778c94ba12e09cd60ee5d1f9d2e.jpeg?from=3067671334" group-title="🍿抖音直播",王者荣耀白杨（国一莱西奥） - 冲2w分莱西奥和卢雅那2500我来了 1351人
+http://pull-hls-t13.douyincdn.com/thirdgame/stream-408198146646868795_hiquhd5.m3u8?expire=1788273705&sign=cd20ed56861a9826915c0f0f448794a6&major_anchor_level=common&arch_hrchy=h1&exp_hrchy=h2&t_id=037-202608252241431346DFF2641BB5FCE7CF-Knx9be
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_3db3139b8adae402fb4d6bf31ecfba76.jpeg?from=3067671334" group-title="🍿抖音直播",小田Pro（国服游走） - 拾起教学老本行了. 1180人 长沙
+http://pull-hls-t26.douyincdn.com/thirdgame/stream-408198201338495803_hiquhd5.m3u8?expire=6a96e429&sign=e529c7fdeccef7bda76a624f2a8f8a61&exp_hrchy=h2&arch_hrchy=h1&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-UOvQNk
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_bfa719e99432d95893e8978eb2d2953c.jpeg?from=3067671334" group-title="🍿抖音直播",王者荣耀(小清兮) - 冲刺西施小国中 1044人 阜阳
+http://pull-q5.douyincdn.com/thirdgame/stream-696429008858645310/index.m3u8?expire=1788273706&sign=16fe7fedbdf3a6ebdc363ab9940608c3&volcSecret=16fe7fedbdf3a6ebdc363ab9940608c3&volcTime=1788273706&arch_hrchy=h1&exp_hrchy=h2&major_anchor_level=common&t_id=037-2026082522414567A4556147D88F2A2DB1-UMxIJs
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_d88e7ae6bee3b1fae054c424c8d481bb.jpeg?from=3067671334" group-title="🍿抖音直播",小楠ouo（25110元歌） - 撑着雨伞走在雨中 感觉自己不淋不淋的 795人
+http://pull-hls-q26.douyincdn.com/thirdgame/stream-408197616612934462.m3u8?expire=6a96e429&sign=2dce43e8a74c975d24b98e2ce00f6684&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-1OQ7lI
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_oU6AFDAbiQQDrv8vBIxrZk0iEAEAAj6wPjIAP.jpeg?from=3067671334" group-title="🍿抖音直播",不安（国一桑启） - 辅助大肘子 491人
+http://pull-hls-q13.douyincdn.com/thirdgame/stream-119967259250393918_hiquhd5.m3u8?expire=1788273705&sign=5d77235787e45442d14a90349f9eefa1&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-IdaXZi
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_oket1AOZZNANbEIqBdFfACg84nFA7VEk9ADoAT.jpeg?from=3067671334" group-title="🍿抖音直播",何时重塑新生 - 何时重塑新生正在直播 435人
+http://pull-hls-t26.douyincdn.com/thirdgame/stream-408198191464317755_hiquhd5.m3u8?expire=6a96e429&sign=101b10e8d64d2340c8bb010dbcabf25f&exp_hrchy=h2&major_anchor_level=common&arch_hrchy=h1&t_id=037-202608252241431346DFF2641BB5FCE7CF-DdHmAn
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_d2daf25427695060fd399c3e0f2d1f6f.jpeg?from=3067671334" group-title="🍿抖音直播",糖果（巅峰第一辅） - 极致型辅刺，极致型手法，冲巅峰第一！ 382人
+http://pull-hls-q26.douyincdn.com/thirdgame/stream-408197924442080062.m3u8?expire=6a96e42a&sign=ca94ad4a0aaee4c6dbf1d85d426a4963&exp_hrchy=h1&major_anchor_level=common&arch_hrchy=h1&t_id=037-2026082522414567A4556147D88F2A2DB1-Gb5x9Z
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c001_oAmADW9jvCYIsAF9pAEQLlfAA3A0gSfG2cjDE4.jpeg?from=3067671334" group-title="🍿抖音直播",三国杀OL - 最壕开学季！和小鲨一起斗地主 279人
+http://pull-hls-q13.douyincdn.com/thirdgame/stream-119968019897910078_lsuhd5.m3u8?expire=1788273706&sign=cd17ad6b782976369dce390f3b522d46&exp_hrchy=h1&arch_hrchy=h1&major_anchor_level=common&t_id=037-2026082522414567A4556147D88F2A2DB1-85w5Dy
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_osivABKEWAivAg4vAgyriCzuyDeYeAJRiI2CAI.jpeg?from=3067671334" group-title="🍿抖音直播",武汉eStar.小杰(国服边影) - 新赛季边路影打法思路，如何成为一个合格的影大王！ 225人
+http://pull-hls-q13.douyincdn.com/thirdgame/stream-408198178926494526.m3u8?expire=1788273706&sign=216845dcfdfef3ab6a75b0aa957f51af&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-2026082522414567A4556147D88F2A2DB1-VVomfO
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_32af7fae918e5f837d100e29e46ddd26.jpeg?from=3067671334" group-title="🍿抖音直播",顾昕（空空儿包时） - 空空儿还不出皮肤，我无疑是愤怒的 185人 宿迁
+http://pull-hls-q11.douyincdn.com/thirdgame/stream-696428270731658046_hiquhd5.m3u8?expire=1788273705&sign=5b8004f8ba75b1e67be3ec6faf80b184&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-h1HXcq
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_oYeVAhoBHUi1EgIrOhZLfBvGFvAU4I7wUeOAAJ.jpeg?from=3067671334" group-title="🍿抖音直播",王者荣耀小羊（卢雅娜绝活哥） - 卢雅娜焚决教学 184人
+http://pull-hls-q13.douyincdn.com/thirdgame/stream-119968059394884414.m3u8?expire=1788273705&sign=dfc0d50d3a572ddbf780be31b2abfcb4&arch_hrchy=h1&exp_hrchy=h1&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-cV8Aq8
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_d0d3ed1b20898665e7b2e597c1e3e8bf.jpeg?from=3067671334" group-title="🍿抖音直播",小羊（国服少司缘） - 反差萌国服少司缘!最细节软辅教学！巅峰包时中 118人
+http://pull-hls-l11.douyincdn.com/thirdgame/stream-408198373064049484_hiquhd5.m3u8?expire=1788273705&sign=1193d4e4758f2a57dfce97b17bd689a6&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202608252241431346DFF2641BB5FCE7CF-a68Iw5
+#EXTINF:-1 tvg-logo="https://p26.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_o8nCNHuABmZBmSx5AAAegGfkAwEis0i1wEjIi3.jpeg?from=3067671334" group-title="🍿抖音直播",时之奇犽 - 本月大乔少司缘双大国 92人 娄底
+http://pull-hls-f1.douyincdn.com/thirdgame/stream-408197517623165706_hiquhd5/playlist.m3u8?keeptime=00093a80&wsSecret=05110db2f874e7c8d8cfc0d649cf1d9a&wsTime=6a8da9aa&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026082522414567A4556147D88F2A2DB1-YWx2TO
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813c000-ce_oILfeAeqGAA9TlpAIH4zI2PKcibegkvADt0AQG.jpeg?from=3067671334" group-title="🍿抖音直播",silence - 百评露娜祝你睡个好觉，天天开心 36人
+http://pull-q5.douyincdn.com/thirdgame/stream-119968261530452798_hiquhd5/index.m3u8?expire=1788273705&sign=5818bfe842e811a7205d118a73ad166e&volcSecret=5818bfe842e811a7205d118a73ad166e&volcTime=1788273705&major_anchor_level=common&arch_hrchy=h1&exp_hrchy=h1&t_id=037-202608252241431346DFF2641BB5FCE7CF-Em2p88
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/d639bb3f26ed6f1600de1e55885fa4be.png" group-title="乌兹超",⚽ 安集延 vs 花刺子模乌尔根奇 0-0 [原声72]
+https://pul-tenm.gkykp.com/live/sd-1-4488124.m3u8?txSecret=d28285c10eb44dad600dfd12805cd84e&txTime=6A8EFAC0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/eb2ec2a178c9c75696459e5a9c6779d7.png" group-title="乌兹超",⚽ 特尔梅兹 vs 阿尔马雷克 0-0 [原声11]
+https://pul-tenm.gkykp.com/live/sd-1-4488131.m3u8?txSecret=8506741804e372f4df7dbd3682266267&txTime=6A8EFAC0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/fd07ffcfc100c2a71fdb847835a3bf3e.png" group-title="俄杯",⚽ 弗拉基米尔鱼雷 vs 诺金斯克红旗 0-0 [原声12]
+https://pul-tenm.gkykp.com/live/sd-1-4617571.m3u8?txSecret=07ea784044f4a1a148def30f2240cb44&txTime=6A8EFAC0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/01bdca8fc1cc659cdc3d3f09823132fc.png" group-title="俄杯",⚽ FK梁赞 vs 坦波夫斯巴达克 0-0 [原声85]
+https://pul-tenm.gkykp.com/live/sd-1-4617574.m3u8?txSecret=9b7e0aa37a31c38917271e77307fd2ab&txTime=6A8EFAC0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/e85a07ac10602299ef92ccfd3256ce07.png" group-title="俄杯",⚽ 基洛夫迪纳摩 vs 彼尔姆安卡 1-0 [原声86]
+https://pul-tenm.gkykp.com/live/sd-1-4617567.m3u8?txSecret=726cd737e52692c23e162fbc907c4ee8&txTime=6A8EFAC0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/88927cd47c8746dd990d0a19fae7b97b.png" group-title="哈萨超",⚽ 杜保尔 vs 卡伊萨尔 2-1 [原声53]
+https://pul-tenm.gkykp.com/live/sd-1-4507304.m3u8?txSecret=ff80f4240b17470b519da6aec790fa7c&txTime=6A8EFAC0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/1200b6dfbb0a5c057c0eb833fc675606.png" group-title="葡U23",⚽ 马里迪莫U23 vs 埃什特雷拉U23 0-0 [原声15]
+https://pul-tenm.gkykp.com/live/sd-1-4609471.m3u8?txSecret=04d8602e9fa7dc0ee25bb39487e0c777&txTime=6A8EFAC0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/2de09a9d4c57ca184d57cae97e6027bf.png" group-title="⚽ 足球回放",⚽ [回放] 安德拉尼克 vs 埃奇米阿津 5-0 2026-08-25 20:00
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/927af6875001834817609466338/playlist_eof.m3u8?t=6a8dea9c&us=8c37caa4f9&sign=5c0d9f3516f1d60cd54f4b55e9503eb9
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/359d0b2402aac384dd4f406fc0d01811.png" group-title="⚽ 足球回放",⚽ [回放] 江苏常晋 vs 武汉联镇 1-2 2026-08-25 19:30
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b332c6705001834817569965482/playlist_eof.m3u8?t=6a8de88b&us=693a60f450&sign=90f051932f80fb3854eea251ccf2f3d0
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/ea79ef41258eda93ac02fbeb646995ec.png" group-title="⚽ 足球回放",⚽ [回放] 广东晨星创尔特 vs 吴川青年 1-1 2026-08-25 19:00
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/ae64c7035001834817569746202/playlist_eof.m3u8?t=6a8de164&us=656d6a44fe&sign=a5710e721a4d17a2c206cf3aaee67976
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/4a3e50e90ab721c1782568a287bd5358.png" group-title="⚽ 足球回放",⚽ [回放] 金泉尚武 vs 全北现代 0-0 2026-08-25 18:30
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a9a972095001834817569538128/playlist_eof.m3u8?t=6a8de624&us=3615af91f4&sign=653cd9970a01302c70afb6e587514e6c
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/2d2abe914435bb9b7140cf2154c50de9.png" group-title="⚽ 足球回放",⚽ [回放] 济州SK vs 浦项铁人 1-2 2026-08-25 18:30
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c4407b9e5001834817580164453/playlist_eof.m3u8?t=6a8de5dd&us=9ec29b8b53&sign=83ea68d4b780a7e7056ef9dea7a18745
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/ad010af729c420626d1865ad744168d3.png" group-title="⚽ 足球回放",⚽ [回放] FC首尔 vs 富川FC 1-0 2026-08-25 18:30
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/ab917ffc5001834817528520741/playlist_eof.m3u8?t=6a8de621&us=cd3b0f6362&sign=fc4bf2680efe70c4f6e25879b8c61976
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/32939cf38aa70bf3de1c06833da6bc50.png" group-title="⚽ 足球回放",⚽ [回放] 埃斯托里尔U23 vs 摩里伦斯U23 2-1 2026-08-25 18:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/9b8492225001834817586574050/playlist_eof.m3u8?t=6a8dd078&us=b10941674c&sign=da21dee800e43eb6a363877e49d00733
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/9b8492225001834817586574050/playlist_eof.m3u8?t=6a8ded65&us=2adae97db7&sign=6c53228a8c6b53120799416293be417e
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/51d24685f803c9aeb6aff662fc957c08.png" group-title="⚽ 足球回放",⚽ [回放] 库尔斯克先锋 vs FK卡卢加 1-2 2026-08-25 18:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a2bc33915001834817569248993/playlist_eof.m3u8?t=6a8dd079&us=2d1e7406ed&sign=37fcf984f7131264fe17ecead9cdad44
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a2bc33915001834817569248993/playlist_eof.m3u8?t=6a8deec7&us=ddecee2b5f&sign=1d596c103c8aa8e2167095d5f7a99843
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png" group-title="⚽ 足球回放",⚽ [回放] 昆士兰狮队 vs 北鹰阳光 4-0 2026-08-25 17:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8c18f7a75001834817555672456/playlist_eof.m3u8?t=6a8dc94a&us=dd99ea146b&sign=47691f8054c7fc7eaac9a69841779b53
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8c18f7a75001834817555672456/playlist_eof.m3u8?t=6a8de653&us=37ac1581f4&sign=5bc66f96714ae202c13ab6b2df25c5cb
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a09e094b96d5bb05863646710d868c7a.png" group-title="⚽ 足球回放",⚽ [回放] 西哈努克 vs 贡布 3-2 2026-08-25 16:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/1a6394585001834817557172003/playlist_eof.m3u8?t=6a8dcc25&us=427a30614e&sign=6453ba699d9c38c55153c4d639352e1b
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/1a6394585001834817557172003/playlist_eof.m3u8?t=6a8de994&us=10ca13d9fe&sign=3ecaae69b24170b8f392f87514e9b3c3
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1ff49ba9a342ea7ce630e55691e2a27c.png" group-title="⚽ 足球回放",⚽ [回放] 矿工 vs 黑豹 93-95 2026-08-25 10:05
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b723fa9d5001834817369105029/playlist_eof.m3u8?t=6a8dca2d&us=718f633a85&sign=6c79e0bc64e9b9ea8dc1ab5bed79907c
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b723fa9d5001834817369105029/playlist_eof.m3u8?t=6a8de7bf&us=23f8ac1e5e&sign=039257ebf80b2e11c8b5ac368c24b74d
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/48d403c7a95d87f45eb375d07c6f0137.png" group-title="⚽ 足球回放",⚽ [回放] 淘金者 vs 草莓种植者 73-77 2026-08-25 10:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/d6a49b285001834817223939468/playlist_eof.m3u8?t=6a8dcc10&us=4a3aaa749c&sign=755cd947b10776d136dc72c0d949aaaf
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/d6a49b285001834817223939468/playlist_eof.m3u8?t=6a8de932&us=940069223f&sign=e7b62a24314117c666e3794f4def18b3
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/e8e28864e6abe2ed34aa93383cdd977e.png" group-title="⚽ 足球回放",⚽ [回放] 野狼 vs 皇家部队 98-88 2026-08-25 10:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/fa25afb95001834817227226352/playlist_eof.m3u8?t=6a8dcafb&us=3f0d0c229c&sign=a55a9f5965fad94b5539a25c984de696
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/fa25afb95001834817227226352/playlist_eof.m3u8?t=6a8de81f&us=9d8f6aa4c9&sign=b8796cc68b51a7d6d6e79bca62d6b98c
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/15d0fcc6918b10b4b6a0871e4d68cc01.png" group-title="⚽ 足球回放",⚽ [回放] 圣徒 vs 金人 87-63 2026-08-25 10:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/28d2795d5001834817350917037/playlist_eof.m3u8?t=6a8dcb6d&us=cb82ae4574&sign=1e9646545a6f7fd379d64aae6de4e39a
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/28d2795d5001834817350917037/playlist_eof.m3u8?t=6a8de986&us=dd7f1c19c2&sign=9f64a4cdf922967add0ca4556929a554
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/abdcfbec37427eec0386fd1a9e608bf1.png" group-title="⚽ 足球回放",⚽ [回放] 蜜蜂 vs 红魔鬼 81-73 2026-08-25 10:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0dd0bf585001834817414159015/playlist_eof.m3u8?t=6a8dc992&us=46665a5e39&sign=80cf1a91d64c855ca7956faa851c4280
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0dd0bf585001834817414159015/playlist_eof.m3u8?t=6a8de6a8&us=36f98a2844&sign=ea42c1cb425a9bf1d94198ac610596c3
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/ff0d0739c041ad09fdc99db4c355a932.png" group-title="⚽ 足球回放",⚽ [回放] 塔科马反抗者 vs 堪萨斯城后备队 4-0 2026-08-25 10:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/f76151145001834817424006181/playlist_eof.m3u8?t=6a8dc644&us=80fe7f6fef&sign=39c3252d3a2c5af47d632687b73b5a4f
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/f76151145001834817424006181/playlist_eof.m3u8?t=6a8de3bb&us=4645bce7ec&sign=0065d250a7446556ae941d6498e4dea8
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/1cd3971beb09ce2dee076359ff07a21c.png" group-title="⚽ 足球回放",⚽ [回放] 走鹃 vs 太阳 74-100 2026-08-25 09:15
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8f3f5e205001834817365655413/playlist_eof.m3u8?t=6a8dcfd5&us=172b1cd308&sign=d1d98c877c967b843ed2fe802d5bed0d
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8f3f5e205001834817365655413/playlist_eof.m3u8?t=6a8ded0a&us=f0150c31ae&sign=b955e55b8803c20a133b2ef4594ff193
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/725eb4c2c8cb583f3aca5cab94d96080.png" group-title="⚽ 足球回放",⚽ [回放] 热浪 vs 太空人 50-89 2026-08-25 09:15
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8152033a5001834817365064710/playlist_eof.m3u8?t=6a8dcaed&us=1359b9f18d&sign=fecddc80a3518f1e24c0e9ba9c2c6c64
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8152033a5001834817365064710/playlist_eof.m3u8?t=6a8de811&us=0a8f7194fd&sign=d58dec1ba853129ebbd2fa79a32dd422
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/3dc17d0d3fe8cbf2adacc03198f09779.png" group-title="⚽ 足球回放",⚽ [回放] 阿特拉斯女足 vs 蒂华纳女足 2-0 2026-08-25 09:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/dfe1f2585001834817380358012/playlist_eof.m3u8?t=6a8dcaa3&us=2ffc5ac307&sign=13fa207f1bef5a1c0e78a4f7783a28b4
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/dfe1f2585001834817380358012/playlist_eof.m3u8?t=6a8de89c&us=fccdc1be0e&sign=043eef7104b7b41785f776f7ef566a48
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/e362b02676ca21aa27e93bfa85f6e925.png" group-title="⚽ 足球回放",⚽ [回放] 国际帕尔米拉 vs 巴瑞库拉 1-0 2026-08-25 08:45
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/627978e45001834817361974039/playlist_eof.m3u8?t=6a8dd0dc&us=f7dbd76f07&sign=6b881c9aaefa64554a7a9d353fe3691f
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/627978e45001834817361974039/playlist_eof.m3u8?t=6a8def02&us=02d44c5653&sign=369bb151a2ea10c726e1dd63c6316636
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/44cb6b8a76b2194e16849eace4743e54.png" group-title="⚽ 足球回放",⚽ [回放] 塔勒瑞斯 vs 罗萨里奥中央 2-2 2026-08-25 08:15
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/bc2e663a5001834817216018923/playlist_eof.m3u8?t=6a8dcbda&us=2e2359a679&sign=ee467526e19622b7cc6df43e2af597f5
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/bc2e663a5001834817216018923/playlist_eof.m3u8?t=6a8de88b&us=693a60f450&sign=cc1c027413c143b8ea500a708e778317
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/caff6f729db9dc68b1938f6533b0fa14.png" group-title="⚽ 足球回放",⚽ [回放] 拉努斯 vs 阿根廷青年人 1-1 2026-08-25 08:15
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b8ed49a45001834817345736833/playlist_eof.m3u8?t=6a8dcad5&us=dbceea0b84&sign=59b1654906ba1aca6e351f4dc9d5c327
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b8ed49a45001834817345736833/playlist_eof.m3u8?t=6a8de877&us=ed0e1a4fa1&sign=e63d461d6af99f32779253b0072eaebf
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a15d3c8133c8468043cc3ba9ad2dd4e9.png" group-title="⚽ 足球回放",⚽ [回放] 埃弗顿VM vs 康塞普西翁大学 3-1 2026-08-25 07:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b2698f405001834817409805147/playlist_eof.m3u8?t=6a8dd19d&us=c61760a786&sign=8875798717d362b9c75b30c64219d2ea
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b2698f405001834817409805147/playlist_eof.m3u8?t=6a8def4d&us=91ef09a62e&sign=ef5d2fff8a6fa0d185281e1816cb2ac6
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a79ea4a4b9b2a68db0f95d6a9435b1be.png" group-title="⚽ 足球回放",⚽ [回放] 费罗卡利 vs 全男孩竞技 1-0 2026-08-25 07:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/e0f70a915001834817213520046/playlist_eof.m3u8?t=6a8dca9b&us=f001b88990&sign=97d10de786075d226e4b9a43c43cca7d
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/e0f70a915001834817213520046/playlist_eof.m3u8?t=6a8de7dc&us=b1cb9f1a77&sign=52276309446a65c5675ac6323fb856fb
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/5d83c47462e5afb6f1add0ad508c300b.png" group-title="⚽ 足球回放",⚽ [回放] 博塔弗戈 vs 巴拉纳竞技 2-3 2026-08-25 07:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/581124455001834817354717286/playlist_eof.m3u8?t=6a8dca89&us=60a750d952&sign=cffa049e6ad49c231cab154fa97d7b88
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/581124455001834817354717286/playlist_eof.m3u8?t=6a8de8d8&us=5420a34811&sign=93cba505e7b0e11107645500cdce6bc5
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/d6c87740307bf1edfc79b4b09a2dc3bf.png" group-title="⚽ 足球回放",⚽ [回放] 查尔斯顿电池 vs 迈阿密FC 5-0 2026-08-25 07:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5cab73e05001834817408485135/playlist_eof.m3u8?t=6a8dd33c&us=c3da90a916&sign=3c296bce1f95509fff9d7662a5ad26f1
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5cab73e05001834817408485135/playlist_eof.m3u8?t=6a8de1d6&us=8ce09977f8&sign=6e78a48f082b1e0f5bfb8d11a4712e0b
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/96580e883dc95fa190949d98e2c3e259.png" group-title="⚽ 足球回放",⚽ [回放] 帕特里奥坦斯 vs 卡利竞技 2-0 2026-08-25 06:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c2a4661e5001834817406474506/playlist_eof.m3u8?t=6a8dce1c&us=6567200c4e&sign=0c20babea9803721d6d0021dd5e11ff5
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c2a4661e5001834817406474506/playlist_eof.m3u8?t=6a8dec2f&us=3308608189&sign=018c3da61cc087a07e80ecd3f6c6f47d
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png" group-title="⚽ 足球回放",⚽ [回放] 累西腓体育 vs 米内罗美洲 3-0 2026-08-25 06:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/eeb9ad4f5001834817210071703/playlist_eof.m3u8?t=6a8dce9e&us=1b4783f0ea&sign=c213fc4440c3b4db91846f83e642f5a6
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/eeb9ad4f5001834817210071703/playlist_eof.m3u8?t=6a8dec3a&us=9f5b37727f&sign=38667b5f62366a5e50673bb979cc9afb
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/ed16dd3c5970174b77eb04b0ea5b0960.png" group-title="⚽ 足球回放",⚽ [回放] 巴西竞技 vs 诺瓦里桑蒂诺 1-4 2026-08-25 06:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/7a7823e25001834817405693634/playlist_eof.m3u8?t=6a8dcdf5&us=d00a0a09fc&sign=24bed62ec79d5d7a1abd72ec79b43731
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/7a7823e25001834817405693634/playlist_eof.m3u8?t=6a8deb6e&us=c513c7c577&sign=0a1a01122e652af486511cdb80ff90ed
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/e5dc58845ec4d74525de5bf71bd21e61.png" group-title="⚽ 足球回放",⚽ [回放] 利昂内斯 vs 卡塔根纳 1-6 2026-08-25 06:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/18d59a775001834817350261372/playlist_eof.m3u8?t=6a8dc905&us=8b56c64d15&sign=a89987c4ee5b77ee1152c508532d591e
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/7f194b2fd96278717d9bedfd872efeb7.png" group-title="⚽ 足球回放",⚽ [回放] 奥尔索马尔索 vs 索阿查 2-0 2026-08-25 06:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a047698e5001834817348794467/playlist_eof.m3u8?t=6a8dc824&us=b9118a5af1&sign=d92518aa2606f8267adc352a4b54896d
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/95c9ef810563d777a5330b142f9ba38b.png" group-title="⚽ 足球回放",⚽ [回放] 堤格雷 vs 科尔多瓦中央 2-1 2026-08-25 06:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b989abba5001834817209166026/playlist_eof.m3u8?t=6a8dc79f&us=fa45da214a&sign=ca3de9131b1c99836e2c46884a8250bb
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/efc9bcc3e2c1493997bb7ba1d5291a6c.png" group-title="⚽ 足球回放",⚽ [回放] 亚特兰特女足 vs 托卢卡女足 1-2 2026-08-25 05:45
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8e7157b25001834817402431082/playlist_eof.m3u8?t=6a8dc8c8&us=decc1e2459&sign=8629b4dcba9b25b3e3c448ea6928a5d0
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/a82c9684d567971fb6a08d24d027892a.png" group-title="⚽ 足球回放",⚽ [回放] 亚松森自由 vs 圣洛伦佐体育会 1-0 2026-08-25 05:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/555c1bc55001834817347858215/playlist_eof.m3u8?t=6a8dd0bc&us=cdf77eb628&sign=2b75c458218058782acd0788064a7855
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/224fc1a1876493fa1b072cf9eb4d5eb3.png" group-title="⚽ 足球回放",⚽ [回放] 皇家桑坦德 vs 云博独立 1-0 2026-08-25 04:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5d1717345001834817201622652/playlist_eof.m3u8?t=6a8dd282&us=975eac05fb&sign=930f994174650d6effbe3b3a63fbbcc9
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/b2ee53e39bbdf078593cd905208fefa7.png" group-title="⚽ 足球回放",⚽ [回放] 瓦努科大学 vs 本廷塔克纳 1-0 2026-08-25 04:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0015219d5001834817400922198/playlist_eof.m3u8?t=6a8dcea5&us=f6dc099497&sign=698abe624dee816f2d7ebada3a890fb2
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/8eaf7a1c977421912b949fb270d3365a.png" group-title="⚽ 足球回放",⚽ [回放] 锡帕基拉老虎 vs 马达莱纳联 1-0 2026-08-25 04:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c175c1555001834817342009414/playlist_eof.m3u8?t=6a8dc95f&us=61e0d6e5cf&sign=b1c7fbbca1095f53f110056bb80b1f6e
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/f8ac17559f204d139563929dc7eeedeb.png" group-title="⚽ 足球回放",⚽ [回放] 格拉纳达 vs 马略卡 2-0 2026-08-25 03:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6f7d56dd5001834817392765030/playlist_eof.m3u8?t=6a8dd20b&us=2ddba23f61&sign=fb5e2d84673ffbf2f11c7814aed8f305
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/9c7c68ee0cad47be69a9d57e43261484.png" group-title="⚽ 足球回放",⚽ [回放] 马拉加 vs 拉科鲁尼亚 1-1 2026-08-25 03:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c42105985001834817383208024/playlist_eof.m3u8?t=6a8dc5e9&us=92fd0fafe2&sign=a72ffdbc95fd2b4023abffd90952878a
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/9c7c68ee0cad47be69a9d57e43261484.png" group-title="⚽ 足球回放",⚽ [回放] 马拉加 vs 拉科鲁尼亚 1-1 2026-08-25 03:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/910940845001834817199067910/playlist_eof.m3u8?t=6a8dc5e9&us=92fd0fafe2&sign=f41e12c2037f2c110bb28d8fe7f3bcf2
-#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/football/team/9c7c68ee0cad47be69a9d57e43261484.png" group-title="⚽ 足球回放",⚽ [回放] 马拉加 vs 拉科鲁尼亚 1-1 2026-08-25 03:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/7517ef625001834817382144792/playlist_eof.m3u8?t=6a8dc5e9&us=92fd0fafe2&sign=aee9e028e6c379b61b603fbaff9e521d
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/18d59a775001834817350261372/playlist_eof.m3u8?t=6a8de659&us=09d291bcf8&sign=b04cadc3083ac29e4526729d6a69d577
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/72f4b5ba888537eb2e2cff018ecd71ba.png" group-title="🏀 篮球回放",🏀 [回放] 浙江稠州银行女篮 vs 山东赤水河酒女篮 49-79 2026-08-25 20:00
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/318bde8f5001834817595188359/playlist_eof.m3u8?t=6a8defc4&us=be2f4177c4&sign=dd9c0f06e3591cb5849d352afc773397
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/00523cd4bf48d4e5c995253012cce01e.png" group-title="🏀 篮球回放",🏀 [回放] 东莞新世纪女篮 vs 大连文体旅女篮 67-70 2026-08-25 19:30
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0a4ee3a25001834817604124779/playlist_eof.m3u8?t=6a8de88b&us=693a60f450&sign=36060886af57c2739e132adc267fe0df
+#EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/4ac56345ae0f8016a5cc997683785635.png" group-title="🏀 篮球回放",🏀 [回放] 黑龙江上东女篮 vs 福建金篮女篮 51-114 2026-08-25 19:30
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0ca52ce25001834817604226929/playlist_eof.m3u8?t=6a8de3ac&us=0f6fa7ec70&sign=cd097d0d1acd69fb62282b6d41a82099
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/31cb7287295a89750e0489d65325d7e4.png" group-title="🏀 篮球回放",🏀 [回放] 江苏南钢女篮 vs 合肥文旅女篮 84-66 2026-08-25 18:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/16b23d695001834817567834086/playlist_eof.m3u8?t=6a8dd0a7&us=d8255687d4&sign=eb718b9839fab7d9b28eccb974f9885a
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/16b23d695001834817567834086/playlist_eof.m3u8?t=6a8dee8a&us=54b2af97f7&sign=a40faa5243781a03065b9e8dbef31fac
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/f7f59b30d166277fab63075d539a5c93.png" group-title="🏀 篮球回放",🏀 [回放] 新疆天山女篮 vs 石家庄英励女篮 59-85 2026-08-25 17:30
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/251f45615001834817571188405/playlist_eof.m3u8?t=6a8dd353&us=47a90a8a0c&sign=e314e406ad73fc698f8ff4449020dec5
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/251f45615001834817571188405/playlist_eof.m3u8?t=6a8de1c2&us=44b01ea7d6&sign=e4e2189593a950f9a7fc9d642c36c50e
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/2c046fb3599d535c058f4dfb24b8657b.png" group-title="🏀 篮球回放",🏀 [回放] 陕西榆林天泽女篮 vs 武汉盛帆黄鹤女篮 51-58 2026-08-25 16:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/57ccf86f5001834817585964619/playlist_eof.m3u8?t=6a8dc547&us=882e5aca19&sign=dbecae3e995951ac3775c02bd16a6322
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/57ccf86f5001834817585964619/playlist_eof.m3u8?t=6a8de32f&us=c945466b25&sign=7ea15b4a874219808defa7c210fe5b41
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/762193981179bd9e412c2f38d2846449.png" group-title="🏀 篮球回放",🏀 [回放] 四川远达美乐女篮 vs 北京首钢园女篮 83-80 2026-08-25 16:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5cdb093a5001834817534214922/playlist_eof.m3u8?t=6a8dd1b6&us=591150a9f3&sign=8aa6234e28fe4536ca8e5a8a7877c714
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5cdb093a5001834817534214922/playlist_eof.m3u8?t=6a8def60&us=be6537ab81&sign=14acfa625f47301f44af738cf54e7f98
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/c35932bb9740f4d95a0832975f722be5.png" group-title="🏀 篮球回放",🏀 [回放] 上海浦发银行女篮 vs 北京师范大学女篮 90-91 2026-08-25 14:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/15ea66405001834817384429521/playlist_eof.m3u8?t=6a8dcf25&us=1b658f2621&sign=fa59a7ff0ac26167a8fdd023a37e14b5
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/15ea66405001834817384429521/playlist_eof.m3u8?t=6a8ded27&us=448ec099db&sign=d6b0f5a0c57b4970640d9f117683ae2d
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png" group-title="🏀 篮球回放",🏀 [回放] 火花 vs 梦想 71-78 2026-08-25 10:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6ef7d26d5001834817368324799/playlist_eof.m3u8?t=6a8dc9e4&us=71048efabb&sign=3191badd220ef5d2eaf7e28979a7b820
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6ef7d26d5001834817368324799/playlist_eof.m3u8?t=6a8de703&us=ad404735ec&sign=830ade59ae7bd5e943a00823da74beeb
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png" group-title="🏀 篮球回放",🏀 [回放] 火花 vs 梦想 71-78 2026-08-25 10:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6ef7d6075001834817368324847/playlist_eof.m3u8?t=6a8dc9e4&us=71048efabb&sign=d501c796f9c0900ac4d8d0e519cd7172
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6ef7d6075001834817368324847/playlist_eof.m3u8?t=6a8de703&us=ad404735ec&sign=510b545715cc690c69d2d126e1ed36af
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png" group-title="🏀 篮球回放",🏀 [回放] 山猫 vs 女武神 66-80 2026-08-25 08:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/3f20c9435001834817357731447/playlist_eof.m3u8?t=6a8dccfa&us=8709520ff9&sign=9cc42b871610b36bb04680f127542a47
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/3f20c9435001834817357731447/playlist_eof.m3u8?t=6a8dea7c&us=4f6607e5ee&sign=ba19ff336831989b486527c7545942dc
 #EXTINF:-1 tvg-logo="https://cdn.sportnanoapi.com/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png" group-title="🏀 篮球回放",🏀 [回放] 山猫 vs 女武神 66-80 2026-08-25 08:00
-https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/357012c25001834817214891654/playlist_eof.m3u8?t=6a8dccfa&us=8709520ff9&sign=7449aa549bcc3aa98a5d7c71b001215f
+https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/357012c25001834817214891654/playlist_eof.m3u8?t=6a8dea7c&us=4f6607e5ee&sign=0475da9da81b820d20f6153794d80082
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🇨🇳央卫视直播1",CCTV1
 http://45.192.97.170:8880/play/1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="🇨🇳央卫视直播1",CCTV2
