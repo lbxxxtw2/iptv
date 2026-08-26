@@ -563,8 +563,6 @@ https://corestream.siteyaptim.live//bein4/tracks-v1a1/mono.m3u8
 https://iptv.1989.click/sprt/7sh6mc?token=74dcc68ae31b37977414a0150f4bcc3b54e60a891df16d31
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://iptv.1989.click/logo/Hub%20Premier%201.webp" group-title="体育频道",Hub Premier 1
 https://iptv.1989.click/sprt/sv2v2p?token=74dcc68ae31b37977414a0150f4bcc3b54e60a891df16d31
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://iptv.1989.click/logo/Hub%20Premier%202.webp" group-title="体育频道",Hub Premier 2
-https://iptv.1989.click/sprt/rgpsq5?token=74dcc68ae31b37977414a0150f4bcc3b54e60a891df16d31
 #EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://iptv.1989.click/logo/Hub%20Premier%203.webp" group-title="体育频道",Hub Premier 3
 https://iptv.1989.click/sprt/bgb9pk?token=74dcc68ae31b37977414a0150f4bcc3b54e60a891df16d31
 #EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://iptv.1989.click/logo/Hub%20Premier%204.webp" group-title="体育频道",Hub Premier 4
@@ -1944,5 +1942,5 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-26 17:25:28
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-08-26 19:17:43
 https://cdn.qd.je/163189/fct
