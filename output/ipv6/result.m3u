@@ -1436,10 +1436,6 @@ http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 https://live.chinacert.cftest5.cn/zgst/live/xiamen
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/厦门卫视.png" group-title="福建频道",厦门卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226695/1.m3u8
-#EXTINF:-1 tvg-id="福州少儿" tvg-name="福州少儿" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福州少儿.png" group-title="福建频道",福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 tvg-id="FZTV3" tvg-name="福州生活" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福州生活.png" group-title="福建频道",福州生活
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/hxws
@@ -1534,5 +1530,5 @@ https://www.goodiptv.club/huya/11352919
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-01 08:17:13
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-01 12:15:50
 https://cdn.qd.je/163189/fct
