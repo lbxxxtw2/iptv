@@ -809,6 +809,10 @@ https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="镜电视新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/镜电视新闻.png" group-title="台湾频道",镜电视新闻
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Now爆谷台.png" group-title="电影频道",Now爆谷台
+http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
+#EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Now爆谷星影台.png" group-title="电影频道",Now爆谷星影台
+http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/美亞電影台.png" group-title="电影频道",美亞電影台
 https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/天映頻道.png" group-title="电影频道",天映頻道
@@ -1448,5 +1452,5 @@ https://www.goodiptv.club/huya/11352919
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-06 04:37:25
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-06 06:36:02
 https://cdn.qd.je/163189/fct
