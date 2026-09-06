@@ -404,9 +404,6 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://ktpremium.world/live/LT1976F/A9177/515075.ts
 #EXTINF:-1 tvg-id="中央電視台綜合頻道" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中央電視台綜合頻道 (港澳版).png" group-title="香港频道",中央電視台綜合頻道 (港澳版)
 http://cdn6.163189.xyz/163189/cctv1
-#EXTINF:-1 tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NewsWorld.png" group-title="香港频道",NewsWorld
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/广东珠江.png" group-title="广东频道",广东珠江
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/gdzj
@@ -695,36 +692,29 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226718/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/风云足球.png" group-title="央视频道",风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" group-title="台湾频道",东森新闻
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东森新闻.png" group-title="台湾频道",东森新闻
 http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E9%97%BB.png" group-title="台湾频道",TVBS新聞
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东森新闻.png" group-title="台湾频道",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS新聞.png" group-title="台湾频道",TVBS新聞
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS新聞.png" group-title="台湾频道",TVBS新聞
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" group-title="台湾频道",三立新闻
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS新聞.png" group-title="台湾频道",TVBS新聞
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立新闻.png" group-title="台湾频道",三立新闻
 https://www.goodiptv.club/douyu/5692901
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频道",華視新聞
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立新闻.png" group-title="台湾频道",三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/華視新聞.png" group-title="台湾频道",華視新聞
 https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频道",中視新聞
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="台湾频道",中視新聞
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中視新聞.png" group-title="台湾频道",中視新聞
 https://pulltest-gem.alivecdn.com/live/ogVoQHdl8jVsdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾频道",民視新聞台
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中視新聞.png" group-title="台湾频道",中視新聞
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中視新聞.png" group-title="台湾频道",中視新聞
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/民視新聞台.png" group-title="台湾频道",民視新聞台
 https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/亚洲新闻.png" group-title="台湾频道",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -761,11 +751,10 @@ http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784706116084
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TVBS歡樂台.png" group-title="台湾频道",TVBS歡樂台
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv068
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" group-title="台湾频道",三立iNEWS
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立iNEWS.png" group-title="台湾频道",三立iNEWS
 https://www.goodiptv.club/douyu/5692901
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/三立iNEWS.png" group-title="台湾频道",三立iNEWS
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 #EXTINF:-1 tvg-id="民视影劇台" tvg-name="民视影剧" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/民视影剧.png" group-title="台湾频道",民视影剧
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/msyj
@@ -971,9 +960,6 @@ https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 https://cdn3.indevs.in/stream/live/jgbdx/
 #EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/金光布袋戏.png" group-title="电影频道",金光布袋戏
 https://cdn12.178.indevs.in/163189/jgbdx
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://epg.112114.xyz/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="电影频道",经典电影
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://down-hls.qxiu.com/live/453135/index.m3u8
 #EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华经典台.png" group-title="电影频道",龙华经典台
 http://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华偶像.png" group-title="电影频道",龙华偶像
@@ -1070,9 +1056,6 @@ https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="外国频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
-#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://epg.112114.xyz/logo/TRT%20World.png" group-title="外国频道",TRT World
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TRT World.png" group-title="外国频道",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半岛新闻 (1080p)" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/半岛新闻 (1080p).png" group-title="外国频道",半岛新闻 (1080p)
@@ -1111,9 +1094,6 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 https://live.chinacert.cftest5.cn/zgst/live/hubei
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",黑龙江卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -1272,9 +1252,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 tvg-id="崇明电视台" tvg-name="崇明电视台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/崇明电视台.png" group-title="上海频道",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-#EXTINF:-1 tvg-id="金山电视台" tvg-name="金山电视台" tvg-logo="https://epg.112114.xyz/logo/%E9%87%91%E5%B1%B1%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="上海频道",金山电视台
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/南京少儿.png" group-title="江苏频道",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1 tvg-id="大丰公共" tvg-name="大丰公共" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/大丰公共.png" group-title="江苏频道",大丰公共
@@ -1383,9 +1360,6 @@ https://cdn.qd.je/163189/hxws
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/hxws2
-#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="福建频道",福建海峡卫视
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
 https://live.chinacert.cftest5.cn/cnmg/live/849119120
 #EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/福建海峡卫视.png" group-title="福建频道",福建海峡卫视
@@ -1439,9 +1413,6 @@ https://cdn.qd.je/163189/dreamworks
 https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 #EXTINF:-1 tvg-id="DreamWorks夢工廠動畫" tvg-name="DreamWorks夢工廠動畫" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/DreamWorks夢工廠動畫.png" group-title="动画频道",DreamWorks夢工廠動畫
 https://cdn12.178.indevs.in/163189/dreamworks
-#EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://epg.112114.xyz/logo/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85.png" group-title="动画频道",火影忍者
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://huyazhibo.de5.net/?id=29465866
 #EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/火影忍者.png" group-title="动画频道",火影忍者
 https://www.goodiptv.club/huya/29465866
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/金鹰卡通.png" group-title="动画频道",金鹰卡通
@@ -1455,36 +1426,21 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华卡通.png" group-title="动画频道",龙华卡通
 https://8.fast.hidns.vip/163189/lhkt
-#EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0.png" group-title="动画频道",蜡笔小新
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://huyazhibo.de5.net/?id=11352970
 #EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/蜡笔小新.png" group-title="动画频道",蜡笔小新
 https://www.goodiptv.club/huya/11352970
-#EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0.png" group-title="动画频道",猫和老鼠
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://huyazhibo.de5.net/?id=11352879
 #EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/猫和老鼠.png" group-title="动画频道",猫和老鼠
 https://live.metshop.top/huya/11352879
 #EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/猫和老鼠.png" group-title="动画频道",猫和老鼠
 https://www.goodiptv.club/huya/11352879
-#EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%83%E9%BE%99%E7%8F%A0.png" group-title="动画频道",七龙珠
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://huyazhibo.de5.net/?id=30273533
 #EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/七龙珠.png" group-title="动画频道",七龙珠
 https://live.metshop.top/huya/11601966
-#EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D.png" group-title="动画频道",海绵宝宝
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://huyazhibo.de5.net/?id=11352919
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海绵宝宝.png" group-title="动画频道",海绵宝宝
 https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海绵宝宝.png" group-title="动画频道",海绵宝宝
 https://www.goodiptv.club/huya/11352919
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/炫动卡通.png" group-title="动画频道",炫动卡通
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
-#EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%8D%8E%E5%B0%8F%E5%BD%93%E5%AE%B6.png" group-title="动画频道",中华小当家
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://huyazhibo.de5.net/?id=30613314
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-07 04:40:51
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-07 06:42:49
 https://cdn.qd.je/163189/fct
