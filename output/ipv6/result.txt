@@ -180,6 +180,7 @@ VIUTVSIX,https://10.fast.hidns.vip/163189/viu6/
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
 中央電視台綜合頻道 (港澳版),http://cdn6.163189.xyz/163189/cctv1
+NewsWorld,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 
 广东频道,#genre#
 广东珠江,https://cdn.qd.je/163189/gdzj
@@ -314,17 +315,17 @@ CETV4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 
 台湾频道,#genre#
-东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 TVBS新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
-TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-三立新闻,https://www.goodiptv.club/douyu/5692901
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+三立新闻,https://www.goodiptv.club/douyu/5692901
 華視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-中視新聞,https://pulltest-gem.alivecdn.com/live/ogVoQHdl8jVsdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+中視新聞,https://pulltest-gem.alivecdn.com/live/ogVoQHdl8jVsdsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 民視新聞台,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -342,8 +343,8 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784706116084
 TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
 TVBS歡樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv068
-三立iNEWS,https://www.goodiptv.club/douyu/5692901
 三立iNEWS,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+三立iNEWS,https://www.goodiptv.club/douyu/5692901
 民视影剧,https://cdn.qd.je/163189/msyj
 民视影剧,https://cdn12.178.indevs.in/163189/msyj
 民视影剧,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
@@ -370,8 +371,6 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 镜电视新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 电影频道,#genre#
-Now爆谷台,http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
-Now爆谷星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
 美亞電影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映頻道,https://cdn.qd.je/163189/typd
 天映頻道,https://cdn.qd.je/163189/typd2
@@ -439,6 +438,7 @@ TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 金光布袋戏,https://cdn3.indevs.in/stream/live/jgbdx/
 金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
+经典电影,https://down-hls.qxiu.com/live/453135/index.m3u8
 龙华经典台,http://cdn8.163189.xyz/163189/lhjd
 龙华偶像,https://cdn.qd.je/163189/lhox
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
@@ -486,6 +486,7 @@ KNBC,https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/mas
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 ROCK Action,http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
 TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 半岛新闻 (1080p),https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -507,6 +508,7 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 北京卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei
 湖北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang
 黑龙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
 安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui
@@ -592,6 +594,7 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 上海频道,#genre#
 哈哈炫动,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+金山电视台,http://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 重庆频道,#genre#
 
@@ -665,6 +668,7 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福建海峡卫视,https://cdn.qd.je/163189/hxws
 福建海峡卫视,https://cdn.qd.je/163189/hxws2
+福建海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 福建海峡卫视,https://live.chinacert.cftest5.cn/cnmg/live/849119120
 福建海峡卫视,http://r.jdshipin.com/WtYt3
 福建海峡卫视,https://10.fast.hidns.vip/163189/hxws/
@@ -723,20 +727,26 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 DreamWorks夢工廠動畫,https://cdn.qd.je/163189/dreamworks
 DreamWorks夢工廠動畫,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 DreamWorks夢工廠動畫,https://cdn12.178.indevs.in/163189/dreamworks
+火影忍者,https://huyazhibo.de5.net/?id=29465866
 火影忍者,https://www.goodiptv.club/huya/29465866
 金鹰卡通,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
 卡酷动画,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 卡酷少儿,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 龙华卡通,https://cdn.qd.je/163189/lhkt
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
+蜡笔小新,https://huyazhibo.de5.net/?id=11352970
 蜡笔小新,https://www.goodiptv.club/huya/11352970
+猫和老鼠,https://huyazhibo.de5.net/?id=11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://www.goodiptv.club/huya/11352879
+七龙珠,https://huyazhibo.de5.net/?id=30273533
 七龙珠,https://live.metshop.top/huya/11601966
+海绵宝宝,https://huyazhibo.de5.net/?id=11352919
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,https://www.goodiptv.club/huya/11352919
 炫动卡通,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
+中华小当家,https://huyazhibo.de5.net/?id=30613314
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-09-06 11:33:20,https://cdn.qd.je/163189/fct
+2026-09-06 17:05:58,https://cdn.qd.je/163189/fct
