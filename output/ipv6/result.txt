@@ -195,7 +195,6 @@ AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
 广东体育,https://2.fast.hidns.vip/163189/gdty
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
-广东卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd69
 广州综合,https://cdn.qd.je/163189/gzzh
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
@@ -205,7 +204,6 @@ AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
 云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
-深圳卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd61
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
 
 体育频道,#genre#
@@ -214,7 +212,6 @@ CCTV-5,https://cdn.qd.je/163189/cctv5-2
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
-CCTV-5,rtmp://yftv-wshls.yzbtv.cn/live/11eec
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,https://cdn2.163189.xyz/163189/gdty
@@ -237,41 +234,34 @@ CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
 CCTV-1,https://cdn6.cc.cd/163189/cctv1
 CCTV-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
-CCTV-1,rtmp://yftv-wshls.yzbtv.cn/live/4387
 CCTV-2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
 CCTV-2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226739/1.m3u8
-CCTV-2,rtmp://yftv-wshls.yzbtv.cn/live/11ecc
 CCTV-3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
 CCTV-3,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226720/1.m3u8
-CCTV-3,rtmp://yftv-wshls.yzbtv.cn/live/11ef4
 CCTV-4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
 CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
 CCTV-4,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
-CCTV-4,rtmp://yftv-wshls.yzbtv.cn/live/11ef0
 CCTV-5,https://cdn.qd.je/163189/cctv5
 CCTV-5,https://cdn.qd.je/163189/cctv5-2
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
 CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
 CCTV-5,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226731/1.m3u8
-CCTV-5,rtmp://yftv-wshls.yzbtv.cn/live/11eec
 CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV-5+,https://cdn.qd.je/163189/cctv5p-2
 CCTV-5+,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226711/1.m3u8
 CCTV-6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 CCTV-6,https://live.chinacert.cftest5.cn/cnmg/live/624878396
 CCTV-6,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226699/1.m3u8
-CCTV-6,rtmp://yftv-wshls.yzbtv.cn/live/11ee8
 CCTV-7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
 CCTV-7,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
 CCTV-8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
 CCTV-8,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
-CCTV-8,rtmp://yftv-wshls.yzbtv.cn/live/11ee0
 CCTV-9,https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
 CCTV-9,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
@@ -279,7 +269,6 @@ CCTV-9,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
 CCTV-10,https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 CCTV-10,https://live.chinacert.cftest5.cn/cnmg/live/624878405
 CCTV-10,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
-CCTV-10,rtmp://yftv-wshls.yzbtv.cn/live/11ed8
 CCTV-11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
 CCTV-11,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
@@ -292,7 +281,6 @@ CCTV-13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://10.fast.hidns.vip/163189/cctv13/
 CCTV-13,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
-CCTV-13,rtmp://yftv-wshls.yzbtv.cn/live/4e2f
 CCTV-14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
 CCTV-14,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
@@ -370,6 +358,8 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 镜电视新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 电影频道,#genre#
+Now爆谷台,http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
+Now爆谷星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
 美亞電影台,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 天映頻道,https://cdn.qd.je/163189/typd
 天映頻道,https://cdn.qd.je/163189/typd2
@@ -489,12 +479,10 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627
 广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221227161/1.m3u8
-广东卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd69
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 浙江卫视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang
 浙江卫视,http://zappl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=1761099064-0-0-9b644d437557bcc66b9411e545e45fbc
 浙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
-浙江卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd75
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan
 湖南卫视,http://jp1.jdiptv.cc/live/hnwshd.m3u8?kdstime=1737444168&kdssign=717ad8ec225289b3d4d0f4784a5cecf9
 湖南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
@@ -511,7 +499,6 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 重庆卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8
 东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang
 东方卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
-东方卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd7d
 东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan
 东南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226670/1.m3u8
 东南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226675/1.m3u8
@@ -536,7 +523,6 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 吉林卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226671/1.m3u8
 江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu
 江苏卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
-江苏卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd81
 江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi
 江西卫视,http://goo.bkpcp.top/mg/jxws
 江西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226726/1.m3u8
@@ -552,7 +538,6 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong
 山东卫视,http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 山东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
-山东卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd5d
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226704/1.m3u8
 陕西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1
@@ -562,7 +547,6 @@ TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 四川卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226697/1.m3u8
 深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
-深圳卫视,rtmp://yftv-wshls.yzbtv.cn/live/1bd61
 三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=b040eb4e1727851324
 天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin
@@ -734,4 +718,4 @@ DreamWorks夢工廠動畫,https://cdn12.178.indevs.in/163189/dreamworks
 中华小当家,https://live.metshop.top/huya/11342413
 
 🕘️更新时间,#genre#
-2026-09-12 06:55:34,https://cdn.qd.je/163189/fct
+2026-09-12 11:45:08,https://cdn.qd.je/163189/fct
