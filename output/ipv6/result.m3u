@@ -136,8 +136,6 @@ http://cdn.163189.xyz/163189/hoy#https://cdn6.163189.xyz/163189/hoy
 https://cdn6.cc.cd/163189/hoy
 #EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 77.png" group-title="香港频道",HOY 77
 https://fast.hidns.vip/163189/hoy
-#EXTINF:-1 tvg-id="HOY 77" tvg-name="HOY 77" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 77.png" group-title="香港频道",HOY 77
-http://cdn.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOY 76" tvg-name="HOY 76" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/HOY 76.png" group-title="香港频道",HOY 76
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/hoy76
@@ -1410,5 +1408,5 @@ https://www.goodiptv.club/huya/11352919
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-13 08:24:16
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-13 11:44:14
 https://cdn.qd.je/163189/fct
