@@ -666,8 +666,6 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226718/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226724/1.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/风云足球.png" group-title="央视频道",风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/世界地理.png" group-title="央视频道",世界地理
-http://dassby.qqff.top:99/live/世界地理/index.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东森新闻.png" group-title="台湾频道",东森新闻
 http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/东森新闻.png" group-title="台湾频道",东森新闻
@@ -810,6 +808,8 @@ https://cdn.qd.je/163189/amc
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 #EXTINF:-1 tvg-id="AMC电影" tvg-name="AMC电影" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/AMC电影.png" group-title="电影频道",AMC电影
 https://cdn12.178.indevs.in/163189/amc
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Animax.png" group-title="电影频道",Animax
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
 #EXTINF:-1 tvg-id="Astro iQIYI" tvg-name="Astro iQIYI" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Astro iQIYI.png" group-title="电影频道",Astro iQIYI
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://cdn.qd.je/163189/iqiyi
@@ -1026,12 +1026,16 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/CNN.png" group-title="外国频道",CNN
 https://jmp2.uk/stvp-ATBD800001VA
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Discovery.png" group-title="外国频道",Discovery
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
 #EXTINF:-1 tvg-id="KNBC" tvg-name="KNBC" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/KNBC.png" group-title="外国频道",KNBC
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/Love Nature.png" group-title="外国频道",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/ROCK Action.png" group-title="外国频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784706116084
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TBS.png" group-title="外国频道",TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/TRT World.png" group-title="外国频道",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半岛新闻 (1080p)" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/半岛新闻 (1080p).png" group-title="外国频道",半岛新闻 (1080p)
@@ -1377,8 +1381,6 @@ https://cdn.qd.je/163189/dreamworks
 https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 #EXTINF:-1 tvg-id="DreamWorks夢工廠動畫" tvg-name="DreamWorks夢工廠動畫" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/DreamWorks夢工廠動畫.png" group-title="动画频道",DreamWorks夢工廠動畫
 https://cdn12.178.indevs.in/163189/dreamworks
-#EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/火影忍者.png" group-title="动画频道",火影忍者
-https://www.goodiptv.club/huya/29465866
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/金鹰卡通.png" group-title="动画频道",金鹰卡通
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/卡酷动画.png" group-title="动画频道",卡酷动画
@@ -1390,21 +1392,15 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
 https://cdn.qd.je/163189/lhkt
 #EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/龙华卡通.png" group-title="动画频道",龙华卡通
 https://8.fast.hidns.vip/163189/lhkt
-#EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/蜡笔小新.png" group-title="动画频道",蜡笔小新
-https://www.goodiptv.club/huya/11352970
 #EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/猫和老鼠.png" group-title="动画频道",猫和老鼠
 https://live.metshop.top/huya/11352879
-#EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/猫和老鼠.png" group-title="动画频道",猫和老鼠
-https://www.goodiptv.club/huya/11352879
 #EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/七龙珠.png" group-title="动画频道",七龙珠
 https://live.metshop.top/huya/11601966
 #EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海绵宝宝.png" group-title="动画频道",海绵宝宝
 https://live.metshop.top/douyu/3949681
-#EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/海绵宝宝.png" group-title="动画频道",海绵宝宝
-https://www.goodiptv.club/huya/11352919
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/炫动卡通.png" group-title="动画频道",炫动卡通
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/中华小当家.png" group-title="动画频道",中华小当家
 https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-19 11:47:02
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lbxxxtw2/IPTVEPG/main/logo/翡翠台.png" group-title="🕘️更新时间",2026-09-19 17:15:56
 https://cdn.qd.je/163189/fct
