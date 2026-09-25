@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260925195042 +0800">
+<tv date="20260925230512 +0800">
 	<channel id="8TV">
 		<display-name lang="zh">8TV</display-name>
 	</channel>
@@ -12582,6 +12582,1533 @@
 	<programme channel="Astro Football" start="20260930220000 +0800" stop="20261001000000 +0800">
 		<title lang="zh">Serie A: Genoa vs Frosinone</title>
 	</programme>
+	<channel id="Sky News">
+		<display-name lang="zh">Sky News</display-name>
+	</channel>
+	<programme channel="Sky News" start="20260925000000 +0800" stop="20260925003000 +0800">
+		<title lang="zh">Mornings with Ridge and Frost</title>
+	</programme>
+	<programme channel="Sky News" start="20260925003000 +0800" stop="20260925010000 +0800">
+		<title lang="zh">Mornings with Ridge and Frost</title>
+	</programme>
+	<programme channel="Sky News" start="20260925010000 +0800" stop="20260925013000 +0800">
+		<title lang="zh">Sky News Today with Gareth Barlow</title>
+	</programme>
+	<programme channel="Sky News" start="20260925013000 +0800" stop="20260925020000 +0800">
+		<title lang="zh">Sky News Today with Gareth Barlow</title>
+	</programme>
+	<programme channel="Sky News" start="20260925020000 +0800" stop="20260925023000 +0800">
+		<title lang="zh">Sky News Today with Gareth Barlow</title>
+	</programme>
+	<programme channel="Sky News" start="20260925023000 +0800" stop="20260925030000 +0800">
+		<title lang="zh">Sky News Today with Gareth Barlow</title>
+	</programme>
+	<programme channel="Sky News" start="20260925030000 +0800" stop="20260925033000 +0800">
+		<title lang="zh">Sky News Today with Gareth Barlow</title>
+	</programme>
+	<programme channel="Sky News" start="20260925033000 +0800" stop="20260925040000 +0800">
+		<title lang="zh">Sky News Today with Gareth Barlow</title>
+	</programme>
+	<programme channel="Sky News" start="20260925040000 +0800" stop="20260925043000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925043000 +0800" stop="20260925050000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925050000 +0800" stop="20260925053000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925053000 +0800" stop="20260925060000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925060000 +0800" stop="20260925063000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925063000 +0800" stop="20260925070000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925070000 +0800" stop="20260925073000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925073000 +0800" stop="20260925080000 +0800">
+		<title lang="zh">Sky News Today with Jayne Secker</title>
+	</programme>
+	<programme channel="Sky News" start="20260925080000 +0800" stop="20260925083000 +0800">
+		<title lang="zh">The News Hour With Mark Austin</title>
+	</programme>
+	<programme channel="Sky News" start="20260925083000 +0800" stop="20260925090000 +0800">
+		<title lang="zh">The News Hour With Mark Austin</title>
+	</programme>
+	<programme channel="Sky News" start="20260925090000 +0800" stop="20260925093000 +0800">
+		<title lang="zh">The News Hour With Mark Austin</title>
+	</programme>
+	<programme channel="Sky News" start="20260925093000 +0800" stop="20260925100000 +0800">
+		<title lang="zh">The News Hour With Mark Austin</title>
+	</programme>
+	<programme channel="Sky News" start="20260925100000 +0800" stop="20260925110000 +0800">
+		<title lang="zh">The Cathy Newman Show</title>
+	</programme>
+	<programme channel="Sky News" start="20260925110000 +0800" stop="20260925120000 +0800">
+		<title lang="zh">UK Tonight With Sarah-Jane Mee</title>
+	</programme>
+	<programme channel="Sky News" start="20260925120000 +0800" stop="20260925130000 +0800">
+		<title lang="zh">The World with Yalda Hakim</title>
+	</programme>
+	<programme channel="Sky News" start="20260925130000 +0800" stop="20260925133000 +0800">
+		<title lang="zh">The Wrap With Anna Botting</title>
+	</programme>
+	<programme channel="Sky News" start="20260925133000 +0800" stop="20260925140000 +0800">
+		<title lang="zh">The Wrap With Anna Botting</title>
+	</programme>
+	<programme channel="Sky News" start="20260925140000 +0800" stop="20260925143000 +0800">
+		<title lang="zh">The Wrap With Anna Botting</title>
+	</programme>
+	<programme channel="Sky News" start="20260925143000 +0800" stop="20260925150000 +0800">
+		<title lang="zh">The Wrap With Anna Botting</title>
+	</programme>
+	<programme channel="Sky News" start="20260925150000 +0800" stop="20260925160000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260925160000 +0800" stop="20260925170000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260925170000 +0800" stop="20260925180000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260925180000 +0800" stop="20260925190000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260925190000 +0800" stop="20260925200000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260925200000 +0800" stop="20260925210000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260925210000 +0800" stop="20260925213000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260925213000 +0800" stop="20260925220000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260925220000 +0800" stop="20260925223000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260925223000 +0800" stop="20260925230000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260925230000 +0800" stop="20260925233000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260925233000 +0800" stop="20260926000000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926000000 +0800" stop="20260926003000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926003000 +0800" stop="20260926010000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926010000 +0800" stop="20260926013000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260926013000 +0800" stop="20260926020000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260926020000 +0800" stop="20260926023000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260926023000 +0800" stop="20260926030000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260926030000 +0800" stop="20260926033000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260926033000 +0800" stop="20260926040000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260926040000 +0800" stop="20260926043000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926043000 +0800" stop="20260926050000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926050000 +0800" stop="20260926053000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926053000 +0800" stop="20260926060000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926060000 +0800" stop="20260926063000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926063000 +0800" stop="20260926070000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926070000 +0800" stop="20260926073000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926073000 +0800" stop="20260926080000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260926080000 +0800" stop="20260926083000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260926083000 +0800" stop="20260926090000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260926090000 +0800" stop="20260926093000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260926093000 +0800" stop="20260926100000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260926100000 +0800" stop="20260926103000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926103000 +0800" stop="20260926110000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926110000 +0800" stop="20260926113000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926113000 +0800" stop="20260926120000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926120000 +0800" stop="20260926123000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926123000 +0800" stop="20260926130000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926130000 +0800" stop="20260926133000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<programme channel="Sky News" start="20260926133000 +0800" stop="20260926140000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<programme channel="Sky News" start="20260926140000 +0800" stop="20260926143000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<programme channel="Sky News" start="20260926143000 +0800" stop="20260926150000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<programme channel="Sky News" start="20260926150000 +0800" stop="20260926160000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926160000 +0800" stop="20260926170000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926170000 +0800" stop="20260926180000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926180000 +0800" stop="20260926190000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926190000 +0800" stop="20260926200000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926200000 +0800" stop="20260926210000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260926210000 +0800" stop="20260926213000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926213000 +0800" stop="20260926220000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926220000 +0800" stop="20260926223000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926223000 +0800" stop="20260926230000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926230000 +0800" stop="20260926233000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260926233000 +0800" stop="20260927000000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260927000000 +0800" stop="20260927003000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260927003000 +0800" stop="20260927010000 +0800">
+		<title lang="zh">Mornings with Jones and Melbourne</title>
+	</programme>
+	<programme channel="Sky News" start="20260927010000 +0800" stop="20260927013000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260927013000 +0800" stop="20260927020000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260927020000 +0800" stop="20260927023000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260927023000 +0800" stop="20260927030000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260927030000 +0800" stop="20260927033000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260927033000 +0800" stop="20260927040000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260927040000 +0800" stop="20260927043000 +0800">
+		<title lang="zh">Sky News Today with Sam Washington</title>
+	</programme>
+	<programme channel="Sky News" start="20260927043000 +0800" stop="20260927050000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260927050000 +0800" stop="20260927053000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260927053000 +0800" stop="20260927060000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260927060000 +0800" stop="20260927063000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260927063000 +0800" stop="20260927070000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260927070000 +0800" stop="20260927073000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260927073000 +0800" stop="20260927080000 +0800">
+		<title lang="zh">Sky News Today</title>
+	</programme>
+	<programme channel="Sky News" start="20260927080000 +0800" stop="20260927083000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260927083000 +0800" stop="20260927090000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260927090000 +0800" stop="20260927093000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260927093000 +0800" stop="20260927100000 +0800">
+		<title lang="zh">News Hour with Jonathan Samuels</title>
+	</programme>
+	<programme channel="Sky News" start="20260927100000 +0800" stop="20260927103000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260927103000 +0800" stop="20260927110000 +0800">
+		<title lang="zh">The Cathy Newman Show</title>
+	</programme>
+	<programme channel="Sky News" start="20260927110000 +0800" stop="20260927113000 +0800">
+		<title lang="zh">Sky News</title>
+	</programme>
+	<programme channel="Sky News" start="20260927113000 +0800" stop="20260927120000 +0800">
+		<title lang="zh">UK Tonight Highlights</title>
+	</programme>
+	<programme channel="Sky News" start="20260927120000 +0800" stop="20260927130000 +0800">
+		<title lang="zh">The Com: Online, Sadistic And Deadly</title>
+	</programme>
+	<programme channel="Sky News" start="20260927130000 +0800" stop="20260927133000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<programme channel="Sky News" start="20260927133000 +0800" stop="20260927140000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<programme channel="Sky News" start="20260927140000 +0800" stop="20260927143000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<programme channel="Sky News" start="20260927143000 +0800" stop="20260928000000 +0800">
+		<title lang="zh">The Wrap With Gillian Joseph</title>
+	</programme>
+	<channel id="TRT World">
+		<display-name lang="zh">TRT World</display-name>
+	</channel>
+	<programme channel="TRT World" start="20260925000000 +0800" stop="20260925010000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="TRT World" start="20260925010000 +0800" stop="20260925013000 +0800">
+		<title lang="zh">Just 2 Degrees</title>
+	</programme>
+	<programme channel="TRT World" start="20260925013000 +0800" stop="20260925020000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260925020000 +0800" stop="20260925023000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925023000 +0800" stop="20260925030000 +0800">
+		<title lang="zh">Business News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925030000 +0800" stop="20260925033000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925033000 +0800" stop="20260925040000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260925040000 +0800" stop="20260925050000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="TRT World" start="20260925050000 +0800" stop="20260925053000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925053000 +0800" stop="20260925060000 +0800">
+		<title lang="zh">Beyond The Game</title>
+	</programme>
+	<programme channel="TRT World" start="20260925060000 +0800" stop="20260925063000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925063000 +0800" stop="20260925070000 +0800">
+		<title lang="zh">Across The Balkans</title>
+	</programme>
+	<programme channel="TRT World" start="20260925070000 +0800" stop="20260925073000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260925073000 +0800" stop="20260925080000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260925080000 +0800" stop="20260925090000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="TRT World" start="20260925090000 +0800" stop="20260925093000 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260925093000 +0800" stop="20260925100000 +0800">
+		<title lang="zh">Strait Talk</title>
+	</programme>
+	<programme channel="TRT World" start="20260925100000 +0800" stop="20260925101500 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260925101500 +0800" stop="20260925103000 +0800">
+		<title lang="zh">Newsfeed</title>
+	</programme>
+	<programme channel="TRT World" start="20260925103000 +0800" stop="20260925110000 +0800">
+		<title lang="zh">Nexus</title>
+	</programme>
+	<programme channel="TRT World" start="20260925110000 +0800" stop="20260925120000 +0800">
+		<title lang="zh">Newshour - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260925120000 +0800" stop="20260925123000 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260925123000 +0800" stop="20260925130000 +0800">
+		<title lang="zh">Bigger Than Five</title>
+	</programme>
+	<programme channel="TRT World" start="20260925130000 +0800" stop="20260925133000 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260925133000 +0800" stop="20260925134500 +0800">
+		<title lang="zh">One On One</title>
+	</programme>
+	<programme channel="TRT World" start="20260925134500 +0800" stop="20260925140000 +0800">
+		<title lang="zh">Focal Point</title>
+	</programme>
+	<programme channel="TRT World" start="20260925140000 +0800" stop="20260925143000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925143000 +0800" stop="20260925150000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260925150000 +0800" stop="20260925153000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925153000 +0800" stop="20260925154500 +0800">
+		<title lang="zh">One On One</title>
+	</programme>
+	<programme channel="TRT World" start="20260925154500 +0800" stop="20260925160000 +0800">
+		<title lang="zh">Digital Documentaries</title>
+	</programme>
+	<programme channel="TRT World" start="20260925160000 +0800" stop="20260925163000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925163000 +0800" stop="20260925170000 +0800">
+		<title lang="zh">Nexus</title>
+	</programme>
+	<programme channel="TRT World" start="20260925170000 +0800" stop="20260925171500 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925171500 +0800" stop="20260925173000 +0800">
+		<title lang="zh">Newsfeed</title>
+	</programme>
+	<programme channel="TRT World" start="20260925173000 +0800" stop="20260925180000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260925180000 +0800" stop="20260925183000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925183000 +0800" stop="20260925190000 +0800">
+		<title lang="zh">My America</title>
+	</programme>
+	<programme channel="TRT World" start="20260925190000 +0800" stop="20260925193000 +0800">
+		<title lang="zh">Bigger Than Five</title>
+	</programme>
+	<programme channel="TRT World" start="20260925193000 +0800" stop="20260925200000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260925200000 +0800" stop="20260925203000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925203000 +0800" stop="20260925204500 +0800">
+		<title lang="zh">One On One</title>
+	</programme>
+	<programme channel="TRT World" start="20260925204500 +0800" stop="20260925210000 +0800">
+		<title lang="zh">Digital Documentaries</title>
+	</programme>
+	<programme channel="TRT World" start="20260925210000 +0800" stop="20260925213000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925213000 +0800" stop="20260925220000 +0800">
+		<title lang="zh">Nextech</title>
+	</programme>
+	<programme channel="TRT World" start="20260925220000 +0800" stop="20260925223000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925223000 +0800" stop="20260925230000 +0800">
+		<title lang="zh">Strait Talk</title>
+	</programme>
+	<programme channel="TRT World" start="20260925230000 +0800" stop="20260925233000 +0800">
+		<title lang="zh">Business News</title>
+	</programme>
+	<programme channel="TRT World" start="20260925233000 +0800" stop="20260926000000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260926000000 +0800" stop="20260926010000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="TRT World" start="20260926010000 +0800" stop="20260926020000 +0800">
+		<title lang="zh">Storyteller</title>
+	</programme>
+	<programme channel="TRT World" start="20260926020000 +0800" stop="20260926023000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926023000 +0800" stop="20260926030000 +0800">
+		<title lang="zh">Inside America</title>
+	</programme>
+	<programme channel="TRT World" start="20260926030000 +0800" stop="20260926033000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926033000 +0800" stop="20260926034500 +0800">
+		<title lang="zh">One On One</title>
+	</programme>
+	<programme channel="TRT World" start="20260926034500 +0800" stop="20260926040000 +0800">
+		<title lang="zh">Digital Documentaries</title>
+	</programme>
+	<programme channel="TRT World" start="20260926040000 +0800" stop="20260926050000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="TRT World" start="20260926050000 +0800" stop="20260926053000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926053000 +0800" stop="20260926060000 +0800">
+		<title lang="zh">Nexus</title>
+	</programme>
+	<programme channel="TRT World" start="20260926060000 +0800" stop="20260926063000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926063000 +0800" stop="20260926070000 +0800">
+		<title lang="zh">Africa Matters</title>
+	</programme>
+	<programme channel="TRT World" start="20260926070000 +0800" stop="20260926073000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260926073000 +0800" stop="20260926080000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260926080000 +0800" stop="20260926090000 +0800">
+		<title lang="zh">Newshour</title>
+	</programme>
+	<programme channel="TRT World" start="20260926090000 +0800" stop="20260926093000 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260926093000 +0800" stop="20260926100000 +0800">
+		<title lang="zh">Money Talks</title>
+	</programme>
+	<programme channel="TRT World" start="20260926100000 +0800" stop="20260926101500 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260926101500 +0800" stop="20260926103000 +0800">
+		<title lang="zh">Newsfeed</title>
+	</programme>
+	<programme channel="TRT World" start="20260926103000 +0800" stop="20260926110000 +0800">
+		<title lang="zh">Strait Talk</title>
+	</programme>
+	<programme channel="TRT World" start="20260926110000 +0800" stop="20260926120000 +0800">
+		<title lang="zh">Newshour - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260926120000 +0800" stop="20260926123000 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260926123000 +0800" stop="20260926130000 +0800">
+		<title lang="zh">Across The Balkans</title>
+	</programme>
+	<programme channel="TRT World" start="20260926130000 +0800" stop="20260926133000 +0800">
+		<title lang="zh">News - London</title>
+	</programme>
+	<programme channel="TRT World" start="20260926133000 +0800" stop="20260926140000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260926140000 +0800" stop="20260926143000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926143000 +0800" stop="20260926150000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260926150000 +0800" stop="20260926153000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926153000 +0800" stop="20260926160000 +0800">
+		<title lang="zh">Strait Talk</title>
+	</programme>
+	<programme channel="TRT World" start="20260926160000 +0800" stop="20260926163000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926163000 +0800" stop="20260926170000 +0800">
+		<title lang="zh">Beyond Borders</title>
+	</programme>
+	<programme channel="TRT World" start="20260926170000 +0800" stop="20260926171500 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926171500 +0800" stop="20260926173000 +0800">
+		<title lang="zh">Newsfeed</title>
+	</programme>
+	<programme channel="TRT World" start="20260926173000 +0800" stop="20260926180000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260926180000 +0800" stop="20260926183000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926183000 +0800" stop="20260926190000 +0800">
+		<title lang="zh">Money Talks</title>
+	</programme>
+	<programme channel="TRT World" start="20260926190000 +0800" stop="20260926193000 +0800">
+		<title lang="zh">Across The Balkans</title>
+	</programme>
+	<programme channel="TRT World" start="20260926193000 +0800" stop="20260926200000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260926200000 +0800" stop="20260926203000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926203000 +0800" stop="20260926210000 +0800">
+		<title lang="zh">Africa Matters</title>
+	</programme>
+	<programme channel="TRT World" start="20260926210000 +0800" stop="20260926213000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926213000 +0800" stop="20260926220000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260926220000 +0800" stop="20260926223000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926223000 +0800" stop="20260926230000 +0800">
+		<title lang="zh">Money Talks</title>
+	</programme>
+	<programme channel="TRT World" start="20260926230000 +0800" stop="20260926233000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260926233000 +0800" stop="20260927000000 +0800">
+		<title lang="zh">The Longest Day</title>
+	</programme>
+	<programme channel="TRT World" start="20260927000000 +0800" stop="20260927003000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927003000 +0800" stop="20260927010000 +0800">
+		<title lang="zh">Bigger Than Five</title>
+	</programme>
+	<programme channel="TRT World" start="20260927010000 +0800" stop="20260927013000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260927013000 +0800" stop="20260927020000 +0800">
+		<title lang="zh">Just 2 Degrees</title>
+	</programme>
+	<programme channel="TRT World" start="20260927020000 +0800" stop="20260927023000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927023000 +0800" stop="20260927024500 +0800">
+		<title lang="zh">Debrief</title>
+	</programme>
+	<programme channel="TRT World" start="20260927024500 +0800" stop="20260927030000 +0800">
+		<title lang="zh">Newsfeed</title>
+	</programme>
+	<programme channel="TRT World" start="20260927030000 +0800" stop="20260927033000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927033000 +0800" stop="20260927040000 +0800">
+		<title lang="zh">Raising Expectations</title>
+	</programme>
+	<programme channel="TRT World" start="20260927040000 +0800" stop="20260927043000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927043000 +0800" stop="20260927044500 +0800">
+		<title lang="zh">A Sole Survivor</title>
+	</programme>
+	<programme channel="TRT World" start="20260927044500 +0800" stop="20260927050000 +0800">
+		<title lang="zh">Displaced Melodies</title>
+	</programme>
+	<programme channel="TRT World" start="20260927050000 +0800" stop="20260927053000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927053000 +0800" stop="20260927060000 +0800">
+		<title lang="zh">Money Talks</title>
+	</programme>
+	<programme channel="TRT World" start="20260927060000 +0800" stop="20260927063000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927063000 +0800" stop="20260927070000 +0800">
+		<title lang="zh">Across The Balkans</title>
+	</programme>
+	<programme channel="TRT World" start="20260927070000 +0800" stop="20260927073000 +0800">
+		<title lang="zh">The Newsmakers</title>
+	</programme>
+	<programme channel="TRT World" start="20260927073000 +0800" stop="20260927080000 +0800">
+		<title lang="zh">Strait Talk</title>
+	</programme>
+	<programme channel="TRT World" start="20260927080000 +0800" stop="20260927083000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927083000 +0800" stop="20260927090000 +0800">
+		<title lang="zh">Nexus</title>
+	</programme>
+	<programme channel="TRT World" start="20260927090000 +0800" stop="20260927093000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927093000 +0800" stop="20260927100000 +0800">
+		<title lang="zh">Africa Matters</title>
+	</programme>
+	<programme channel="TRT World" start="20260927100000 +0800" stop="20260927103000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927103000 +0800" stop="20260927110000 +0800">
+		<title lang="zh">Inside America</title>
+	</programme>
+	<programme channel="TRT World" start="20260927110000 +0800" stop="20260927113000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927113000 +0800" stop="20260927114500 +0800">
+		<title lang="zh">Scoreline</title>
+	</programme>
+	<programme channel="TRT World" start="20260927114500 +0800" stop="20260927120000 +0800">
+		<title lang="zh">Debrief</title>
+	</programme>
+	<programme channel="TRT World" start="20260927120000 +0800" stop="20260927123000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927123000 +0800" stop="20260927130000 +0800">
+		<title lang="zh">Money Talks</title>
+	</programme>
+	<programme channel="TRT World" start="20260927130000 +0800" stop="20260927133000 +0800">
+		<title lang="zh">News</title>
+	</programme>
+	<programme channel="TRT World" start="20260927133000 +0800" stop="20260927140000 +0800">
+		<title lang="zh">Roundtable</title>
+	</programme>
+	<programme channel="TRT World" start="20260927140000 +0800" stop="20260928000000 +0800">
+		<title lang="zh">Storyteller</title>
+	</programme>
+	<channel id="Discovery">
+		<display-name lang="zh">Discovery</display-name>
+	</channel>
+	<programme channel="Discovery" start="20260925000000 +0800" stop="20260925010000 +0800">
+		<title lang="zh">The Last Woodsmen</title>
+	</programme>
+	<programme channel="Discovery" start="20260925010000 +0800" stop="20260925020000 +0800">
+		<title lang="zh">The Last Woodsmen</title>
+	</programme>
+	<programme channel="Discovery" start="20260925020000 +0800" stop="20260925030000 +0800">
+		<title lang="zh">Building Off The Grid</title>
+	</programme>
+	<programme channel="Discovery" start="20260925030000 +0800" stop="20260925040000 +0800">
+		<title lang="zh">Building Off The Grid</title>
+	</programme>
+	<programme channel="Discovery" start="20260925040000 +0800" stop="20260925050000 +0800">
+		<title lang="zh">The Zoo: San Diego</title>
+	</programme>
+	<programme channel="Discovery" start="20260925050000 +0800" stop="20260925060000 +0800">
+		<title lang="zh">The Zoo: San Diego</title>
+	</programme>
+	<programme channel="Discovery" start="20260925060000 +0800" stop="20260925063000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260925063000 +0800" stop="20260925070000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260925070000 +0800" stop="20260925073000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260925073000 +0800" stop="20260925080000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260925080000 +0800" stop="20260925100000 +0800">
+		<title lang="zh">Alaska: Homestead Rescue</title>
+	</programme>
+	<programme channel="Discovery" start="20260925100000 +0800" stop="20260925110000 +0800">
+		<title lang="zh">Wheeler Dealers</title>
+	</programme>
+	<programme channel="Discovery" start="20260925110000 +0800" stop="20260925120000 +0800">
+		<title lang="zh">Wheeler Dealers</title>
+	</programme>
+	<programme channel="Discovery" start="20260925120000 +0800" stop="20260925140000 +0800">
+		<title lang="zh">New: Naked And Afraid: Shipwrecked</title>
+	</programme>
+	<programme channel="Discovery" start="20260925140000 +0800" stop="20260925150000 +0800">
+		<title lang="zh">In The Eye Of The Storm</title>
+	</programme>
+	<programme channel="Discovery" start="20260925150000 +0800" stop="20260925160000 +0800">
+		<title lang="zh">Deadliest Catch</title>
+	</programme>
+	<programme channel="Discovery" start="20260925160000 +0800" stop="20260925180000 +0800">
+		<title lang="zh">Naked And Afraid: Shipwrecked</title>
+	</programme>
+	<programme channel="Discovery" start="20260925180000 +0800" stop="20260925190000 +0800">
+		<title lang="zh">Gold Divers</title>
+	</programme>
+	<programme channel="Discovery" start="20260925190000 +0800" stop="20260925200000 +0800">
+		<title lang="zh">Street Outlaws: Locals Only</title>
+	</programme>
+	<programme channel="Discovery" start="20260925200000 +0800" stop="20260925203000 +0800">
+		<title lang="zh">Teleshopping</title>
+	</programme>
+	<programme channel="Discovery" start="20260925203000 +0800" stop="20260925210000 +0800">
+		<title lang="zh">Teleshopping</title>
+	</programme>
+	<programme channel="Discovery" start="20260925210000 +0800" stop="20260925213000 +0800">
+		<title lang="zh">How It's Made</title>
+	</programme>
+	<programme channel="Discovery" start="20260925213000 +0800" stop="20260925220000 +0800">
+		<title lang="zh">How It's Made</title>
+	</programme>
+	<programme channel="Discovery" start="20260925220000 +0800" stop="20260926000000 +0800">
+		<title lang="zh">Treehouse Masters</title>
+	</programme>
+	<programme channel="Discovery" start="20260926000000 +0800" stop="20260926010000 +0800">
+		<title lang="zh">The Last Woodsmen</title>
+	</programme>
+	<programme channel="Discovery" start="20260926010000 +0800" stop="20260926020000 +0800">
+		<title lang="zh">The Last Woodsmen</title>
+	</programme>
+	<programme channel="Discovery" start="20260926020000 +0800" stop="20260926030000 +0800">
+		<title lang="zh">Building Off The Grid</title>
+	</programme>
+	<programme channel="Discovery" start="20260926030000 +0800" stop="20260926040000 +0800">
+		<title lang="zh">Building Off The Grid</title>
+	</programme>
+	<programme channel="Discovery" start="20260926040000 +0800" stop="20260926050000 +0800">
+		<title lang="zh">Animal Cops Houston</title>
+	</programme>
+	<programme channel="Discovery" start="20260926050000 +0800" stop="20260926060000 +0800">
+		<title lang="zh">Animal Cops Houston</title>
+	</programme>
+	<programme channel="Discovery" start="20260926060000 +0800" stop="20260926063000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260926063000 +0800" stop="20260926070000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260926070000 +0800" stop="20260926073000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260926073000 +0800" stop="20260926080000 +0800">
+		<title lang="zh">Buying Alaska</title>
+	</programme>
+	<programme channel="Discovery" start="20260926080000 +0800" stop="20260926100000 +0800">
+		<title lang="zh">Alaska: Homestead Rescue</title>
+	</programme>
+	<programme channel="Discovery" start="20260926100000 +0800" stop="20260926110000 +0800">
+		<title lang="zh">Wheeler Dealers</title>
+	</programme>
+	<programme channel="Discovery" start="20260926110000 +0800" stop="20260926120000 +0800">
+		<title lang="zh">Deadliest Catch</title>
+	</programme>
+	<programme channel="Discovery" start="20260926120000 +0800" stop="20260926130000 +0800">
+		<title lang="zh">New: Expedition Unknown</title>
+	</programme>
+	<programme channel="Discovery" start="20260926130000 +0800" stop="20260926140000 +0800">
+		<title lang="zh">Expedition Unknown</title>
+	</programme>
+	<programme channel="Discovery" start="20260926140000 +0800" stop="20260926150000 +0800">
+		<title lang="zh">In The Eye Of The Storm</title>
+	</programme>
+	<programme channel="Discovery" start="20260926150000 +0800" stop="20260926160000 +0800">
+		<title lang="zh">Deadliest Catch</title>
+	</programme>
+	<programme channel="Discovery" start="20260926160000 +0800" stop="20260926170000 +0800">
+		<title lang="zh">Expedition Unknown</title>
+	</programme>
+	<programme channel="Discovery" start="20260926170000 +0800" stop="20260926180000 +0800">
+		<title lang="zh">Expedition Unknown</title>
+	</programme>
+	<programme channel="Discovery" start="20260926180000 +0800" stop="20260926190000 +0800">
+		<title lang="zh">Gold Divers</title>
+	</programme>
+	<programme channel="Discovery" start="20260926190000 +0800" stop="20260926200000 +0800">
+		<title lang="zh">Street Outlaws: Locals Only</title>
+	</programme>
+	<programme channel="Discovery" start="20260926200000 +0800" stop="20260926203000 +0800">
+		<title lang="zh">Teleshopping</title>
+	</programme>
+	<programme channel="Discovery" start="20260926203000 +0800" stop="20260926210000 +0800">
+		<title lang="zh">Teleshopping</title>
+	</programme>
+	<programme channel="Discovery" start="20260926210000 +0800" stop="20260926213000 +0800">
+		<title lang="zh">How Do They Do It?</title>
+	</programme>
+	<programme channel="Discovery" start="20260926213000 +0800" stop="20260926220000 +0800">
+		<title lang="zh">How Do They Do It?</title>
+	</programme>
+	<programme channel="Discovery" start="20260926220000 +0800" stop="20260926223000 +0800">
+		<title lang="zh">How Do They Do It?</title>
+	</programme>
+	<programme channel="Discovery" start="20260926223000 +0800" stop="20260926230000 +0800">
+		<title lang="zh">How Do They Do It?</title>
+	</programme>
+	<programme channel="Discovery" start="20260926230000 +0800" stop="20260926233000 +0800">
+		<title lang="zh">How Do They Do It?</title>
+	</programme>
+	<programme channel="Discovery" start="20260926233000 +0800" stop="20260927000000 +0800">
+		<title lang="zh">How Do They Do It?</title>
+	</programme>
+	<programme channel="Discovery" start="20260927000000 +0800" stop="20260927010000 +0800">
+		<title lang="zh">Dr. Jeff: Rocky Mountain Vet</title>
+	</programme>
+	<programme channel="Discovery" start="20260927010000 +0800" stop="20260927020000 +0800">
+		<title lang="zh">Dr. Jeff: Rocky Mountain Vet</title>
+	</programme>
+	<programme channel="Discovery" start="20260927020000 +0800" stop="20260927030000 +0800">
+		<title lang="zh">Dr. Jeff: Rocky Mountain Vet</title>
+	</programme>
+	<programme channel="Discovery" start="20260927030000 +0800" stop="20260927040000 +0800">
+		<title lang="zh">The Woodland Workshop</title>
+	</programme>
+	<programme channel="Discovery" start="20260927040000 +0800" stop="20260927050000 +0800">
+		<title lang="zh">The Woodland Workshop</title>
+	</programme>
+	<programme channel="Discovery" start="20260927050000 +0800" stop="20260927060000 +0800">
+		<title lang="zh">The Woodland Workshop</title>
+	</programme>
+	<programme channel="Discovery" start="20260927060000 +0800" stop="20260927070000 +0800">
+		<title lang="zh">The Woodland Workshop</title>
+	</programme>
+	<programme channel="Discovery" start="20260927070000 +0800" stop="20260927080000 +0800">
+		<title lang="zh">The Woodland Workshop</title>
+	</programme>
+	<programme channel="Discovery" start="20260927080000 +0800" stop="20260927090000 +0800">
+		<title lang="zh">The Woodland Workshop</title>
+	</programme>
+	<programme channel="Discovery" start="20260927090000 +0800" stop="20260927100000 +0800">
+		<title lang="zh">Deadliest Catch</title>
+	</programme>
+	<programme channel="Discovery" start="20260927100000 +0800" stop="20260927110000 +0800">
+		<title lang="zh">Maine Cabin Masters</title>
+	</programme>
+	<programme channel="Discovery" start="20260927110000 +0800" stop="20260927120000 +0800">
+		<title lang="zh">Building Off The Grid</title>
+	</programme>
+	<programme channel="Discovery" start="20260927120000 +0800" stop="20260927140000 +0800">
+		<title lang="zh">Naked And Afraid: Shipwrecked</title>
+	</programme>
+	<programme channel="Discovery" start="20260927140000 +0800" stop="20260928000000 +0800">
+		<title lang="zh">Expedition Unknown</title>
+	</programme>
+	<channel id="NOW 80s">
+		<display-name lang="zh">NOW 80s</display-name>
+	</channel>
+	<programme channel="NOW 80s" start="20260925000000 +0800" stop="20260925030000 +0800">
+		<title lang="zh">80s Dancefloor with Jeff Young!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925030000 +0800" stop="20260925040000 +0800">
+		<title lang="zh">Dance Yourself Dizzy Day!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925040000 +0800" stop="20260925085000 +0800">
+		<title lang="zh">80s - A Decade of Dance!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925085000 +0800" stop="20260925090000 +0800">
+		<title lang="zh">Dance Yourself Dizzy Day!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925090000 +0800" stop="20260925115000 +0800">
+		<title lang="zh">Mark Goodier's 12 inch 80s!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925115000 +0800" stop="20260925120000 +0800">
+		<title lang="zh">Dance Yourself Dizzy Day!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925120000 +0800" stop="20260925140000 +0800">
+		<title lang="zh">The Last Days of Disco! 1980-1982</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925140000 +0800" stop="20260925160500 +0800">
+		<title lang="zh">Sinitta's High Energy Hits! Top 25</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925160500 +0800" stop="20260925200000 +0800">
+		<title lang="zh">80s Dance Party Night!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925200000 +0800" stop="20260925210000 +0800">
+		<title lang="zh">80s Flashback Frenzy!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925210000 +0800" stop="20260925214000 +0800">
+		<title lang="zh">Eurythmics Anthems! Top 10</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925214000 +0800" stop="20260925220000 +0800">
+		<title lang="zh">80s Flashback Frenzy!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260925220000 +0800" stop="20260926000000 +0800">
+		<title lang="zh">Complete George Michael: 1982-1989</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926000000 +0800" stop="20260926023500 +0800">
+		<title lang="zh">Andy McCluskey's Synth Pop 30</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926023500 +0800" stop="20260926030000 +0800">
+		<title lang="zh">That 80s Friday Feeling!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926030000 +0800" stop="20260926112000 +0800">
+		<title lang="zh">101 Feelgood Anthems of the 80s!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926112000 +0800" stop="20260926120000 +0800">
+		<title lang="zh">That 80s Friday Feeling!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926120000 +0800" stop="20260926160500 +0800">
+		<title lang="zh">50 Wild Women of the 80s!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926160500 +0800" stop="20260926170000 +0800">
+		<title lang="zh">That 80s Friday Feeling!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926170000 +0800" stop="20260926175000 +0800">
+		<title lang="zh">The Heritage Chart with Mike Read</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926175000 +0800" stop="20260926180000 +0800">
+		<title lang="zh">Get Fresh at the Weekend!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926180000 +0800" stop="20260926201000 +0800">
+		<title lang="zh">Pop Gold! 80s v 90s</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926201000 +0800" stop="20260926210000 +0800">
+		<title lang="zh">Get Fresh at the Weekend!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926210000 +0800" stop="20260926215000 +0800">
+		<title lang="zh">1986's One-Hit-Wonders! Top 12</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926215000 +0800" stop="20260926220000 +0800">
+		<title lang="zh">1986 Unleashed!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260926220000 +0800" stop="20260927003000 +0800">
+		<title lang="zh">Wot? They Streamed a Billion?</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927003000 +0800" stop="20260927010000 +0800">
+		<title lang="zh">Get Fresh at the Weekend!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927010000 +0800" stop="20260927024500 +0800">
+		<title lang="zh">The UK Top 20 of the 80s</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927024500 +0800" stop="20260927030000 +0800">
+		<title lang="zh">Get Fresh at the Weekend!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927030000 +0800" stop="20260927051500 +0800">
+		<title lang="zh">Every Song From NOW 5 - 1985</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927051500 +0800" stop="20260927053000 +0800">
+		<title lang="zh">Get Fresh at the Weekend!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927053000 +0800" stop="20260927073000 +0800">
+		<title lang="zh">Totally Insane with Andy Crane!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927073000 +0800" stop="20260927080000 +0800">
+		<title lang="zh">I Wanna Dance With Somebody!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927080000 +0800" stop="20260927100000 +0800">
+		<title lang="zh">Strictly Dance Crazes of the 80s!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927100000 +0800" stop="20260927122000 +0800">
+		<title lang="zh">Jenny Powell's Powerplays - Top 25</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927122000 +0800" stop="20260927130000 +0800">
+		<title lang="zh">It's 1986 Night!</title>
+	</programme>
+	<programme channel="NOW 80s" start="20260927130000 +0800" stop="20260928000000 +0800">
+		<title lang="zh">40 Years On - 1986's Best Sellers!</title>
+	</programme>
+	<channel id="MUTV">
+		<display-name lang="zh">MUTV</display-name>
+	</channel>
+	<programme channel="MUTV" start="20260925003000 +0800" stop="20260925010000 +0800">
+		<title lang="zh">2008 UCL Final: v Chelsea</title>
+	</programme>
+	<programme channel="MUTV" start="20260925010000 +0800" stop="20260925013000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925013000 +0800" stop="20260925014500 +0800">
+		<title lang="zh">New: Access All Areas</title>
+	</programme>
+	<programme channel="MUTV" start="20260925014500 +0800" stop="20260925015500 +0800">
+		<title lang="zh">What Moves Me: Toone</title>
+	</programme>
+	<programme channel="MUTV" start="20260925015500 +0800" stop="20260925040000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925040000 +0800" stop="20260925043000 +0800">
+		<title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925043000 +0800" stop="20260925050000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925050000 +0800" stop="20260925053000 +0800">
+		<title lang="zh">UEFA Champions League Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925053000 +0800" stop="20260925060000 +0800">
+		<title lang="zh">2008 UCL Semi-Final</title>
+	</programme>
+	<programme channel="MUTV" start="20260925060000 +0800" stop="20260925063000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925063000 +0800" stop="20260925070000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925070000 +0800" stop="20260925090500 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925090500 +0800" stop="20260925091500 +0800">
+		<title lang="zh">What Moves Me: Toone</title>
+	</programme>
+	<programme channel="MUTV" start="20260925091500 +0800" stop="20260925093000 +0800">
+		<title lang="zh">Access All Areas</title>
+	</programme>
+	<programme channel="MUTV" start="20260925093000 +0800" stop="20260925100000 +0800">
+		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925100000 +0800" stop="20260925103000 +0800">
+		<title lang="zh">New: Inside Carrington</title>
+	</programme>
+	<programme channel="MUTV" start="20260925103000 +0800" stop="20260925104500 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260925104500 +0800" stop="20260925110000 +0800">
+		<title lang="zh">2008 UCL Semi-Final</title>
+	</programme>
+	<programme channel="MUTV" start="20260925110000 +0800" stop="20260925111500 +0800">
+		<title lang="zh">Top 20 Wayne Rooney Goals</title>
+	</programme>
+	<programme channel="MUTV" start="20260925111500 +0800" stop="20260925113000 +0800">
+		<title lang="zh">2008 UCL Final: v Chelsea</title>
+	</programme>
+	<programme channel="MUTV" start="20260925113000 +0800" stop="20260925114500 +0800">
+		<title lang="zh">2008 UCL Semi-Final</title>
+	</programme>
+	<programme channel="MUTV" start="20260925114500 +0800" stop="20260925120000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925120000 +0800" stop="20260925121500 +0800">
+		<title lang="zh">2008 UCL Final: v Chelsea</title>
+	</programme>
+	<programme channel="MUTV" start="20260925121500 +0800" stop="20260925123000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925123000 +0800" stop="20260925124500 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925124500 +0800" stop="20260925130000 +0800">
+		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925130000 +0800" stop="20260925131500 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925131500 +0800" stop="20260925133000 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260925133000 +0800" stop="20260925140000 +0800">
+		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925140000 +0800" stop="20260925143000 +0800">
+		<title lang="zh">2008 UCL Semi-Final</title>
+	</programme>
+	<programme channel="MUTV" start="20260925143000 +0800" stop="20260925150000 +0800">
+		<title lang="zh">2008 UCL Final: v Chelsea</title>
+	</programme>
+	<programme channel="MUTV" start="20260925150000 +0800" stop="20260925153000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925153000 +0800" stop="20260925160000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925160000 +0800" stop="20260925164000 +0800">
+		<title lang="zh">Farewell Casemiro</title>
+	</programme>
+	<programme channel="MUTV" start="20260925164000 +0800" stop="20260925170000 +0800">
+		<title lang="zh">All The Goals: Casemiro</title>
+	</programme>
+	<programme channel="MUTV" start="20260925170000 +0800" stop="20260925184500 +0800">
+		<title lang="zh">PL Match: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925184500 +0800" stop="20260925190000 +0800">
+		<title lang="zh">Access All Areas</title>
+	</programme>
+	<programme channel="MUTV" start="20260925190000 +0800" stop="20260925210000 +0800">
+		<title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260925210000 +0800" stop="20260925223000 +0800">
+		<title lang="zh">All The Goals: Rashford</title>
+	</programme>
+	<programme channel="MUTV" start="20260925223000 +0800" stop="20260926001500 +0800">
+		<title lang="zh">UEFA Champions League 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926001500 +0800" stop="20260926010000 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260926010000 +0800" stop="20260926013000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926013000 +0800" stop="20260926020000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926020000 +0800" stop="20260926023000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926023000 +0800" stop="20260926030000 +0800">
+		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926030000 +0800" stop="20260926043000 +0800">
+		<title lang="zh">All The Goals: Rashford</title>
+	</programme>
+	<programme channel="MUTV" start="20260926043000 +0800" stop="20260926061500 +0800">
+		<title lang="zh">PL Match: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926061500 +0800" stop="20260926070000 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260926070000 +0800" stop="20260926090000 +0800">
+		<title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926090000 +0800" stop="20260926103000 +0800">
+		<title lang="zh">All The Goals: Rashford</title>
+	</programme>
+	<programme channel="MUTV" start="20260926103000 +0800" stop="20260926110000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926110000 +0800" stop="20260926124500 +0800">
+		<title lang="zh">UEFA Champions League 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926124500 +0800" stop="20260926133000 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260926133000 +0800" stop="20260926140000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926140000 +0800" stop="20260926143000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926143000 +0800" stop="20260926150000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926150000 +0800" stop="20260926153000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926153000 +0800" stop="20260926160000 +0800">
+		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926160000 +0800" stop="20260926163000 +0800">
+		<title lang="zh">All The Goals: PL Free-Kicks</title>
+	</programme>
+	<programme channel="MUTV" start="20260926163000 +0800" stop="20260926171500 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260926171500 +0800" stop="20260926190000 +0800">
+		<title lang="zh">PL Match: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926190000 +0800" stop="20260926193000 +0800">
+		<title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926193000 +0800" stop="20260926200000 +0800">
+		<title lang="zh">PL Highlights: Everton (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926200000 +0800" stop="20260926203000 +0800">
+		<title lang="zh">UEFA Champions League Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926203000 +0800" stop="20260926210000 +0800">
+		<title lang="zh">UEFA Youth League Highlights</title>
+	</programme>
+	<programme channel="MUTV" start="20260926210000 +0800" stop="20260926214500 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260926214500 +0800" stop="20260926220000 +0800">
+		<title lang="zh">Access All Areas</title>
+	</programme>
+	<programme channel="MUTV" start="20260926220000 +0800" stop="20260926223000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926223000 +0800" stop="20260926230000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926230000 +0800" stop="20260926233000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260926233000 +0800" stop="20260927000000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927000000 +0800" stop="20260927003000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927003000 +0800" stop="20260927010000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927010000 +0800" stop="20260927013000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927013000 +0800" stop="20260927020000 +0800">
+		<title lang="zh">UEFA Youth League Highlights</title>
+	</programme>
+	<programme channel="MUTV" start="20260927020000 +0800" stop="20260927023000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927023000 +0800" stop="20260927041500 +0800">
+		<title lang="zh">PL Match: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927041500 +0800" stop="20260927050000 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260927050000 +0800" stop="20260927054000 +0800">
+		<title lang="zh">Farewell Casemiro</title>
+	</programme>
+	<programme channel="MUTV" start="20260927054000 +0800" stop="20260927060000 +0800">
+		<title lang="zh">All The Goals: Casemiro</title>
+	</programme>
+	<programme channel="MUTV" start="20260927060000 +0800" stop="20260927063000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927063000 +0800" stop="20260927071500 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260927071500 +0800" stop="20260927073000 +0800">
+		<title lang="zh">Access All Areas</title>
+	</programme>
+	<programme channel="MUTV" start="20260927073000 +0800" stop="20260927080000 +0800">
+		<title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927080000 +0800" stop="20260927083000 +0800">
+		<title lang="zh">UEFA Champions League Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927083000 +0800" stop="20260927091500 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260927091500 +0800" stop="20260927093000 +0800">
+		<title lang="zh">Access All Areas</title>
+	</programme>
+	<programme channel="MUTV" start="20260927093000 +0800" stop="20260927100000 +0800">
+		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927100000 +0800" stop="20260927103000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927103000 +0800" stop="20260927110000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927110000 +0800" stop="20260927113000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927113000 +0800" stop="20260927120000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927120000 +0800" stop="20260927123000 +0800">
+		<title lang="zh">U18s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927123000 +0800" stop="20260927130000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927130000 +0800" stop="20260927133000 +0800">
+		<title lang="zh">U21s Highlights 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927133000 +0800" stop="20260927140000 +0800">
+		<title lang="zh">MUW 26/27</title>
+	</programme>
+	<programme channel="MUTV" start="20260927140000 +0800" stop="20260927144500 +0800">
+		<title lang="zh">Podcast</title>
+	</programme>
+	<programme channel="MUTV" start="20260927144500 +0800" stop="20260928000000 +0800">
+		<title lang="zh">Access All Areas</title>
+	</programme>
+	<channel id="NOW 70s">
+		<display-name lang="zh">NOW 70s</display-name>
+	</channel>
+	<programme channel="NOW 70s" start="20260925000000 +0800" stop="20260925023500 +0800">
+		<title lang="zh">Wot? They Streamed a Billion?</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925023500 +0800" stop="20260925030000 +0800">
+		<title lang="zh">Let The Good Times Roll!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925030000 +0800" stop="20260925050500 +0800">
+		<title lang="zh">Kiki Dee's Duos &amp; Duets! 1970-1979</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925050500 +0800" stop="20260925060000 +0800">
+		<title lang="zh">Retro Rewind! 70s Edition</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925060000 +0800" stop="20260925074000 +0800">
+		<title lang="zh">The Complete Elton 70s Videography</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925074000 +0800" stop="20260925080000 +0800">
+		<title lang="zh">Retro Rewind! 70s Edition</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925080000 +0800" stop="20260925090000 +0800">
+		<title lang="zh">Who Forgot The Words?!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925090000 +0800" stop="20260925100000 +0800">
+		<title lang="zh">Mark Goodier's No.1s of 1979</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925100000 +0800" stop="20260925120000 +0800">
+		<title lang="zh">The Best 1979 Party...Ever!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925120000 +0800" stop="20260925143000 +0800">
+		<title lang="zh">The NOW Yearbook 1979</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925143000 +0800" stop="20260925150000 +0800">
+		<title lang="zh">1979 Night!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925150000 +0800" stop="20260925163000 +0800">
+		<title lang="zh">Mike Read's Pop Quiz: 1979</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925163000 +0800" stop="20260925190000 +0800">
+		<title lang="zh">1979 Night!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925190000 +0800" stop="20260925210000 +0800">
+		<title lang="zh">Far Out, Man!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925210000 +0800" stop="20260925220000 +0800">
+		<title lang="zh">The USA's Best Sellers of the 70s!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925220000 +0800" stop="20260925233500 +0800">
+		<title lang="zh">Bruno Brookes UK Top 20 of the 70s</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260925233500 +0800" stop="20260926000000 +0800">
+		<title lang="zh">Power Pop Day!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926000000 +0800" stop="20260926020000 +0800">
+		<title lang="zh">The Greatest Showmen! Top 25</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926020000 +0800" stop="20260926040000 +0800">
+		<title lang="zh">Pat Sharp's Bad Hair - Big Tunes!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926040000 +0800" stop="20260926050000 +0800">
+		<title lang="zh">Power Pop Day!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926050000 +0800" stop="20260926150000 +0800">
+		<title lang="zh">Bam's Power Hours! 1970-1979</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926150000 +0800" stop="20260926174500 +0800">
+		<title lang="zh">Seven Inch Heroes! 1970-1979</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926174500 +0800" stop="20260926200000 +0800">
+		<title lang="zh">Boogie Nights!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926200000 +0800" stop="20260926210000 +0800">
+		<title lang="zh">Far Out, Man!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260926210000 +0800" stop="20260927051000 +0800">
+		<title lang="zh">The NOW 100 of the 70s</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260927051000 +0800" stop="20260927060000 +0800">
+		<title lang="zh">Daydreamers: A Whole Day of Love!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260927060000 +0800" stop="20260927133500 +0800">
+		<title lang="zh">NOW 100 Hits: Love Songs!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260927133500 +0800" stop="20260927140000 +0800">
+		<title lang="zh">Daydreamers: A Whole Day of Love!</title>
+	</programme>
+	<programme channel="NOW 70s" start="20260927140000 +0800" stop="20260928000000 +0800">
+		<title lang="zh">30 Boys In Love - In The 70s!</title>
+	</programme>
+	<channel id="NOW ROCK">
+		<display-name lang="zh">NOW ROCK</display-name>
+	</channel>
+	<programme channel="NOW ROCK" start="20260925020000 +0800" stop="20260925080000 +0800">
+		<title lang="zh">Monsters of Rock! 1990-1999</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925080000 +0800" stop="20260925102500 +0800">
+		<title lang="zh">30 Rock &amp; Indie Heroes of the 10s</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925102500 +0800" stop="20260925110000 +0800">
+		<title lang="zh">The Anthems!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925110000 +0800" stop="20260925114000 +0800">
+		<title lang="zh">Evanescence: Fan Favourites</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925114000 +0800" stop="20260925120000 +0800">
+		<title lang="zh">Rated Rock! The No.1s</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925120000 +0800" stop="20260925151500 +0800">
+		<title lang="zh">Backtrack: 1st Ladies 2015-1980</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925151500 +0800" stop="20260925160000 +0800">
+		<title lang="zh">Legendary Rock: 1980-1989</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925160000 +0800" stop="20260925190000 +0800">
+		<title lang="zh">Jenny Powell's Air Guitar Anthems!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925190000 +0800" stop="20260925210000 +0800">
+		<title lang="zh">Party Rock Anthems!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925210000 +0800" stop="20260925220000 +0800">
+		<title lang="zh">David Bowie: Rock Icon</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260925220000 +0800" stop="20260926000000 +0800">
+		<title lang="zh">The 25 Greatest Showmen of the 70s</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926000000 +0800" stop="20260926032500 +0800">
+		<title lang="zh">Carol Decker's Leather &amp; Lace!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926032500 +0800" stop="20260926040000 +0800">
+		<title lang="zh">Legendary Rock: 1980-1989</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926040000 +0800" stop="20260926050000 +0800">
+		<title lang="zh">Queen: Rock Icons</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926050000 +0800" stop="20260926074500 +0800">
+		<title lang="zh">Nicky Horne's Best Of British Rock</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926074500 +0800" stop="20260926080000 +0800">
+		<title lang="zh">The Best Of British!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926080000 +0800" stop="20260926154500 +0800">
+		<title lang="zh">GBR! Great British Rock 1986-2026</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926154500 +0800" stop="20260926160000 +0800">
+		<title lang="zh">The Best Of British!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926160000 +0800" stop="20260926185000 +0800">
+		<title lang="zh">Excess All Areas with Rick Wakeman</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926185000 +0800" stop="20260926210000 +0800">
+		<title lang="zh">The All Night Rock Party!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926210000 +0800" stop="20260926220000 +0800">
+		<title lang="zh">90s Soft Rock Classics</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260926220000 +0800" stop="20260927024500 +0800">
+		<title lang="zh">Overblown Rock Epics! 1975-2010</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260927024500 +0800" stop="20260927030000 +0800">
+		<title lang="zh">Killer Cuts Of The 00s!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260927030000 +0800" stop="20260927040000 +0800">
+		<title lang="zh">Nu Metal Immortals!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260927040000 +0800" stop="20260927080500 +0800">
+		<title lang="zh">Turn Up The Alt Rock Anthems!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260927080500 +0800" stop="20260927090000 +0800">
+		<title lang="zh">Weekend Anthems!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260927090000 +0800" stop="20260927112000 +0800">
+		<title lang="zh">Alex Baker's 30 High School Heroes</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260927112000 +0800" stop="20260927120000 +0800">
+		<title lang="zh">Party Rock Anthems!</title>
+	</programme>
+	<programme channel="NOW ROCK" start="20260927120000 +0800" stop="20260928000000 +0800">
+		<title lang="zh">No Intro Needed: 50 Rock Classics</title>
+	</programme>
+	<channel id="NOW 90s00s">
+		<display-name lang="zh">NOW 90s00s</display-name>
+	</channel>
+	<programme channel="NOW 90s00s" start="20260925012000 +0800" stop="20260925020000 +0800">
+		<title lang="zh">Here Come The Girls!</title>
+	</programme>
+	<programme channel="NOW 90s00s" start="20260925020000 +0800" stop="20260925030000 +0800">
+		<title lang="zh">Girls Aloud's Greatest Hits</title>
+	</programme>
+	<programme channel="NOW 90s00s" start="20260925030000 +0800" stop="20260925063000 +0800">
+		<title lang="zh">Mark Goodier</title>
+	</programme>
+	<programme channel="NOW 90s00s" start="20260925063000 +0800" stop="20260926000000 +0800">
+		<title lang="zh">Mellow Moments!</title>
+	</programme>
 	<channel id="Hub Premier 1">
 		<display-name lang="zh">Hub Premier 1</display-name>
 	</channel>
@@ -19496,1533 +21023,6 @@
 	</programme>
 	<programme channel="ntv" start="20260928075500 +0800" stop="20260929000000 +0800">
 		<title lang="zh">Anwälte der Toten – Verbrechen, die Deutschland bewegten</title>
-	</programme>
-	<channel id="Sky News">
-		<display-name lang="zh">Sky News</display-name>
-	</channel>
-	<programme channel="Sky News" start="20260925000000 +0800" stop="20260925003000 +0800">
-		<title lang="zh">Mornings with Ridge and Frost</title>
-	</programme>
-	<programme channel="Sky News" start="20260925003000 +0800" stop="20260925010000 +0800">
-		<title lang="zh">Mornings with Ridge and Frost</title>
-	</programme>
-	<programme channel="Sky News" start="20260925010000 +0800" stop="20260925013000 +0800">
-		<title lang="zh">Sky News Today with Gareth Barlow</title>
-	</programme>
-	<programme channel="Sky News" start="20260925013000 +0800" stop="20260925020000 +0800">
-		<title lang="zh">Sky News Today with Gareth Barlow</title>
-	</programme>
-	<programme channel="Sky News" start="20260925020000 +0800" stop="20260925023000 +0800">
-		<title lang="zh">Sky News Today with Gareth Barlow</title>
-	</programme>
-	<programme channel="Sky News" start="20260925023000 +0800" stop="20260925030000 +0800">
-		<title lang="zh">Sky News Today with Gareth Barlow</title>
-	</programme>
-	<programme channel="Sky News" start="20260925030000 +0800" stop="20260925033000 +0800">
-		<title lang="zh">Sky News Today with Gareth Barlow</title>
-	</programme>
-	<programme channel="Sky News" start="20260925033000 +0800" stop="20260925040000 +0800">
-		<title lang="zh">Sky News Today with Gareth Barlow</title>
-	</programme>
-	<programme channel="Sky News" start="20260925040000 +0800" stop="20260925043000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925043000 +0800" stop="20260925050000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925050000 +0800" stop="20260925053000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925053000 +0800" stop="20260925060000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925060000 +0800" stop="20260925063000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925063000 +0800" stop="20260925070000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925070000 +0800" stop="20260925073000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925073000 +0800" stop="20260925080000 +0800">
-		<title lang="zh">Sky News Today with Jayne Secker</title>
-	</programme>
-	<programme channel="Sky News" start="20260925080000 +0800" stop="20260925083000 +0800">
-		<title lang="zh">The News Hour With Mark Austin</title>
-	</programme>
-	<programme channel="Sky News" start="20260925083000 +0800" stop="20260925090000 +0800">
-		<title lang="zh">The News Hour With Mark Austin</title>
-	</programme>
-	<programme channel="Sky News" start="20260925090000 +0800" stop="20260925093000 +0800">
-		<title lang="zh">The News Hour With Mark Austin</title>
-	</programme>
-	<programme channel="Sky News" start="20260925093000 +0800" stop="20260925100000 +0800">
-		<title lang="zh">The News Hour With Mark Austin</title>
-	</programme>
-	<programme channel="Sky News" start="20260925100000 +0800" stop="20260925110000 +0800">
-		<title lang="zh">The Cathy Newman Show</title>
-	</programme>
-	<programme channel="Sky News" start="20260925110000 +0800" stop="20260925120000 +0800">
-		<title lang="zh">UK Tonight With Sarah-Jane Mee</title>
-	</programme>
-	<programme channel="Sky News" start="20260925120000 +0800" stop="20260925130000 +0800">
-		<title lang="zh">The World with Yalda Hakim</title>
-	</programme>
-	<programme channel="Sky News" start="20260925130000 +0800" stop="20260925133000 +0800">
-		<title lang="zh">The Wrap With Anna Botting</title>
-	</programme>
-	<programme channel="Sky News" start="20260925133000 +0800" stop="20260925140000 +0800">
-		<title lang="zh">The Wrap With Anna Botting</title>
-	</programme>
-	<programme channel="Sky News" start="20260925140000 +0800" stop="20260925143000 +0800">
-		<title lang="zh">The Wrap With Anna Botting</title>
-	</programme>
-	<programme channel="Sky News" start="20260925143000 +0800" stop="20260925150000 +0800">
-		<title lang="zh">The Wrap With Anna Botting</title>
-	</programme>
-	<programme channel="Sky News" start="20260925150000 +0800" stop="20260925160000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260925160000 +0800" stop="20260925170000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260925170000 +0800" stop="20260925180000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260925180000 +0800" stop="20260925190000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260925190000 +0800" stop="20260925200000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260925200000 +0800" stop="20260925210000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260925210000 +0800" stop="20260925213000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260925213000 +0800" stop="20260925220000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260925220000 +0800" stop="20260925223000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260925223000 +0800" stop="20260925230000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260925230000 +0800" stop="20260925233000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260925233000 +0800" stop="20260926000000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926000000 +0800" stop="20260926003000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926003000 +0800" stop="20260926010000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926010000 +0800" stop="20260926013000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260926013000 +0800" stop="20260926020000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260926020000 +0800" stop="20260926023000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260926023000 +0800" stop="20260926030000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260926030000 +0800" stop="20260926033000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260926033000 +0800" stop="20260926040000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260926040000 +0800" stop="20260926043000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926043000 +0800" stop="20260926050000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926050000 +0800" stop="20260926053000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926053000 +0800" stop="20260926060000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926060000 +0800" stop="20260926063000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926063000 +0800" stop="20260926070000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926070000 +0800" stop="20260926073000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926073000 +0800" stop="20260926080000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260926080000 +0800" stop="20260926083000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260926083000 +0800" stop="20260926090000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260926090000 +0800" stop="20260926093000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260926093000 +0800" stop="20260926100000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260926100000 +0800" stop="20260926103000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926103000 +0800" stop="20260926110000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926110000 +0800" stop="20260926113000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926113000 +0800" stop="20260926120000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926120000 +0800" stop="20260926123000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926123000 +0800" stop="20260926130000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926130000 +0800" stop="20260926133000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<programme channel="Sky News" start="20260926133000 +0800" stop="20260926140000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<programme channel="Sky News" start="20260926140000 +0800" stop="20260926143000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<programme channel="Sky News" start="20260926143000 +0800" stop="20260926150000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<programme channel="Sky News" start="20260926150000 +0800" stop="20260926160000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926160000 +0800" stop="20260926170000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926170000 +0800" stop="20260926180000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926180000 +0800" stop="20260926190000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926190000 +0800" stop="20260926200000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926200000 +0800" stop="20260926210000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260926210000 +0800" stop="20260926213000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926213000 +0800" stop="20260926220000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926220000 +0800" stop="20260926223000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926223000 +0800" stop="20260926230000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926230000 +0800" stop="20260926233000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260926233000 +0800" stop="20260927000000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260927000000 +0800" stop="20260927003000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260927003000 +0800" stop="20260927010000 +0800">
-		<title lang="zh">Mornings with Jones and Melbourne</title>
-	</programme>
-	<programme channel="Sky News" start="20260927010000 +0800" stop="20260927013000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260927013000 +0800" stop="20260927020000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260927020000 +0800" stop="20260927023000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260927023000 +0800" stop="20260927030000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260927030000 +0800" stop="20260927033000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260927033000 +0800" stop="20260927040000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260927040000 +0800" stop="20260927043000 +0800">
-		<title lang="zh">Sky News Today with Sam Washington</title>
-	</programme>
-	<programme channel="Sky News" start="20260927043000 +0800" stop="20260927050000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260927050000 +0800" stop="20260927053000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260927053000 +0800" stop="20260927060000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260927060000 +0800" stop="20260927063000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260927063000 +0800" stop="20260927070000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260927070000 +0800" stop="20260927073000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260927073000 +0800" stop="20260927080000 +0800">
-		<title lang="zh">Sky News Today</title>
-	</programme>
-	<programme channel="Sky News" start="20260927080000 +0800" stop="20260927083000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260927083000 +0800" stop="20260927090000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260927090000 +0800" stop="20260927093000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260927093000 +0800" stop="20260927100000 +0800">
-		<title lang="zh">News Hour with Jonathan Samuels</title>
-	</programme>
-	<programme channel="Sky News" start="20260927100000 +0800" stop="20260927103000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260927103000 +0800" stop="20260927110000 +0800">
-		<title lang="zh">The Cathy Newman Show</title>
-	</programme>
-	<programme channel="Sky News" start="20260927110000 +0800" stop="20260927113000 +0800">
-		<title lang="zh">Sky News</title>
-	</programme>
-	<programme channel="Sky News" start="20260927113000 +0800" stop="20260927120000 +0800">
-		<title lang="zh">UK Tonight Highlights</title>
-	</programme>
-	<programme channel="Sky News" start="20260927120000 +0800" stop="20260927130000 +0800">
-		<title lang="zh">The Com: Online, Sadistic And Deadly</title>
-	</programme>
-	<programme channel="Sky News" start="20260927130000 +0800" stop="20260927133000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<programme channel="Sky News" start="20260927133000 +0800" stop="20260927140000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<programme channel="Sky News" start="20260927140000 +0800" stop="20260927143000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<programme channel="Sky News" start="20260927143000 +0800" stop="20260928000000 +0800">
-		<title lang="zh">The Wrap With Gillian Joseph</title>
-	</programme>
-	<channel id="TRT World">
-		<display-name lang="zh">TRT World</display-name>
-	</channel>
-	<programme channel="TRT World" start="20260925000000 +0800" stop="20260925010000 +0800">
-		<title lang="zh">Newshour</title>
-	</programme>
-	<programme channel="TRT World" start="20260925010000 +0800" stop="20260925013000 +0800">
-		<title lang="zh">Just 2 Degrees</title>
-	</programme>
-	<programme channel="TRT World" start="20260925013000 +0800" stop="20260925020000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260925020000 +0800" stop="20260925023000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925023000 +0800" stop="20260925030000 +0800">
-		<title lang="zh">Business News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925030000 +0800" stop="20260925033000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925033000 +0800" stop="20260925040000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260925040000 +0800" stop="20260925050000 +0800">
-		<title lang="zh">Newshour</title>
-	</programme>
-	<programme channel="TRT World" start="20260925050000 +0800" stop="20260925053000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925053000 +0800" stop="20260925060000 +0800">
-		<title lang="zh">Beyond The Game</title>
-	</programme>
-	<programme channel="TRT World" start="20260925060000 +0800" stop="20260925063000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925063000 +0800" stop="20260925070000 +0800">
-		<title lang="zh">Across The Balkans</title>
-	</programme>
-	<programme channel="TRT World" start="20260925070000 +0800" stop="20260925073000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260925073000 +0800" stop="20260925080000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260925080000 +0800" stop="20260925090000 +0800">
-		<title lang="zh">Newshour</title>
-	</programme>
-	<programme channel="TRT World" start="20260925090000 +0800" stop="20260925093000 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260925093000 +0800" stop="20260925100000 +0800">
-		<title lang="zh">Strait Talk</title>
-	</programme>
-	<programme channel="TRT World" start="20260925100000 +0800" stop="20260925101500 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260925101500 +0800" stop="20260925103000 +0800">
-		<title lang="zh">Newsfeed</title>
-	</programme>
-	<programme channel="TRT World" start="20260925103000 +0800" stop="20260925110000 +0800">
-		<title lang="zh">Nexus</title>
-	</programme>
-	<programme channel="TRT World" start="20260925110000 +0800" stop="20260925120000 +0800">
-		<title lang="zh">Newshour - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260925120000 +0800" stop="20260925123000 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260925123000 +0800" stop="20260925130000 +0800">
-		<title lang="zh">Bigger Than Five</title>
-	</programme>
-	<programme channel="TRT World" start="20260925130000 +0800" stop="20260925133000 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260925133000 +0800" stop="20260925134500 +0800">
-		<title lang="zh">One On One</title>
-	</programme>
-	<programme channel="TRT World" start="20260925134500 +0800" stop="20260925140000 +0800">
-		<title lang="zh">Focal Point</title>
-	</programme>
-	<programme channel="TRT World" start="20260925140000 +0800" stop="20260925143000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925143000 +0800" stop="20260925150000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260925150000 +0800" stop="20260925153000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925153000 +0800" stop="20260925154500 +0800">
-		<title lang="zh">One On One</title>
-	</programme>
-	<programme channel="TRT World" start="20260925154500 +0800" stop="20260925160000 +0800">
-		<title lang="zh">Digital Documentaries</title>
-	</programme>
-	<programme channel="TRT World" start="20260925160000 +0800" stop="20260925163000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925163000 +0800" stop="20260925170000 +0800">
-		<title lang="zh">Nexus</title>
-	</programme>
-	<programme channel="TRT World" start="20260925170000 +0800" stop="20260925171500 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925171500 +0800" stop="20260925173000 +0800">
-		<title lang="zh">Newsfeed</title>
-	</programme>
-	<programme channel="TRT World" start="20260925173000 +0800" stop="20260925180000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260925180000 +0800" stop="20260925183000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925183000 +0800" stop="20260925190000 +0800">
-		<title lang="zh">My America</title>
-	</programme>
-	<programme channel="TRT World" start="20260925190000 +0800" stop="20260925193000 +0800">
-		<title lang="zh">Bigger Than Five</title>
-	</programme>
-	<programme channel="TRT World" start="20260925193000 +0800" stop="20260925200000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260925200000 +0800" stop="20260925203000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925203000 +0800" stop="20260925204500 +0800">
-		<title lang="zh">One On One</title>
-	</programme>
-	<programme channel="TRT World" start="20260925204500 +0800" stop="20260925210000 +0800">
-		<title lang="zh">Digital Documentaries</title>
-	</programme>
-	<programme channel="TRT World" start="20260925210000 +0800" stop="20260925213000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925213000 +0800" stop="20260925220000 +0800">
-		<title lang="zh">Nextech</title>
-	</programme>
-	<programme channel="TRT World" start="20260925220000 +0800" stop="20260925223000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925223000 +0800" stop="20260925230000 +0800">
-		<title lang="zh">Strait Talk</title>
-	</programme>
-	<programme channel="TRT World" start="20260925230000 +0800" stop="20260925233000 +0800">
-		<title lang="zh">Business News</title>
-	</programme>
-	<programme channel="TRT World" start="20260925233000 +0800" stop="20260926000000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260926000000 +0800" stop="20260926010000 +0800">
-		<title lang="zh">Newshour</title>
-	</programme>
-	<programme channel="TRT World" start="20260926010000 +0800" stop="20260926020000 +0800">
-		<title lang="zh">Storyteller</title>
-	</programme>
-	<programme channel="TRT World" start="20260926020000 +0800" stop="20260926023000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926023000 +0800" stop="20260926030000 +0800">
-		<title lang="zh">Inside America</title>
-	</programme>
-	<programme channel="TRT World" start="20260926030000 +0800" stop="20260926033000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926033000 +0800" stop="20260926034500 +0800">
-		<title lang="zh">One On One</title>
-	</programme>
-	<programme channel="TRT World" start="20260926034500 +0800" stop="20260926040000 +0800">
-		<title lang="zh">Digital Documentaries</title>
-	</programme>
-	<programme channel="TRT World" start="20260926040000 +0800" stop="20260926050000 +0800">
-		<title lang="zh">Newshour</title>
-	</programme>
-	<programme channel="TRT World" start="20260926050000 +0800" stop="20260926053000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926053000 +0800" stop="20260926060000 +0800">
-		<title lang="zh">Nexus</title>
-	</programme>
-	<programme channel="TRT World" start="20260926060000 +0800" stop="20260926063000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926063000 +0800" stop="20260926070000 +0800">
-		<title lang="zh">Africa Matters</title>
-	</programme>
-	<programme channel="TRT World" start="20260926070000 +0800" stop="20260926073000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260926073000 +0800" stop="20260926080000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260926080000 +0800" stop="20260926090000 +0800">
-		<title lang="zh">Newshour</title>
-	</programme>
-	<programme channel="TRT World" start="20260926090000 +0800" stop="20260926093000 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260926093000 +0800" stop="20260926100000 +0800">
-		<title lang="zh">Money Talks</title>
-	</programme>
-	<programme channel="TRT World" start="20260926100000 +0800" stop="20260926101500 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260926101500 +0800" stop="20260926103000 +0800">
-		<title lang="zh">Newsfeed</title>
-	</programme>
-	<programme channel="TRT World" start="20260926103000 +0800" stop="20260926110000 +0800">
-		<title lang="zh">Strait Talk</title>
-	</programme>
-	<programme channel="TRT World" start="20260926110000 +0800" stop="20260926120000 +0800">
-		<title lang="zh">Newshour - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260926120000 +0800" stop="20260926123000 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260926123000 +0800" stop="20260926130000 +0800">
-		<title lang="zh">Across The Balkans</title>
-	</programme>
-	<programme channel="TRT World" start="20260926130000 +0800" stop="20260926133000 +0800">
-		<title lang="zh">News - London</title>
-	</programme>
-	<programme channel="TRT World" start="20260926133000 +0800" stop="20260926140000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260926140000 +0800" stop="20260926143000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926143000 +0800" stop="20260926150000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260926150000 +0800" stop="20260926153000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926153000 +0800" stop="20260926160000 +0800">
-		<title lang="zh">Strait Talk</title>
-	</programme>
-	<programme channel="TRT World" start="20260926160000 +0800" stop="20260926163000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926163000 +0800" stop="20260926170000 +0800">
-		<title lang="zh">Beyond Borders</title>
-	</programme>
-	<programme channel="TRT World" start="20260926170000 +0800" stop="20260926171500 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926171500 +0800" stop="20260926173000 +0800">
-		<title lang="zh">Newsfeed</title>
-	</programme>
-	<programme channel="TRT World" start="20260926173000 +0800" stop="20260926180000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260926180000 +0800" stop="20260926183000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926183000 +0800" stop="20260926190000 +0800">
-		<title lang="zh">Money Talks</title>
-	</programme>
-	<programme channel="TRT World" start="20260926190000 +0800" stop="20260926193000 +0800">
-		<title lang="zh">Across The Balkans</title>
-	</programme>
-	<programme channel="TRT World" start="20260926193000 +0800" stop="20260926200000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260926200000 +0800" stop="20260926203000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926203000 +0800" stop="20260926210000 +0800">
-		<title lang="zh">Africa Matters</title>
-	</programme>
-	<programme channel="TRT World" start="20260926210000 +0800" stop="20260926213000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926213000 +0800" stop="20260926220000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260926220000 +0800" stop="20260926223000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926223000 +0800" stop="20260926230000 +0800">
-		<title lang="zh">Money Talks</title>
-	</programme>
-	<programme channel="TRT World" start="20260926230000 +0800" stop="20260926233000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260926233000 +0800" stop="20260927000000 +0800">
-		<title lang="zh">The Longest Day</title>
-	</programme>
-	<programme channel="TRT World" start="20260927000000 +0800" stop="20260927003000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927003000 +0800" stop="20260927010000 +0800">
-		<title lang="zh">Bigger Than Five</title>
-	</programme>
-	<programme channel="TRT World" start="20260927010000 +0800" stop="20260927013000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260927013000 +0800" stop="20260927020000 +0800">
-		<title lang="zh">Just 2 Degrees</title>
-	</programme>
-	<programme channel="TRT World" start="20260927020000 +0800" stop="20260927023000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927023000 +0800" stop="20260927024500 +0800">
-		<title lang="zh">Debrief</title>
-	</programme>
-	<programme channel="TRT World" start="20260927024500 +0800" stop="20260927030000 +0800">
-		<title lang="zh">Newsfeed</title>
-	</programme>
-	<programme channel="TRT World" start="20260927030000 +0800" stop="20260927033000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927033000 +0800" stop="20260927040000 +0800">
-		<title lang="zh">Raising Expectations</title>
-	</programme>
-	<programme channel="TRT World" start="20260927040000 +0800" stop="20260927043000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927043000 +0800" stop="20260927044500 +0800">
-		<title lang="zh">A Sole Survivor</title>
-	</programme>
-	<programme channel="TRT World" start="20260927044500 +0800" stop="20260927050000 +0800">
-		<title lang="zh">Displaced Melodies</title>
-	</programme>
-	<programme channel="TRT World" start="20260927050000 +0800" stop="20260927053000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927053000 +0800" stop="20260927060000 +0800">
-		<title lang="zh">Money Talks</title>
-	</programme>
-	<programme channel="TRT World" start="20260927060000 +0800" stop="20260927063000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927063000 +0800" stop="20260927070000 +0800">
-		<title lang="zh">Across The Balkans</title>
-	</programme>
-	<programme channel="TRT World" start="20260927070000 +0800" stop="20260927073000 +0800">
-		<title lang="zh">The Newsmakers</title>
-	</programme>
-	<programme channel="TRT World" start="20260927073000 +0800" stop="20260927080000 +0800">
-		<title lang="zh">Strait Talk</title>
-	</programme>
-	<programme channel="TRT World" start="20260927080000 +0800" stop="20260927083000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927083000 +0800" stop="20260927090000 +0800">
-		<title lang="zh">Nexus</title>
-	</programme>
-	<programme channel="TRT World" start="20260927090000 +0800" stop="20260927093000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927093000 +0800" stop="20260927100000 +0800">
-		<title lang="zh">Africa Matters</title>
-	</programme>
-	<programme channel="TRT World" start="20260927100000 +0800" stop="20260927103000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927103000 +0800" stop="20260927110000 +0800">
-		<title lang="zh">Inside America</title>
-	</programme>
-	<programme channel="TRT World" start="20260927110000 +0800" stop="20260927113000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927113000 +0800" stop="20260927114500 +0800">
-		<title lang="zh">Scoreline</title>
-	</programme>
-	<programme channel="TRT World" start="20260927114500 +0800" stop="20260927120000 +0800">
-		<title lang="zh">Debrief</title>
-	</programme>
-	<programme channel="TRT World" start="20260927120000 +0800" stop="20260927123000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927123000 +0800" stop="20260927130000 +0800">
-		<title lang="zh">Money Talks</title>
-	</programme>
-	<programme channel="TRT World" start="20260927130000 +0800" stop="20260927133000 +0800">
-		<title lang="zh">News</title>
-	</programme>
-	<programme channel="TRT World" start="20260927133000 +0800" stop="20260927140000 +0800">
-		<title lang="zh">Roundtable</title>
-	</programme>
-	<programme channel="TRT World" start="20260927140000 +0800" stop="20260928000000 +0800">
-		<title lang="zh">Storyteller</title>
-	</programme>
-	<channel id="Discovery">
-		<display-name lang="zh">Discovery</display-name>
-	</channel>
-	<programme channel="Discovery" start="20260925000000 +0800" stop="20260925010000 +0800">
-		<title lang="zh">The Last Woodsmen</title>
-	</programme>
-	<programme channel="Discovery" start="20260925010000 +0800" stop="20260925020000 +0800">
-		<title lang="zh">The Last Woodsmen</title>
-	</programme>
-	<programme channel="Discovery" start="20260925020000 +0800" stop="20260925030000 +0800">
-		<title lang="zh">Building Off The Grid</title>
-	</programme>
-	<programme channel="Discovery" start="20260925030000 +0800" stop="20260925040000 +0800">
-		<title lang="zh">Building Off The Grid</title>
-	</programme>
-	<programme channel="Discovery" start="20260925040000 +0800" stop="20260925050000 +0800">
-		<title lang="zh">The Zoo: San Diego</title>
-	</programme>
-	<programme channel="Discovery" start="20260925050000 +0800" stop="20260925060000 +0800">
-		<title lang="zh">The Zoo: San Diego</title>
-	</programme>
-	<programme channel="Discovery" start="20260925060000 +0800" stop="20260925063000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260925063000 +0800" stop="20260925070000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260925070000 +0800" stop="20260925073000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260925073000 +0800" stop="20260925080000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260925080000 +0800" stop="20260925100000 +0800">
-		<title lang="zh">Alaska: Homestead Rescue</title>
-	</programme>
-	<programme channel="Discovery" start="20260925100000 +0800" stop="20260925110000 +0800">
-		<title lang="zh">Wheeler Dealers</title>
-	</programme>
-	<programme channel="Discovery" start="20260925110000 +0800" stop="20260925120000 +0800">
-		<title lang="zh">Wheeler Dealers</title>
-	</programme>
-	<programme channel="Discovery" start="20260925120000 +0800" stop="20260925140000 +0800">
-		<title lang="zh">New: Naked And Afraid: Shipwrecked</title>
-	</programme>
-	<programme channel="Discovery" start="20260925140000 +0800" stop="20260925150000 +0800">
-		<title lang="zh">In The Eye Of The Storm</title>
-	</programme>
-	<programme channel="Discovery" start="20260925150000 +0800" stop="20260925160000 +0800">
-		<title lang="zh">Deadliest Catch</title>
-	</programme>
-	<programme channel="Discovery" start="20260925160000 +0800" stop="20260925180000 +0800">
-		<title lang="zh">Naked And Afraid: Shipwrecked</title>
-	</programme>
-	<programme channel="Discovery" start="20260925180000 +0800" stop="20260925190000 +0800">
-		<title lang="zh">Gold Divers</title>
-	</programme>
-	<programme channel="Discovery" start="20260925190000 +0800" stop="20260925200000 +0800">
-		<title lang="zh">Street Outlaws: Locals Only</title>
-	</programme>
-	<programme channel="Discovery" start="20260925200000 +0800" stop="20260925203000 +0800">
-		<title lang="zh">Teleshopping</title>
-	</programme>
-	<programme channel="Discovery" start="20260925203000 +0800" stop="20260925210000 +0800">
-		<title lang="zh">Teleshopping</title>
-	</programme>
-	<programme channel="Discovery" start="20260925210000 +0800" stop="20260925213000 +0800">
-		<title lang="zh">How It's Made</title>
-	</programme>
-	<programme channel="Discovery" start="20260925213000 +0800" stop="20260925220000 +0800">
-		<title lang="zh">How It's Made</title>
-	</programme>
-	<programme channel="Discovery" start="20260925220000 +0800" stop="20260926000000 +0800">
-		<title lang="zh">Treehouse Masters</title>
-	</programme>
-	<programme channel="Discovery" start="20260926000000 +0800" stop="20260926010000 +0800">
-		<title lang="zh">The Last Woodsmen</title>
-	</programme>
-	<programme channel="Discovery" start="20260926010000 +0800" stop="20260926020000 +0800">
-		<title lang="zh">The Last Woodsmen</title>
-	</programme>
-	<programme channel="Discovery" start="20260926020000 +0800" stop="20260926030000 +0800">
-		<title lang="zh">Building Off The Grid</title>
-	</programme>
-	<programme channel="Discovery" start="20260926030000 +0800" stop="20260926040000 +0800">
-		<title lang="zh">Building Off The Grid</title>
-	</programme>
-	<programme channel="Discovery" start="20260926040000 +0800" stop="20260926050000 +0800">
-		<title lang="zh">Animal Cops Houston</title>
-	</programme>
-	<programme channel="Discovery" start="20260926050000 +0800" stop="20260926060000 +0800">
-		<title lang="zh">Animal Cops Houston</title>
-	</programme>
-	<programme channel="Discovery" start="20260926060000 +0800" stop="20260926063000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260926063000 +0800" stop="20260926070000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260926070000 +0800" stop="20260926073000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260926073000 +0800" stop="20260926080000 +0800">
-		<title lang="zh">Buying Alaska</title>
-	</programme>
-	<programme channel="Discovery" start="20260926080000 +0800" stop="20260926100000 +0800">
-		<title lang="zh">Alaska: Homestead Rescue</title>
-	</programme>
-	<programme channel="Discovery" start="20260926100000 +0800" stop="20260926110000 +0800">
-		<title lang="zh">Wheeler Dealers</title>
-	</programme>
-	<programme channel="Discovery" start="20260926110000 +0800" stop="20260926120000 +0800">
-		<title lang="zh">Deadliest Catch</title>
-	</programme>
-	<programme channel="Discovery" start="20260926120000 +0800" stop="20260926130000 +0800">
-		<title lang="zh">New: Expedition Unknown</title>
-	</programme>
-	<programme channel="Discovery" start="20260926130000 +0800" stop="20260926140000 +0800">
-		<title lang="zh">Expedition Unknown</title>
-	</programme>
-	<programme channel="Discovery" start="20260926140000 +0800" stop="20260926150000 +0800">
-		<title lang="zh">In The Eye Of The Storm</title>
-	</programme>
-	<programme channel="Discovery" start="20260926150000 +0800" stop="20260926160000 +0800">
-		<title lang="zh">Deadliest Catch</title>
-	</programme>
-	<programme channel="Discovery" start="20260926160000 +0800" stop="20260926170000 +0800">
-		<title lang="zh">Expedition Unknown</title>
-	</programme>
-	<programme channel="Discovery" start="20260926170000 +0800" stop="20260926180000 +0800">
-		<title lang="zh">Expedition Unknown</title>
-	</programme>
-	<programme channel="Discovery" start="20260926180000 +0800" stop="20260926190000 +0800">
-		<title lang="zh">Gold Divers</title>
-	</programme>
-	<programme channel="Discovery" start="20260926190000 +0800" stop="20260926200000 +0800">
-		<title lang="zh">Street Outlaws: Locals Only</title>
-	</programme>
-	<programme channel="Discovery" start="20260926200000 +0800" stop="20260926203000 +0800">
-		<title lang="zh">Teleshopping</title>
-	</programme>
-	<programme channel="Discovery" start="20260926203000 +0800" stop="20260926210000 +0800">
-		<title lang="zh">Teleshopping</title>
-	</programme>
-	<programme channel="Discovery" start="20260926210000 +0800" stop="20260926213000 +0800">
-		<title lang="zh">How Do They Do It?</title>
-	</programme>
-	<programme channel="Discovery" start="20260926213000 +0800" stop="20260926220000 +0800">
-		<title lang="zh">How Do They Do It?</title>
-	</programme>
-	<programme channel="Discovery" start="20260926220000 +0800" stop="20260926223000 +0800">
-		<title lang="zh">How Do They Do It?</title>
-	</programme>
-	<programme channel="Discovery" start="20260926223000 +0800" stop="20260926230000 +0800">
-		<title lang="zh">How Do They Do It?</title>
-	</programme>
-	<programme channel="Discovery" start="20260926230000 +0800" stop="20260926233000 +0800">
-		<title lang="zh">How Do They Do It?</title>
-	</programme>
-	<programme channel="Discovery" start="20260926233000 +0800" stop="20260927000000 +0800">
-		<title lang="zh">How Do They Do It?</title>
-	</programme>
-	<programme channel="Discovery" start="20260927000000 +0800" stop="20260927010000 +0800">
-		<title lang="zh">Dr. Jeff: Rocky Mountain Vet</title>
-	</programme>
-	<programme channel="Discovery" start="20260927010000 +0800" stop="20260927020000 +0800">
-		<title lang="zh">Dr. Jeff: Rocky Mountain Vet</title>
-	</programme>
-	<programme channel="Discovery" start="20260927020000 +0800" stop="20260927030000 +0800">
-		<title lang="zh">Dr. Jeff: Rocky Mountain Vet</title>
-	</programme>
-	<programme channel="Discovery" start="20260927030000 +0800" stop="20260927040000 +0800">
-		<title lang="zh">The Woodland Workshop</title>
-	</programme>
-	<programme channel="Discovery" start="20260927040000 +0800" stop="20260927050000 +0800">
-		<title lang="zh">The Woodland Workshop</title>
-	</programme>
-	<programme channel="Discovery" start="20260927050000 +0800" stop="20260927060000 +0800">
-		<title lang="zh">The Woodland Workshop</title>
-	</programme>
-	<programme channel="Discovery" start="20260927060000 +0800" stop="20260927070000 +0800">
-		<title lang="zh">The Woodland Workshop</title>
-	</programme>
-	<programme channel="Discovery" start="20260927070000 +0800" stop="20260927080000 +0800">
-		<title lang="zh">The Woodland Workshop</title>
-	</programme>
-	<programme channel="Discovery" start="20260927080000 +0800" stop="20260927090000 +0800">
-		<title lang="zh">The Woodland Workshop</title>
-	</programme>
-	<programme channel="Discovery" start="20260927090000 +0800" stop="20260927100000 +0800">
-		<title lang="zh">Deadliest Catch</title>
-	</programme>
-	<programme channel="Discovery" start="20260927100000 +0800" stop="20260927110000 +0800">
-		<title lang="zh">Maine Cabin Masters</title>
-	</programme>
-	<programme channel="Discovery" start="20260927110000 +0800" stop="20260927120000 +0800">
-		<title lang="zh">Building Off The Grid</title>
-	</programme>
-	<programme channel="Discovery" start="20260927120000 +0800" stop="20260927140000 +0800">
-		<title lang="zh">Naked And Afraid: Shipwrecked</title>
-	</programme>
-	<programme channel="Discovery" start="20260927140000 +0800" stop="20260928000000 +0800">
-		<title lang="zh">Expedition Unknown</title>
-	</programme>
-	<channel id="NOW 80s">
-		<display-name lang="zh">NOW 80s</display-name>
-	</channel>
-	<programme channel="NOW 80s" start="20260925000000 +0800" stop="20260925030000 +0800">
-		<title lang="zh">80s Dancefloor with Jeff Young!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925030000 +0800" stop="20260925040000 +0800">
-		<title lang="zh">Dance Yourself Dizzy Day!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925040000 +0800" stop="20260925085000 +0800">
-		<title lang="zh">80s - A Decade of Dance!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925085000 +0800" stop="20260925090000 +0800">
-		<title lang="zh">Dance Yourself Dizzy Day!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925090000 +0800" stop="20260925115000 +0800">
-		<title lang="zh">Mark Goodier's 12 inch 80s!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925115000 +0800" stop="20260925120000 +0800">
-		<title lang="zh">Dance Yourself Dizzy Day!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925120000 +0800" stop="20260925140000 +0800">
-		<title lang="zh">The Last Days of Disco! 1980-1982</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925140000 +0800" stop="20260925160500 +0800">
-		<title lang="zh">Sinitta's High Energy Hits! Top 25</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925160500 +0800" stop="20260925200000 +0800">
-		<title lang="zh">80s Dance Party Night!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925200000 +0800" stop="20260925210000 +0800">
-		<title lang="zh">80s Flashback Frenzy!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925210000 +0800" stop="20260925214000 +0800">
-		<title lang="zh">Eurythmics Anthems! Top 10</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925214000 +0800" stop="20260925220000 +0800">
-		<title lang="zh">80s Flashback Frenzy!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260925220000 +0800" stop="20260926000000 +0800">
-		<title lang="zh">Complete George Michael: 1982-1989</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926000000 +0800" stop="20260926023500 +0800">
-		<title lang="zh">Andy McCluskey's Synth Pop 30</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926023500 +0800" stop="20260926030000 +0800">
-		<title lang="zh">That 80s Friday Feeling!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926030000 +0800" stop="20260926112000 +0800">
-		<title lang="zh">101 Feelgood Anthems of the 80s!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926112000 +0800" stop="20260926120000 +0800">
-		<title lang="zh">That 80s Friday Feeling!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926120000 +0800" stop="20260926160500 +0800">
-		<title lang="zh">50 Wild Women of the 80s!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926160500 +0800" stop="20260926170000 +0800">
-		<title lang="zh">That 80s Friday Feeling!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926170000 +0800" stop="20260926175000 +0800">
-		<title lang="zh">The Heritage Chart with Mike Read</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926175000 +0800" stop="20260926180000 +0800">
-		<title lang="zh">Get Fresh at the Weekend!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926180000 +0800" stop="20260926201000 +0800">
-		<title lang="zh">Pop Gold! 80s v 90s</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926201000 +0800" stop="20260926210000 +0800">
-		<title lang="zh">Get Fresh at the Weekend!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926210000 +0800" stop="20260926215000 +0800">
-		<title lang="zh">1986's One-Hit-Wonders! Top 12</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926215000 +0800" stop="20260926220000 +0800">
-		<title lang="zh">1986 Unleashed!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260926220000 +0800" stop="20260927003000 +0800">
-		<title lang="zh">Wot? They Streamed a Billion?</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927003000 +0800" stop="20260927010000 +0800">
-		<title lang="zh">Get Fresh at the Weekend!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927010000 +0800" stop="20260927024500 +0800">
-		<title lang="zh">The UK Top 20 of the 80s</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927024500 +0800" stop="20260927030000 +0800">
-		<title lang="zh">Get Fresh at the Weekend!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927030000 +0800" stop="20260927051500 +0800">
-		<title lang="zh">Every Song From NOW 5 - 1985</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927051500 +0800" stop="20260927053000 +0800">
-		<title lang="zh">Get Fresh at the Weekend!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927053000 +0800" stop="20260927073000 +0800">
-		<title lang="zh">Totally Insane with Andy Crane!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927073000 +0800" stop="20260927080000 +0800">
-		<title lang="zh">I Wanna Dance With Somebody!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927080000 +0800" stop="20260927100000 +0800">
-		<title lang="zh">Strictly Dance Crazes of the 80s!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927100000 +0800" stop="20260927122000 +0800">
-		<title lang="zh">Jenny Powell's Powerplays - Top 25</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927122000 +0800" stop="20260927130000 +0800">
-		<title lang="zh">It's 1986 Night!</title>
-	</programme>
-	<programme channel="NOW 80s" start="20260927130000 +0800" stop="20260928000000 +0800">
-		<title lang="zh">40 Years On - 1986's Best Sellers!</title>
-	</programme>
-	<channel id="MUTV">
-		<display-name lang="zh">MUTV</display-name>
-	</channel>
-	<programme channel="MUTV" start="20260925003000 +0800" stop="20260925010000 +0800">
-		<title lang="zh">2008 UCL Final: v Chelsea</title>
-	</programme>
-	<programme channel="MUTV" start="20260925010000 +0800" stop="20260925013000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925013000 +0800" stop="20260925014500 +0800">
-		<title lang="zh">New: Access All Areas</title>
-	</programme>
-	<programme channel="MUTV" start="20260925014500 +0800" stop="20260925015500 +0800">
-		<title lang="zh">What Moves Me: Toone</title>
-	</programme>
-	<programme channel="MUTV" start="20260925015500 +0800" stop="20260925040000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925040000 +0800" stop="20260925043000 +0800">
-		<title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925043000 +0800" stop="20260925050000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925050000 +0800" stop="20260925053000 +0800">
-		<title lang="zh">UEFA Champions League Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925053000 +0800" stop="20260925060000 +0800">
-		<title lang="zh">2008 UCL Semi-Final</title>
-	</programme>
-	<programme channel="MUTV" start="20260925060000 +0800" stop="20260925063000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925063000 +0800" stop="20260925070000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925070000 +0800" stop="20260925090500 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925090500 +0800" stop="20260925091500 +0800">
-		<title lang="zh">What Moves Me: Toone</title>
-	</programme>
-	<programme channel="MUTV" start="20260925091500 +0800" stop="20260925093000 +0800">
-		<title lang="zh">Access All Areas</title>
-	</programme>
-	<programme channel="MUTV" start="20260925093000 +0800" stop="20260925100000 +0800">
-		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925100000 +0800" stop="20260925103000 +0800">
-		<title lang="zh">New: Inside Carrington</title>
-	</programme>
-	<programme channel="MUTV" start="20260925103000 +0800" stop="20260925104500 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260925104500 +0800" stop="20260925110000 +0800">
-		<title lang="zh">2008 UCL Semi-Final</title>
-	</programme>
-	<programme channel="MUTV" start="20260925110000 +0800" stop="20260925111500 +0800">
-		<title lang="zh">Top 20 Wayne Rooney Goals</title>
-	</programme>
-	<programme channel="MUTV" start="20260925111500 +0800" stop="20260925113000 +0800">
-		<title lang="zh">2008 UCL Final: v Chelsea</title>
-	</programme>
-	<programme channel="MUTV" start="20260925113000 +0800" stop="20260925114500 +0800">
-		<title lang="zh">2008 UCL Semi-Final</title>
-	</programme>
-	<programme channel="MUTV" start="20260925114500 +0800" stop="20260925120000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925120000 +0800" stop="20260925121500 +0800">
-		<title lang="zh">2008 UCL Final: v Chelsea</title>
-	</programme>
-	<programme channel="MUTV" start="20260925121500 +0800" stop="20260925123000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925123000 +0800" stop="20260925124500 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925124500 +0800" stop="20260925130000 +0800">
-		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925130000 +0800" stop="20260925131500 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925131500 +0800" stop="20260925133000 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260925133000 +0800" stop="20260925140000 +0800">
-		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925140000 +0800" stop="20260925143000 +0800">
-		<title lang="zh">2008 UCL Semi-Final</title>
-	</programme>
-	<programme channel="MUTV" start="20260925143000 +0800" stop="20260925150000 +0800">
-		<title lang="zh">2008 UCL Final: v Chelsea</title>
-	</programme>
-	<programme channel="MUTV" start="20260925150000 +0800" stop="20260925153000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925153000 +0800" stop="20260925160000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925160000 +0800" stop="20260925164000 +0800">
-		<title lang="zh">Farewell Casemiro</title>
-	</programme>
-	<programme channel="MUTV" start="20260925164000 +0800" stop="20260925170000 +0800">
-		<title lang="zh">All The Goals: Casemiro</title>
-	</programme>
-	<programme channel="MUTV" start="20260925170000 +0800" stop="20260925184500 +0800">
-		<title lang="zh">PL Match: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925184500 +0800" stop="20260925190000 +0800">
-		<title lang="zh">Access All Areas</title>
-	</programme>
-	<programme channel="MUTV" start="20260925190000 +0800" stop="20260925210000 +0800">
-		<title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260925210000 +0800" stop="20260925223000 +0800">
-		<title lang="zh">All The Goals: Rashford</title>
-	</programme>
-	<programme channel="MUTV" start="20260925223000 +0800" stop="20260926001500 +0800">
-		<title lang="zh">UEFA Champions League 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926001500 +0800" stop="20260926010000 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260926010000 +0800" stop="20260926013000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926013000 +0800" stop="20260926020000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926020000 +0800" stop="20260926023000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926023000 +0800" stop="20260926030000 +0800">
-		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926030000 +0800" stop="20260926043000 +0800">
-		<title lang="zh">All The Goals: Rashford</title>
-	</programme>
-	<programme channel="MUTV" start="20260926043000 +0800" stop="20260926061500 +0800">
-		<title lang="zh">PL Match: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926061500 +0800" stop="20260926070000 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260926070000 +0800" stop="20260926090000 +0800">
-		<title lang="zh">PL Match: Ipswich Town (H) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926090000 +0800" stop="20260926103000 +0800">
-		<title lang="zh">All The Goals: Rashford</title>
-	</programme>
-	<programme channel="MUTV" start="20260926103000 +0800" stop="20260926110000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926110000 +0800" stop="20260926124500 +0800">
-		<title lang="zh">UEFA Champions League 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926124500 +0800" stop="20260926133000 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260926133000 +0800" stop="20260926140000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926140000 +0800" stop="20260926143000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926143000 +0800" stop="20260926150000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926150000 +0800" stop="20260926153000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926153000 +0800" stop="20260926160000 +0800">
-		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926160000 +0800" stop="20260926163000 +0800">
-		<title lang="zh">All The Goals: PL Free-Kicks</title>
-	</programme>
-	<programme channel="MUTV" start="20260926163000 +0800" stop="20260926171500 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260926171500 +0800" stop="20260926190000 +0800">
-		<title lang="zh">PL Match: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926190000 +0800" stop="20260926193000 +0800">
-		<title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926193000 +0800" stop="20260926200000 +0800">
-		<title lang="zh">PL Highlights: Everton (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926200000 +0800" stop="20260926203000 +0800">
-		<title lang="zh">UEFA Champions League Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926203000 +0800" stop="20260926210000 +0800">
-		<title lang="zh">UEFA Youth League Highlights</title>
-	</programme>
-	<programme channel="MUTV" start="20260926210000 +0800" stop="20260926214500 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260926214500 +0800" stop="20260926220000 +0800">
-		<title lang="zh">Access All Areas</title>
-	</programme>
-	<programme channel="MUTV" start="20260926220000 +0800" stop="20260926223000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926223000 +0800" stop="20260926230000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926230000 +0800" stop="20260926233000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260926233000 +0800" stop="20260927000000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927000000 +0800" stop="20260927003000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927003000 +0800" stop="20260927010000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927010000 +0800" stop="20260927013000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927013000 +0800" stop="20260927020000 +0800">
-		<title lang="zh">UEFA Youth League Highlights</title>
-	</programme>
-	<programme channel="MUTV" start="20260927020000 +0800" stop="20260927023000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927023000 +0800" stop="20260927041500 +0800">
-		<title lang="zh">PL Match: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927041500 +0800" stop="20260927050000 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260927050000 +0800" stop="20260927054000 +0800">
-		<title lang="zh">Farewell Casemiro</title>
-	</programme>
-	<programme channel="MUTV" start="20260927054000 +0800" stop="20260927060000 +0800">
-		<title lang="zh">All The Goals: Casemiro</title>
-	</programme>
-	<programme channel="MUTV" start="20260927060000 +0800" stop="20260927063000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927063000 +0800" stop="20260927071500 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260927071500 +0800" stop="20260927073000 +0800">
-		<title lang="zh">Access All Areas</title>
-	</programme>
-	<programme channel="MUTV" start="20260927073000 +0800" stop="20260927080000 +0800">
-		<title lang="zh">PL Highlights: Ipswich Town (H) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927080000 +0800" stop="20260927083000 +0800">
-		<title lang="zh">UEFA Champions League Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927083000 +0800" stop="20260927091500 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260927091500 +0800" stop="20260927093000 +0800">
-		<title lang="zh">Access All Areas</title>
-	</programme>
-	<programme channel="MUTV" start="20260927093000 +0800" stop="20260927100000 +0800">
-		<title lang="zh">PL Highlights: Fulham (A) 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927100000 +0800" stop="20260927103000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927103000 +0800" stop="20260927110000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927110000 +0800" stop="20260927113000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927113000 +0800" stop="20260927120000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927120000 +0800" stop="20260927123000 +0800">
-		<title lang="zh">U18s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927123000 +0800" stop="20260927130000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927130000 +0800" stop="20260927133000 +0800">
-		<title lang="zh">U21s Highlights 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927133000 +0800" stop="20260927140000 +0800">
-		<title lang="zh">MUW 26/27</title>
-	</programme>
-	<programme channel="MUTV" start="20260927140000 +0800" stop="20260927144500 +0800">
-		<title lang="zh">Podcast</title>
-	</programme>
-	<programme channel="MUTV" start="20260927144500 +0800" stop="20260928000000 +0800">
-		<title lang="zh">Access All Areas</title>
-	</programme>
-	<channel id="NOW 70s">
-		<display-name lang="zh">NOW 70s</display-name>
-	</channel>
-	<programme channel="NOW 70s" start="20260925000000 +0800" stop="20260925023500 +0800">
-		<title lang="zh">Wot? They Streamed a Billion?</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925023500 +0800" stop="20260925030000 +0800">
-		<title lang="zh">Let The Good Times Roll!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925030000 +0800" stop="20260925050500 +0800">
-		<title lang="zh">Kiki Dee's Duos &amp; Duets! 1970-1979</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925050500 +0800" stop="20260925060000 +0800">
-		<title lang="zh">Retro Rewind! 70s Edition</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925060000 +0800" stop="20260925074000 +0800">
-		<title lang="zh">The Complete Elton 70s Videography</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925074000 +0800" stop="20260925080000 +0800">
-		<title lang="zh">Retro Rewind! 70s Edition</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925080000 +0800" stop="20260925090000 +0800">
-		<title lang="zh">Who Forgot The Words?!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925090000 +0800" stop="20260925100000 +0800">
-		<title lang="zh">Mark Goodier's No.1s of 1979</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925100000 +0800" stop="20260925120000 +0800">
-		<title lang="zh">The Best 1979 Party...Ever!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925120000 +0800" stop="20260925143000 +0800">
-		<title lang="zh">The NOW Yearbook 1979</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925143000 +0800" stop="20260925150000 +0800">
-		<title lang="zh">1979 Night!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925150000 +0800" stop="20260925163000 +0800">
-		<title lang="zh">Mike Read's Pop Quiz: 1979</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925163000 +0800" stop="20260925190000 +0800">
-		<title lang="zh">1979 Night!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925190000 +0800" stop="20260925210000 +0800">
-		<title lang="zh">Far Out, Man!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925210000 +0800" stop="20260925220000 +0800">
-		<title lang="zh">The USA's Best Sellers of the 70s!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925220000 +0800" stop="20260925233500 +0800">
-		<title lang="zh">Bruno Brookes UK Top 20 of the 70s</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260925233500 +0800" stop="20260926000000 +0800">
-		<title lang="zh">Power Pop Day!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926000000 +0800" stop="20260926020000 +0800">
-		<title lang="zh">The Greatest Showmen! Top 25</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926020000 +0800" stop="20260926040000 +0800">
-		<title lang="zh">Pat Sharp's Bad Hair - Big Tunes!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926040000 +0800" stop="20260926050000 +0800">
-		<title lang="zh">Power Pop Day!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926050000 +0800" stop="20260926150000 +0800">
-		<title lang="zh">Bam's Power Hours! 1970-1979</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926150000 +0800" stop="20260926174500 +0800">
-		<title lang="zh">Seven Inch Heroes! 1970-1979</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926174500 +0800" stop="20260926200000 +0800">
-		<title lang="zh">Boogie Nights!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926200000 +0800" stop="20260926210000 +0800">
-		<title lang="zh">Far Out, Man!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260926210000 +0800" stop="20260927051000 +0800">
-		<title lang="zh">The NOW 100 of the 70s</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260927051000 +0800" stop="20260927060000 +0800">
-		<title lang="zh">Daydreamers: A Whole Day of Love!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260927060000 +0800" stop="20260927133500 +0800">
-		<title lang="zh">NOW 100 Hits: Love Songs!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260927133500 +0800" stop="20260927140000 +0800">
-		<title lang="zh">Daydreamers: A Whole Day of Love!</title>
-	</programme>
-	<programme channel="NOW 70s" start="20260927140000 +0800" stop="20260928000000 +0800">
-		<title lang="zh">30 Boys In Love - In The 70s!</title>
-	</programme>
-	<channel id="NOW ROCK">
-		<display-name lang="zh">NOW ROCK</display-name>
-	</channel>
-	<programme channel="NOW ROCK" start="20260925020000 +0800" stop="20260925080000 +0800">
-		<title lang="zh">Monsters of Rock! 1990-1999</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925080000 +0800" stop="20260925102500 +0800">
-		<title lang="zh">30 Rock &amp; Indie Heroes of the 10s</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925102500 +0800" stop="20260925110000 +0800">
-		<title lang="zh">The Anthems!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925110000 +0800" stop="20260925114000 +0800">
-		<title lang="zh">Evanescence: Fan Favourites</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925114000 +0800" stop="20260925120000 +0800">
-		<title lang="zh">Rated Rock! The No.1s</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925120000 +0800" stop="20260925151500 +0800">
-		<title lang="zh">Backtrack: 1st Ladies 2015-1980</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925151500 +0800" stop="20260925160000 +0800">
-		<title lang="zh">Legendary Rock: 1980-1989</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925160000 +0800" stop="20260925190000 +0800">
-		<title lang="zh">Jenny Powell's Air Guitar Anthems!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925190000 +0800" stop="20260925210000 +0800">
-		<title lang="zh">Party Rock Anthems!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925210000 +0800" stop="20260925220000 +0800">
-		<title lang="zh">David Bowie: Rock Icon</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260925220000 +0800" stop="20260926000000 +0800">
-		<title lang="zh">The 25 Greatest Showmen of the 70s</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926000000 +0800" stop="20260926032500 +0800">
-		<title lang="zh">Carol Decker's Leather &amp; Lace!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926032500 +0800" stop="20260926040000 +0800">
-		<title lang="zh">Legendary Rock: 1980-1989</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926040000 +0800" stop="20260926050000 +0800">
-		<title lang="zh">Queen: Rock Icons</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926050000 +0800" stop="20260926074500 +0800">
-		<title lang="zh">Nicky Horne's Best Of British Rock</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926074500 +0800" stop="20260926080000 +0800">
-		<title lang="zh">The Best Of British!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926080000 +0800" stop="20260926154500 +0800">
-		<title lang="zh">GBR! Great British Rock 1986-2026</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926154500 +0800" stop="20260926160000 +0800">
-		<title lang="zh">The Best Of British!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926160000 +0800" stop="20260926185000 +0800">
-		<title lang="zh">Excess All Areas with Rick Wakeman</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926185000 +0800" stop="20260926210000 +0800">
-		<title lang="zh">The All Night Rock Party!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926210000 +0800" stop="20260926220000 +0800">
-		<title lang="zh">90s Soft Rock Classics</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260926220000 +0800" stop="20260927024500 +0800">
-		<title lang="zh">Overblown Rock Epics! 1975-2010</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260927024500 +0800" stop="20260927030000 +0800">
-		<title lang="zh">Killer Cuts Of The 00s!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260927030000 +0800" stop="20260927040000 +0800">
-		<title lang="zh">Nu Metal Immortals!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260927040000 +0800" stop="20260927080500 +0800">
-		<title lang="zh">Turn Up The Alt Rock Anthems!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260927080500 +0800" stop="20260927090000 +0800">
-		<title lang="zh">Weekend Anthems!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260927090000 +0800" stop="20260927112000 +0800">
-		<title lang="zh">Alex Baker's 30 High School Heroes</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260927112000 +0800" stop="20260927120000 +0800">
-		<title lang="zh">Party Rock Anthems!</title>
-	</programme>
-	<programme channel="NOW ROCK" start="20260927120000 +0800" stop="20260928000000 +0800">
-		<title lang="zh">No Intro Needed: 50 Rock Classics</title>
-	</programme>
-	<channel id="NOW 90s00s">
-		<display-name lang="zh">NOW 90s00s</display-name>
-	</channel>
-	<programme channel="NOW 90s00s" start="20260925012000 +0800" stop="20260925020000 +0800">
-		<title lang="zh">Here Come The Girls!</title>
-	</programme>
-	<programme channel="NOW 90s00s" start="20260925020000 +0800" stop="20260925030000 +0800">
-		<title lang="zh">Girls Aloud's Greatest Hits</title>
-	</programme>
-	<programme channel="NOW 90s00s" start="20260925030000 +0800" stop="20260925063000 +0800">
-		<title lang="zh">Mark Goodier</title>
-	</programme>
-	<programme channel="NOW 90s00s" start="20260925063000 +0800" stop="20260926000000 +0800">
-		<title lang="zh">Mellow Moments!</title>
 	</programme>
 	<channel id="TBS">
 		<display-name lang="zh">TBS</display-name>
@@ -230313,24 +230313,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260919050000 +0800" stop="20260919060500 +0800">
-		<title lang="zh">王牌高手重播</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260919050000 +0800" stop="20260919060500 +0800">
-		<title lang="zh">王牌高手重播</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260919060500 +0800" stop="20260919063300 +0800">
-		<title lang="zh">欢乐送</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260919060500 +0800" stop="20260919063300 +0800">
-		<title lang="zh">欢乐送</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260919063300 +0800" stop="20260919071000 +0800">
-		<title lang="zh">我的选择</title>
-	</programme>
-	<programme channel="山西文体生活" start="20260919063300 +0800" stop="20260919071000 +0800">
-		<title lang="zh">我的选择</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260919071000 +0800" stop="20260919083800 +0800">
 		<title lang="zh">百家戏苑</title>
 	</programme>
@@ -231606,42 +231588,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260919041700 +0800" stop="20260919043700 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919041700 +0800" stop="20260919043700 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919043700 +0800" stop="20260919052100 +0800">
-		<title lang="zh">生命缘</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919043700 +0800" stop="20260919052100 +0800">
-		<title lang="zh">生命缘</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919052100 +0800" stop="20260919054800 +0800">
-		<title lang="zh">经济30分（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919052100 +0800" stop="20260919054800 +0800">
-		<title lang="zh">经济30分（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919054800 +0800" stop="20260919061300 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919054800 +0800" stop="20260919061300 +0800">
-		<title lang="zh">经济30分之看天下（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919061300 +0800" stop="20260919063200 +0800">
-		<title lang="zh">潮科技（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919061300 +0800" stop="20260919063200 +0800">
-		<title lang="zh">潮科技（重播）</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919063200 +0800" stop="20260919071500 +0800">
-		<title lang="zh">生命缘</title>
-	</programme>
-	<programme channel="山西经济与科技" start="20260919063200 +0800" stop="20260919071500 +0800">
-		<title lang="zh">生命缘</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260919071500 +0800" stop="20260919073800 +0800">
 		<title lang="zh">一起健康吧（重播）</title>
 	</programme>
@@ -234318,36 +234264,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260919035300 +0800" stop="20260919043100 +0800">
-		<title lang="zh">红高粱(54)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919035300 +0800" stop="20260919043100 +0800">
-		<title lang="zh">红高粱(54)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919043100 +0800" stop="20260919052500 +0800">
-		<title lang="zh">红高粱(55)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919043100 +0800" stop="20260919052500 +0800">
-		<title lang="zh">红高粱(55)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919052500 +0800" stop="20260919054500 +0800">
-		<title lang="zh">调解晋行时(重播)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919052500 +0800" stop="20260919054500 +0800">
-		<title lang="zh">调解晋行时(重播)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919054500 +0800" stop="20260919063200 +0800">
-		<title lang="zh">深潜(17)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919054500 +0800" stop="20260919063200 +0800">
-		<title lang="zh">深潜(17)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919063200 +0800" stop="20260919071300 +0800">
-		<title lang="zh">深潜(18)</title>
-	</programme>
-	<programme channel="山西社会与法治" start="20260919063200 +0800" stop="20260919071300 +0800">
-		<title lang="zh">深潜(18)</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260919071300 +0800" stop="20260919080000 +0800">
 		<title lang="zh">深潜(19)</title>
 	</programme>
@@ -236250,30 +236166,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260919041600 +0800" stop="20260919045200 +0800">
-		<title lang="zh">寒山令（24）</title>
-	</programme>
-	<programme channel="山西影视" start="20260919041600 +0800" stop="20260919045200 +0800">
-		<title lang="zh">寒山令（24）</title>
-	</programme>
-	<programme channel="山西影视" start="20260919045200 +0800" stop="20260919053800 +0800">
-		<title lang="zh">地下地上之大陆小岛（09）</title>
-	</programme>
-	<programme channel="山西影视" start="20260919045200 +0800" stop="20260919053800 +0800">
-		<title lang="zh">地下地上之大陆小岛（09）</title>
-	</programme>
-	<programme channel="山西影视" start="20260919053800 +0800" stop="20260919062200 +0800">
-		<title lang="zh">地下地上之大陆小岛（10）</title>
-	</programme>
-	<programme channel="山西影视" start="20260919053800 +0800" stop="20260919062200 +0800">
-		<title lang="zh">地下地上之大陆小岛（10）</title>
-	</programme>
-	<programme channel="山西影视" start="20260919062200 +0800" stop="20260919074100 +0800">
-		<title lang="zh">地下地上之大陆小岛（11）</title>
-	</programme>
-	<programme channel="山西影视" start="20260919062200 +0800" stop="20260919074100 +0800">
-		<title lang="zh">地下地上之大陆小岛（11）</title>
-	</programme>
 	<programme channel="山西影视" start="20260919074100 +0800" stop="20260919084000 +0800">
 		<title lang="zh">打狗棍（15）</title>
 	</programme>
@@ -237810,36 +237702,6 @@
 	<channel id="黄河电视台">
 		<display-name lang="zh">黄河电视台</display-name>
 	</channel>
-	<programme channel="黄河电视台" start="20260919035200 +0800" stop="20260919043200 +0800">
-		<title lang="zh">枪花(16)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919035200 +0800" stop="20260919043200 +0800">
-		<title lang="zh">枪花(16)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919043200 +0800" stop="20260919051300 +0800">
-		<title lang="zh">枪花(17)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919043200 +0800" stop="20260919051300 +0800">
-		<title lang="zh">枪花(17)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919050900 +0800" stop="20260919055600 +0800">
-		<title lang="zh">荡寇(5)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919050900 +0800" stop="20260919055600 +0800">
-		<title lang="zh">荡寇(5)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919055600 +0800" stop="20260919063400 +0800">
-		<title lang="zh">荡寇(6)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919055600 +0800" stop="20260919063400 +0800">
-		<title lang="zh">荡寇(6)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919063400 +0800" stop="20260919072000 +0800">
-		<title lang="zh">荡寇(7)</title>
-	</programme>
-	<programme channel="黄河电视台" start="20260919063400 +0800" stop="20260919072000 +0800">
-		<title lang="zh">荡寇(7)</title>
-	</programme>
 	<programme channel="黄河电视台" start="20260919072000 +0800" stop="20260919081400 +0800">
 		<title lang="zh">荡寇(8)</title>
 	</programme>
