@@ -35,7 +35,7 @@ jobs:
           git fetch --depth=1 origin gd
           git archive FETCH_HEAD config | tar -x
 
-      - name: Set playlist output path to output/tv.txt
+      - name: Configure TXT and M3U output
         run: |
           python - <<'PYCODE'
           from pathlib import Path
@@ -43,6 +43,7 @@ jobs:
 
           path = Path('config/user_config.ini')
           lines = path.read_text(encoding='utf-8').splitlines() if path.exists() else []
+
           section_start = next(
               (i for i, line in enumerate(lines)
                if re.match(r'^\s*\[Settings\]\s*(?:[#;].*)?$', line, re.IGNORECASE)),
@@ -50,26 +51,36 @@ jobs:
           )
 
           if section_start is None:
-              lines = ['[Settings]', 'final_file = output/tv.txt', *lines]
-          else:
-              section_end = next(
-                  (i for i in range(section_start + 1, len(lines))
-                   if re.match(r'^\s*\[[^]]+\]', lines[i])),
-                  len(lines),
-              )
+              lines.insert(0, '[Settings]')
+              section_start = 0
+
+          section_end = next(
+              (i for i in range(section_start + 1, len(lines))
+               if re.match(r'^\s*\[[^]]+\]', lines[i])),
+              len(lines),
+          )
+
+          settings = {
+              'final_file': 'output/tv.txt',
+              'open_m3u_result': 'True',
+          }
+
+          for key, value in settings.items():
               setting_line = next(
                   (i for i in range(section_start + 1, section_end)
-                   if re.match(r'^\s*final_file\s*=', lines[i], re.IGNORECASE)),
+                   if re.match(r'^\s*' + re.escape(key) + r'\s*=', lines[i], re.IGNORECASE)),
                   None,
               )
               if setting_line is None:
-                  lines.insert(section_end, 'final_file = output/tv.txt')
+                  lines.insert(section_end, f'{key} = {value}')
+                  section_end += 1
               else:
-                  lines[setting_line] = 'final_file = output/tv.txt'
+                  lines[setting_line] = f'{key} = {value}'
 
           path.parent.mkdir(parents=True, exist_ok=True)
           path.write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
-          print(f'Configured final_file=output/tv.txt in {path}')
+          print('TXT output: output/tv.txt')
+          print('M3U output: enabled')
           PYCODE
 
       - name: Record source revision and cache key
@@ -115,16 +126,21 @@ jobs:
       - name: Generate playlist
         run: pipenv run dev
 
-      - name: Verify generated TV playlist
+      - name: Verify generated playlists
         run: |
           test -s output/tv.txt
-          echo "Generated output/tv.txt ($(wc -c < output/tv.txt) bytes)"
+          test -s output/tv.m3u
+
+          echo "TXT: $(wc -c < output/tv.txt) bytes"
+          echo "M3U: $(wc -c < output/tv.m3u) bytes"
+
           {
-            echo "## IPTV playlist generated"
+            echo "## IPTV playlists generated"
             echo
-            echo "- File: \`output/tv.txt\`"
-            echo "- Raw URL: https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/output/tv.txt"
-            echo "- Size: $(wc -c < output/tv.txt) bytes"
+            echo "| File | Raw URL |"
+            echo "|---|---|"
+            echo "| TXT | https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/output/tv.txt |"
+            echo "| M3U | https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/master/output/tv.m3u |"
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Report non-persistent configuration changes
