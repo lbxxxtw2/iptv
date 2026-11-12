@@ -271,3 +271,5 @@ jobs:
             --json assets \
             --jq '.assets[].name' | sort > /tmp/remote-assets.txt
           diff -u /tmp/local-assets.txt /tmp/remote-assets.txt
+
+          # Refresh GitHub Actions workflow registration
