@@ -3,15 +3,14 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-https://php.946985.filegear-sg.me/jackTV.m3u UA="okHttp/Mod-1.5.0.0"
-https://cdn.qd.je/live.m3u UA="okHttp/Mod-1.5.0.0"
-http://iptv.4666888.xyz/FYTV.m3u UA="okHttp/Mod-1.5.0.0"
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://cdn.qd.je/live.m3u
+http://iptv.4666888.xyz/FYTV.m3u
 https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
 https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
 https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u
-https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt
 http://4gtv.cnlive.club/4gtv.m3u
-http://atryffad.usa3.345123.xyz/57.txt
+http://tv123.cc.cd/tv.m3u
 https://guovin.github.io/iptv-api/result.txt
 https://caonima.898757.xyz/sub/Zz0uFf9Cz0kp/playlist.m3u
 https://iptv.yang-1989.xyz/playlist.m3u
