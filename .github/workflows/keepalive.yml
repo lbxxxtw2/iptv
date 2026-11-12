@@ -1,0 +1,31 @@
+
+name: Keep repository active
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 1,15 * *'
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Update keepalive timestamp
+        run: |
+          date -u '+Last repository activity: %Y-%m-%d %H:%M:%S UTC' > .github/keepalive.txt
+
+      - name: Commit keepalive file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/keepalive.txt
+          git commit -m "chore: keep repository active"
+          git push origin HEAD:master
