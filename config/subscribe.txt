@@ -3,10 +3,21 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
-
+https://php.946985.filegear-sg.me/jackTV.m3u UA="okHttp/Mod-1.5.0.0"
+https://iptv.1989.click/playlist.m3u UA="okHttp/Mod-1.5.0.0"
+https://cdn.qd.je/live.m3u UA="okHttp/Mod-1.5.0.0"
+https://live.445569.xyz/live.m3u UA="okHttp/Mod-1.5.0.0"
+http://iptv.4666888.xyz/FYTV.m3u UA="okHttp/Mod-1.5.0.0"
+https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt
+https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
+https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u
+https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt
+http://4gtv.cnlive.club/4gtv.m3u
+http://atryffad.usa3.345123.xyz/57.txt
 
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://iptv.1989.click/playlist.m3u
