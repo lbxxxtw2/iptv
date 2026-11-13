@@ -6,7 +6,8 @@ name: Generate playlist automatically
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 20,2,8,14 * * *'
+    - cron: '0 6,10,16,20 * * *'
+      timezone: 'Asia/Shanghai'
 
 permissions:
   contents: write
